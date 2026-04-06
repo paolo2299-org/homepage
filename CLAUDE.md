@@ -29,13 +29,20 @@ Personal website hosted on GitHub Pages at `pdlawson.com`. It serves as an index
 ```
 paolo2299.github.io/
 ├── CLAUDE.md
-├── CNAME          ← custom domain: pdlawson.com
-├── style.css      ← shared styles
-├── index.html     ← project index / landing page
-└── llm/
-    ├── index.html
-    └── llm.js
+├── CNAME              ← custom domain: pdlawson.com
+├── style.css          ← shared styles
+├── index.html         ← project index / landing page
+├── llm/
+│   ├── index.html
+│   └── llm.js
+└── backend/           ← Python/FastAPI service (deployed to Cloud Run, not GitHub Pages)
+    ├── main.py
+    ├── requirements.txt
+    ├── Dockerfile
+    └── .gitignore
 ```
+
+Note: `backend/` files are technically served as static files by GitHub Pages but this is harmless — they contain no secrets and nobody will request them.
 
 ## Development workflow
 - Primary branch for active development: `claude/explore-repository-clf84` (or as specified per session)
