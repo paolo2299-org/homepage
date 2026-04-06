@@ -1,6 +1,6 @@
 # homepage-backend
 
-Python/FastAPI backend for `pdlawson.com`, hosted on Google Cloud Run at `api.pdlawson.com`.
+Python/FastAPI backend for `pdlawson.com`, hosted on Google Cloud Run at `https://homepage-backend-56253706933.europe-west2.run.app` (custom domain `api.pdlawson.com` to be configured).
 
 ## Endpoints
 

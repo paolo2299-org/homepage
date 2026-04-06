@@ -1,0 +1,16 @@
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  font-family: sans-serif;
+  max-width: 740px;
+  margin: 60px auto;
+  padding: 0 20px;
+  color: #222;
+  line-height: 1.6;
+}
+
+a { color: #1a0dab; }
+
+h1 { margin-bottom: 4px; }
+
+.back { margin-top: 40px; }

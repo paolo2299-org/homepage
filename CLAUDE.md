@@ -19,7 +19,7 @@ Personal website hosted on GitHub Pages at `pdlawson.com`. It serves as an index
 
 ### Backend
 - Complex logic (e.g. tokenisation) is handled by a separate backend API, not on the frontend
-- Backend is a Python/FastAPI service hosted on **Google Cloud Run**, at `api.pdlawson.com`
+- Backend is a Python/FastAPI service hosted on **Google Cloud Run**, currently at `https://homepage-backend-56253706933.europe-west2.run.app` (custom domain `api.pdlawson.com` to be configured)
 - Cloud Run is serverless — scales to zero when idle (no cost for a low-traffic personal site)
 - Deployed via Docker container pushed to Google Artifact Registry
 - FastAPI CORS middleware must allow requests from `pdlawson.com`
