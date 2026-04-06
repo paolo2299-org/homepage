@@ -45,10 +45,11 @@ pytest test_main.py -v
 Build and push the Docker image, then deploy:
 
 ```bash
-gcloud builds submit --tag gcr.io/PROJECT_ID/homepage-backend
+gcloud builds submit --project paul-personal-306310 --tag gcr.io/paul-personal-306310/homepage-backend
 
 gcloud run deploy homepage-backend \
-  --image gcr.io/PROJECT_ID/homepage-backend \
+  --project paul-personal-306310 \
+  --image gcr.io/paul-personal-306310/homepage-backend \
   --platform managed \
   --region europe-west2 \
   --allow-unauthenticated
