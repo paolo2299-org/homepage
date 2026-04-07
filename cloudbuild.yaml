@@ -1,0 +1,28 @@
+steps:
+  - name: 'gcr.io/cloud-builders/docker'
+    entrypoint: 'bash'
+    args: ['-c', 'docker pull gcr.io/paul-personal-306310/homepage-backend || exit 0']
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - build
+      - --cache-from=gcr.io/paul-personal-306310/homepage-backend
+      - -t=gcr.io/paul-personal-306310/homepage-backend
+      - ./backend
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/paul-personal-306310/homepage-backend']
+
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    args:
+      - gcloud
+      - run
+      - deploy
+      - homepage-backend
+      - --image=gcr.io/paul-personal-306310/homepage-backend
+      - --platform=managed
+      - --region=europe-west2
+      - --allow-unauthenticated
+
+images:
+  - 'gcr.io/paul-personal-306310/homepage-backend'
