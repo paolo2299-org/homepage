@@ -21,28 +21,16 @@ Personal website hosted on GitHub Pages at `pdlawson.com`. It serves as an index
 - Complex logic (e.g. tokenisation) is handled by a separate backend API, not on the frontend
 - Backend is a Python/FastAPI service hosted on **Google Cloud Run**, currently at `https://homepage-backend-56253706933.europe-west2.run.app` (custom domain `api.pdlawson.com` to be configured)
 - Cloud Run is serverless — scales to zero when idle (no cost for a low-traffic personal site)
-- Deployed via Docker container pushed to Google Artifact Registry
+- Deployed via Docker container pushed to Google Container Registry (`gcr.io`)
 - FastAPI CORS middleware must allow requests from `pdlawson.com`
 - `tiktoken` for GPT-style tokenisation
 
 ### File structure
-```
-paolo2299.github.io/
-├── CLAUDE.md
-├── CNAME              ← custom domain: pdlawson.com
-├── style.css          ← shared styles
-├── index.html         ← project index / landing page
-├── llm/
-│   ├── index.html
-│   └── llm.js
-└── backend/           ← Python/FastAPI service (deployed to Cloud Run, not GitHub Pages)
-    ├── main.py
-    ├── requirements.txt
-    ├── Dockerfile
-    └── .gitignore
-```
 
-Note: `backend/` files are technically served as static files by GitHub Pages but this is harmless — they contain no secrets and nobody will request them.
+- `index.html` / `style.css` — landing page and shared styles
+- `llm/` — How LLMs Work page
+- `backend/` — Python/FastAPI service (deployed to Cloud Run, not served by GitHub Pages)
+- `cloudbuild.yaml` — Cloud Build config for building and deploying the backend
 
 ## Development workflow
 - Primary branch for active development: `claude/explore-repository-clf84` (or as specified per session)

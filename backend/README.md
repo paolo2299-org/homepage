@@ -55,6 +55,4 @@ gcloud run deploy homepage-backend \
   --allow-unauthenticated
 ```
 
-Replace `PROJECT_ID` with your Google Cloud project ID.
-
 The Dockerfile pre-downloads the tiktoken encoding at build time so there is no network call on the first request at runtime.
