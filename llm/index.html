@@ -50,6 +50,72 @@
       }
       .status { color: #555; font-style: italic; }
       .error { color: #c00; }
+
+      /* Embedder */
+      .embedder-input {
+        display: flex;
+        gap: 8px;
+      }
+      .embedder-input input {
+        flex: 1;
+        padding: 8px 10px;
+        font-size: 1em;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+      }
+      .embedder-input button {
+        padding: 8px 20px;
+        font-size: 1em;
+        cursor: pointer;
+        border: none;
+        border-radius: 4px;
+        background: #1a0dab;
+        color: #fff;
+        white-space: nowrap;
+      }
+      .embedder-input button:hover { background: #1507a0; }
+      .embedder-input button:disabled { background: #888; cursor: default; }
+      .embedder-hint {
+        font-size: 0.9em;
+        color: #555;
+        margin-top: 6px;
+      }
+      #embed-canvas-container {
+        position: relative;
+        width: 100%;
+        height: 420px;
+        margin-top: 16px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        overflow: hidden;
+      }
+      #embed-canvas-container canvas {
+        display: block;
+      }
+      #embed-words {
+        margin-top: 12px;
+      }
+      .embed-word-tag {
+        display: inline-block;
+        margin: 2px 4px 2px 0;
+        padding: 2px 8px;
+        background: #e8eaf6;
+        border-radius: 12px;
+        font-size: 0.85em;
+      }
+      .embed-label {
+        background: rgba(255, 255, 255, 0.8);
+        padding: 1px 5px;
+        border-radius: 3px;
+        font-size: 0.78em;
+        color: #222;
+        pointer-events: none;
+      }
+      #embed-status {
+        margin-top: 8px;
+        font-size: 0.9em;
+        min-height: 1.4em;
+      }
     </style>
   </head>
   <body>
@@ -68,8 +134,25 @@
       <div id="token-count"></div>
     </div>
 
+    <h2>Token Embeddings</h2>
+    <p>Each word is represented as a point in a high-dimensional space — its position encodes meaning. Words with similar meanings end up nearby. Below we show a 3D projection of 50-dimensional GloVe vectors, so some distance relationships are approximate.</p>
+
+    <div class="embedder">
+      <div class="embedder-input">
+        <input type="text" id="embed-input" placeholder="Enter a word…" autocomplete="off">
+        <button id="embed-btn" onclick="addWord()">Add word</button>
+      </div>
+      <p class="embedder-hint">Try: <em>cat, dog, fish</em> — or <em>king, queen, prince</em></p>
+      <div id="embed-canvas-container"></div>
+      <div id="embed-words"></div>
+      <div id="embed-status"></div>
+    </div>
+
+    <p>These are static word embeddings (GloVe). Modern LLMs use <em>contextual</em> embeddings — the same word gets a different vector depending on surrounding words — but the core idea of meaning as position in space is the same.</p>
+
     <p class="back"><a href="/">← Back to home</a></p>
 
     <script type="module" src="/llm/llm.js"></script>
+    <script type="module" src="/llm/embeddings.js"></script>
   </body>
 </html>

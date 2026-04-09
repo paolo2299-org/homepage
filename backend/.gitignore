@@ -3,3 +3,4 @@ __pycache__/
 .env
 .venv/
 venv/
+glove.6B.50d.txt
