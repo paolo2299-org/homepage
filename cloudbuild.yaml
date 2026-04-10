@@ -5,15 +5,19 @@ substitutions:
   _BACKEND_ORIGIN: https://api.pdlawson.com
 
 steps:
-  - id: Pull backend cache
+  - id: pull-backend-cache
     name: gcr.io/cloud-builders/docker
+    waitFor:
+      - "-"
     entrypoint: bash
     args:
       - -c
       - docker pull gcr.io/${PROJECT_ID}/${_BACKEND_SERVICE}:latest || exit 0
 
-  - id: Build backend image
+  - id: build-backend-image
     name: gcr.io/cloud-builders/docker
+    waitFor:
+      - pull-backend-cache
     dir: backend
     args:
       - build
@@ -22,15 +26,19 @@ steps:
       - -t=gcr.io/${PROJECT_ID}/${_BACKEND_SERVICE}:latest
       - .
 
-  - id: Pull frontend cache
+  - id: pull-frontend-cache
     name: gcr.io/cloud-builders/docker
+    waitFor:
+      - "-"
     entrypoint: bash
     args:
       - -c
       - docker pull gcr.io/${PROJECT_ID}/${_FRONTEND_SERVICE}:latest || exit 0
 
-  - id: Build frontend image
+  - id: build-frontend-image
     name: gcr.io/cloud-builders/docker
+    waitFor:
+      - pull-frontend-cache
     dir: frontend
     args:
       - build
@@ -39,32 +47,42 @@ steps:
       - -t=gcr.io/${PROJECT_ID}/${_FRONTEND_SERVICE}:latest
       - .
 
-  - id: Push backend commit image
+  - id: push-backend-commit-image
     name: gcr.io/cloud-builders/docker
+    waitFor:
+      - build-backend-image
     args:
       - push
       - gcr.io/${PROJECT_ID}/${_BACKEND_SERVICE}:${SHORT_SHA}
 
-  - id: Push backend latest image
+  - id: push-backend-latest-image
     name: gcr.io/cloud-builders/docker
+    waitFor:
+      - build-backend-image
     args:
       - push
       - gcr.io/${PROJECT_ID}/${_BACKEND_SERVICE}:latest
 
-  - id: Push frontend commit image
+  - id: push-frontend-commit-image
     name: gcr.io/cloud-builders/docker
+    waitFor:
+      - build-frontend-image
     args:
       - push
       - gcr.io/${PROJECT_ID}/${_FRONTEND_SERVICE}:${SHORT_SHA}
 
-  - id: Push frontend latest image
+  - id: push-frontend-latest-image
     name: gcr.io/cloud-builders/docker
+    waitFor:
+      - build-frontend-image
     args:
       - push
       - gcr.io/${PROJECT_ID}/${_FRONTEND_SERVICE}:latest
 
-  - id: Deploy backend
+  - id: deploy-backend
     name: gcr.io/google.com/cloudsdktool/cloud-sdk
+    waitFor:
+      - push-backend-commit-image
     args:
       - gcloud
       - run
@@ -76,8 +94,11 @@ steps:
       - --region=${_REGION}
       - --allow-unauthenticated
 
-  - id: Deploy frontend
+  - id: deploy-frontend
     name: gcr.io/google.com/cloudsdktool/cloud-sdk
+    waitFor:
+      - push-frontend-commit-image
+      - deploy-backend
     args:
       - gcloud
       - run
