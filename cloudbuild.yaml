@@ -1,0 +1,91 @@
+substitutions:
+  _REGION: europe-west1
+  _BACKEND_SERVICE: homepage-backend
+  _FRONTEND_SERVICE: homepage-frontend
+  _BACKEND_ORIGIN: https://api.pdlawson.com
+
+steps:
+  - id: Pull backend cache
+    name: gcr.io/cloud-builders/docker
+    entrypoint: bash
+    args:
+      - -c
+      - docker pull gcr.io/${PROJECT_ID}/${_BACKEND_SERVICE}:latest || exit 0
+
+  - id: Build backend image
+    name: gcr.io/cloud-builders/docker
+    dir: backend
+    args:
+      - build
+      - --cache-from=gcr.io/${PROJECT_ID}/${_BACKEND_SERVICE}:latest
+      - -t=gcr.io/${PROJECT_ID}/${_BACKEND_SERVICE}:${SHORT_SHA}
+      - -t=gcr.io/${PROJECT_ID}/${_BACKEND_SERVICE}:latest
+      - .
+
+  - id: Pull frontend cache
+    name: gcr.io/cloud-builders/docker
+    entrypoint: bash
+    args:
+      - -c
+      - docker pull gcr.io/${PROJECT_ID}/${_FRONTEND_SERVICE}:latest || exit 0
+
+  - id: Build frontend image
+    name: gcr.io/cloud-builders/docker
+    dir: frontend
+    args:
+      - build
+      - --cache-from=gcr.io/${PROJECT_ID}/${_FRONTEND_SERVICE}:latest
+      - -t=gcr.io/${PROJECT_ID}/${_FRONTEND_SERVICE}:${SHORT_SHA}
+      - -t=gcr.io/${PROJECT_ID}/${_FRONTEND_SERVICE}:latest
+      - .
+
+  - id: Push backend commit image
+    name: gcr.io/cloud-builders/docker
+    args:
+      - push
+      - gcr.io/${PROJECT_ID}/${_BACKEND_SERVICE}:${SHORT_SHA}
+
+  - id: Push backend latest image
+    name: gcr.io/cloud-builders/docker
+    args:
+      - push
+      - gcr.io/${PROJECT_ID}/${_BACKEND_SERVICE}:latest
+
+  - id: Push frontend commit image
+    name: gcr.io/cloud-builders/docker
+    args:
+      - push
+      - gcr.io/${PROJECT_ID}/${_FRONTEND_SERVICE}:${SHORT_SHA}
+
+  - id: Push frontend latest image
+    name: gcr.io/cloud-builders/docker
+    args:
+      - push
+      - gcr.io/${PROJECT_ID}/${_FRONTEND_SERVICE}:latest
+
+  - id: Deploy backend
+    name: gcr.io/google.com/cloudsdktool/cloud-sdk
+    args:
+      - gcloud
+      - run
+      - deploy
+      - ${_BACKEND_SERVICE}
+      - --project=${PROJECT_ID}
+      - --image=gcr.io/${PROJECT_ID}/${_BACKEND_SERVICE}:${SHORT_SHA}
+      - --platform=managed
+      - --region=${_REGION}
+      - --allow-unauthenticated
+
+  - id: Deploy frontend
+    name: gcr.io/google.com/cloudsdktool/cloud-sdk
+    args:
+      - gcloud
+      - run
+      - deploy
+      - ${_FRONTEND_SERVICE}
+      - --project=${PROJECT_ID}
+      - --image=gcr.io/${PROJECT_ID}/${_FRONTEND_SERVICE}:${SHORT_SHA}
+      - --platform=managed
+      - --region=${_REGION}
+      - --allow-unauthenticated
+      - --set-env-vars=BACKEND_ORIGIN=${_BACKEND_ORIGIN}
