@@ -1,6 +1,7 @@
-PROJECT_ID := paul-personal-306310
+.PHONY: deploy-frontend deploy-backend
 
-.PHONY: deploy
+deploy-frontend:
+	$(MAKE) -C frontend deploy
 
-deploy:
-	gcloud builds submit --project $(PROJECT_ID) --config cloudbuild.yaml .
+deploy-backend:
+	$(MAKE) -C backend deploy

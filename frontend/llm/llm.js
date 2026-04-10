@@ -1,4 +1,4 @@
-const API_URL = 'https://homepage-backend-56253706933.europe-west2.run.app';
+const API_URL = '/api';
 
 const COLORS = [
   '#ffd97d', '#a8e6cf', '#a0c4ff', '#ffb3c6',

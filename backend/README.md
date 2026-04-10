@@ -1,6 +1,6 @@
 # homepage-backend
 
-Python/FastAPI backend for `pdlawson.com`, hosted on Google Cloud Run at `https://homepage-backend-56253706933.europe-west2.run.app` (custom domain `api.pdlawson.com` to be configured).
+Python/FastAPI backend for `pdlawson.com`, deployed to Google Cloud Run in `europe-west1` and intended to be mapped to `api.pdlawson.com`.
 
 ## Endpoints
 
@@ -42,17 +42,25 @@ pytest test_main.py -v
 
 ## Deploying to Cloud Run
 
-Build and push the Docker image, then deploy:
+Deploy with Cloud Build:
 
 ```bash
-gcloud builds submit --project paul-personal-306310 --tag gcr.io/paul-personal-306310/homepage-backend
-
-gcloud run deploy homepage-backend \
-  --project paul-personal-306310 \
-  --image gcr.io/paul-personal-306310/homepage-backend \
-  --platform managed \
-  --region europe-west2 \
-  --allow-unauthenticated
+gcloud builds submit --project paul-personal-306310 --config cloudbuild.yaml .
 ```
 
+The Cloud Build config builds the backend container, pushes it to Container Registry, and deploys `homepage-backend` to Cloud Run in `europe-west1`.
+
 The Dockerfile pre-downloads the tiktoken encoding at build time so there is no network call on the first request at runtime.
+
+## Domain mapping
+
+After deployment, create the Cloud Run domain mapping:
+
+```bash
+gcloud beta run domain-mappings create \
+  --service homepage-backend \
+  --domain api.pdlawson.com \
+  --region europe-west1
+```
+
+Then add the DNS records that Google Cloud Run shows for the mapping.

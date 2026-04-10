@@ -1,8 +1,8 @@
-import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.163.0/build/three.module.min.js';
-import { OrbitControls } from 'https://cdn.jsdelivr.net/npm/three@0.163.0/examples/jsm/controls/OrbitControls.js';
-import { CSS2DRenderer, CSS2DObject } from 'https://cdn.jsdelivr.net/npm/three@0.163.0/examples/jsm/renderers/CSS2DRenderer.js';
+import * as THREE from 'three';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { CSS2DRenderer, CSS2DObject } from 'three/addons/renderers/CSS2DRenderer.js';
 
-const API_URL = 'https://homepage-backend-56253706933.europe-west2.run.app';
+const API_URL = '/api';
 
 const SPHERE_COLORS = [
   0x4285f4, 0xea4335, 0x34a853, 0xfbbc05,
