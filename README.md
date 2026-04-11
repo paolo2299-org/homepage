@@ -5,6 +5,45 @@ Personal site for `pdlawson.com` with two Cloud Run services:
 - `frontend/` serves the static site through Nginx
 - `backend/` runs the FastAPI API
 
+## Running locally with Docker Compose
+
+From the repo root:
+
+```bash
+make run
+```
+
+This starts:
+
+- frontend on `http://localhost:8080`
+- backend on `http://localhost:8000`
+
+The frontend proxies `/api/*` to the backend container automatically.
+
+This setup is dev-oriented:
+
+- backend Python changes auto-reload through `uvicorn --reload`
+- frontend HTML, CSS, and browser JS are bind-mounted into the container, so refresh the page to see changes
+
+If you change Python dependencies, either Dockerfile, or the Nginx config template behaviour itself, rebuild the containers:
+
+```bash
+docker-compose up --build
+```
+
+To stop everything:
+
+```bash
+make stop
+```
+
+If you prefer, the underlying Docker Compose commands still work too:
+
+```bash
+docker-compose up --build
+docker-compose down
+```
+
 ## Automated deploys from `main`
 
 The repo-level `cloudbuild.yaml` builds and deploys both services from a single Cloud Build run.

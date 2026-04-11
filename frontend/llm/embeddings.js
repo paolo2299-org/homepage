@@ -1,8 +1,13 @@
 import * as THREE from 'three';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import { CSS2DRenderer, CSS2DObject } from 'three/addons/renderers/CSS2DRenderer.js';
-
-const API_URL = '/api';
+import {
+  fetchEmbeddings,
+  getUnknownWordsMessage,
+  prepareWordSubmission,
+  reconcileWords,
+} from './embedding-model.js';
+import { clearContent, setMessage } from './messages.js';
 
 const SPHERE_COLORS = [
   0x4285f4, 0xea4335, 0x34a853, 0xfbbc05,
@@ -11,176 +16,217 @@ const SPHERE_COLORS = [
 
 const ANIM_DURATION = 500; // ms
 
-// --- State ---
-const words = [];
-const spheres = new Map();   // word -> THREE.Mesh
-const labels = new Map();    // word -> CSS2DObject
-const startPos = new Map();  // word -> THREE.Vector3 (lerp from)
-const targetPos = new Map(); // word -> THREE.Vector3 (lerp to)
-let animStart = null;
+function createEmbeddingScene(container, doc = document) {
+  const words = [];
+  const spheres = new Map();
+  const labels = new Map();
+  const startPos = new Map();
+  const targetPos = new Map();
+  let animStart = null;
 
-// --- Scene setup ---
-const container = document.getElementById('embed-canvas-container');
+  const scene = new THREE.Scene();
+  scene.background = new THREE.Color(0xfafafa);
 
-const scene = new THREE.Scene();
-scene.background = new THREE.Color(0xfafafa);
+  const camera = new THREE.PerspectiveCamera(50, container.clientWidth / container.clientHeight, 0.1, 100);
+  camera.position.set(0, 0, 6);
 
-const camera = new THREE.PerspectiveCamera(50, container.clientWidth / container.clientHeight, 0.1, 100);
-camera.position.set(0, 0, 6);
+  const renderer = new THREE.WebGLRenderer({ antialias: true });
+  renderer.setPixelRatio(window.devicePixelRatio);
+  renderer.setSize(container.clientWidth, container.clientHeight);
+  container.appendChild(renderer.domElement);
 
-const renderer = new THREE.WebGLRenderer({ antialias: true });
-renderer.setPixelRatio(window.devicePixelRatio);
-renderer.setSize(container.clientWidth, container.clientHeight);
-container.appendChild(renderer.domElement);
+  const labelRenderer = new CSS2DRenderer();
+  labelRenderer.setSize(container.clientWidth, container.clientHeight);
+  labelRenderer.domElement.style.position = 'absolute';
+  labelRenderer.domElement.style.top = '0';
+  labelRenderer.domElement.style.pointerEvents = 'none';
+  container.appendChild(labelRenderer.domElement);
 
-const labelRenderer = new CSS2DRenderer();
-labelRenderer.setSize(container.clientWidth, container.clientHeight);
-labelRenderer.domElement.style.position = 'absolute';
-labelRenderer.domElement.style.top = '0';
-labelRenderer.domElement.style.pointerEvents = 'none';
-container.appendChild(labelRenderer.domElement);
+  const controls = new OrbitControls(camera, renderer.domElement);
+  controls.enableDamping = true;
+  controls.dampingFactor = 0.08;
 
-const controls = new OrbitControls(camera, renderer.domElement);
-controls.enableDamping = true;
-controls.dampingFactor = 0.08;
+  scene.add(new THREE.AmbientLight(0xffffff, 0.7));
+  const dirLight = new THREE.DirectionalLight(0xffffff, 0.8);
+  dirLight.position.set(5, 5, 5);
+  scene.add(dirLight);
 
-scene.add(new THREE.AmbientLight(0xffffff, 0.7));
-const dirLight = new THREE.DirectionalLight(0xffffff, 0.8);
-dirLight.position.set(5, 5, 5);
-scene.add(dirLight);
+  scene.add(new THREE.AxesHelper(1.5));
 
-scene.add(new THREE.AxesHelper(1.5));
+  function handleResize() {
+    const width = container.clientWidth;
+    const height = container.clientHeight;
+    camera.aspect = width / height;
+    camera.updateProjectionMatrix();
+    renderer.setSize(width, height);
+    labelRenderer.setSize(width, height);
+  }
 
-// --- Resize handling ---
-window.addEventListener('resize', () => {
-  const w = container.clientWidth;
-  const h = container.clientHeight;
-  camera.aspect = w / h;
-  camera.updateProjectionMatrix();
-  renderer.setSize(w, h);
-  labelRenderer.setSize(w, h);
-});
+  window.addEventListener('resize', handleResize);
 
-// --- Animation loop ---
-function animate(time) {
-  requestAnimationFrame(animate);
-  controls.update();
+  function animate(time) {
+    requestAnimationFrame(animate);
+    controls.update();
 
-  if (animStart !== null) {
-    const t = Math.min((time - animStart) / ANIM_DURATION, 1);
-    const eased = t < 0.5 ? 2 * t * t : -1 + (4 - 2 * t) * t;
+    if (animStart !== null) {
+      const t = Math.min((time - animStart) / ANIM_DURATION, 1);
+      const eased = t < 0.5 ? 2 * t * t : -1 + (4 - 2 * t) * t;
 
+      for (const word of words) {
+        if (!spheres.has(word)) continue;
+        const from = startPos.get(word);
+        const to = targetPos.get(word);
+        if (!from || !to) continue;
+        const pos = from.clone().lerp(to, eased);
+        spheres.get(word).position.copy(pos);
+        labels.get(word).position.copy(pos);
+      }
+
+      if (t >= 1) {
+        animStart = null;
+      }
+    }
+
+    renderer.render(scene, camera);
+    labelRenderer.render(scene, camera);
+  }
+
+  function removeWord(word) {
+    const sphere = spheres.get(word);
+    if (sphere) {
+      scene.remove(sphere);
+      sphere.geometry.dispose();
+      sphere.material.dispose();
+      spheres.delete(word);
+    }
+
+    const label = labels.get(word);
+    if (label) {
+      scene.remove(label);
+      labels.delete(word);
+    }
+
+    startPos.delete(word);
+    targetPos.delete(word);
+  }
+
+  function updateScene(points) {
     for (const word of words) {
-      if (!spheres.has(word)) continue;
-      const from = startPos.get(word);
-      const to = targetPos.get(word);
-      if (!from || !to) continue;
-      const pos = from.clone().lerp(to, eased);
-      spheres.get(word).position.copy(pos);
-      labels.get(word).position.copy(pos);
+      if (spheres.has(word)) {
+        startPos.set(word, spheres.get(word).position.clone());
+      }
     }
 
-    if (t >= 1) animStart = null;
-  }
+    points.forEach((point, index) => {
+      const to = new THREE.Vector3(point.x, point.y, point.z);
+      targetPos.set(point.word, to);
 
-  renderer.render(scene, camera);
-  labelRenderer.render(scene, camera);
-}
-requestAnimationFrame(animate);
+      if (!spheres.has(point.word)) {
+        const geometry = new THREE.SphereGeometry(0.07, 24, 24);
+        const material = new THREE.MeshPhongMaterial({ color: SPHERE_COLORS[index % SPHERE_COLORS.length] });
+        const sphere = new THREE.Mesh(geometry, material);
+        sphere.position.copy(to);
+        scene.add(sphere);
+        spheres.set(point.word, sphere);
 
-// --- Core: add a word ---
-window.addWord = async function addWord() {
-  const input = document.getElementById('embed-input');
-  const btn = document.getElementById('embed-btn');
-  const status = document.getElementById('embed-status');
+        const div = doc.createElement('div');
+        div.className = 'embed-label';
+        div.textContent = point.word;
+        const label = new CSS2DObject(div);
+        label.position.copy(to);
+        scene.add(label);
+        labels.set(point.word, label);
 
-  const word = input.value.trim().toLowerCase();
-  if (!word) return;
-  if (words.includes(word)) {
-    status.innerHTML = `<span class="status">"${word}" is already plotted.</span>`;
-    input.value = '';
-    return;
-  }
-
-  words.push(word);
-  input.value = '';
-  btn.disabled = true;
-  status.innerHTML = '<span class="status">Fetching embedding…</span>';
-
-  try {
-    const res = await fetch(`${API_URL}/embed`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ words }),
+        startPos.set(point.word, to.clone());
+      }
     });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data = await res.json();
 
-    // Handle unknown words returned by the API
-    if (data.unknown.length > 0) {
-      data.unknown.forEach(w => {
-        const idx = words.indexOf(w);
-        if (idx !== -1) words.splice(idx, 1);
-      });
-      status.innerHTML = `<span class="error">Word not found in vocabulary: ${data.unknown.join(', ')}</span>`;
-    } else {
-      status.textContent = '';
-    }
-
-    updateScene(data.points);
-    updateWordList();
-  } catch (e) {
-    words.pop();
-    status.innerHTML = '<span class="error">Something went wrong — please try again.</span>';
-  } finally {
-    btn.disabled = false;
-  }
-};
-
-// Enter key submits
-document.getElementById('embed-input').addEventListener('keydown', e => {
-  if (e.key === 'Enter') window.addWord();
-});
-
-// --- Scene update ---
-function updateScene(points) {
-  // Record start positions for all existing spheres
-  for (const word of words) {
-    if (spheres.has(word)) {
-      startPos.set(word, spheres.get(word).position.clone());
-    }
+    animStart = performance.now();
   }
 
-  points.forEach((p, i) => {
-    const to = new THREE.Vector3(p.x, p.y, p.z);
-    targetPos.set(p.word, to);
+  requestAnimationFrame(animate);
 
-    if (!spheres.has(p.word)) {
-      // New point: create sphere + label, start at target (no lerp needed)
-      const geo = new THREE.SphereGeometry(0.07, 24, 24);
-      const mat = new THREE.MeshPhongMaterial({ color: SPHERE_COLORS[i % SPHERE_COLORS.length] });
-      const sphere = new THREE.Mesh(geo, mat);
-      sphere.position.copy(to);
-      scene.add(sphere);
-      spheres.set(p.word, sphere);
+  return {
+    words,
+    removeWord,
+    updateScene,
+  };
+}
 
-      const div = document.createElement('div');
-      div.className = 'embed-label';
-      div.textContent = p.word;
-      const label = new CSS2DObject(div);
-      label.position.copy(to);
-      scene.add(label);
-      labels.set(p.word, label);
+function updateWordList(doc, listElement, words) {
+  clearContent(listElement);
 
-      startPos.set(p.word, to.clone());
+  words.forEach(word => {
+    const tag = doc.createElement('span');
+    tag.className = 'embed-word-tag';
+    tag.textContent = word;
+    listElement.appendChild(tag);
+  });
+}
+
+function initEmbeddings({
+  doc = document,
+  fetchImpl = fetch,
+} = {}) {
+  const container = doc.getElementById('embed-canvas-container');
+  const input = doc.getElementById('embed-input');
+  const button = doc.getElementById('embed-btn');
+  const status = doc.getElementById('embed-status');
+  const list = doc.getElementById('embed-words');
+
+  if (!container || !input || !button || !status || !list) {
+    return null;
+  }
+
+  const scene = createEmbeddingScene(container, doc);
+
+  async function handleAddWord() {
+    const submission = prepareWordSubmission(scene.words, input.value);
+    input.value = '';
+
+    if (!submission.ok) {
+      if (submission.reason === 'duplicate') {
+        setMessage(status, 'status', `"${submission.word}" is already plotted.`, doc);
+      }
+      return;
+    }
+
+    scene.words.push(submission.word);
+    button.disabled = true;
+    setMessage(status, 'status', 'Fetching embedding…', doc);
+
+    try {
+      const data = await fetchEmbeddings(fetchImpl, scene.words);
+      const nextWords = reconcileWords(scene.words, data.unknown);
+      const removedWords = scene.words.filter(word => !nextWords.includes(word));
+
+      removedWords.forEach(word => scene.removeWord(word));
+      scene.words.splice(0, scene.words.length, ...nextWords);
+
+      if (data.unknown.length > 0) {
+        setMessage(status, 'error', getUnknownWordsMessage(data.unknown), doc);
+      } else {
+        clearContent(status);
+      }
+
+      scene.updateScene(data.points);
+      updateWordList(doc, list, scene.words);
+    } catch {
+      scene.words.pop();
+      setMessage(status, 'error', 'Something went wrong — please try again.', doc);
+    } finally {
+      button.disabled = false;
+    }
+  }
+
+  button.addEventListener('click', handleAddWord);
+  input.addEventListener('keydown', event => {
+    if (event.key === 'Enter') {
+      handleAddWord();
     }
   });
 
-  animStart = performance.now();
+  return { handleAddWord };
 }
 
-// --- Word tag list ---
-function updateWordList() {
-  const listDiv = document.getElementById('embed-words');
-  listDiv.innerHTML = words.map(w => `<span class="embed-word-tag">${w}</span>`).join('');
-}
+initEmbeddings();
