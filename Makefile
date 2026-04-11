@@ -1,10 +1,13 @@
-.PHONY: run stop deploy deploy-frontend deploy-backend create-main-trigger
+.PHONY: run stop test-frontend deploy deploy-frontend deploy-backend create-main-trigger
 
 run:
 	docker-compose up --build
 
 stop:
 	docker-compose down
+
+test-frontend:
+	npm test --prefix frontend
 
 deploy: deploy-backend deploy-frontend
 
