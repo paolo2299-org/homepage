@@ -1,4 +1,10 @@
-.PHONY: deploy deploy-frontend deploy-backend create-main-trigger
+.PHONY: run stop deploy deploy-frontend deploy-backend create-main-trigger
+
+run:
+	docker-compose up --build
+
+stop:
+	docker-compose down
 
 deploy: deploy-backend deploy-frontend
 

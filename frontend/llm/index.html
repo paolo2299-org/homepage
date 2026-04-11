@@ -129,9 +129,9 @@
     <div class="tokeniser">
       <textarea id="token-input" placeholder="Enter some text…"></textarea>
       <br>
-      <button id="token-btn" onclick="tokenise()">Tokenise</button>
-      <div id="token-output"></div>
-      <div id="token-count"></div>
+      <button id="token-btn" type="button">Tokenise</button>
+      <div id="token-output" aria-live="polite"></div>
+      <div id="token-count" aria-live="polite"></div>
     </div>
 
     <h2>Token Embeddings</h2>
@@ -140,12 +140,12 @@
     <div class="embedder">
       <div class="embedder-input">
         <input type="text" id="embed-input" placeholder="Enter a word…" autocomplete="off">
-        <button id="embed-btn" onclick="addWord()">Add word</button>
+        <button id="embed-btn" type="button">Add word</button>
       </div>
       <p class="embedder-hint">Try: <em>cat, dog, fish</em> — or <em>king, queen, prince</em></p>
       <div id="embed-canvas-container"></div>
       <div id="embed-words"></div>
-      <div id="embed-status"></div>
+      <div id="embed-status" aria-live="polite"></div>
     </div>
 
     <p>These are static word embeddings (GloVe). Modern LLMs use <em>contextual</em> embeddings — the same word gets a different vector depending on surrounding words — but the core idea of meaning as position in space is the same.</p>

@@ -1,4 +1,5 @@
 from contextlib import asynccontextmanager
+import os
 from typing import List
 
 import numpy as np
@@ -9,12 +10,17 @@ from fastapi.middleware.cors import CORSMiddleware
 import tiktoken
 
 glove_vectors: dict = {}
+DEFAULT_GLOVE_PATH = "/opt/glove/glove.6B.50d.txt"
+
+
+def get_glove_path() -> str:
+    return os.getenv("GLOVE_PATH", DEFAULT_GLOVE_PATH)
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     try:
-        with open("glove.6B.50d.txt", "r", encoding="utf-8") as f:
+        with open(get_glove_path(), "r", encoding="utf-8") as f:
             for line in f:
                 parts = line.split()
                 glove_vectors[parts[0]] = np.array(parts[1:], dtype=np.float32)

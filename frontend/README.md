@@ -18,6 +18,18 @@ The site will be available at `http://localhost:8080`.
 
 To test against a different backend during rollout, set `BACKEND_ORIGIN` to the backend service URL instead of the final custom domain.
 
+## Frontend tests
+
+The frontend now has a small JavaScript unit test suite using Node's built-in test runner, so no extra test framework or build step is required.
+
+Run it with:
+
+```bash
+npm test --prefix frontend
+```
+
+The current tests cover the fetch helpers and the word/token state logic in `frontend/llm/`, which gives the interactive page a safer foundation as it grows.
+
 ## Deploying to Cloud Run
 
 Deploy with Cloud Build:
