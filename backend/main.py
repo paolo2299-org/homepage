@@ -1,5 +1,6 @@
 from contextlib import asynccontextmanager
 import os
+from threading import Lock
 from typing import List
 
 import numpy as np
@@ -17,8 +18,11 @@ def get_glove_path() -> str:
     return os.getenv("GLOVE_PATH", DEFAULT_GLOVE_PATH)
 
 
-@asynccontextmanager
-async def lifespan(app: FastAPI):
+glove_vectors_loaded = False
+glove_vectors_lock = Lock()
+
+
+def load_glove_vectors():
     try:
         with open(get_glove_path(), "r", encoding="utf-8") as f:
             for line in f:
@@ -26,6 +30,26 @@ async def lifespan(app: FastAPI):
                 glove_vectors[parts[0]] = np.array(parts[1:], dtype=np.float32)
     except FileNotFoundError:
         pass  # allows tests and local dev to run without the file
+
+
+def ensure_glove_vectors_loaded():
+    global glove_vectors_loaded
+
+    if glove_vectors_loaded or glove_vectors:
+        glove_vectors_loaded = True
+        return
+
+    with glove_vectors_lock:
+        if glove_vectors_loaded or glove_vectors:
+            glove_vectors_loaded = True
+            return
+
+        load_glove_vectors()
+        glove_vectors_loaded = True
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
     yield
 
 
@@ -58,6 +82,8 @@ class EmbedRequest(BaseModel):
 
 @app.post("/embed")
 def embed(request: EmbedRequest):
+    ensure_glove_vectors_loaded()
+
     known, unknown, vectors = [], [], []
     for word in request.words:
         w = word.lower()

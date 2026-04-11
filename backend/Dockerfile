@@ -1,9 +1,20 @@
-FROM python:3.12-slim
+FROM python:3.12-slim AS base
 
 WORKDIR /app
 
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
+
+FROM base AS test
+
+COPY requirements-test.txt .
+RUN pip install --no-cache-dir -r requirements-test.txt
+
+COPY . .
+
+CMD ["python", "-m", "pytest", "test_main.py", "-v"]
+
+FROM base AS runtime
 
 # Pre-download tiktoken encoding so it's baked into the image
 # (avoids a network call on first request at runtime)
