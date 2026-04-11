@@ -35,10 +35,13 @@ curl "http://localhost:8080/tokenize?text=Hello world"
 
 ## Running tests
 
+Use Docker as the standard, reproducible test path:
+
 ```bash
-pip install -r requirements-test.txt
-pytest test_main.py -v
+make test
 ```
+
+That builds the dedicated `test` stage from the Dockerfile, so it uses a consistent environment without pulling in the production GloVe download step.
 
 ## Deploying to Cloud Run
 
