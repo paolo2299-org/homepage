@@ -1,0 +1,5 @@
+services:
+  homepage:
+    image: ${IMAGE_NAME:-homepage}:${IMAGE_TAG:-main}
+    environment:
+      PORT: 8080

@@ -1,21 +1,26 @@
-.PHONY: run stop test-frontend deploy deploy-frontend deploy-backend create-main-trigger
+IMAGE_NAME = homepage
+COMPOSE = docker compose -f compose.yml -f compose.dev.yml
+COMPOSE_PROD = docker compose -f compose.yml -f compose.prod.yml
+
+dev:
+	$(COMPOSE) up --build homepage
+
+build:
+	docker build -t $(IMAGE_NAME) frontend
 
 run:
-	docker-compose up --build
+	$(COMPOSE) up --build homepage
 
-stop:
-	docker-compose down
+down:
+	$(COMPOSE) down --remove-orphans
 
-test-frontend:
-	npm test --prefix frontend
+prod-start:
+	$(COMPOSE_PROD) up -d homepage
 
-deploy: deploy-backend deploy-frontend
+prod-stop:
+	$(COMPOSE_PROD) stop homepage
 
-deploy-frontend:
-	$(MAKE) -C frontend deploy
+prod-restart:
+	$(COMPOSE_PROD) restart homepage
 
-deploy-backend:
-	$(MAKE) -C backend deploy
-
-create-main-trigger:
-	./scripts/create-main-trigger.sh
+.PHONY: dev build run down prod-start prod-stop prod-restart
