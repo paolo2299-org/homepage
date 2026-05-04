@@ -1,104 +1,56 @@
 # homepage
 
-Personal site for `pdlawson.com` with two Cloud Run services:
-
-- `frontend/` serves the static site through Nginx
-- `backend/` runs the FastAPI API
+Personal site for `pdlawson.com` — a single static frontend served by Nginx and deployed to a VPS.
 
 ## Running locally with Docker Compose
 
 From the repo root:
 
 ```bash
+make dev
+```
+
+This starts the frontend on `http://localhost:8080`. HTML, CSS, and JS are bind-mounted into the container, so a page refresh picks up changes immediately. If you change the Dockerfile or Nginx config, rebuild first:
+
+```bash
 make run
 ```
 
-This starts:
-
-- frontend on `http://localhost:8080`
-- backend on `http://localhost:8000`
-
-The frontend proxies `/api/*` to the backend container automatically.
-
-This setup is dev-oriented:
-
-- backend Python changes auto-reload through `uvicorn --reload`
-- frontend HTML, CSS, and browser JS are bind-mounted into the container, so refresh the page to see changes
-
-If you change Python dependencies, either Dockerfile, or the Nginx config template behaviour itself, rebuild the containers:
+To stop:
 
 ```bash
-docker-compose up --build
-```
-
-To stop everything:
-
-```bash
-make stop
-```
-
-If you prefer, the underlying Docker Compose commands still work too:
-
-```bash
-docker-compose up --build
-docker-compose down
+make down
 ```
 
 ## Automated deploys from `main`
 
-The repo-level `cloudbuild.yaml` builds and deploys both services from a single Cloud Build run.
+Pushing to `main` triggers a GitHub Actions workflow (`.github/workflows/deploy.yml`) that:
 
-Each build:
+1. Builds the frontend Docker image
+2. Pushes it to GitHub Container Registry (`ghcr.io`) tagged with the commit SHA and `main`
+3. SSHs into the production VPS and runs `docker compose pull && docker compose up -d`
 
-- builds `homepage-backend` and `homepage-frontend`
-- tags each image with both `${SHORT_SHA}` and `latest`
-- deploys the backend first, then the frontend
+The workflow needs these secrets/variables configured in GitHub:
 
-To create the GitHub trigger that runs this pipeline on every push to `main`:
+| Name | Type | Description |
+|---|---|---|
+| `DEPLOY_SSH_KEY` | secret | Private SSH key for the VPS |
+| `DEPLOY_PORT` | secret | SSH port (defaults to 22) |
+| `GHCR_USERNAME` | secret | GitHub username for GHCR login |
+| `GHCR_TOKEN` | secret | Personal access token with `read:packages` |
+| `DEPLOY_HOST` | var | Hostname or IP of the VPS |
+| `DEPLOY_USER` | var | SSH user on the VPS |
 
-```bash
-make create-main-trigger
-```
+## Production VPS setup
 
-If Cloud Build returns `Repository mapping does not exist`, first connect the GitHub repository in Cloud Build:
+The production compose stack uses `compose.yml` + `compose.prod.yml`. The `homepage` service joins an external Docker network called `web`, which a reverse proxy (e.g. Traefik) uses to route traffic.
 
-1. Open Cloud Build Triggers in the Google Cloud Console.
-2. Choose `Connect repository`.
-3. Authorise GitHub for project `paul-personal-306310`.
-4. Connect `paolo2299/homepage`.
-5. Re-run `make create-main-trigger`.
+The expected working directory on the VPS is `/srv/homepage/app/homepage`.
 
-That target runs `scripts/create-main-trigger.sh` with these defaults:
-
-- project: `paul-personal-306310`
-- trigger name: `homepage-main-deploy`
-- GitHub repo: `paolo2299/homepage`
-- branch pattern: `^main$`
-
-You can override them when needed:
+To start or restart the service on the VPS manually:
 
 ```bash
-PROJECT_ID=paul-personal-306310 \
-TRIGGER_NAME=homepage-main-deploy \
-REPO_OWNER=paolo2299 \
-REPO_NAME=homepage \
-make create-main-trigger
+make prod-start    # start (detached)
+make prod-stop     # stop
+make prod-restart  # restart
 ```
-
-If your Cloud Build setup uses a 2nd-gen connected repository instead of the 1st-gen GitHub integration, pass `REPOSITORY=projects/.../locations/.../connections/.../repositories/...` and a non-global `BUILD_REGION`.
-
-## Manual combined deploy
-
-To run the same combined pipeline manually without waiting for a merge:
-
-```bash
-gcloud builds submit --project paul-personal-306310 --config cloudbuild.yaml .
-```
-
-## Permissions to check
-
-The trigger's build service account needs permission to deploy Cloud Run revisions. If this is the first automated deploy for the project, make sure the Cloud Build service account has the roles needed for:
-
-- building and pushing container images
-- `roles/run.admin` to deploy Cloud Run services
-- `roles/iam.serviceAccountUser` on the runtime service account, if one is configured
