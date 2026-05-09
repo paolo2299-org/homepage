@@ -1,10 +1,52 @@
 [
   {
+    "title": "Running Codex safely at OpenAI",
+    "url": "https://openai.com/index/running-codex-safely",
+    "source": "OpenAI",
+    "date": "2026-05-08",
+    "tags": ["Agents", "Developer Tools"]
+  },
+  {
     "title": "Collaborate with Claude across Excel, PowerPoint, Word and Outlook",
     "url": "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook",
     "source": "Claude Blog",
     "date": "2026-05-07",
     "tags": ["Product Launch"]
+  },
+  {
+    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+    "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "source": "OpenAI",
+    "date": "2026-05-07",
+    "tags": ["Product Launch", "Enterprise"]
+  },
+  {
+    "title": "Advancing voice intelligence with new models in the API",
+    "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+    "source": "OpenAI",
+    "date": "2026-05-07",
+    "tags": ["Product Launch", "Developer Tools"]
+  },
+  {
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "source": "OpenAI",
+    "date": "2026-05-07",
+    "tags": ["Product Launch"]
+  },
+  {
+    "title": "Introducing Trusted Contact in ChatGPT",
+    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+    "source": "OpenAI",
+    "date": "2026-05-07",
+    "tags": ["Product Launch"]
+  },
+  {
+    "title": "Simplex rethinks software development with Codex",
+    "url": "https://openai.com/index/simplex",
+    "source": "OpenAI",
+    "date": "2026-05-07",
+    "tags": ["Case Study", "Developer Tools"]
   },
   {
     "title": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
@@ -14,6 +56,41 @@
     "tags": ["Product Launch", "Agents"]
   },
   {
+    "title": "How ChatGPT learns about the world while protecting privacy",
+    "url": "https://openai.com/index/how-chatgpt-protects-privacy",
+    "source": "OpenAI",
+    "date": "2026-05-06",
+    "tags": ["Opinion"]
+  },
+  {
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "url": "https://openai.com/index/uber",
+    "source": "OpenAI",
+    "date": "2026-05-06",
+    "tags": ["Case Study", "Enterprise"]
+  },
+  {
+    "title": "How frontier firms are pulling ahead",
+    "url": "https://openai.com/index/introducing-b2b-signals",
+    "source": "OpenAI",
+    "date": "2026-05-06",
+    "tags": ["Opinion", "Enterprise"]
+  },
+  {
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "source": "OpenAI",
+    "date": "2026-05-06",
+    "tags": ["Product Launch"]
+  },
+  {
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "url": "https://openai.com/index/singular-bank",
+    "source": "OpenAI",
+    "date": "2026-05-06",
+    "tags": ["Case Study", "Enterprise"]
+  },
+  {
     "title": "Deploying Claude across financial services",
     "url": "https://claude.com/blog/deploying-claude-across-financial-services",
     "source": "Claude Blog",
@@ -21,11 +98,39 @@
     "tags": ["Enterprise"]
   },
   {
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "url": "https://openai.com/index/gpt-5-5-instant",
+    "source": "OpenAI",
+    "date": "2026-05-05",
+    "tags": ["Product Launch"]
+  },
+  {
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+    "source": "OpenAI",
+    "date": "2026-05-04",
+    "tags": ["Developer Tools"]
+  },
+  {
+    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+    "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+    "source": "OpenAI",
+    "date": "2026-05-04",
+    "tags": ["Case Study", "Enterprise"]
+  },
+  {
     "title": "How a non-technical project manager built and shipped a stress management app with Claude Code in six weeks",
     "url": "https://claude.com/blog/how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks",
     "source": "Claude Blog",
     "date": "2026-05-01",
     "tags": ["Case Study", "Developer Tools"]
+  },
+  {
+    "title": "Introducing Advanced Account Security",
+    "url": "https://openai.com/index/advanced-account-security",
+    "source": "OpenAI",
+    "date": "2026-04-30",
+    "tags": ["Product Launch"]
   },
   {
     "title": "Building AI agents for the enterprise",

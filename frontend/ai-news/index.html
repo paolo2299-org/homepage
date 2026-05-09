@@ -28,6 +28,16 @@
         border-color: #1a0dab;
         color: #fff;
       }
+      #source-filters button {
+        border-color: #b06000;
+        color: #b06000;
+      }
+      #source-filters button:hover { border-color: #7a4400; }
+      #source-filters button.active {
+        background: #b06000;
+        border-color: #b06000;
+        color: #fff;
+      }
       .article { margin-bottom: 24px; }
       .article-title {
         font-size: 1.1em;
@@ -60,34 +70,39 @@
   <body>
     <h1>AI News</h1>
     <p>Recent news from the world of AI.</p>
-    <div class="filters" id="filters"></div>
+    <div class="filters" id="source-filters"></div>
+    <div class="filters" id="tag-filters"></div>
     <div id="articles"></div>
     <p id="no-results">No articles match the selected filters.</p>
     <p class="back"><a href="/">← Home</a></p>
     <script type="module">
       const ALL_TAGS = ['Product Launch', 'Agents', 'Developer Tools', 'Enterprise', 'Case Study', 'Opinion'];
       let activeTags = new Set();
+      let activeSources = new Set();
       let articles = [];
 
-      const filtersEl = document.getElementById('filters');
+      const tagFiltersEl = document.getElementById('tag-filters');
+      const sourceFiltersEl = document.getElementById('source-filters');
       const articlesEl = document.getElementById('articles');
       const noResultsEl = document.getElementById('no-results');
 
-      ALL_TAGS.forEach(tag => {
+      function makeFilterBtn(label, activeSet, el) {
         const btn = document.createElement('button');
-        btn.textContent = tag;
+        btn.textContent = label;
         btn.addEventListener('click', () => {
-          if (activeTags.has(tag)) {
-            activeTags.delete(tag);
+          if (activeSet.has(label)) {
+            activeSet.delete(label);
             btn.classList.remove('active');
           } else {
-            activeTags.add(tag);
+            activeSet.add(label);
             btn.classList.add('active');
           }
           render();
         });
-        filtersEl.appendChild(btn);
-      });
+        el.appendChild(btn);
+      }
+
+      ALL_TAGS.forEach(tag => makeFilterBtn(tag, activeTags, tagFiltersEl));
 
       function formatDate(dateStr) {
         const d = new Date(dateStr + 'T00:00:00');
@@ -95,9 +110,11 @@
       }
 
       function render() {
-        const filtered = activeTags.size === 0
-          ? articles
-          : articles.filter(a => a.tags.some(t => activeTags.has(t)));
+        const filtered = articles.filter(a => {
+          const tagMatch = activeTags.size === 0 || a.tags.some(t => activeTags.has(t));
+          const sourceMatch = activeSources.size === 0 || activeSources.has(a.source);
+          return tagMatch && sourceMatch;
+        });
 
         articlesEl.innerHTML = '';
         noResultsEl.style.display = filtered.length === 0 ? 'block' : 'none';
@@ -135,7 +152,12 @@
 
       fetch('news.json')
         .then(r => r.json())
-        .then(data => { articles = data; render(); });
+        .then(data => {
+          articles = data;
+          const sources = [...new Set(data.map(a => a.source))].sort();
+          sources.forEach(s => makeFilterBtn(s, activeSources, sourceFiltersEl));
+          render();
+        });
     </script>
   </body>
 </html>
