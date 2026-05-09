@@ -3,3 +3,4 @@ Makefile
 README.md
 cloudbuild.yaml
 .dockerignore
+nginx/
