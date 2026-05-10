@@ -9,7 +9,7 @@
   {
     "title": "Collaborate with Claude across Excel, PowerPoint, Word and Outlook",
     "url": "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook",
-    "source": "Claude Blog",
+    "source": "Claude",
     "date": "2026-05-07",
     "tags": ["Product Launch"]
   },
@@ -58,7 +58,7 @@
   {
     "title": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
     "url": "https://claude.com/blog/new-in-claude-managed-agents",
-    "source": "Claude Blog",
+    "source": "Claude",
     "date": "2026-05-06",
     "tags": ["Product Launch", "Agents"]
   },
@@ -100,7 +100,7 @@
   {
     "title": "Deploying Claude across financial services",
     "url": "https://claude.com/blog/deploying-claude-across-financial-services",
-    "source": "Claude Blog",
+    "source": "Claude",
     "date": "2026-05-05",
     "tags": ["Enterprise"]
   },
@@ -128,7 +128,7 @@
   {
     "title": "How a non-technical project manager built and shipped a stress management app with Claude Code in six weeks",
     "url": "https://claude.com/blog/how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks",
-    "source": "Claude Blog",
+    "source": "Claude",
     "date": "2026-05-01",
     "tags": ["Case Study", "Developer Tools"]
   },
@@ -142,56 +142,56 @@
   {
     "title": "Building AI agents for the enterprise",
     "url": "https://claude.com/blog/building-ai-agents-for-the-enterprise",
-    "source": "Claude Blog",
+    "source": "Claude",
     "date": "2026-04-30",
     "tags": ["Agents", "Enterprise"]
   },
   {
     "title": "Claude Security is now in public beta",
     "url": "https://claude.com/blog/claude-security-public-beta",
-    "source": "Claude Blog",
+    "source": "Claude",
     "date": "2026-04-30",
     "tags": ["Product Launch"]
   },
   {
     "title": "Lessons from building Claude Code: Prompt caching is everything",
     "url": "https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything",
-    "source": "Claude Blog",
+    "source": "Claude",
     "date": "2026-04-30",
     "tags": ["Developer Tools"]
   },
   {
     "title": "How Kepler built verifiable AI for financial services with Claude",
     "url": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
-    "source": "Claude Blog",
+    "source": "Claude",
     "date": "2026-04-30",
     "tags": ["Case Study", "Enterprise"]
   },
   {
     "title": "Deploying agentic AI across the enterprise with Claude Cowork",
     "url": "https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork",
-    "source": "Claude Blog",
+    "source": "Claude",
     "date": "2026-04-29",
     "tags": ["Enterprise", "Agents"]
   },
   {
     "title": "Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp",
     "url": "https://claude.com/blog/claude-api-skill",
-    "source": "Claude Blog",
+    "source": "Claude",
     "date": "2026-04-29",
     "tags": ["Developer Tools", "Product Launch"]
   },
   {
     "title": "Product development in the agentic era",
     "url": "https://claude.com/blog/product-development-in-the-agentic-era",
-    "source": "Claude Blog",
+    "source": "Claude",
     "date": "2026-04-29",
     "tags": ["Opinion", "Agents"]
   },
   {
     "title": "Onboarding Claude Code like a new developer: Lessons from 17 years of development",
     "url": "https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development",
-    "source": "Claude Blog",
+    "source": "Claude",
     "date": "2026-04-28",
     "tags": ["Developer Tools", "Case Study"]
   }
