@@ -29,14 +29,7 @@
         color: #fff;
       }
       #source-filters button {
-        border-color: #b06000;
-        color: #b06000;
-      }
-      #source-filters button:hover { border-color: #7a4400; }
-      #source-filters button.active {
-        background: #b06000;
-        border-color: #b06000;
-        color: #fff;
+        /* border and text color applied per-source via JS */
       }
       .article { margin-bottom: 24px; }
       .article-title {
@@ -77,6 +70,12 @@
     <p class="back"><a href="/">← Home</a></p>
     <script type="module">
       const ALL_TAGS = ['Product Launch', 'Agents', 'Developer Tools', 'Enterprise', 'Case Study', 'Opinion'];
+      const SOURCE_COLORS = {
+        'Claude':  '#c96442',
+        'OpenAI':  '#10a37f',
+        'Google':  '#4285f4',
+      };
+      const DEFAULT_SOURCE_COLOR = '#b06000';
       let activeTags = new Set();
       let activeSources = new Set();
       let articles = [];
@@ -86,16 +85,22 @@
       const articlesEl = document.getElementById('articles');
       const noResultsEl = document.getElementById('no-results');
 
-      function makeFilterBtn(label, activeSet, el) {
+      function makeFilterBtn(label, activeSet, el, color) {
         const btn = document.createElement('button');
         btn.textContent = label;
+        if (color) {
+          btn.style.borderColor = color;
+          btn.style.color = color;
+        }
         btn.addEventListener('click', () => {
           if (activeSet.has(label)) {
             activeSet.delete(label);
             btn.classList.remove('active');
+            if (color) { btn.style.background = ''; btn.style.color = color; }
           } else {
             activeSet.add(label);
             btn.classList.add('active');
+            if (color) { btn.style.background = color; btn.style.borderColor = color; btn.style.color = '#fff'; }
           }
           render();
         });
@@ -132,7 +137,13 @@
 
           const meta = document.createElement('p');
           meta.className = 'article-meta';
-          meta.textContent = `${formatDate(a.date)} · ${a.source}`;
+          const sourceColor = SOURCE_COLORS[a.source] || DEFAULT_SOURCE_COLOR;
+          meta.appendChild(document.createTextNode(`${formatDate(a.date)} · `));
+          const sourceSpan = document.createElement('span');
+          sourceSpan.style.color = sourceColor;
+          sourceSpan.style.fontWeight = '500';
+          sourceSpan.textContent = a.source;
+          meta.appendChild(sourceSpan);
 
           const tagsSpan = document.createElement('span');
           tagsSpan.className = 'article-tags';
@@ -155,7 +166,7 @@
         .then(data => {
           articles = data;
           const sources = [...new Set(data.map(a => a.source))].sort();
-          sources.forEach(s => makeFilterBtn(s, activeSources, sourceFiltersEl));
+          sources.forEach(s => makeFilterBtn(s, activeSources, sourceFiltersEl, SOURCE_COLORS[s] || DEFAULT_SOURCE_COLOR));
           render();
         });
     </script>
