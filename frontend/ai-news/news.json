@@ -194,5 +194,26 @@
     "source": "Claude",
     "date": "2026-04-28",
     "tags": ["Developer Tools", "Case Study"]
+  },
+  {
+    "title": "New connectors in Claude for everyday life",
+    "url": "https://claude.com/blog/connectors-for-everyday-life",
+    "source": "Claude",
+    "date": "2026-04-23",
+    "tags": ["Product Launch"]
+  },
+  {
+    "title": "Built-in memory for Claude Managed Agents",
+    "url": "https://claude.com/blog/claude-managed-agents-memory",
+    "source": "Claude",
+    "date": "2026-04-23",
+    "tags": ["Product Launch", "Agents"]
+  },
+  {
+    "title": "Building agents that reach production systems with MCP",
+    "url": "https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp",
+    "source": "Claude",
+    "date": "2026-04-22",
+    "tags": ["Agents", "Developer Tools"]
   }
 ]
