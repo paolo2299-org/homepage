@@ -4,195 +4,739 @@
     "url": "https://openai.com/index/running-codex-safely",
     "source": "OpenAI",
     "date": "2026-05-08",
-    "tags": ["Agents", "Developer Tools"]
+    "tags": [
+      "Agents",
+      "Developer Tools"
+    ]
   },
   {
     "title": "Collaborate with Claude across Excel, PowerPoint, Word and Outlook",
     "url": "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook",
     "source": "Claude",
     "date": "2026-05-07",
-    "tags": ["Product Launch"]
+    "tags": [
+      "Product Launch"
+    ]
   },
   {
     "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
     "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
     "source": "OpenAI",
     "date": "2026-05-07",
-    "tags": ["Product Launch", "Enterprise"]
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
   },
   {
     "title": "Advancing voice intelligence with new models in the API",
     "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
     "source": "OpenAI",
     "date": "2026-05-07",
-    "tags": ["Product Launch", "Developer Tools"]
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
   },
   {
     "title": "Testing ads in ChatGPT",
     "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "source": "OpenAI",
     "date": "2026-05-07",
-    "tags": ["Product Launch"]
+    "tags": [
+      "Product Launch"
+    ]
   },
   {
     "title": "Introducing Trusted Contact in ChatGPT",
     "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
     "source": "OpenAI",
     "date": "2026-05-07",
-    "tags": ["Product Launch"]
+    "tags": [
+      "Product Launch"
+    ]
   },
   {
     "title": "Parloa builds service agents customers want to talk to",
     "url": "https://openai.com/index/parloa",
     "source": "OpenAI",
     "date": "2026-05-07",
-    "tags": ["Case Study", "Agents"]
+    "tags": [
+      "Case Study",
+      "Agents"
+    ]
   },
   {
     "title": "Simplex rethinks software development with Codex",
     "url": "https://openai.com/index/simplex",
     "source": "OpenAI",
     "date": "2026-05-07",
-    "tags": ["Case Study", "Developer Tools"]
+    "tags": [
+      "Case Study",
+      "Developer Tools"
+    ]
   },
   {
     "title": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
     "url": "https://claude.com/blog/new-in-claude-managed-agents",
     "source": "Claude",
     "date": "2026-05-06",
-    "tags": ["Product Launch", "Agents"]
+    "tags": [
+      "Product Launch",
+      "Agents"
+    ]
   },
   {
     "title": "How ChatGPT learns about the world while protecting privacy",
     "url": "https://openai.com/index/how-chatgpt-protects-privacy",
     "source": "OpenAI",
     "date": "2026-05-06",
-    "tags": ["Opinion"]
+    "tags": [
+      "Opinion"
+    ]
   },
   {
     "title": "Uber uses OpenAI to help people earn smarter and book faster",
     "url": "https://openai.com/index/uber",
     "source": "OpenAI",
     "date": "2026-05-06",
-    "tags": ["Case Study", "Enterprise"]
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
   },
   {
     "title": "How frontier firms are pulling ahead",
     "url": "https://openai.com/index/introducing-b2b-signals",
     "source": "OpenAI",
     "date": "2026-05-06",
-    "tags": ["Opinion", "Enterprise"]
+    "tags": [
+      "Opinion",
+      "Enterprise"
+    ]
   },
   {
     "title": "Introducing ChatGPT Futures: Class of 2026",
     "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
     "source": "OpenAI",
     "date": "2026-05-06",
-    "tags": ["Product Launch"]
+    "tags": [
+      "Product Launch"
+    ]
   },
   {
     "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
     "url": "https://openai.com/index/singular-bank",
     "source": "OpenAI",
     "date": "2026-05-06",
-    "tags": ["Case Study", "Enterprise"]
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
   },
   {
     "title": "Deploying Claude across financial services",
     "url": "https://claude.com/blog/deploying-claude-across-financial-services",
     "source": "Claude",
     "date": "2026-05-05",
-    "tags": ["Enterprise"]
+    "tags": [
+      "Enterprise"
+    ]
   },
   {
     "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
     "url": "https://openai.com/index/gpt-5-5-instant",
     "source": "OpenAI",
     "date": "2026-05-05",
-    "tags": ["Product Launch"]
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "url": "https://openai.com/index/mrc-supercomputer-networking",
+    "source": "OpenAI",
+    "date": "2026-05-05",
+    "tags": [
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "GPT-5.5 Instant System Card",
+    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "source": "OpenAI",
+    "date": "2026-05-05",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Advancing youth safety and wellbeing in EMEA",
+    "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+    "source": "OpenAI",
+    "date": "2026-05-05",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "New ways to buy ChatGPT ads",
+    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "source": "OpenAI",
+    "date": "2026-05-05",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Gemini API File Search is now multimodal: build efficient, verifiable RAG",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+    "source": "Google",
+    "date": "2026-05-05",
+    "tags": [
+      "Developer Tools",
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+    "source": "Google",
+    "date": "2026-05-05",
+    "tags": [
+      "Product Launch"
+    ]
   },
   {
     "title": "How OpenAI delivers low-latency voice AI at scale",
     "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
     "source": "OpenAI",
     "date": "2026-05-04",
-    "tags": ["Developer Tools"]
+    "tags": [
+      "Developer Tools"
+    ]
   },
   {
     "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
     "url": "https://openai.com/index/openai-pwc-finance-collaboration",
     "source": "OpenAI",
     "date": "2026-05-04",
-    "tags": ["Case Study", "Enterprise"]
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "The latest AI news we announced in April 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+    "source": "Google",
+    "date": "2026-05-04",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+    "source": "Google",
+    "date": "2026-05-04",
+    "tags": [
+      "Developer Tools"
+    ]
   },
   {
     "title": "How a non-technical project manager built and shipped a stress management app with Claude Code in six weeks",
     "url": "https://claude.com/blog/how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks",
     "source": "Claude",
     "date": "2026-05-01",
-    "tags": ["Case Study", "Developer Tools"]
+    "tags": [
+      "Case Study",
+      "Developer Tools"
+    ]
   },
   {
     "title": "Introducing Advanced Account Security",
     "url": "https://openai.com/index/advanced-account-security",
     "source": "OpenAI",
     "date": "2026-04-30",
-    "tags": ["Product Launch"]
+    "tags": [
+      "Product Launch"
+    ]
   },
   {
     "title": "Building AI agents for the enterprise",
     "url": "https://claude.com/blog/building-ai-agents-for-the-enterprise",
     "source": "Claude",
     "date": "2026-04-30",
-    "tags": ["Agents", "Enterprise"]
+    "tags": [
+      "Agents",
+      "Enterprise"
+    ]
   },
   {
     "title": "Claude Security is now in public beta",
     "url": "https://claude.com/blog/claude-security-public-beta",
     "source": "Claude",
     "date": "2026-04-30",
-    "tags": ["Product Launch"]
+    "tags": [
+      "Product Launch"
+    ]
   },
   {
     "title": "Lessons from building Claude Code: Prompt caching is everything",
     "url": "https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything",
     "source": "Claude",
     "date": "2026-04-30",
-    "tags": ["Developer Tools"]
+    "tags": [
+      "Developer Tools"
+    ]
   },
   {
     "title": "How Kepler built verifiable AI for financial services with Claude",
     "url": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
     "source": "Claude",
     "date": "2026-04-30",
-    "tags": ["Case Study", "Enterprise"]
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
   },
   {
     "title": "Deploying agentic AI across the enterprise with Claude Cowork",
     "url": "https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork",
     "source": "Claude",
     "date": "2026-04-29",
-    "tags": ["Enterprise", "Agents"]
+    "tags": [
+      "Enterprise",
+      "Agents"
+    ]
   },
   {
     "title": "Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp",
     "url": "https://claude.com/blog/claude-api-skill",
     "source": "Claude",
     "date": "2026-04-29",
-    "tags": ["Developer Tools", "Product Launch"]
+    "tags": [
+      "Developer Tools",
+      "Product Launch"
+    ]
   },
   {
     "title": "Product development in the agentic era",
     "url": "https://claude.com/blog/product-development-in-the-agentic-era",
     "source": "Claude",
     "date": "2026-04-29",
-    "tags": ["Opinion", "Agents"]
+    "tags": [
+      "Opinion",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Where the goblins came from",
+    "url": "https://openai.com/index/where-the-goblins-came-from",
+    "source": "OpenAI",
+    "date": "2026-04-29",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Building the compute infrastructure for the Intelligence Age",
+    "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "source": "OpenAI",
+    "date": "2026-04-29",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Cybersecurity in the Intelligence Age",
+    "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "source": "OpenAI",
+    "date": "2026-04-29",
+    "tags": [
+      "Opinion",
+      "Enterprise"
+    ]
   },
   {
     "title": "Onboarding Claude Code like a new developer: Lessons from 17 years of development",
     "url": "https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development",
     "source": "Claude",
     "date": "2026-04-28",
-    "tags": ["Developer Tools", "Case Study"]
+    "tags": [
+      "Developer Tools",
+      "Case Study"
+    ]
+  },
+  {
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "url": "https://openai.com/index/openai-on-aws",
+    "source": "OpenAI",
+    "date": "2026-04-28",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Our commitment to community safety",
+    "url": "https://openai.com/index/our-commitment-to-community-safety",
+    "source": "OpenAI",
+    "date": "2026-04-28",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "OpenAI available at FedRAMP Moderate",
+    "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "source": "OpenAI",
+    "date": "2026-04-27",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "The next phase of the Microsoft OpenAI partnership",
+    "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "source": "OpenAI",
+    "date": "2026-04-27",
+    "tags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "An open-source spec for orchestration: Symphony",
+    "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+    "source": "OpenAI",
+    "date": "2026-04-27",
+    "tags": [
+      "Developer Tools",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Choco automates food distribution with AI agents",
+    "url": "https://openai.com/index/choco",
+    "source": "OpenAI",
+    "date": "2026-04-27",
+    "tags": [
+      "Case Study",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+    "source": "Google",
+    "date": "2026-04-27",
+    "tags": [
+      "Developer Tools",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Our principles",
+    "url": "https://openai.com/index/our-principles",
+    "source": "OpenAI",
+    "date": "2026-04-26",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "New connectors in Claude for everyday life",
+    "url": "https://claude.com/blog/connectors-for-everyday-life",
+    "source": "Claude",
+    "date": "2026-04-23",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Built-in memory for Claude Managed Agents",
+    "url": "https://claude.com/blog/claude-managed-agents-memory",
+    "source": "Claude",
+    "date": "2026-04-23",
+    "tags": [
+      "Product Launch",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Introducing GPT-5.5",
+    "url": "https://openai.com/index/introducing-gpt-5-5",
+    "source": "OpenAI",
+    "date": "2026-04-23",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "GPT-5.5 System Card",
+    "url": "https://openai.com/index/gpt-5-5-system-card",
+    "source": "OpenAI",
+    "date": "2026-04-23",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "What is Codex?",
+    "url": "https://openai.com/academy/what-is-codex",
+    "source": "OpenAI",
+    "date": "2026-04-23",
+    "tags": [
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Automations",
+    "url": "https://openai.com/academy/codex-automations",
+    "source": "OpenAI",
+    "date": "2026-04-23",
+    "tags": [
+      "Developer Tools",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Top 10 uses for Codex at work",
+    "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+    "source": "OpenAI",
+    "date": "2026-04-23",
+    "tags": [
+      "Enterprise",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Plugins and skills",
+    "url": "https://openai.com/academy/codex-plugins-and-skills",
+    "source": "OpenAI",
+    "date": "2026-04-23",
+    "tags": [
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Codex settings",
+    "url": "https://openai.com/academy/codex-settings",
+    "source": "OpenAI",
+    "date": "2026-04-23",
+    "tags": [
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "How to get started with Codex",
+    "url": "https://openai.com/academy/codex-how-to-start",
+    "source": "OpenAI",
+    "date": "2026-04-23",
+    "tags": [
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Working with Codex",
+    "url": "https://openai.com/academy/working-with-codex",
+    "source": "OpenAI",
+    "date": "2026-04-23",
+    "tags": [
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+    "source": "OpenAI",
+    "date": "2026-04-23",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Building agents that reach production systems with MCP",
+    "url": "https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp",
+    "source": "Claude",
+    "date": "2026-04-22",
+    "tags": [
+      "Agents",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Making ChatGPT better for clinicians",
+    "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+    "source": "OpenAI",
+    "date": "2026-04-22",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Introducing workspace agents in ChatGPT",
+    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+    "source": "OpenAI",
+    "date": "2026-04-22",
+    "tags": [
+      "Product Launch",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+    "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+    "source": "OpenAI",
+    "date": "2026-04-22",
+    "tags": [
+      "Developer Tools",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Workspace agents",
+    "url": "https://openai.com/academy/workspace-agents",
+    "source": "OpenAI",
+    "date": "2026-04-22",
+    "tags": [
+      "Agents"
+    ]
+  },
+  {
+    "title": "Introducing OpenAI Privacy Filter",
+    "url": "https://openai.com/index/introducing-openai-privacy-filter",
+    "source": "OpenAI",
+    "date": "2026-04-22",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Introducing ChatGPT Images 2.0",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
+    "source": "OpenAI",
+    "date": "2026-04-21",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Scaling Codex to enterprises worldwide",
+    "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+    "source": "OpenAI",
+    "date": "2026-04-21",
+    "tags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Deep Research Max: a step change for autonomous research agents",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research/",
+    "source": "Google",
+    "date": "2026-04-21",
+    "tags": [
+      "Product Launch",
+      "Agents"
+    ]
+  },
+  {
+    "title": "OpenAI helps Hyatt advance AI among colleagues",
+    "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "source": "OpenAI",
+    "date": "2026-04-20",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Start vibe coding in AI Studio with your Google AI subscription",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-one-ai-studio/",
+    "source": "Google",
+    "date": "2026-04-20",
+    "tags": [
+      "Developer Tools",
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Codex for (almost) everything",
+    "url": "https://openai.com/index/codex-for-almost-everything",
+    "source": "OpenAI",
+    "date": "2026-04-16",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Introducing GPT-Rosalind for life sciences research",
+    "url": "https://openai.com/index/introducing-gpt-rosalind",
+    "source": "OpenAI",
+    "date": "2026-04-16",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Accelerating the cyber defense ecosystem that protects us all",
+    "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "source": "OpenAI",
+    "date": "2026-04-16",
+    "tags": [
+      "Enterprise",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "The next evolution of the Agents SDK",
+    "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+    "source": "OpenAI",
+    "date": "2026-04-15",
+    "tags": [
+      "Developer Tools",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Prepay for the Gemini API to get more control over your spend",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/prepay-gemini-api/",
+    "source": "Google",
+    "date": "2026-04-15",
+    "tags": [
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Redesigning Claude Code on desktop for parallel agents",
+    "url": "https://claude.com/blog/claude-code-desktop-redesign",
+    "source": "Claude",
+    "date": "2026-04-14",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Trusted access for the next era of cyber defense",
+    "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+    "source": "OpenAI",
+    "date": "2026-04-14",
+    "tags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+    "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+    "source": "OpenAI",
+    "date": "2026-04-13",
+    "tags": [
+      "Enterprise",
+      "Agents"
+    ]
   }
 ]
