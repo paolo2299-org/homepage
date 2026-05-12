@@ -1,5 +1,63 @@
 [
   {
+    "title": "Agent view in Claude Code",
+    "url": "https://claude.com/blog/agent-view-in-claude-code",
+    "source": "Claude",
+    "date": "2026-05-11",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Introducing the Claude Platform on AWS",
+    "url": "https://claude.com/blog/claude-platform-on-aws",
+    "source": "Claude",
+    "date": "2026-05-11",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "How ChatGPT adoption broadened in early 2026",
+    "url": "https://openai.com/signals/research/2026q1-update",
+    "source": "OpenAI",
+    "date": "2026-05-11",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "OpenAI Campus Network: Student club interest form",
+    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "source": "OpenAI",
+    "date": "2026-05-11",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "How enterprises are scaling AI",
+    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "source": "OpenAI",
+    "date": "2026-05-11",
+    "tags": [
+      "Enterprise",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+    "url": "https://openai.com/index/openai-launches-the-deployment-company",
+    "source": "OpenAI",
+    "date": "2026-05-11",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Running Codex safely at OpenAI",
     "url": "https://openai.com/index/running-codex-safely",
     "source": "OpenAI",
