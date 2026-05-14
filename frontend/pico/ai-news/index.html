@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI News — pdlawson.com</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <style>
+      .filters { display: flex; flex-wrap: wrap; gap: 8px; margin: 24px 0; }
+    </style>
+  </head>
+  <body>
+    <main class="container">
+      <h1>AI News</h1>
+      <p>From the official blogs of Anthropic, OpenAI and Google.</p>
+      <div class="filters" id="source-filters"></div>
+      <div class="filters" id="tag-filters"></div>
+      <div id="articles"></div>
+      <p id="no-results" hidden>No articles match the selected filters.</p>
+      <p><a href="/pico/">← Home</a></p>
+    </main>
+    <script type="module">
+      const ALL_TAGS = ['Product Launch', 'Agents', 'Developer Tools', 'Enterprise', 'Case Study', 'Opinion'];
+      const SOURCE_COLORS = {
+        'Claude':  '#c96442',
+        'OpenAI':  '#10a37f',
+        'Google':  '#4285f4',
+      };
+      const DEFAULT_SOURCE_COLOR = '#b06000';
+      let activeTags = new Set();
+      let activeSources = new Set();
+      let articles = [];
+
+      const tagFiltersEl = document.getElementById('tag-filters');
+      const sourceFiltersEl = document.getElementById('source-filters');
+      const articlesEl = document.getElementById('articles');
+      const noResultsEl = document.getElementById('no-results');
+
+      function makeFilterBtn(label, activeSet, el, color) {
+        const btn = document.createElement('button');
+        btn.textContent = label;
+        btn.classList.add('outline');
+        if (color) {
+          btn.style.borderColor = color;
+          btn.style.color = color;
+        }
+        btn.addEventListener('click', () => {
+          if (activeSet.has(label)) {
+            activeSet.delete(label);
+            btn.classList.add('outline');
+            if (color) { btn.style.background = ''; btn.style.color = color; }
+          } else {
+            activeSet.add(label);
+            btn.classList.remove('outline');
+            if (color) { btn.style.background = color; btn.style.borderColor = color; btn.style.color = '#fff'; }
+          }
+          render();
+        });
+        el.appendChild(btn);
+      }
+
+      ALL_TAGS.forEach(tag => makeFilterBtn(tag, activeTags, tagFiltersEl));
+
+      function formatDate(dateStr) {
+        const d = new Date(dateStr + 'T00:00:00');
+        return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+      }
+
+      function render() {
+        const filtered = articles.filter(a => {
+          const tagMatch = activeTags.size === 0 || a.tags.some(t => activeTags.has(t));
+          const sourceMatch = activeSources.size === 0 || activeSources.has(a.source);
+          return tagMatch && sourceMatch;
+        });
+
+        articlesEl.innerHTML = '';
+        noResultsEl.hidden = filtered.length !== 0;
+
+        filtered.forEach(a => {
+          const article = document.createElement('article');
+
+          const link = document.createElement('a');
+          link.href = a.url;
+          link.target = '_blank';
+          link.rel = 'noopener';
+          link.textContent = a.title;
+
+          const meta = document.createElement('p');
+          const sourceColor = SOURCE_COLORS[a.source] || DEFAULT_SOURCE_COLOR;
+          const sourceSpan = document.createElement('span');
+          sourceSpan.style.color = sourceColor;
+          sourceSpan.style.fontWeight = '500';
+          sourceSpan.textContent = a.source;
+
+          meta.appendChild(document.createTextNode(`${formatDate(a.date)} · `));
+          meta.appendChild(sourceSpan);
+
+          a.tags.forEach(t => {
+            meta.appendChild(document.createTextNode(' '));
+            const pill = document.createElement('span');
+            pill.textContent = t;
+            meta.appendChild(pill);
+          });
+
+          article.appendChild(link);
+          article.appendChild(meta);
+          articlesEl.appendChild(article);
+        });
+      }
+
+      fetch('/ai-news/news.json')
+        .then(r => r.json())
+        .then(data => {
+          articles = data;
+          const sources = [...new Set(data.map(a => a.source))].sort();
+          sources.forEach(s => makeFilterBtn(s, activeSources, sourceFiltersEl, SOURCE_COLORS[s] || DEFAULT_SOURCE_COLOR));
+          render();
+        });
+    </script>
+  </body>
+</html>
