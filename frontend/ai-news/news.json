@@ -1,5 +1,45 @@
 [
   {
+    "title": "The founder's playbook: Building an AI-native startup",
+    "url": "https://claude.com/blog/the-founders-playbook",
+    "source": "Claude",
+    "date": "2026-05-14",
+    "tags": [
+      "Opinion",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "How Claude Code works in large codebases: Best practices and where to start",
+    "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+    "source": "Claude",
+    "date": "2026-05-14",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Work with Codex from anywhere",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere",
+    "source": "OpenAI",
+    "date": "2026-05-14",
+    "tags": [
+      "Developer Tools",
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "source": "OpenAI",
+    "date": "2026-05-14",
+    "tags": [
+      "Product Launch",
+      "Opinion"
+    ]
+  },
+  {
     "title": "Best practices for computer and browser use with Claude",
     "url": "https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude",
     "source": "Claude",
