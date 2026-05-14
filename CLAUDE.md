@@ -27,4 +27,10 @@ Personal website for `pdlawson.com`. A single static frontend served by Nginx, d
 ## Development workflow
 - Primary branch: `main`
 - No frontend build step — edit static files directly
-- Always add a shared `style.css` link when creating new pages
+- Always add a shared `style.css` link when creating new pages in the main site
+
+## CSS setup
+
+See `AGENTS.md` for a full description of the CSS setup. In brief:
+- **Main site** (`/`, `/ai-news/`): shared `frontend/style.css` + per-page inline `<style>` blocks
+- **Pico experiment** (`/pico/`, `/pico/ai-news/`): Pico CSS v2 from CDN, minimal custom CSS only
