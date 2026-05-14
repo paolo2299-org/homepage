@@ -4,70 +4,29 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>AI News — pdlawson.com</title>
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
     <style>
       .filters {
         display: flex;
         flex-wrap: wrap;
         gap: 8px;
         margin: 24px 0;
-      }
-      .filters button {
-        border: 1px solid #ccc;
-        background: #fff;
-        padding: 4px 12px;
-        border-radius: 14px;
-        cursor: pointer;
-        font-size: 0.85em;
-        color: #555;
-        transition: background 0.15s, border-color 0.15s, color 0.15s;
-      }
-      .filters button:hover { border-color: #888; }
-      .filters button.active {
-        background: #1a0dab;
-        border-color: #1a0dab;
-        color: #fff;
-      }
-      #source-filters button {
-        /* border and text color applied per-source via JS */
-      }
-      .article { margin-bottom: 24px; }
-      .article-title {
-        font-size: 1.1em;
-        font-weight: bold;
-        text-decoration: none;
-      }
-      .article-title:hover { text-decoration: underline; }
-      .article-meta {
-        margin: 4px 0 0;
-        color: #555;
-        font-size: 0.9em;
-      }
-      .article-tags { display: inline; }
-      .tag {
-        display: inline-block;
-        background: #eee;
-        color: #555;
-        padding: 1px 8px;
-        border-radius: 10px;
-        font-size: 0.8em;
-        margin-left: 6px;
-      }
-      #no-results {
-        display: none;
-        color: #888;
-        margin-top: 24px;
+        --pico-form-element-spacing-vertical: 0.25rem;
+        --pico-form-element-spacing-horizontal: 0.75rem;
       }
     </style>
   </head>
   <body>
-    <h1>AI News</h1>
-    <p>From the official blogs of Anthropic, OpenAI and Google.</p>
-    <div class="filters" id="source-filters"></div>
-    <div class="filters" id="tag-filters"></div>
-    <div id="articles"></div>
-    <p id="no-results">No articles match the selected filters.</p>
-    <p class="back"><a href="/">← Home</a></p>
+    <main class="container">
+      <p><a href="/">← Home</a></p>
+      <h1>AI News</h1>
+      <p>From the official blogs of Anthropic, OpenAI and Google.</p>
+      <div class="filters" id="source-filters"></div>
+      <div class="filters" id="tag-filters"></div>
+      <div id="articles"></div>
+      <p id="no-results" hidden>No articles match the selected filters.</p>
+      <p><a href="/">← Home</a></p>
+    </main>
     <script type="module">
       const ALL_TAGS = ['Product Launch', 'Agents', 'Developer Tools', 'Enterprise', 'Case Study', 'Opinion'];
       const SOURCE_COLORS = {
@@ -88,6 +47,7 @@
       function makeFilterBtn(label, activeSet, el, color) {
         const btn = document.createElement('button');
         btn.textContent = label;
+        btn.classList.add('outline');
         if (color) {
           btn.style.borderColor = color;
           btn.style.color = color;
@@ -95,11 +55,11 @@
         btn.addEventListener('click', () => {
           if (activeSet.has(label)) {
             activeSet.delete(label);
-            btn.classList.remove('active');
+            btn.classList.add('outline');
             if (color) { btn.style.background = ''; btn.style.color = color; }
           } else {
             activeSet.add(label);
-            btn.classList.add('active');
+            btn.classList.remove('outline');
             if (color) { btn.style.background = color; btn.style.borderColor = color; btn.style.color = '#fff'; }
           }
           render();
@@ -122,42 +82,37 @@
         });
 
         articlesEl.innerHTML = '';
-        noResultsEl.style.display = filtered.length === 0 ? 'block' : 'none';
+        noResultsEl.hidden = filtered.length !== 0;
 
         filtered.forEach(a => {
-          const div = document.createElement('div');
-          div.className = 'article';
+          const article = document.createElement('article');
 
           const link = document.createElement('a');
-          link.className = 'article-title';
           link.href = a.url;
           link.target = '_blank';
           link.rel = 'noopener';
           link.textContent = a.title;
 
           const meta = document.createElement('p');
-          meta.className = 'article-meta';
           const sourceColor = SOURCE_COLORS[a.source] || DEFAULT_SOURCE_COLOR;
-          meta.appendChild(document.createTextNode(`${formatDate(a.date)} · `));
           const sourceSpan = document.createElement('span');
           sourceSpan.style.color = sourceColor;
           sourceSpan.style.fontWeight = '500';
           sourceSpan.textContent = a.source;
+
+          meta.appendChild(document.createTextNode(`${formatDate(a.date)} · `));
           meta.appendChild(sourceSpan);
 
-          const tagsSpan = document.createElement('span');
-          tagsSpan.className = 'article-tags';
           a.tags.forEach(t => {
+            meta.appendChild(document.createTextNode(' '));
             const pill = document.createElement('span');
-            pill.className = 'tag';
             pill.textContent = t;
-            tagsSpan.appendChild(pill);
+            meta.appendChild(pill);
           });
-          meta.appendChild(tagsSpan);
 
-          div.appendChild(link);
-          div.appendChild(meta);
-          articlesEl.appendChild(div);
+          article.appendChild(link);
+          article.appendChild(meta);
+          articlesEl.appendChild(article);
         });
       }
 
