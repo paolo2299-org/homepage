@@ -12,7 +12,7 @@ Personal website for `pdlawson.com`. A single static frontend served by Nginx, d
 ### Frontend
 - Plain HTML + CSS + vanilla JS — no framework, no npm
 - ES modules (`<script type="module">`) for splitting JS across files where needed
-- Shared `style.css` for consistent styling across pages
+- [Pico CSS v2](https://picocss.com) loaded from CDN for base styling
 - Deployed as a static site from an Nginx container on a VPS (via GitHub Actions)
 - Images pushed to GitHub Container Registry (`ghcr.io`)
 
@@ -27,10 +27,10 @@ Personal website for `pdlawson.com`. A single static frontend served by Nginx, d
 ## Development workflow
 - Primary branch: `main`
 - No frontend build step — edit static files directly
-- Always add a shared `style.css` link when creating new pages in the main site
 
 ## CSS setup
 
 See `AGENTS.md` for a full description of the CSS setup. In brief:
-- **Main site** (`/`, `/ai-news/`): shared `frontend/style.css` + per-page inline `<style>` blocks
-- **Pico experiment** (`/pico/`, `/pico/ai-news/`): Pico CSS v2 from CDN, minimal custom CSS only
+- All pages use Pico CSS v2 from CDN — no shared local stylesheet
+- Content wrapped in `<main class="container">` for layout
+- Custom CSS kept minimal; per-page overrides go in inline `<style>` blocks
