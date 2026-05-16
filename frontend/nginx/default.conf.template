@@ -15,4 +15,8 @@ server {
     location ~* \.json$ {
         add_header Cache-Control "no-cache";
     }
+
+    location ^~ /ai-news/raw/ {
+        add_header Cache-Control "no-cache";
+    }
 }
