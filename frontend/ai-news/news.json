@@ -906,24 +906,5 @@
     "tags": [
       "Developer Tools"
     ]
-  },
-  {
-    "title": "Redesigning Claude Code on desktop for parallel agents",
-    "url": "https://claude.com/blog/claude-code-desktop-redesign",
-    "source": "Claude",
-    "date": "2026-04-14",
-    "tags": [
-      "Product Launch",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Trusted access for the next era of cyber defense",
-    "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-    "source": "OpenAI",
-    "date": "2026-04-14",
-    "tags": [
-      "Enterprise"
-    ]
   }
 ]
