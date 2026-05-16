@@ -1,5 +1,64 @@
 [
   {
+    "title": "Deploying Claude across the legal industry",
+    "url": "https://claude.com/blog/deploying-claude-across-the-legal-industry",
+    "source": "Claude",
+    "date": "2026-05-15",
+    "tags": [
+      "Enterprise",
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "How sales teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "source": "OpenAI",
+    "date": "2026-05-15",
+    "tags": [
+      "Enterprise",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "How business operations teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "source": "OpenAI",
+    "date": "2026-05-15",
+    "tags": [
+      "Enterprise",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "How data science teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "source": "OpenAI",
+    "date": "2026-05-15",
+    "tags": [
+      "Enterprise",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "url": "https://openai.com/index/databricks",
+    "source": "OpenAI",
+    "date": "2026-05-15",
+    "tags": [
+      "Enterprise",
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "A new personal finance experience in ChatGPT",
+    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "source": "OpenAI",
+    "date": "2026-05-15",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
     "title": "The founder's playbook: Building an AI-native startup",
     "url": "https://claude.com/blog/the-founders-playbook",
     "source": "Claude",
@@ -37,6 +96,16 @@
     "tags": [
       "Product Launch",
       "Opinion"
+    ]
+  },
+  {
+    "title": "Sea's View on the Future of Agentic Software Development with Codex",
+    "url": "https://openai.com/index/sea-david-chen",
+    "source": "OpenAI",
+    "date": "2026-05-14",
+    "tags": [
+      "Opinion",
+      "Agents"
     ]
   },
   {
@@ -886,25 +955,6 @@
     "tags": [
       "Enterprise",
       "Opinion"
-    ]
-  },
-  {
-    "title": "The next evolution of the Agents SDK",
-    "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-    "source": "OpenAI",
-    "date": "2026-04-15",
-    "tags": [
-      "Developer Tools",
-      "Agents"
-    ]
-  },
-  {
-    "title": "Prepay for the Gemini API to get more control over your spend",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/prepay-gemini-api/",
-    "source": "Google",
-    "date": "2026-04-15",
-    "tags": [
-      "Developer Tools"
     ]
   }
 ]
