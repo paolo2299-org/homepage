@@ -1,0 +1,41 @@
+name: Auto-merge AI news feed PRs
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize]
+    branches: [main]
+
+permissions:
+  pull-requests: write
+  contents: write
+
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.title == 'Update AI news feed'
+    steps:
+      - name: Close duplicate PRs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CURRENT_PR: ${{ github.event.pull_request.number }}
+        run: |
+          gh pr list \
+            --repo "${{ github.repository }}" \
+            --state open \
+            --search "Update AI news feed in:title" \
+            --json number \
+            --jq '.[].number' \
+          | while read -r number; do
+              if [ "$number" != "$CURRENT_PR" ]; then
+                echo "Closing duplicate PR #$number"
+                gh pr close "$number" --repo "${{ github.repository }}"
+              fi
+            done
+
+      - name: Merge PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr merge "${{ github.event.pull_request.number }}" \
+            --repo "${{ github.repository }}" \
+            --merge
