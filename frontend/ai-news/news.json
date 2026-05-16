@@ -887,24 +887,5 @@
       "Enterprise",
       "Opinion"
     ]
-  },
-  {
-    "title": "The next evolution of the Agents SDK",
-    "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-    "source": "OpenAI",
-    "date": "2026-04-15",
-    "tags": [
-      "Developer Tools",
-      "Agents"
-    ]
-  },
-  {
-    "title": "Prepay for the Gemini API to get more control over your spend",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/prepay-gemini-api/",
-    "source": "Google",
-    "date": "2026-04-15",
-    "tags": [
-      "Developer Tools"
-    ]
   }
 ]
