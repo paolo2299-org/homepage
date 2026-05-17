@@ -2,7 +2,7 @@ Title: Blog | Claude
 
 URL Source: https://claude.com/blog
 
-Published Time: Fri, 15 May 2026 23:24:05 GMT
+Published Time: Sat, 16 May 2026 16:03:25 GMT
 
 Markdown Content:
 # Blog | Claude
@@ -100,19 +100,19 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.747a831a-9210-45f6-9336-8968a15ed4c4/login)
+*   [Login](https://claude.ai/redirect/claudedotcom.v1.a2fdd9ab-8acc-4635-98c9-1ffca878d847/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.747a831a-9210-45f6-9336-8968a15ed4c4)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.a2fdd9ab-8acc-4635-98c9-1ffca878d847)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.747a831a-9210-45f6-9336-8968a15ed4c4)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.a2fdd9ab-8acc-4635-98c9-1ffca878d847)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.747a831a-9210-45f6-9336-8968a15ed4c4)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.a2fdd9ab-8acc-4635-98c9-1ffca878d847)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.747a831a-9210-45f6-9336-8968a15ed4c4)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.a2fdd9ab-8acc-4635-98c9-1ffca878d847)Try Claude  
 
 *   
 Meet Claude       
@@ -205,12 +205,12 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.747a831a-9210-45f6-9336-8968a15ed4c4/login)
+*   [Login](https://claude.ai/redirect/claudedotcom.v1.a2fdd9ab-8acc-4635-98c9-1ffca878d847/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.747a831a-9210-45f6-9336-8968a15ed4c4)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.a2fdd9ab-8acc-4635-98c9-1ffca878d847)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.747a831a-9210-45f6-9336-8968a15ed4c4)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.a2fdd9ab-8acc-4635-98c9-1ffca878d847)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -298,7 +298,7 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/redirect/claudedotcom.v1.747a831a-9210-45f6-9336-8968a15ed4c4)Try Claude
+[Try Claude](https://claude.ai/redirect/claudedotcom.v1.a2fdd9ab-8acc-4635-98c9-1ffca878d847)Try Claude
 
 All
 
@@ -620,9 +620,11 @@ May 13, 2026
 
 May 12, 2026
 
-Code w/ Claude SF 2026: Building on the AI exponential 
+Code w/ Claude SF 2026 recap: Building on the AI exponential 
 
-Code w/ Claude SF 2026: Building on the AI exponential 
+Product announcements
+
+Code w/ Claude SF 2026 recap: Building on the AI exponential 
 
 [](https://claude.com/blog-product/claude-code)
 
@@ -638,9 +640,9 @@ Coding
 
 May 12, 2026
 
-[Code w/ Claude SF 2026: Building on the AI exponential](https://claude.com/blog/code-w-claude-sf-2026-sf)Code w/ Claude SF 2026: Building on the AI exponential 
+[Code w/ Claude SF 2026 recap: Building on the AI exponential](https://claude.com/blog/code-w-claude-sf-2026-sf)Code w/ Claude SF 2026 recap: Building on the AI exponential 
 
-[Code w/ Claude SF 2026: Building on the AI exponential](https://claude.com/blog#)Code w/ Claude SF 2026: Building on the AI exponential 
+[Code w/ Claude SF 2026 recap: Building on the AI exponential](https://claude.com/blog#)Code w/ Claude SF 2026 recap: Building on the AI exponential 
 
 [](https://claude.com/blog/code-w-claude-sf-2026-sf)
 
@@ -1026,11 +1028,11 @@ May 13, 2026
 
 [](https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude)
 
-### Code w/ Claude SF 2026: Building on the AI exponential
+### Code w/ Claude SF 2026 recap: Building on the AI exponential
 
 Category
 
-No items found.
+Product announcements
 
 Product
 
@@ -1050,9 +1052,9 @@ Coding
 
 May 12, 2026
 
-[Code w/ Claude SF 2026: Building on the AI exponential](https://claude.com/blog/code-w-claude-sf-2026-sf)Code w/ Claude SF 2026: Building on the AI exponential 
+[Code w/ Claude SF 2026 recap: Building on the AI exponential](https://claude.com/blog/code-w-claude-sf-2026-sf)Code w/ Claude SF 2026 recap: Building on the AI exponential 
 
-[Code w/ Claude SF 2026: Building on the AI exponential](https://claude.com/blog#)Code w/ Claude SF 2026: Building on the AI exponential 
+[Code w/ Claude SF 2026 recap: Building on the AI exponential](https://claude.com/blog#)Code w/ Claude SF 2026 recap: Building on the AI exponential 
 
 [](https://claude.com/blog/code-w-claude-sf-2026-sf)
 
@@ -1358,7 +1360,7 @@ Download now
 
 ![Image 35](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/68e9140968560c6fe367e267_Hand-City-light.svg)![Image 36](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/68e9140d1a23dfc2e7405210_Hand-City-dark.svg)
 
-![Video 2](https://claude.com/blog)
+[Video 2](https://claude.com/blog)
 
 Search 
 
@@ -1489,7 +1491,7 @@ Products
 *   Enterprise plan [Enterprise plan](https://claude.com/pricing/enterprise)Enterprise plan 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.747a831a-9210-45f6-9336-8968a15ed4c4/login)Log in 
+*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.a2fdd9ab-8acc-4635-98c9-1ffca878d847/login)Log in 
 
 Features
 
