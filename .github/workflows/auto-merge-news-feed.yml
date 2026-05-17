@@ -37,7 +37,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_REPO: ${{ github.repository }}
+          CURRENT_PR: ${{ github.event.pull_request.number }}
         run: |
-          gh pr merge "${{ github.event.pull_request.number }}" \
+          gh pr merge "$CURRENT_PR" \
             --repo "$GH_REPO" \
             --merge
