@@ -18,9 +18,10 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CURRENT_PR: ${{ github.event.pull_request.number }}
+          GH_REPO: ${{ github.repository }}
         run: |
           gh pr list \
-            --repo "${{ github.repository }}" \
+            --repo "$GH_REPO" \
             --state open \
             --search "Update AI news feed in:title" \
             --json number \
@@ -28,14 +29,15 @@ jobs:
           | while read -r number; do
               if [ "$number" != "$CURRENT_PR" ]; then
                 echo "Closing duplicate PR #$number"
-                gh pr close "$number" --repo "${{ github.repository }}"
+                gh pr close "$number" --repo "$GH_REPO"
               fi
             done
 
       - name: Merge PR
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
         run: |
           gh pr merge "${{ github.event.pull_request.number }}" \
-            --repo "${{ github.repository }}" \
+            --repo "$GH_REPO" \
             --merge
