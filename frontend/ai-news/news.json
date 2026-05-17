@@ -928,33 +928,5 @@
       "Developer Tools",
       "Product Launch"
     ]
-  },
-  {
-    "title": "Codex for (almost) everything",
-    "url": "https://openai.com/index/codex-for-almost-everything",
-    "source": "OpenAI",
-    "date": "2026-04-16",
-    "tags": [
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Introducing GPT-Rosalind for life sciences research",
-    "url": "https://openai.com/index/introducing-gpt-rosalind",
-    "source": "OpenAI",
-    "date": "2026-04-16",
-    "tags": [
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Accelerating the cyber defense ecosystem that protects us all",
-    "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-    "source": "OpenAI",
-    "date": "2026-04-16",
-    "tags": [
-      "Enterprise",
-      "Opinion"
-    ]
   }
 ]
