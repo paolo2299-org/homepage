@@ -1,25 +1,25 @@
 [
   {
+    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "source": "OpenAI",
+    "date": "2026-05-18"
+  },
+  {
     "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
     "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
     "source": "OpenAI",
     "date": "2026-05-16"
   },
   {
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "url": "https://openai.com/index/databricks",
+    "source": "OpenAI",
+    "date": "2026-05-15"
+  },
+  {
     "title": "How business operations teams use Codex",
     "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-    "source": "OpenAI",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "How data science teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "source": "OpenAI",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "A new personal finance experience in ChatGPT",
-    "url": "https://openai.com/index/personal-finance-chatgpt",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
@@ -30,8 +30,14 @@
     "date": "2026-05-15"
   },
   {
-    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "url": "https://openai.com/index/databricks",
+    "title": "A new personal finance experience in ChatGPT",
+    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "source": "OpenAI",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "How data science teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
@@ -72,6 +78,12 @@
     "date": "2026-05-12"
   },
   {
+    "title": "How NVIDIA engineers and researchers build with Codex",
+    "url": "https://openai.com/index/nvidia",
+    "source": "OpenAI",
+    "date": "2026-05-12"
+  },
+  {
     "title": "What Parameter Golf taught us about AI-assisted research",
     "url": "https://openai.com/index/what-parameter-golf-taught-us",
     "source": "OpenAI",
@@ -80,12 +92,6 @@
   {
     "title": "AutoScout24 scales engineering with AI-powered workflows",
     "url": "https://openai.com/index/autoscout24",
-    "source": "OpenAI",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "How NVIDIA engineers and researchers build with Codex",
-    "url": "https://openai.com/index/nvidia",
     "source": "OpenAI",
     "date": "2026-05-12"
   },
@@ -138,14 +144,14 @@
     "date": "2026-05-07"
   },
   {
-    "title": "Introducing Trusted Contact in ChatGPT",
-    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "source": "OpenAI",
     "date": "2026-05-07"
   },
   {
-    "title": "Testing ads in ChatGPT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "title": "Introducing Trusted Contact in ChatGPT",
+    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
     "source": "OpenAI",
     "date": "2026-05-07"
   },
@@ -168,8 +174,8 @@
     "date": "2026-05-06"
   },
   {
-    "title": "Introducing ChatGPT Futures: Class of 2026",
-    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "url": "https://openai.com/index/singular-bank",
     "source": "OpenAI",
     "date": "2026-05-06"
   },
@@ -180,16 +186,10 @@
     "date": "2026-05-06"
   },
   {
-    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-    "url": "https://openai.com/index/singular-bank",
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
     "source": "OpenAI",
     "date": "2026-05-06"
-  },
-  {
-    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-    "url": "https://openai.com/index/gpt-5-5-instant",
-    "source": "OpenAI",
-    "date": "2026-05-05"
   },
   {
     "title": "GPT-5.5 Instant System Card",
@@ -204,14 +204,20 @@
     "date": "2026-05-05"
   },
   {
-    "title": "New ways to buy ChatGPT ads",
-    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "url": "https://openai.com/index/gpt-5-5-instant",
     "source": "OpenAI",
     "date": "2026-05-05"
   },
   {
     "title": "Advancing youth safety and wellbeing in EMEA",
     "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+    "source": "OpenAI",
+    "date": "2026-05-05"
+  },
+  {
+    "title": "New ways to buy ChatGPT ads",
+    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
     "source": "OpenAI",
     "date": "2026-05-05"
   },
@@ -252,14 +258,14 @@
     "date": "2026-04-29"
   },
   {
-    "title": "Our commitment to community safety",
-    "url": "https://openai.com/index/our-commitment-to-community-safety",
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "url": "https://openai.com/index/openai-on-aws",
     "source": "OpenAI",
     "date": "2026-04-28"
   },
   {
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "url": "https://openai.com/index/openai-on-aws",
+    "title": "Our commitment to community safety",
+    "url": "https://openai.com/index/our-commitment-to-community-safety",
     "source": "OpenAI",
     "date": "2026-04-28"
   },
@@ -294,26 +300,38 @@
     "date": "2026-04-26"
   },
   {
-    "title": "GPT-5.5 System Card",
-    "url": "https://openai.com/index/gpt-5-5-system-card",
-    "source": "OpenAI",
-    "date": "2026-04-23"
-  },
-  {
     "title": "Introducing GPT-5.5",
     "url": "https://openai.com/index/introducing-gpt-5-5",
     "source": "OpenAI",
     "date": "2026-04-23"
   },
   {
-    "title": "How to get started with Codex",
-    "url": "https://openai.com/academy/codex-how-to-start",
+    "title": "GPT-5.5 System Card",
+    "url": "https://openai.com/index/gpt-5-5-system-card",
+    "source": "OpenAI",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Plugins and skills",
+    "url": "https://openai.com/academy/codex-plugins-and-skills",
+    "source": "OpenAI",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Working with Codex",
+    "url": "https://openai.com/academy/working-with-codex",
     "source": "OpenAI",
     "date": "2026-04-23"
   },
   {
     "title": "Codex settings",
     "url": "https://openai.com/academy/codex-settings",
+    "source": "OpenAI",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "How to get started with Codex",
+    "url": "https://openai.com/academy/codex-how-to-start",
     "source": "OpenAI",
     "date": "2026-04-23"
   },
@@ -326,18 +344,6 @@
   {
     "title": "Automations",
     "url": "https://openai.com/academy/codex-automations",
-    "source": "OpenAI",
-    "date": "2026-04-23"
-  },
-  {
-    "title": "Working with Codex",
-    "url": "https://openai.com/academy/working-with-codex",
-    "source": "OpenAI",
-    "date": "2026-04-23"
-  },
-  {
-    "title": "Plugins and skills",
-    "url": "https://openai.com/academy/codex-plugins-and-skills",
     "source": "OpenAI",
     "date": "2026-04-23"
   },
@@ -360,8 +366,8 @@
     "date": "2026-04-22"
   },
   {
-    "title": "Workspace agents",
-    "url": "https://openai.com/academy/workspace-agents",
+    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+    "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
     "source": "OpenAI",
     "date": "2026-04-22"
   },
@@ -372,8 +378,8 @@
     "date": "2026-04-22"
   },
   {
-    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-    "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+    "title": "Workspace agents",
+    "url": "https://openai.com/academy/workspace-agents",
     "source": "OpenAI",
     "date": "2026-04-22"
   },
