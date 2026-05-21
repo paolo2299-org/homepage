@@ -1,5 +1,121 @@
 [
   {
+    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+    "url": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
+    "source": "Claude",
+    "date": "2026-05-20",
+    "tags": [
+      "Developer Tools",
+      "Case Study"
+    ]
+  },
+  {
+    "title": "How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book",
+    "url": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
+    "source": "Claude",
+    "date": "2026-05-20",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "source": "OpenAI",
+    "date": "2026-05-20",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "The next phase of OpenAI\u2019s Education for Countries",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "source": "OpenAI",
+    "date": "2026-05-20",
+    "tags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "url": "https://openai.com/index/ramp",
+    "source": "OpenAI",
+    "date": "2026-05-20",
+    "tags": [
+      "Case Study",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+    "url": "https://claude.com/blog/claude-managed-agents-updates",
+    "source": "Claude",
+    "date": "2026-05-19",
+    "tags": [
+      "Product Launch",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Introducing OpenAI for Singapore",
+    "url": "https://openai.com/index/introducing-openai-for-singapore",
+    "source": "OpenAI",
+    "date": "2026-05-19",
+    "tags": [
+      "Enterprise",
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "url": "https://openai.com/index/advancing-content-provenance",
+    "source": "OpenAI",
+    "date": "2026-05-19",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Introducing Managed Agents in the Gemini API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/",
+    "source": "Google",
+    "date": "2026-05-19",
+    "tags": [
+      "Product Launch",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Bring any idea to life: Google AI Studio at I/O 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026/",
+    "source": "Google",
+    "date": "2026-05-19",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Building the agentic future: Developer highlights from I/O 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/",
+    "source": "Google",
+    "date": "2026-05-19",
+    "tags": [
+      "Product Launch",
+      "Agents"
+    ]
+  },
+  {
+    "title": "I/O 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+    "source": "Google",
+    "date": "2026-05-19",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
     "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
     "url": "https://openai.com/index/dell-codex-enterprise-partnership",
     "source": "OpenAI",
@@ -927,26 +1043,6 @@
     "tags": [
       "Product Launch",
       "Agents"
-    ]
-  },
-  {
-    "title": "OpenAI helps Hyatt advance AI among colleagues",
-    "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-    "source": "OpenAI",
-    "date": "2026-04-20",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Start vibe coding in AI Studio with your Google AI subscription",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-one-ai-studio/",
-    "source": "Google",
-    "date": "2026-04-20",
-    "tags": [
-      "Developer Tools",
-      "Product Launch"
     ]
   }
 ]
