@@ -29,7 +29,7 @@
     ]
   },
   {
-    "title": "The next phase of OpenAI\u2019s Education for Countries",
+    "title": "The next phase of OpenAI’s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20",
@@ -1015,34 +1015,6 @@
     "date": "2026-04-22",
     "tags": [
       "Product Launch"
-    ]
-  },
-  {
-    "title": "Introducing ChatGPT Images 2.0",
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
-    "source": "OpenAI",
-    "date": "2026-04-21",
-    "tags": [
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Scaling Codex to enterprises worldwide",
-    "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-    "source": "OpenAI",
-    "date": "2026-04-21",
-    "tags": [
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Deep Research Max: a step change for autonomous research agents",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research/",
-    "source": "Google",
-    "date": "2026-04-21",
-    "tags": [
-      "Product Launch",
-      "Agents"
     ]
   }
 ]
