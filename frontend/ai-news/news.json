@@ -1,5 +1,35 @@
 [
   {
+    "title": "Claude now works with more security and compliance tools",
+    "url": "https://claude.com/blog/compliance-api-security-partners",
+    "source": "Claude",
+    "date": "2026-05-21",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "How our partners are putting Opus to work for cybersecurity",
+    "url": "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity",
+    "source": "Claude",
+    "date": "2026-05-21",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "url": "https://openai.com/index/adventhealth",
+    "source": "OpenAI",
+    "date": "2026-05-21",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Using Claude Code: The unreasonable effectiveness of HTML",
     "url": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
     "source": "Claude",
@@ -29,7 +59,7 @@
     ]
   },
   {
-    "title": "The next phase of OpenAI’s Education for Countries",
+    "title": "The next phase of OpenAI\u2019s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20",
