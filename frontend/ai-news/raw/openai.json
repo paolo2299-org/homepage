@@ -1,13 +1,25 @@
 [
   {
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "source": "OpenAI",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "How Virgin Atlantic ships faster with Codex",
+    "url": "https://openai.com/index/virgin-atlantic",
+    "source": "OpenAI",
+    "date": "2026-05-22"
+  },
+  {
     "title": "AdventHealth advances whole-person care with OpenAI",
     "url": "https://openai.com/index/adventhealth",
     "source": "OpenAI",
     "date": "2026-05-21"
   },
   {
-    "title": "How Ramp engineers accelerate code review with Codex",
-    "url": "https://openai.com/index/ramp",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
     "source": "OpenAI",
     "date": "2026-05-20"
   },
@@ -18,8 +30,8 @@
     "date": "2026-05-20"
   },
   {
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "url": "https://openai.com/index/ramp",
     "source": "OpenAI",
     "date": "2026-05-20"
   },
@@ -48,8 +60,8 @@
     "date": "2026-05-16"
   },
   {
-    "title": "How sales teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "title": "How data science teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
@@ -60,20 +72,20 @@
     "date": "2026-05-15"
   },
   {
-    "title": "How business operations teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-    "source": "OpenAI",
-    "date": "2026-05-15"
-  },
-  {
     "title": "A new personal finance experience in ChatGPT",
     "url": "https://openai.com/index/personal-finance-chatgpt",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
   {
-    "title": "How data science teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "title": "How business operations teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "source": "OpenAI",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "How sales teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
@@ -114,12 +126,6 @@
     "date": "2026-05-12"
   },
   {
-    "title": "How NVIDIA engineers and researchers build with Codex",
-    "url": "https://openai.com/index/nvidia",
-    "source": "OpenAI",
-    "date": "2026-05-12"
-  },
-  {
     "title": "What Parameter Golf taught us about AI-assisted research",
     "url": "https://openai.com/index/what-parameter-golf-taught-us",
     "source": "OpenAI",
@@ -128,6 +134,12 @@
   {
     "title": "AutoScout24 scales engineering with AI-powered workflows",
     "url": "https://openai.com/index/autoscout24",
+    "source": "OpenAI",
+    "date": "2026-05-12"
+  },
+  {
+    "title": "How NVIDIA engineers and researchers build with Codex",
+    "url": "https://openai.com/index/nvidia",
     "source": "OpenAI",
     "date": "2026-05-12"
   },
@@ -180,14 +192,14 @@
     "date": "2026-05-07"
   },
   {
-    "title": "Testing ads in ChatGPT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "title": "Introducing Trusted Contact in ChatGPT",
+    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
     "source": "OpenAI",
     "date": "2026-05-07"
   },
   {
-    "title": "Introducing Trusted Contact in ChatGPT",
-    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "source": "OpenAI",
     "date": "2026-05-07"
   },
@@ -204,8 +216,8 @@
     "date": "2026-05-06"
   },
   {
-    "title": "Uber uses OpenAI to help people earn smarter and book faster",
-    "url": "https://openai.com/index/uber",
+    "title": "How frontier firms are pulling ahead",
+    "url": "https://openai.com/index/introducing-b2b-signals",
     "source": "OpenAI",
     "date": "2026-05-06"
   },
@@ -216,8 +228,8 @@
     "date": "2026-05-06"
   },
   {
-    "title": "How frontier firms are pulling ahead",
-    "url": "https://openai.com/index/introducing-b2b-signals",
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "url": "https://openai.com/index/uber",
     "source": "OpenAI",
     "date": "2026-05-06"
   },
@@ -234,14 +246,14 @@
     "date": "2026-05-05"
   },
   {
-    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-    "url": "https://openai.com/index/mrc-supercomputer-networking",
+    "title": "GPT-5.5 Instant System Card",
+    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
     "source": "OpenAI",
     "date": "2026-05-05"
   },
   {
-    "title": "GPT-5.5 Instant System Card",
-    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "url": "https://openai.com/index/mrc-supercomputer-networking",
     "source": "OpenAI",
     "date": "2026-05-05"
   },
@@ -348,20 +360,14 @@
     "date": "2026-04-23"
   },
   {
-    "title": "Top 10 uses for Codex at work",
-    "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-    "source": "OpenAI",
-    "date": "2026-04-23"
-  },
-  {
     "title": "Codex settings",
     "url": "https://openai.com/academy/codex-settings",
     "source": "OpenAI",
     "date": "2026-04-23"
   },
   {
-    "title": "Working with Codex",
-    "url": "https://openai.com/academy/working-with-codex",
+    "title": "How to get started with Codex",
+    "url": "https://openai.com/academy/codex-how-to-start",
     "source": "OpenAI",
     "date": "2026-04-23"
   },
@@ -372,8 +378,14 @@
     "date": "2026-04-23"
   },
   {
-    "title": "How to get started with Codex",
-    "url": "https://openai.com/academy/codex-how-to-start",
+    "title": "Working with Codex",
+    "url": "https://openai.com/academy/working-with-codex",
+    "source": "OpenAI",
+    "date": "2026-04-23"
+  },
+  {
+    "title": "Top 10 uses for Codex at work",
+    "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
     "source": "OpenAI",
     "date": "2026-04-23"
   },
@@ -388,35 +400,5 @@
     "url": "https://openai.com/academy/codex-automations",
     "source": "OpenAI",
     "date": "2026-04-23"
-  },
-  {
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
-    "source": "OpenAI",
-    "date": "2026-04-23"
-  },
-  {
-    "title": "Making ChatGPT better for clinicians",
-    "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
-    "source": "OpenAI",
-    "date": "2026-04-22"
-  },
-  {
-    "title": "Introducing workspace agents in ChatGPT",
-    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-    "source": "OpenAI",
-    "date": "2026-04-22"
-  },
-  {
-    "title": "Workspace agents",
-    "url": "https://openai.com/academy/workspace-agents",
-    "source": "OpenAI",
-    "date": "2026-04-22"
-  },
-  {
-    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-    "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-    "source": "OpenAI",
-    "date": "2026-04-22"
   }
 ]
