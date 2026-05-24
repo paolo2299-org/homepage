@@ -59,7 +59,7 @@
     ]
   },
   {
-    "title": "The next phase of OpenAI\u2019s Education for Countries",
+    "title": "The next phase of OpenAI’s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20",
@@ -876,117 +876,6 @@
     "date": "2026-04-26",
     "tags": [
       "Opinion"
-    ]
-  },
-  {
-    "title": "New connectors in Claude for everyday life",
-    "url": "https://claude.com/blog/connectors-for-everyday-life",
-    "source": "Claude",
-    "date": "2026-04-23",
-    "tags": [
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Built-in memory for Claude Managed Agents",
-    "url": "https://claude.com/blog/claude-managed-agents-memory",
-    "source": "Claude",
-    "date": "2026-04-23",
-    "tags": [
-      "Product Launch",
-      "Agents"
-    ]
-  },
-  {
-    "title": "Introducing GPT-5.5",
-    "url": "https://openai.com/index/introducing-gpt-5-5",
-    "source": "OpenAI",
-    "date": "2026-04-23",
-    "tags": [
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "GPT-5.5 System Card",
-    "url": "https://openai.com/index/gpt-5-5-system-card",
-    "source": "OpenAI",
-    "date": "2026-04-23",
-    "tags": [
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "What is Codex?",
-    "url": "https://openai.com/academy/what-is-codex",
-    "source": "OpenAI",
-    "date": "2026-04-23",
-    "tags": [
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Automations",
-    "url": "https://openai.com/academy/codex-automations",
-    "source": "OpenAI",
-    "date": "2026-04-23",
-    "tags": [
-      "Developer Tools",
-      "Agents"
-    ]
-  },
-  {
-    "title": "Top 10 uses for Codex at work",
-    "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-    "source": "OpenAI",
-    "date": "2026-04-23",
-    "tags": [
-      "Enterprise",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Plugins and skills",
-    "url": "https://openai.com/academy/codex-plugins-and-skills",
-    "source": "OpenAI",
-    "date": "2026-04-23",
-    "tags": [
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Codex settings",
-    "url": "https://openai.com/academy/codex-settings",
-    "source": "OpenAI",
-    "date": "2026-04-23",
-    "tags": [
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "How to get started with Codex",
-    "url": "https://openai.com/academy/codex-how-to-start",
-    "source": "OpenAI",
-    "date": "2026-04-23",
-    "tags": [
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Working with Codex",
-    "url": "https://openai.com/academy/working-with-codex",
-    "source": "OpenAI",
-    "date": "2026-04-23",
-    "tags": [
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
-    "source": "OpenAI",
-    "date": "2026-04-23",
-    "tags": [
-      "Product Launch"
     ]
   }
 ]
