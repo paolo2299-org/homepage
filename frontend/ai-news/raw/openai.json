@@ -60,8 +60,8 @@
     "date": "2026-05-16"
   },
   {
-    "title": "How data science teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "title": "How sales teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
@@ -84,8 +84,8 @@
     "date": "2026-05-15"
   },
   {
-    "title": "How sales teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "title": "How data science teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
@@ -126,12 +126,6 @@
     "date": "2026-05-12"
   },
   {
-    "title": "What Parameter Golf taught us about AI-assisted research",
-    "url": "https://openai.com/index/what-parameter-golf-taught-us",
-    "source": "OpenAI",
-    "date": "2026-05-12"
-  },
-  {
     "title": "AutoScout24 scales engineering with AI-powered workflows",
     "url": "https://openai.com/index/autoscout24",
     "source": "OpenAI",
@@ -140,6 +134,12 @@
   {
     "title": "How NVIDIA engineers and researchers build with Codex",
     "url": "https://openai.com/index/nvidia",
+    "source": "OpenAI",
+    "date": "2026-05-12"
+  },
+  {
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "url": "https://openai.com/index/what-parameter-golf-taught-us",
     "source": "OpenAI",
     "date": "2026-05-12"
   },
@@ -216,8 +216,8 @@
     "date": "2026-05-06"
   },
   {
-    "title": "How frontier firms are pulling ahead",
-    "url": "https://openai.com/index/introducing-b2b-signals",
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "url": "https://openai.com/index/singular-bank",
     "source": "OpenAI",
     "date": "2026-05-06"
   },
@@ -234,20 +234,20 @@
     "date": "2026-05-06"
   },
   {
-    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-    "url": "https://openai.com/index/singular-bank",
+    "title": "How frontier firms are pulling ahead",
+    "url": "https://openai.com/index/introducing-b2b-signals",
     "source": "OpenAI",
     "date": "2026-05-06"
   },
   {
-    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-    "url": "https://openai.com/index/gpt-5-5-instant",
+    "title": "GPT-5.5 Instant System Card",
+    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
     "source": "OpenAI",
     "date": "2026-05-05"
   },
   {
-    "title": "GPT-5.5 Instant System Card",
-    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "url": "https://openai.com/index/gpt-5-5-instant",
     "source": "OpenAI",
     "date": "2026-05-05"
   },
@@ -306,14 +306,14 @@
     "date": "2026-04-29"
   },
   {
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "url": "https://openai.com/index/openai-on-aws",
+    "title": "Our commitment to community safety",
+    "url": "https://openai.com/index/our-commitment-to-community-safety",
     "source": "OpenAI",
     "date": "2026-04-28"
   },
   {
-    "title": "Our commitment to community safety",
-    "url": "https://openai.com/index/our-commitment-to-community-safety",
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "url": "https://openai.com/index/openai-on-aws",
     "source": "OpenAI",
     "date": "2026-04-28"
   },
@@ -346,59 +346,5 @@
     "url": "https://openai.com/index/our-principles",
     "source": "OpenAI",
     "date": "2026-04-26"
-  },
-  {
-    "title": "Introducing GPT-5.5",
-    "url": "https://openai.com/index/introducing-gpt-5-5",
-    "source": "OpenAI",
-    "date": "2026-04-23"
-  },
-  {
-    "title": "GPT-5.5 System Card",
-    "url": "https://openai.com/index/gpt-5-5-system-card",
-    "source": "OpenAI",
-    "date": "2026-04-23"
-  },
-  {
-    "title": "Codex settings",
-    "url": "https://openai.com/academy/codex-settings",
-    "source": "OpenAI",
-    "date": "2026-04-23"
-  },
-  {
-    "title": "How to get started with Codex",
-    "url": "https://openai.com/academy/codex-how-to-start",
-    "source": "OpenAI",
-    "date": "2026-04-23"
-  },
-  {
-    "title": "Plugins and skills",
-    "url": "https://openai.com/academy/codex-plugins-and-skills",
-    "source": "OpenAI",
-    "date": "2026-04-23"
-  },
-  {
-    "title": "Working with Codex",
-    "url": "https://openai.com/academy/working-with-codex",
-    "source": "OpenAI",
-    "date": "2026-04-23"
-  },
-  {
-    "title": "Top 10 uses for Codex at work",
-    "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-    "source": "OpenAI",
-    "date": "2026-04-23"
-  },
-  {
-    "title": "What is Codex?",
-    "url": "https://openai.com/academy/what-is-codex",
-    "source": "OpenAI",
-    "date": "2026-04-23"
-  },
-  {
-    "title": "Automations",
-    "url": "https://openai.com/academy/codex-automations",
-    "source": "OpenAI",
-    "date": "2026-04-23"
   }
 ]
