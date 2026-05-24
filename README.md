@@ -1,7 +1,7 @@
 # homepage
 
 Personal site for `pdlawson.com` — a single static frontend served by Nginx and deployed to a VPS.
-
+ 
 ## Running locally with Docker Compose
 
 From the repo root:
