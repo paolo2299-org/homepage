@@ -1,5 +1,35 @@
 [
   {
+    "title": "How Anthropic's finance team uses Claude to shape the narrative behind the numbers",
+    "url": "https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers",
+    "source": "Claude",
+    "date": "2026-05-22",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "source": "OpenAI",
+    "date": "2026-05-22",
+    "tags": [
+      "Enterprise",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "How Virgin Atlantic ships faster with Codex",
+    "url": "https://openai.com/index/virgin-atlantic",
+    "source": "OpenAI",
+    "date": "2026-05-22",
+    "tags": [
+      "Case Study",
+      "Developer Tools"
+    ]
+  },
+  {
     "title": "Claude now works with more security and compliance tools",
     "url": "https://claude.com/blog/compliance-api-security-partners",
     "source": "Claude",
@@ -59,7 +89,7 @@
     ]
   },
   {
-    "title": "The next phase of OpenAI’s Education for Countries",
+    "title": "The next phase of OpenAI\u2019s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20",
