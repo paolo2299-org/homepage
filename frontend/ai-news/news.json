@@ -1,5 +1,15 @@
 [
   {
+    "title": "Code w/ Claude London 2026: Rethinking how we build",
+    "url": "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build",
+    "source": "Claude",
+    "date": "2026-05-26",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
     "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
     "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
     "source": "OpenAI",
@@ -98,7 +108,7 @@
     ]
   },
   {
-    "title": "The next phase of OpenAI’s Education for Countries",
+    "title": "The next phase of OpenAI\u2019s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20",
@@ -906,15 +916,6 @@
     "tags": [
       "Developer Tools",
       "Agents"
-    ]
-  },
-  {
-    "title": "Our principles",
-    "url": "https://openai.com/index/our-principles",
-    "source": "OpenAI",
-    "date": "2026-04-26",
-    "tags": [
-      "Opinion"
     ]
   }
 ]
