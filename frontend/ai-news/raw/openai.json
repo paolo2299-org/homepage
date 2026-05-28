@@ -1,5 +1,29 @@
 [
   {
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "url": "https://openai.com/index/cisco",
+    "source": "OpenAI",
+    "date": "2026-05-27"
+  },
+  {
+    "title": "Building self-improving tax agents with Codex",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "source": "OpenAI",
+    "date": "2026-05-27"
+  },
+  {
+    "title": "Election information and safeguards in 2026",
+    "url": "https://openai.com/index/election-safeguards-2026",
+    "source": "OpenAI",
+    "date": "2026-05-27"
+  },
+  {
+    "title": "Warp\u2019s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
+    "source": "OpenAI",
+    "date": "2026-05-27"
+  },
+  {
     "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
     "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
     "source": "OpenAI",
@@ -66,14 +90,14 @@
     "date": "2026-05-16"
   },
   {
-    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "url": "https://openai.com/index/databricks",
+    "title": "A new personal finance experience in ChatGPT",
+    "url": "https://openai.com/index/personal-finance-chatgpt",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
   {
-    "title": "How sales teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "url": "https://openai.com/index/databricks",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
@@ -84,14 +108,14 @@
     "date": "2026-05-15"
   },
   {
-    "title": "How data science teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "title": "How sales teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
   {
-    "title": "A new personal finance experience in ChatGPT",
-    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "title": "How data science teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
@@ -132,12 +156,6 @@
     "date": "2026-05-12"
   },
   {
-    "title": "What Parameter Golf taught us about AI-assisted research",
-    "url": "https://openai.com/index/what-parameter-golf-taught-us",
-    "source": "OpenAI",
-    "date": "2026-05-12"
-  },
-  {
     "title": "AutoScout24 scales engineering with AI-powered workflows",
     "url": "https://openai.com/index/autoscout24",
     "source": "OpenAI",
@@ -146,6 +164,12 @@
   {
     "title": "How NVIDIA engineers and researchers build with Codex",
     "url": "https://openai.com/index/nvidia",
+    "source": "OpenAI",
+    "date": "2026-05-12"
+  },
+  {
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "url": "https://openai.com/index/what-parameter-golf-taught-us",
     "source": "OpenAI",
     "date": "2026-05-12"
   },
@@ -228,14 +252,14 @@
     "date": "2026-05-06"
   },
   {
-    "title": "How frontier firms are pulling ahead",
-    "url": "https://openai.com/index/introducing-b2b-signals",
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "url": "https://openai.com/index/singular-bank",
     "source": "OpenAI",
     "date": "2026-05-06"
   },
   {
-    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-    "url": "https://openai.com/index/singular-bank",
+    "title": "How frontier firms are pulling ahead",
+    "url": "https://openai.com/index/introducing-b2b-signals",
     "source": "OpenAI",
     "date": "2026-05-06"
   },
@@ -264,14 +288,14 @@
     "date": "2026-05-05"
   },
   {
-    "title": "Advancing youth safety and wellbeing in EMEA",
-    "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+    "title": "New ways to buy ChatGPT ads",
+    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
     "source": "OpenAI",
     "date": "2026-05-05"
   },
   {
-    "title": "New ways to buy ChatGPT ads",
-    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "title": "Advancing youth safety and wellbeing in EMEA",
+    "url": "https://openai.com/index/advancing-youth-safety-in-emea",
     "source": "OpenAI",
     "date": "2026-05-05"
   },
@@ -310,23 +334,5 @@
     "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
     "source": "OpenAI",
     "date": "2026-04-29"
-  },
-  {
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "url": "https://openai.com/index/openai-on-aws",
-    "source": "OpenAI",
-    "date": "2026-04-28"
-  },
-  {
-    "title": "Our commitment to community safety",
-    "url": "https://openai.com/index/our-commitment-to-community-safety",
-    "source": "OpenAI",
-    "date": "2026-04-28"
-  },
-  {
-    "title": "OpenAI available at FedRAMP Moderate",
-    "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
-    "source": "OpenAI",
-    "date": "2026-04-27"
   }
 ]
