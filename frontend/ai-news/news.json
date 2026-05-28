@@ -1,5 +1,74 @@
 [
   {
+    "title": "Using LLMs to secure source code",
+    "url": "https://claude.com/blog/using-llms-to-secure-source-code",
+    "source": "Claude",
+    "date": "2026-05-27",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "How CodeRabbit used Claude to build an agent orchestration system",
+    "url": "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system",
+    "source": "Claude",
+    "date": "2026-05-27",
+    "tags": [
+      "Agents",
+      "Case Study"
+    ]
+  },
+  {
+    "title": "Zero Trust for AI agents",
+    "url": "https://claude.com/blog/zero-trust-for-ai-agents",
+    "source": "Claude",
+    "date": "2026-05-27",
+    "tags": [
+      "Agents",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "url": "https://openai.com/index/cisco",
+    "source": "OpenAI",
+    "date": "2026-05-27",
+    "tags": [
+      "Enterprise",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Building self-improving tax agents with Codex",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "source": "OpenAI",
+    "date": "2026-05-27",
+    "tags": [
+      "Agents",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Election information and safeguards in 2026",
+    "url": "https://openai.com/index/election-safeguards-2026",
+    "source": "OpenAI",
+    "date": "2026-05-27",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Warp's big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
+    "source": "OpenAI",
+    "date": "2026-05-27",
+    "tags": [
+      "Developer Tools",
+      "Case Study"
+    ]
+  },
+  {
     "title": "Code w/ Claude London 2026: Rethinking how we build",
     "url": "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build",
     "source": "Claude",
@@ -108,7 +177,7 @@
     ]
   },
   {
-    "title": "The next phase of OpenAI\u2019s Education for Countries",
+    "title": "The next phase of OpenAI’s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20",
@@ -838,84 +907,6 @@
     "tags": [
       "Opinion",
       "Enterprise"
-    ]
-  },
-  {
-    "title": "Onboarding Claude Code like a new developer: Lessons from 17 years of development",
-    "url": "https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development",
-    "source": "Claude",
-    "date": "2026-04-28",
-    "tags": [
-      "Developer Tools",
-      "Case Study"
-    ]
-  },
-  {
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "url": "https://openai.com/index/openai-on-aws",
-    "source": "OpenAI",
-    "date": "2026-04-28",
-    "tags": [
-      "Product Launch",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Our commitment to community safety",
-    "url": "https://openai.com/index/our-commitment-to-community-safety",
-    "source": "OpenAI",
-    "date": "2026-04-28",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "OpenAI available at FedRAMP Moderate",
-    "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
-    "source": "OpenAI",
-    "date": "2026-04-27",
-    "tags": [
-      "Product Launch",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "The next phase of the Microsoft OpenAI partnership",
-    "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
-    "source": "OpenAI",
-    "date": "2026-04-27",
-    "tags": [
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "An open-source spec for orchestration: Symphony",
-    "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
-    "source": "OpenAI",
-    "date": "2026-04-27",
-    "tags": [
-      "Developer Tools",
-      "Agents"
-    ]
-  },
-  {
-    "title": "Choco automates food distribution with AI agents",
-    "url": "https://openai.com/index/choco",
-    "source": "OpenAI",
-    "date": "2026-04-27",
-    "tags": [
-      "Case Study",
-      "Agents"
-    ]
-  },
-  {
-    "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-    "source": "Google",
-    "date": "2026-04-27",
-    "tags": [
-      "Developer Tools",
-      "Agents"
     ]
   }
 ]
