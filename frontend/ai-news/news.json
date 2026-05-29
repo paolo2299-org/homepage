@@ -1,5 +1,44 @@
 [
   {
+    "title": "Introducing dynamic workflows in Claude Code",
+    "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+    "source": "Claude",
+    "date": "2026-05-28",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "How Endava builds an agentic organization with Codex",
+    "url": "https://openai.com/index/endava",
+    "source": "OpenAI",
+    "date": "2026-05-28",
+    "tags": [
+      "Case Study",
+      "Agents"
+    ]
+  },
+  {
+    "title": "OpenAI’s Frontier Governance Framework",
+    "url": "https://openai.com/index/openai-frontier-governance-framework",
+    "source": "OpenAI",
+    "date": "2026-05-28",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
+    "source": "OpenAI",
+    "date": "2026-05-28",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Using LLMs to secure source code",
     "url": "https://claude.com/blog/using-llms-to-secure-source-code",
     "source": "Claude",
