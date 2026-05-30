@@ -2,7 +2,7 @@ Title: Blog | Claude
 
 URL Source: https://claude.com/blog
 
-Published Time: Thu, 28 May 2026 20:33:09 GMT
+Published Time: Sat, 30 May 2026 03:04:03 GMT
 
 Markdown Content:
 # Blog | Claude
@@ -105,19 +105,19 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.381a2838-6844-4e1f-97f2-a2a768b24099/login)
+*   [Login](https://claude.ai/redirect/claudedotcom.v1.077dd6fc-0364-4415-b4e6-3d04876980b6/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.381a2838-6844-4e1f-97f2-a2a768b24099)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.077dd6fc-0364-4415-b4e6-3d04876980b6)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.381a2838-6844-4e1f-97f2-a2a768b24099)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.077dd6fc-0364-4415-b4e6-3d04876980b6)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.381a2838-6844-4e1f-97f2-a2a768b24099)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.077dd6fc-0364-4415-b4e6-3d04876980b6)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.381a2838-6844-4e1f-97f2-a2a768b24099)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.077dd6fc-0364-4415-b4e6-3d04876980b6)Try Claude  
 
 *   
 Meet Claude       
@@ -215,12 +215,12 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.381a2838-6844-4e1f-97f2-a2a768b24099/login)
+*   [Login](https://claude.ai/redirect/claudedotcom.v1.077dd6fc-0364-4415-b4e6-3d04876980b6/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.381a2838-6844-4e1f-97f2-a2a768b24099)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.077dd6fc-0364-4415-b4e6-3d04876980b6)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.381a2838-6844-4e1f-97f2-a2a768b24099)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.077dd6fc-0364-4415-b4e6-3d04876980b6)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -308,7 +308,7 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/redirect/claudedotcom.v1.381a2838-6844-4e1f-97f2-a2a768b24099)Try Claude
+[Try Claude](https://claude.ai/redirect/claudedotcom.v1.077dd6fc-0364-4415-b4e6-3d04876980b6)Try Claude
 
 All
 
@@ -1485,7 +1485,7 @@ Products
 *   Enterprise plan [Enterprise plan](https://claude.com/pricing/enterprise)Enterprise plan 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.381a2838-6844-4e1f-97f2-a2a768b24099/login)Log in 
+*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.077dd6fc-0364-4415-b4e6-3d04876980b6/login)Log in 
 
 Features
 
@@ -1524,7 +1524,7 @@ Claude Platform
 *   Pricing [Pricing](https://claude.com/pricing#api)Pricing 
 *   Marketplace [Marketplace](https://claude.com/platform/marketplace)Marketplace 
 *   Claude on AWS [Claude on AWS](https://claude.com/partners/claude-on-aws)Claude on AWS 
-*   Google Cloud’s Vertex AI [Google Cloud’s Vertex AI](https://claude.com/partners/google-cloud-vertex-ai)Google Cloud’s Vertex AI 
+*   Google Cloud [Google Cloud](https://claude.com/partners/google-cloud)Google Cloud 
 *   Microsoft Foundry [Microsoft Foundry](https://claude.com/partners/microsoft-foundry)Microsoft Foundry 
 *   Regional compliance [Regional compliance](https://claude.com/regional-compliance)Regional compliance 
 *   Console login [Console login](https://platform.claude.com/)Console login 
