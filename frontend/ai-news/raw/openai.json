@@ -54,14 +54,14 @@
     "date": "2026-05-27"
   },
   {
-    "title": "Election information and safeguards in 2026",
-    "url": "https://openai.com/index/election-safeguards-2026",
+    "title": "Warp\u2019s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
     "source": "OpenAI",
     "date": "2026-05-27"
   },
   {
-    "title": "Warp\u2019s big bet on building open source with GPT-5.5",
-    "url": "https://openai.com/index/warp",
+    "title": "Election information and safeguards in 2026",
+    "url": "https://openai.com/index/election-safeguards-2026",
     "source": "OpenAI",
     "date": "2026-05-27"
   },
@@ -72,14 +72,14 @@
     "date": "2026-05-25"
   },
   {
-    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "title": "How Virgin Atlantic ships faster with Codex",
+    "url": "https://openai.com/index/virgin-atlantic",
     "source": "OpenAI",
     "date": "2026-05-22"
   },
   {
-    "title": "How Virgin Atlantic ships faster with Codex",
-    "url": "https://openai.com/index/virgin-atlantic",
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
     "source": "OpenAI",
     "date": "2026-05-22"
   },
@@ -90,14 +90,14 @@
     "date": "2026-05-21"
   },
   {
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "title": "The next phase of OpenAI\u2019s Education for Countries",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20"
   },
   {
-    "title": "The next phase of OpenAI\u2019s Education for Countries",
-    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
     "source": "OpenAI",
     "date": "2026-05-20"
   },
@@ -138,12 +138,6 @@
     "date": "2026-05-15"
   },
   {
-    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "url": "https://openai.com/index/databricks",
-    "source": "OpenAI",
-    "date": "2026-05-15"
-  },
-  {
     "title": "A new personal finance experience in ChatGPT",
     "url": "https://openai.com/index/personal-finance-chatgpt",
     "source": "OpenAI",
@@ -152,6 +146,12 @@
   {
     "title": "How data science teams use Codex",
     "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "source": "OpenAI",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "url": "https://openai.com/index/databricks",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
@@ -198,6 +198,12 @@
     "date": "2026-05-12"
   },
   {
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "url": "https://openai.com/index/what-parameter-golf-taught-us",
+    "source": "OpenAI",
+    "date": "2026-05-12"
+  },
+  {
     "title": "AutoScout24 scales engineering with AI-powered workflows",
     "url": "https://openai.com/index/autoscout24",
     "source": "OpenAI",
@@ -206,12 +212,6 @@
   {
     "title": "How NVIDIA engineers and researchers build with Codex",
     "url": "https://openai.com/index/nvidia",
-    "source": "OpenAI",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "What Parameter Golf taught us about AI-assisted research",
-    "url": "https://openai.com/index/what-parameter-golf-taught-us",
     "source": "OpenAI",
     "date": "2026-05-12"
   },
@@ -264,14 +264,14 @@
     "date": "2026-05-07"
   },
   {
-    "title": "Introducing Trusted Contact in ChatGPT",
-    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "source": "OpenAI",
     "date": "2026-05-07"
   },
   {
-    "title": "Testing ads in ChatGPT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "title": "Introducing Trusted Contact in ChatGPT",
+    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
     "source": "OpenAI",
     "date": "2026-05-07"
   },
@@ -288,14 +288,8 @@
     "date": "2026-05-06"
   },
   {
-    "title": "Introducing ChatGPT Futures: Class of 2026",
-    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-    "source": "OpenAI",
-    "date": "2026-05-06"
-  },
-  {
-    "title": "Uber uses OpenAI to help people earn smarter and book faster",
-    "url": "https://openai.com/index/uber",
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "url": "https://openai.com/index/singular-bank",
     "source": "OpenAI",
     "date": "2026-05-06"
   },
@@ -306,14 +300,20 @@
     "date": "2026-05-06"
   },
   {
-    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-    "url": "https://openai.com/index/singular-bank",
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "url": "https://openai.com/index/uber",
     "source": "OpenAI",
     "date": "2026-05-06"
   },
   {
-    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-    "url": "https://openai.com/index/mrc-supercomputer-networking",
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "source": "OpenAI",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "GPT-5.5 Instant System Card",
+    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
     "source": "OpenAI",
     "date": "2026-05-05"
   },
@@ -324,8 +324,8 @@
     "date": "2026-05-05"
   },
   {
-    "title": "GPT-5.5 Instant System Card",
-    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "url": "https://openai.com/index/mrc-supercomputer-networking",
     "source": "OpenAI",
     "date": "2026-05-05"
   },
