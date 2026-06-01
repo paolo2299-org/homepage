@@ -30,14 +30,14 @@
     "date": "2026-05-28"
   },
   {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "url": "https://openai.com/index/mufg",
+    "title": "OpenAI\u2019s Frontier Governance Framework",
+    "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28"
   },
   {
-    "title": "OpenAI\u2019s Frontier Governance Framework",
-    "url": "https://openai.com/index/openai-frontier-governance-framework",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
     "source": "OpenAI",
     "date": "2026-05-28"
   },
@@ -90,12 +90,6 @@
     "date": "2026-05-21"
   },
   {
-    "title": "The next phase of OpenAI\u2019s Education for Countries",
-    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "source": "OpenAI",
-    "date": "2026-05-20"
-  },
-  {
     "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
     "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
     "source": "OpenAI",
@@ -104,6 +98,12 @@
   {
     "title": "How Ramp engineers accelerate code review with Codex",
     "url": "https://openai.com/index/ramp",
+    "source": "OpenAI",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "The next phase of OpenAI\u2019s Education for Countries",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20"
   },
@@ -132,14 +132,14 @@
     "date": "2026-05-16"
   },
   {
-    "title": "How business operations teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "url": "https://openai.com/index/databricks",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
   {
-    "title": "A new personal finance experience in ChatGPT",
-    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "title": "How sales teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
@@ -150,14 +150,14 @@
     "date": "2026-05-15"
   },
   {
-    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "url": "https://openai.com/index/databricks",
+    "title": "A new personal finance experience in ChatGPT",
+    "url": "https://openai.com/index/personal-finance-chatgpt",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
   {
-    "title": "How sales teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "title": "How business operations teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
@@ -222,14 +222,14 @@
     "date": "2026-05-11"
   },
   {
-    "title": "How enterprises are scaling AI",
-    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "title": "OpenAI Campus Network: Student club interest form",
+    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
     "source": "OpenAI",
     "date": "2026-05-11"
   },
   {
-    "title": "OpenAI Campus Network: Student club interest form",
-    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "title": "How enterprises are scaling AI",
+    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
     "source": "OpenAI",
     "date": "2026-05-11"
   },
@@ -264,14 +264,14 @@
     "date": "2026-05-07"
   },
   {
-    "title": "Testing ads in ChatGPT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "title": "Introducing Trusted Contact in ChatGPT",
+    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
     "source": "OpenAI",
     "date": "2026-05-07"
   },
   {
-    "title": "Introducing Trusted Contact in ChatGPT",
-    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "source": "OpenAI",
     "date": "2026-05-07"
   },
@@ -288,12 +288,6 @@
     "date": "2026-05-06"
   },
   {
-    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-    "url": "https://openai.com/index/singular-bank",
-    "source": "OpenAI",
-    "date": "2026-05-06"
-  },
-  {
     "title": "How frontier firms are pulling ahead",
     "url": "https://openai.com/index/introducing-b2b-signals",
     "source": "OpenAI",
@@ -306,10 +300,22 @@
     "date": "2026-05-06"
   },
   {
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "url": "https://openai.com/index/singular-bank",
+    "source": "OpenAI",
+    "date": "2026-05-06"
+  },
+  {
     "title": "Introducing ChatGPT Futures: Class of 2026",
     "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
     "source": "OpenAI",
     "date": "2026-05-06"
+  },
+  {
+    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "url": "https://openai.com/index/mrc-supercomputer-networking",
+    "source": "OpenAI",
+    "date": "2026-05-05"
   },
   {
     "title": "GPT-5.5 Instant System Card",
@@ -320,12 +326,6 @@
   {
     "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
     "url": "https://openai.com/index/gpt-5-5-instant",
-    "source": "OpenAI",
-    "date": "2026-05-05"
-  },
-  {
-    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-    "url": "https://openai.com/index/mrc-supercomputer-networking",
     "source": "OpenAI",
     "date": "2026-05-05"
   },
