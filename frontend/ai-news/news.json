@@ -1,6 +1,34 @@
 [
   {
-    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
+    "title": "Our views on AI policy and political advocacy",
+    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "source": "OpenAI",
+    "date": "2026-06-01",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Building the infrastructure for the Intelligence Age in Michigan",
+    "url": "https://openai.com/index/stargate-michigan-data-center",
+    "source": "OpenAI",
+    "date": "2026-06-01",
+    "tags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "source": "OpenAI",
+    "date": "2026-06-01",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -68,7 +96,7 @@
     ]
   },
   {
-    "title": "OpenAI\u2019s Frontier Governance Framework",
+    "title": "OpenAI’s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28",
@@ -264,7 +292,7 @@
     ]
   },
   {
-    "title": "The next phase of OpenAI\u2019s Education for Countries",
+    "title": "The next phase of OpenAI’s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20",
