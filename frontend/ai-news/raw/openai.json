@@ -1,5 +1,23 @@
 [
   {
+    "title": "Our views on AI policy and political advocacy",
+    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "source": "OpenAI",
+    "date": "2026-06-01"
+  },
+  {
+    "title": "Building the infrastructure for the Intelligence Age in Michigan",
+    "url": "https://openai.com/index/stargate-michigan-data-center",
+    "source": "OpenAI",
+    "date": "2026-06-01"
+  },
+  {
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "source": "OpenAI",
+    "date": "2026-06-01"
+  },
+  {
     "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
@@ -54,14 +72,14 @@
     "date": "2026-05-27"
   },
   {
-    "title": "Warp\u2019s big bet on building open source with GPT-5.5",
-    "url": "https://openai.com/index/warp",
+    "title": "Election information and safeguards in 2026",
+    "url": "https://openai.com/index/election-safeguards-2026",
     "source": "OpenAI",
     "date": "2026-05-27"
   },
   {
-    "title": "Election information and safeguards in 2026",
-    "url": "https://openai.com/index/election-safeguards-2026",
+    "title": "Warp\u2019s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
     "source": "OpenAI",
     "date": "2026-05-27"
   },
@@ -90,14 +108,14 @@
     "date": "2026-05-21"
   },
   {
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "url": "https://openai.com/index/ramp",
     "source": "OpenAI",
     "date": "2026-05-20"
   },
   {
-    "title": "How Ramp engineers accelerate code review with Codex",
-    "url": "https://openai.com/index/ramp",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
     "source": "OpenAI",
     "date": "2026-05-20"
   },
@@ -132,8 +150,8 @@
     "date": "2026-05-16"
   },
   {
-    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "url": "https://openai.com/index/databricks",
+    "title": "A new personal finance experience in ChatGPT",
+    "url": "https://openai.com/index/personal-finance-chatgpt",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
@@ -150,8 +168,8 @@
     "date": "2026-05-15"
   },
   {
-    "title": "A new personal finance experience in ChatGPT",
-    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "url": "https://openai.com/index/databricks",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
@@ -198,6 +216,12 @@
     "date": "2026-05-12"
   },
   {
+    "title": "How NVIDIA engineers and researchers build with Codex",
+    "url": "https://openai.com/index/nvidia",
+    "source": "OpenAI",
+    "date": "2026-05-12"
+  },
+  {
     "title": "What Parameter Golf taught us about AI-assisted research",
     "url": "https://openai.com/index/what-parameter-golf-taught-us",
     "source": "OpenAI",
@@ -206,12 +230,6 @@
   {
     "title": "AutoScout24 scales engineering with AI-powered workflows",
     "url": "https://openai.com/index/autoscout24",
-    "source": "OpenAI",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "How NVIDIA engineers and researchers build with Codex",
-    "url": "https://openai.com/index/nvidia",
     "source": "OpenAI",
     "date": "2026-05-12"
   },
@@ -288,14 +306,14 @@
     "date": "2026-05-06"
   },
   {
-    "title": "How frontier firms are pulling ahead",
-    "url": "https://openai.com/index/introducing-b2b-signals",
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
     "source": "OpenAI",
     "date": "2026-05-06"
   },
   {
-    "title": "Uber uses OpenAI to help people earn smarter and book faster",
-    "url": "https://openai.com/index/uber",
+    "title": "How frontier firms are pulling ahead",
+    "url": "https://openai.com/index/introducing-b2b-signals",
     "source": "OpenAI",
     "date": "2026-05-06"
   },
@@ -306,20 +324,20 @@
     "date": "2026-05-06"
   },
   {
-    "title": "Introducing ChatGPT Futures: Class of 2026",
-    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "url": "https://openai.com/index/uber",
     "source": "OpenAI",
     "date": "2026-05-06"
   },
   {
-    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-    "url": "https://openai.com/index/mrc-supercomputer-networking",
+    "title": "GPT-5.5 Instant System Card",
+    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
     "source": "OpenAI",
     "date": "2026-05-05"
   },
   {
-    "title": "GPT-5.5 Instant System Card",
-    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "url": "https://openai.com/index/mrc-supercomputer-networking",
     "source": "OpenAI",
     "date": "2026-05-05"
   },
