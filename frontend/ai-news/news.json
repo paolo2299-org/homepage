@@ -1,5 +1,33 @@
 [
   {
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "url": "https://openai.com/index/endava-frontiers",
+    "source": "OpenAI",
+    "date": "2026-06-04",
+    "tags": [
+      "Agents",
+      "Case Study"
+    ]
+  },
+  {
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "url": "https://openai.com/index/chatgpt-memory-dreaming",
+    "source": "OpenAI",
+    "date": "2026-06-04",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Biodefense in the Intelligence Age",
+    "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "source": "OpenAI",
+    "date": "2026-06-04",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
     "title": "How Anthropic enables self-service data analytics with Claude",
     "url": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
     "source": "Claude",
@@ -75,6 +103,15 @@
     "date": "2026-06-03",
     "tags": [
       "Opinion"
+    ]
+  },
+  {
+    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+    "source": "Google",
+    "date": "2026-06-03",
+    "tags": [
+      "Product Launch"
     ]
   },
   {
@@ -165,7 +202,7 @@
     ]
   },
   {
-    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -233,7 +270,7 @@
     ]
   },
   {
-    "title": "OpenAI\u2019s Frontier Governance Framework",
+    "title": "OpenAI’s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28",
@@ -429,7 +466,7 @@
     ]
   },
   {
-    "title": "The next phase of OpenAI\u2019s Education for Countries",
+    "title": "The next phase of OpenAI’s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20",
@@ -934,79 +971,6 @@
     "tags": [
       "Case Study",
       "Enterprise"
-    ]
-  },
-  {
-    "title": "Deploying Claude across financial services",
-    "url": "https://claude.com/blog/deploying-claude-across-financial-services",
-    "source": "Claude",
-    "date": "2026-05-05",
-    "tags": [
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-    "url": "https://openai.com/index/gpt-5-5-instant",
-    "source": "OpenAI",
-    "date": "2026-05-05",
-    "tags": [
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-    "url": "https://openai.com/index/mrc-supercomputer-networking",
-    "source": "OpenAI",
-    "date": "2026-05-05",
-    "tags": [
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "GPT-5.5 Instant System Card",
-    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-    "source": "OpenAI",
-    "date": "2026-05-05",
-    "tags": [
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Advancing youth safety and wellbeing in EMEA",
-    "url": "https://openai.com/index/advancing-youth-safety-in-emea",
-    "source": "OpenAI",
-    "date": "2026-05-05",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "New ways to buy ChatGPT ads",
-    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-    "source": "OpenAI",
-    "date": "2026-05-05",
-    "tags": [
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Gemini API File Search is now multimodal: build efficient, verifiable RAG",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-    "source": "Google",
-    "date": "2026-05-05",
-    "tags": [
-      "Developer Tools",
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-    "source": "Google",
-    "date": "2026-05-05",
-    "tags": [
-      "Product Launch"
     ]
   }
 ]
