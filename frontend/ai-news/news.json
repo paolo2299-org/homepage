@@ -1,5 +1,25 @@
 [
   {
+    "title": "The Claude Cowork product guide",
+    "url": "https://claude.com/blog/the-claude-cowork-product-guide",
+    "source": "Claude",
+    "date": "2026-06-05",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
+    "url": "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering",
+    "source": "Claude",
+    "date": "2026-06-05",
+    "tags": [
+      "Case Study",
+      "Developer Tools"
+    ]
+  },
+  {
     "title": "How Endava is redesigning software delivery around AI agents",
     "url": "https://openai.com/index/endava-frontiers",
     "source": "OpenAI",
@@ -25,6 +45,16 @@
     "date": "2026-06-04",
     "tags": [
       "Opinion"
+    ]
+  },
+  {
+    "title": "Kaggle is making AI benchmark creation effortless",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-kaggle--benchmarks-locally/",
+    "source": "Google",
+    "date": "2026-06-04",
+    "tags": [
+      "Developer Tools",
+      "Product Launch"
     ]
   },
   {
@@ -202,7 +232,7 @@
     ]
   },
   {
-    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -270,7 +300,7 @@
     ]
   },
   {
-    "title": "OpenAI’s Frontier Governance Framework",
+    "title": "OpenAI\u2019s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28",
@@ -466,7 +496,7 @@
     ]
   },
   {
-    "title": "The next phase of OpenAI’s Education for Countries",
+    "title": "The next phase of OpenAI\u2019s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20",
@@ -913,64 +943,6 @@
     "tags": [
       "Case Study",
       "Developer Tools"
-    ]
-  },
-  {
-    "title": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
-    "url": "https://claude.com/blog/new-in-claude-managed-agents",
-    "source": "Claude",
-    "date": "2026-05-06",
-    "tags": [
-      "Product Launch",
-      "Agents"
-    ]
-  },
-  {
-    "title": "How ChatGPT learns about the world while protecting privacy",
-    "url": "https://openai.com/index/how-chatgpt-protects-privacy",
-    "source": "OpenAI",
-    "date": "2026-05-06",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Uber uses OpenAI to help people earn smarter and book faster",
-    "url": "https://openai.com/index/uber",
-    "source": "OpenAI",
-    "date": "2026-05-06",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "How frontier firms are pulling ahead",
-    "url": "https://openai.com/index/introducing-b2b-signals",
-    "source": "OpenAI",
-    "date": "2026-05-06",
-    "tags": [
-      "Opinion",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Introducing ChatGPT Futures: Class of 2026",
-    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-    "source": "OpenAI",
-    "date": "2026-05-06",
-    "tags": [
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-    "url": "https://openai.com/index/singular-bank",
-    "source": "OpenAI",
-    "date": "2026-05-06",
-    "tags": [
-      "Case Study",
-      "Enterprise"
     ]
   }
 ]
