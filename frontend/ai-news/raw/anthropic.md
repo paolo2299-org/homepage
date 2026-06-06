@@ -2,7 +2,7 @@ Title: Blog | Claude
 
 URL Source: https://claude.com/blog
 
-Published Time: Fri, 05 Jun 2026 05:47:22 GMT
+Published Time: Sat, 06 Jun 2026 03:03:44 GMT
 
 Markdown Content:
 # Blog | Claude
@@ -50,7 +50,7 @@ Use cases
 Company size
 
     *   [Startups](https://claude.com/programs/startups)
-    *   [Enterprise](https://claude.com/pricing/enterprise)
+    *   [Enterprise](https://claude.com/solutions/enterprise)
 
 Departments
 
@@ -72,13 +72,6 @@ Pricing
 
     *   [Overview](https://claude.com/pricing)
     *   [API](https://claude.com/pricing#api)
-
-Plans
-
-    *   [Pro](https://claude.com/pricing/pro)
-    *   [Max](https://claude.com/pricing/max)
-    *   [Team](https://claude.com/pricing/team)
-    *   [Enterprise](https://claude.com/pricing/enterprise)
 
 *   
 Resources       
@@ -105,19 +98,19 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.573b5579-8846-4f1a-bc28-fbf68a730088/login)
+*   [Login](https://claude.ai/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.573b5579-8846-4f1a-bc28-fbf68a730088)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.573b5579-8846-4f1a-bc28-fbf68a730088)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.573b5579-8846-4f1a-bc28-fbf68a730088)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.573b5579-8846-4f1a-bc28-fbf68a730088)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 *   
 Meet Claude       
@@ -160,7 +153,7 @@ Use cases
 Company size
 
     *   [Startups](https://claude.com/programs/startups)
-    *   [Enterprise](https://claude.com/pricing/enterprise)
+    *   [Enterprise](https://claude.com/solutions/enterprise)
 
 Departments
 
@@ -182,13 +175,6 @@ Pricing
 
     *   [Overview](https://claude.com/pricing)
     *   [API](https://claude.com/pricing#api)
-
-Plans
-
-    *   [Pro](https://claude.com/pricing/pro)
-    *   [Max](https://claude.com/pricing/max)
-    *   [Team](https://claude.com/pricing/team)
-    *   [Enterprise](https://claude.com/pricing/enterprise)
 
 *   
 Resources       
@@ -215,12 +201,12 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.573b5579-8846-4f1a-bc28-fbf68a730088/login)
+*   [Login](https://claude.ai/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.573b5579-8846-4f1a-bc28-fbf68a730088)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.573b5579-8846-4f1a-bc28-fbf68a730088)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -308,11 +294,11 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/redirect/claudedotcom.v1.573b5579-8846-4f1a-bc28-fbf68a730088)Try Claude
+[Try Claude](https://claude.ai/)Try Claude
 
 All
 
-158
+160
 
 ## [Agents](https://claude.com/blog/category/agents)
 
@@ -518,7 +504,63 @@ Grid
 
 List
 
-![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22349f86cd1968deab7_f06ca06f9d08ca4a85f26357eb896c3730274507-1000x1000.svg)
+![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
+
+Jun 5, 2026
+
+The Claude Cowork product guide
+
+Enterprise AI
+
+The Claude Cowork product guide
+
+[](https://claude.com/blog-product/claude-cowork)
+
+Claude Cowork
+
+[](https://claude.com/blog-usecases/work)
+
+Work
+
+June 5, 2026
+
+[The Claude Cowork product guide](https://claude.com/blog/the-claude-cowork-product-guide)The Claude Cowork product guide
+
+[The Claude Cowork product guide](https://claude.com/blog#)The Claude Cowork product guide
+
+[](https://claude.com/blog/the-claude-cowork-product-guide)
+
+![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2222403b092e0358b0e_cd4fd51deacd067d4e30aee4f4b149f6cba1b97b-1000x1000.svg)
+
+Jun 5, 2026
+
+How one Anthropic seller rebuilt his team's workflows with Claude Code
+
+Claude Code
+
+How one Anthropic seller rebuilt his team's workflows with Claude Code
+
+[](https://claude.com/blog-product/claude-code)
+
+Claude Code
+
+[](https://claude.com/blog-product/claude-cowork)
+
+Claude Cowork
+
+[](https://claude.com/blog-usecases/sales)
+
+Sales
+
+June 5, 2026
+
+[How one Anthropic seller rebuilt his team's workflows with Claude Code](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering)How one Anthropic seller rebuilt his team's workflows with Claude Code
+
+[How one Anthropic seller rebuilt his team's workflows with Claude Code](https://claude.com/blog#)How one Anthropic seller rebuilt his team's workflows with Claude Code
+
+[](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering)
+
+![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22349f86cd1968deab7_f06ca06f9d08ca4a85f26357eb896c3730274507-1000x1000.svg)
 
 Jun 3, 2026
 
@@ -540,7 +582,7 @@ June 3, 2026
 
 [](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude)
 
-![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
+![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
 
 Jun 3, 2026
 
@@ -562,7 +604,7 @@ June 3, 2026
 
 [](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills)
 
-![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226da492fb9f7f815ba_1c3d1af62032009538b8bf5864139ca124b06741-1000x1000.svg)
+![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226da492fb9f7f815ba_1c3d1af62032009538b8bf5864139ca124b06741-1000x1000.svg)
 
 Jun 3, 2026
 
@@ -592,7 +634,7 @@ June 3, 2026
 
 [](https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork)
 
-![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f7912d5b05a5c7ed8ae86_Object-CodeChatCode.svg)
+![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f7912d5b05a5c7ed8ae86_Object-CodeChatCode.svg)
 
 Jun 3, 2026
 
@@ -618,7 +660,7 @@ June 3, 2026
 
 [](https://claude.com/blog/running-an-ai-native-engineering-org)
 
-![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e13864f88ea55c2d8_b5c98d26c46edc43193e7f7e28a00633a538bb9c-1000x1000.svg)
+![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e13864f88ea55c2d8_b5c98d26c46edc43193e7f7e28a00633a538bb9c-1000x1000.svg)
 
 Jun 2, 2026
 
@@ -636,7 +678,7 @@ June 2, 2026
 
 [](https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code)
 
-![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d223de65e7dcca8267d8_ea364001be6bf6d2e86b58109ead6a779d5771a7-1000x1000.svg)
+![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d223de65e7dcca8267d8_ea364001be6bf6d2e86b58109ead6a779d5771a7-1000x1000.svg)
 
 May 28, 2026
 
@@ -662,7 +704,7 @@ May 28, 2026
 
 [](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code)
 
-![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22753311132c8c37b39_d3dd09ad16c68461dc3fb01df5e84cf7ccafda6c-1000x1000.svg)
+![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22753311132c8c37b39_d3dd09ad16c68461dc3fb01df5e84cf7ccafda6c-1000x1000.svg)
 
 May 27, 2026
 
@@ -680,7 +722,7 @@ May 27, 2026
 
 [](https://claude.com/blog/using-llms-to-secure-source-code)
 
-![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f76874e94e489958af8ba_Object-CodeMagnifier.svg)
+![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f76874e94e489958af8ba_Object-CodeMagnifier.svg)
 
 May 27, 2026
 
@@ -706,7 +748,7 @@ May 27, 2026
 
 [](https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system)
 
-![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
+![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
 
 May 27, 2026
 
@@ -728,7 +770,7 @@ May 27, 2026
 
 [](https://claude.com/blog/zero-trust-for-ai-agents)
 
-![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/690937bee860a953417a8eee_Object-CodeBrowserGlobe.svg)
+![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/690937bee860a953417a8eee_Object-CodeBrowserGlobe.svg)
 
 May 26, 2026
 
@@ -754,7 +796,7 @@ May 26, 2026
 
 [](https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build)
 
-![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
+![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
 
 May 22, 2026
 
@@ -784,7 +826,7 @@ May 22, 2026
 
 [](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers)
 
-![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
+![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
 
 May 21, 2026
 
@@ -818,7 +860,7 @@ May 21, 2026
 
 [](https://claude.com/blog/compliance-api-security-partners)
 
-![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22753311132c8c37b39_d3dd09ad16c68461dc3fb01df5e84cf7ccafda6c-1000x1000.svg)
+![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22753311132c8c37b39_d3dd09ad16c68461dc3fb01df5e84cf7ccafda6c-1000x1000.svg)
 
 May 21, 2026
 
@@ -844,58 +886,6 @@ May 21, 2026
 
 [](https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity)
 
-![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d7d4c10df6024f7bc_ee580919acaba2ddc07425f7a7390c8962cadc94-1000x1000.svg)
-
-May 20, 2026
-
-Using Claude Code: The unreasonable effectiveness of HTML
-
-Claude Code
-
-Using Claude Code: The unreasonable effectiveness of HTML
-
-[](https://claude.com/blog-product/claude-code)
-
-Claude Code
-
-May 20, 2026
-
-[Using Claude Code: The unreasonable effectiveness of HTML](https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html)Using Claude Code: The unreasonable effectiveness of HTML
-
-[Using Claude Code: The unreasonable effectiveness of HTML](https://claude.com/blog#)Using Claude Code: The unreasonable effectiveness of HTML
-
-[](https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html)
-
-![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22349f86cd1968deab7_f06ca06f9d08ca4a85f26357eb896c3730274507-1000x1000.svg)
-
-May 20, 2026
-
-How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book
-
-Enterprise AI
-
-How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book
-
-[](https://claude.com/blog-product/claude-cowork)
-
-Claude Cowork
-
-[](https://claude.com/blog-usecases/productivity)
-
-Productivity
-
-[](https://claude.com/blog-usecases/sales)
-
-Sales
-
-May 20, 2026
-
-[How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book](https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book)How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book
-
-[How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book](https://claude.com/blog#)How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book
-
-[](https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book)
-
 [Previous](https://claude.com/blog?b7eea976_page=11)[View more](https://claude.com/blog?b7eea976_page=2)
 
 1 / 11
@@ -905,6 +895,62 @@ Category
 Product
 
 Usecase
+
+### The Claude Cowork product guide
+
+Category
+
+Enterprise AI
+
+Product
+
+[](https://claude.com/blog-product/claude-cowork)
+
+Claude Cowork
+
+Usecase
+
+[](https://claude.com/blog-usecases/work)
+
+Work
+
+June 5, 2026
+
+[The Claude Cowork product guide](https://claude.com/blog/the-claude-cowork-product-guide)The Claude Cowork product guide
+
+[The Claude Cowork product guide](https://claude.com/blog#)The Claude Cowork product guide
+
+[](https://claude.com/blog/the-claude-cowork-product-guide)
+
+### How one Anthropic seller rebuilt his team's workflows with Claude Code
+
+Category
+
+Claude Code
+
+Product
+
+[](https://claude.com/blog-product/claude-code)
+
+Claude Code
+
+[](https://claude.com/blog-product/claude-cowork)
+
+Claude Cowork
+
+Usecase
+
+[](https://claude.com/blog-usecases/sales)
+
+Sales
+
+June 5, 2026
+
+[How one Anthropic seller rebuilt his team's workflows with Claude Code](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering)How one Anthropic seller rebuilt his team's workflows with Claude Code
+
+[How one Anthropic seller rebuilt his team's workflows with Claude Code](https://claude.com/blog#)How one Anthropic seller rebuilt his team's workflows with Claude Code
+
+[](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering)
 
 ### How Anthropic enables self-service data analytics with Claude
 
@@ -1232,58 +1278,6 @@ May 21, 2026
 
 [](https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity)
 
-### Using Claude Code: The unreasonable effectiveness of HTML
-
-Category
-
-Claude Code
-
-Product
-
-[](https://claude.com/blog-product/claude-code)
-
-Claude Code
-
-Usecase
-
-May 20, 2026
-
-[Using Claude Code: The unreasonable effectiveness of HTML](https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html)Using Claude Code: The unreasonable effectiveness of HTML
-
-[Using Claude Code: The unreasonable effectiveness of HTML](https://claude.com/blog#)Using Claude Code: The unreasonable effectiveness of HTML
-
-[](https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html)
-
-### How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book
-
-Category
-
-Enterprise AI
-
-Product
-
-[](https://claude.com/blog-product/claude-cowork)
-
-Claude Cowork
-
-Usecase
-
-[](https://claude.com/blog-usecases/productivity)
-
-Productivity
-
-[](https://claude.com/blog-usecases/sales)
-
-Sales
-
-May 20, 2026
-
-[How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book](https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book)How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book
-
-[How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book](https://claude.com/blog#)How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book
-
-[](https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book)
-
 [Previous](https://claude.com/blog?d7430fcd_page=11)[View more](https://claude.com/blog?d7430fcd_page=2)
 
 1 / 11
@@ -1447,13 +1441,9 @@ Products
 *   Claude Code for Enterprise [Claude Code for Enterprise](https://claude.com/product/claude-code/enterprise)Claude Code for Enterprise 
 *   Claude Cowork [Claude Cowork](https://claude.com/product/cowork)Claude Cowork 
 *   Claude Security [Claude Security](https://claude.com/product/claude-security)Claude Security 
-*   Pro plan [Pro plan](https://claude.com/pricing/pro)Pro plan 
-*   Max plan [Max plan](https://claude.com/pricing/max)Max plan 
-*   Team plan [Team plan](https://claude.com/pricing/team)Team plan 
-*   Enterprise plan [Enterprise plan](https://claude.com/pricing/enterprise)Enterprise plan 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.573b5579-8846-4f1a-bc28-fbf68a730088/login)Log in 
+*   Log in [Log in](https://claude.ai/login)Log in 
 
 Features
 
@@ -1476,6 +1466,7 @@ Solutions
 *   Coding [Coding](https://claude.com/solutions/coding)Coding 
 *   Customer support [Customer support](https://claude.com/solutions/customer-support)Customer support 
 *   Education [Education](https://claude.com/solutions/education)Education 
+*   Enterprise [Enterprise](https://claude.com/solutions/enterprise)Enterprise 
 *   Financial services [Financial services](https://claude.com/solutions/financial-services)Financial services 
 *   Government [Government](https://claude.com/solutions/government)Government 
 *   Healthcare [Healthcare](https://claude.com/solutions/healthcare)Healthcare 
@@ -1484,6 +1475,7 @@ Solutions
 *   Nonprofits [Nonprofits](https://claude.com/solutions/nonprofits)Nonprofits 
 *   Security [Security](https://claude.com/solutions/security)Security 
 *   Small business [Small business](https://claude.com/solutions/small-business)Small business 
+*   Startups [Startups](https://claude.com/programs/startups)Startups 
 
 Claude Platform
 
@@ -1510,7 +1502,6 @@ Resources
 *   Plugins [Plugins](https://claude.com/plugins)Plugins 
 *   Powered by Claude [Powered by Claude](https://claude.com/partners/powered-by-claude)Powered by Claude 
 *   Service partners [Service partners](https://claude.com/partners/services)Service partners 
-*   Startups program [Startups program](https://claude.com/programs/startups)Startups program 
 *   Tutorials [Tutorials](https://claude.com/resources/tutorials)Tutorials 
 *   Use cases [Use cases](https://claude.com/resources/use-cases)Use cases 
 
