@@ -20,6 +20,16 @@
     ]
   },
   {
+    "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "source": "Google",
+    "date": "2026-06-05",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
     "title": "How Endava is redesigning software delivery around AI agents",
     "url": "https://openai.com/index/endava-frontiers",
     "source": "OpenAI",
@@ -875,73 +885,6 @@
     "date": "2026-05-08",
     "tags": [
       "Agents",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Collaborate with Claude across Excel, PowerPoint, Word and Outlook",
-    "url": "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook",
-    "source": "Claude",
-    "date": "2026-05-07",
-    "tags": [
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-    "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-    "source": "OpenAI",
-    "date": "2026-05-07",
-    "tags": [
-      "Product Launch",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Advancing voice intelligence with new models in the API",
-    "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-    "source": "OpenAI",
-    "date": "2026-05-07",
-    "tags": [
-      "Product Launch",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Testing ads in ChatGPT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "source": "OpenAI",
-    "date": "2026-05-07",
-    "tags": [
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Introducing Trusted Contact in ChatGPT",
-    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-    "source": "OpenAI",
-    "date": "2026-05-07",
-    "tags": [
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Parloa builds service agents customers want to talk to",
-    "url": "https://openai.com/index/parloa",
-    "source": "OpenAI",
-    "date": "2026-05-07",
-    "tags": [
-      "Case Study",
-      "Agents"
-    ]
-  },
-  {
-    "title": "Simplex rethinks software development with Codex",
-    "url": "https://openai.com/index/simplex",
-    "source": "OpenAI",
-    "date": "2026-05-07",
-    "tags": [
-      "Case Study",
       "Developer Tools"
     ]
   }
