@@ -242,7 +242,7 @@
     ]
   },
   {
-    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -310,7 +310,7 @@
     ]
   },
   {
-    "title": "OpenAI\u2019s Frontier Governance Framework",
+    "title": "OpenAI’s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28",
@@ -506,7 +506,7 @@
     ]
   },
   {
-    "title": "The next phase of OpenAI\u2019s Education for Countries",
+    "title": "The next phase of OpenAI’s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20",
@@ -876,16 +876,6 @@
     "tags": [
       "Product Launch",
       "Enterprise"
-    ]
-  },
-  {
-    "title": "Running Codex safely at OpenAI",
-    "url": "https://openai.com/index/running-codex-safely",
-    "source": "OpenAI",
-    "date": "2026-05-08",
-    "tags": [
-      "Agents",
-      "Developer Tools"
     ]
   }
 ]
