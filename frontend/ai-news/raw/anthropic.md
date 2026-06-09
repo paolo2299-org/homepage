@@ -2,8 +2,6 @@ Title: Blog | Claude
 
 URL Source: https://claude.com/blog
 
-Published Time: Sat, 06 Jun 2026 02:55:13 GMT
-
 Markdown Content:
 # Blog | Claude
 
@@ -98,19 +96,19 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.591ab693-3522-4720-a813-7bd7f4381cd8/login)
+*   [Login](https://claude.ai/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.591ab693-3522-4720-a813-7bd7f4381cd8)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.591ab693-3522-4720-a813-7bd7f4381cd8)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.591ab693-3522-4720-a813-7bd7f4381cd8)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.591ab693-3522-4720-a813-7bd7f4381cd8)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 *   
 Meet Claude       
@@ -201,12 +199,12 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.591ab693-3522-4720-a813-7bd7f4381cd8/login)
+*   [Login](https://claude.ai/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.591ab693-3522-4720-a813-7bd7f4381cd8)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.591ab693-3522-4720-a813-7bd7f4381cd8)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -294,11 +292,11 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/redirect/claudedotcom.v1.591ab693-3522-4720-a813-7bd7f4381cd8)Try Claude
+[Try Claude](https://claude.ai/)Try Claude
 
 All
 
-160
+162
 
 ## [Agents](https://claude.com/blog/category/agents)
 
@@ -308,65 +306,11 @@ All
 
 ## [Product announcements](https://claude.com/blog/category/announcements)
 
-## New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels
+## Building intelligent apps for Apple platforms with Claude in the Foundation Models framework
 
-May 19, 2026
+June 8, 2026
 
-[Read more](https://claude.com/blog/claude-managed-agents-updates)Read more
-
-## New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration
-
-May 6, 2026
-
-[Read more](https://claude.com/blog/new-in-claude-managed-agents)Read more
-
-## New connectors in Claude for everyday life
-
-April 23, 2026
-
-[Read more](https://claude.com/blog/connectors-for-everyday-life)Read more
-
-## Built-in memory for Claude Managed Agents
-
-April 23, 2026
-
-[Read more](https://claude.com/blog/claude-managed-agents-memory)Read more
-
-## Redesigning Claude Code on desktop for parallel agents
-
-April 14, 2026
-
-[Read more](https://claude.com/blog/claude-code-desktop-redesign)Read more
-
-## Preparing your security program for AI-accelerated offense
-
-April 10, 2026
-
-[Read more](https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense)Read more
-
-## Claude Managed Agents: get to production 10x faster
-
-April 8, 2026
-
-[Read more](https://claude.com/blog/claude-managed-agents)Read more
-
-## Harnessing Claude’s intelligence
-
-April 2, 2026
-
-[Read more](https://claude.com/blog/harnessing-claudes-intelligence)Read more
-
-## Claude now creates interactive charts, diagrams and visualizations
-
-March 12, 2026
-
-[Read more](https://claude.com/blog/claude-builds-visuals)Read more
-
-## How enterprises are building AI agents in 2026
-
-December 9, 2025
-
-[Read more](https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026)Read more
+[Read more](https://claude.com/blog/claude-for-foundation-models)Read more
 
 ## New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels
 
@@ -422,11 +366,65 @@ March 12, 2026
 
 [Read more](https://claude.com/blog/claude-builds-visuals)Read more
 
-## How enterprises are building AI agents in 2026
+## Building intelligent apps for Apple platforms with Claude in the Foundation Models framework
 
-December 9, 2025
+June 8, 2026
 
-[Read more](https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026)Read more
+[Read more](https://claude.com/blog/claude-for-foundation-models)Read more
+
+## New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels
+
+May 19, 2026
+
+[Read more](https://claude.com/blog/claude-managed-agents-updates)Read more
+
+## New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration
+
+May 6, 2026
+
+[Read more](https://claude.com/blog/new-in-claude-managed-agents)Read more
+
+## New connectors in Claude for everyday life
+
+April 23, 2026
+
+[Read more](https://claude.com/blog/connectors-for-everyday-life)Read more
+
+## Built-in memory for Claude Managed Agents
+
+April 23, 2026
+
+[Read more](https://claude.com/blog/claude-managed-agents-memory)Read more
+
+## Redesigning Claude Code on desktop for parallel agents
+
+April 14, 2026
+
+[Read more](https://claude.com/blog/claude-code-desktop-redesign)Read more
+
+## Preparing your security program for AI-accelerated offense
+
+April 10, 2026
+
+[Read more](https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense)Read more
+
+## Claude Managed Agents: get to production 10x faster
+
+April 8, 2026
+
+[Read more](https://claude.com/blog/claude-managed-agents)Read more
+
+## Harnessing Claude’s intelligence
+
+April 2, 2026
+
+[Read more](https://claude.com/blog/harnessing-claudes-intelligence)Read more
+
+## Claude now creates interactive charts, diagrams and visualizations
+
+March 12, 2026
+
+[Read more](https://claude.com/blog/claude-builds-visuals)Read more
 
 Filter and sort
 
@@ -504,7 +502,53 @@ Grid
 
 List
 
-![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
+![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229b7f170bab528846d_0df729ce74e4c9dd62c3342c9549ce6c7cef1202-1000x1000.svg)
+
+Jun 8, 2026
+
+Building intelligent apps for Apple platforms with Claude in the Foundation Models framework
+
+Product announcements
+
+Building intelligent apps for Apple platforms with Claude in the Foundation Models framework
+
+[](https://claude.com/blog-product/claude-platform)
+
+Claude Platform
+
+[](https://claude.com/blog-product/claude-apps)
+
+Claude apps
+
+June 8, 2026
+
+[Building intelligent apps for Apple platforms with Claude in the Foundation Models framework](https://claude.com/blog/claude-for-foundation-models)Building intelligent apps for Apple platforms with Claude in the Foundation Models framework
+
+[Building intelligent apps for Apple platforms with Claude in the Foundation Models framework](https://claude.com/blog#)Building intelligent apps for Apple platforms with Claude in the Foundation Models framework
+
+[](https://claude.com/blog/claude-for-foundation-models)
+
+![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
+
+Jun 8, 2026
+
+Observability for developers building connectors
+
+Observability for developers building connectors
+
+[](https://claude.com/blog-product/claude-apps)
+
+Claude apps
+
+June 8, 2026
+
+[Observability for developers building connectors](https://claude.com/blog/observability-for-developers-building-connectors)Observability for developers building connectors
+
+[Observability for developers building connectors](https://claude.com/blog#)Observability for developers building connectors
+
+[](https://claude.com/blog/observability-for-developers-building-connectors)
+
+![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
 
 Jun 5, 2026
 
@@ -530,7 +574,7 @@ June 5, 2026
 
 [](https://claude.com/blog/the-claude-cowork-product-guide)
 
-![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2222403b092e0358b0e_cd4fd51deacd067d4e30aee4f4b149f6cba1b97b-1000x1000.svg)
+![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2222403b092e0358b0e_cd4fd51deacd067d4e30aee4f4b149f6cba1b97b-1000x1000.svg)
 
 Jun 5, 2026
 
@@ -560,7 +604,7 @@ June 5, 2026
 
 [](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering)
 
-![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22349f86cd1968deab7_f06ca06f9d08ca4a85f26357eb896c3730274507-1000x1000.svg)
+![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22349f86cd1968deab7_f06ca06f9d08ca4a85f26357eb896c3730274507-1000x1000.svg)
 
 Jun 3, 2026
 
@@ -582,7 +626,7 @@ June 3, 2026
 
 [](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude)
 
-![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
+![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
 
 Jun 3, 2026
 
@@ -604,7 +648,7 @@ June 3, 2026
 
 [](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills)
 
-![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226da492fb9f7f815ba_1c3d1af62032009538b8bf5864139ca124b06741-1000x1000.svg)
+![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226da492fb9f7f815ba_1c3d1af62032009538b8bf5864139ca124b06741-1000x1000.svg)
 
 Jun 3, 2026
 
@@ -634,7 +678,7 @@ June 3, 2026
 
 [](https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork)
 
-![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f7912d5b05a5c7ed8ae86_Object-CodeChatCode.svg)
+![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f7912d5b05a5c7ed8ae86_Object-CodeChatCode.svg)
 
 Jun 3, 2026
 
@@ -660,7 +704,7 @@ June 3, 2026
 
 [](https://claude.com/blog/running-an-ai-native-engineering-org)
 
-![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e13864f88ea55c2d8_b5c98d26c46edc43193e7f7e28a00633a538bb9c-1000x1000.svg)
+![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e13864f88ea55c2d8_b5c98d26c46edc43193e7f7e28a00633a538bb9c-1000x1000.svg)
 
 Jun 2, 2026
 
@@ -678,7 +722,7 @@ June 2, 2026
 
 [](https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code)
 
-![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d223de65e7dcca8267d8_ea364001be6bf6d2e86b58109ead6a779d5771a7-1000x1000.svg)
+![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d223de65e7dcca8267d8_ea364001be6bf6d2e86b58109ead6a779d5771a7-1000x1000.svg)
 
 May 28, 2026
 
@@ -704,7 +748,7 @@ May 28, 2026
 
 [](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code)
 
-![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22753311132c8c37b39_d3dd09ad16c68461dc3fb01df5e84cf7ccafda6c-1000x1000.svg)
+![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22753311132c8c37b39_d3dd09ad16c68461dc3fb01df5e84cf7ccafda6c-1000x1000.svg)
 
 May 27, 2026
 
@@ -722,7 +766,7 @@ May 27, 2026
 
 [](https://claude.com/blog/using-llms-to-secure-source-code)
 
-![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f76874e94e489958af8ba_Object-CodeMagnifier.svg)
+![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f76874e94e489958af8ba_Object-CodeMagnifier.svg)
 
 May 27, 2026
 
@@ -748,7 +792,7 @@ May 27, 2026
 
 [](https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system)
 
-![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
+![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
 
 May 27, 2026
 
@@ -770,7 +814,7 @@ May 27, 2026
 
 [](https://claude.com/blog/zero-trust-for-ai-agents)
 
-![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/690937bee860a953417a8eee_Object-CodeBrowserGlobe.svg)
+![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/690937bee860a953417a8eee_Object-CodeBrowserGlobe.svg)
 
 May 26, 2026
 
@@ -796,7 +840,7 @@ May 26, 2026
 
 [](https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build)
 
-![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
+![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
 
 May 22, 2026
 
@@ -826,67 +870,7 @@ May 22, 2026
 
 [](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers)
 
-![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
-
-May 21, 2026
-
-Claude now works with more security and compliance tools
-
-Enterprise AI
-
-Claude now works with more security and compliance tools
-
-[](https://claude.com/blog-product/claude-enterprise)
-
-Claude Enterprise
-
-[](https://claude.com/blog-product/claude-platform)
-
-Claude Platform
-
-[](https://claude.com/blog-usecases/work)
-
-Work
-
-[](https://claude.com/blog-usecases/business)
-
-Business
-
-May 21, 2026
-
-[Claude now works with more security and compliance tools](https://claude.com/blog/compliance-api-security-partners)Claude now works with more security and compliance tools
-
-[Claude now works with more security and compliance tools](https://claude.com/blog#)Claude now works with more security and compliance tools
-
-[](https://claude.com/blog/compliance-api-security-partners)
-
-![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22753311132c8c37b39_d3dd09ad16c68461dc3fb01df5e84cf7ccafda6c-1000x1000.svg)
-
-May 21, 2026
-
-How our partners are putting Opus to work for cybersecurity
-
-Enterprise AI
-
-How our partners are putting Opus to work for cybersecurity
-
-[](https://claude.com/blog-product/claude-security)
-
-Claude Security
-
-[](https://claude.com/blog-product/claude-platform)
-
-Claude Platform
-
-May 21, 2026
-
-[How our partners are putting Opus to work for cybersecurity](https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity)How our partners are putting Opus to work for cybersecurity
-
-[How our partners are putting Opus to work for cybersecurity](https://claude.com/blog#)How our partners are putting Opus to work for cybersecurity
-
-[](https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity)
-
-[Previous](https://claude.com/blog?b7eea976_page=11)[View more](https://claude.com/blog?b7eea976_page=2)
+[View more](https://claude.com/blog?b7eea976_page=2)
 
 1 / 11
 
@@ -895,6 +879,54 @@ Category
 Product
 
 Usecase
+
+### Building intelligent apps for Apple platforms with Claude in the Foundation Models framework
+
+Category
+
+Product announcements
+
+Product
+
+[](https://claude.com/blog-product/claude-platform)
+
+Claude Platform
+
+[](https://claude.com/blog-product/claude-apps)
+
+Claude apps
+
+Usecase
+
+June 8, 2026
+
+[Building intelligent apps for Apple platforms with Claude in the Foundation Models framework](https://claude.com/blog/claude-for-foundation-models)Building intelligent apps for Apple platforms with Claude in the Foundation Models framework
+
+[Building intelligent apps for Apple platforms with Claude in the Foundation Models framework](https://claude.com/blog#)Building intelligent apps for Apple platforms with Claude in the Foundation Models framework
+
+[](https://claude.com/blog/claude-for-foundation-models)
+
+### Observability for developers building connectors
+
+Category
+
+No items found.
+
+Product
+
+[](https://claude.com/blog-product/claude-apps)
+
+Claude apps
+
+Usecase
+
+June 8, 2026
+
+[Observability for developers building connectors](https://claude.com/blog/observability-for-developers-building-connectors)Observability for developers building connectors
+
+[Observability for developers building connectors](https://claude.com/blog#)Observability for developers building connectors
+
+[](https://claude.com/blog/observability-for-developers-building-connectors)
 
 ### The Claude Cowork product guide
 
@@ -1218,69 +1250,9 @@ May 22, 2026
 
 [](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers)
 
-### Claude now works with more security and compliance tools
-
-Category
-
-Enterprise AI
-
-Product
-
-[](https://claude.com/blog-product/claude-enterprise)
-
-Claude Enterprise
-
-[](https://claude.com/blog-product/claude-platform)
-
-Claude Platform
-
-Usecase
-
-[](https://claude.com/blog-usecases/work)
-
-Work
-
-[](https://claude.com/blog-usecases/business)
-
-Business
-
-May 21, 2026
-
-[Claude now works with more security and compliance tools](https://claude.com/blog/compliance-api-security-partners)Claude now works with more security and compliance tools
-
-[Claude now works with more security and compliance tools](https://claude.com/blog#)Claude now works with more security and compliance tools
-
-[](https://claude.com/blog/compliance-api-security-partners)
-
-### How our partners are putting Opus to work for cybersecurity
-
-Category
-
-Enterprise AI
-
-Product
-
-[](https://claude.com/blog-product/claude-security)
-
-Claude Security
-
-[](https://claude.com/blog-product/claude-platform)
-
-Claude Platform
-
-Usecase
-
-May 21, 2026
-
-[How our partners are putting Opus to work for cybersecurity](https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity)How our partners are putting Opus to work for cybersecurity
-
-[How our partners are putting Opus to work for cybersecurity](https://claude.com/blog#)How our partners are putting Opus to work for cybersecurity
-
-[](https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity)
-
 [Previous](https://claude.com/blog?d7430fcd_page=11)[View more](https://claude.com/blog?d7430fcd_page=2)
 
-1 / 11
+1 / 1
 
 No
 
@@ -1443,7 +1415,7 @@ Products
 *   Claude Security [Claude Security](https://claude.com/product/claude-security)Claude Security 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.591ab693-3522-4720-a813-7bd7f4381cd8/login)Log in 
+*   Log in [Log in](https://claude.ai/login)Log in 
 
 Features
 
