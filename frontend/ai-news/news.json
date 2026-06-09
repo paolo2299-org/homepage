@@ -1,5 +1,52 @@
 [
   {
+    "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+    "url": "https://claude.com/blog/claude-for-foundation-models",
+    "source": "Claude",
+    "date": "2026-06-08",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Observability for developers building connectors",
+    "url": "https://claude.com/blog/observability-for-developers-building-connectors",
+    "source": "Claude",
+    "date": "2026-06-08",
+    "tags": [
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "url": "https://openai.com/index/openai-submits-confidential-s-1",
+    "source": "OpenAI",
+    "date": "2026-06-08",
+    "tags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Built to benefit everyone: our plan",
+    "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+    "source": "OpenAI",
+    "date": "2026-06-08",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Introducing the OpenAI Economic Research Exchange",
+    "url": "https://openai.com/index/economic-research-exchange",
+    "source": "OpenAI",
+    "date": "2026-06-08",
+    "tags": [
+      "Opinion",
+      "Product Launch"
+    ]
+  },
+  {
     "title": "The Claude Cowork product guide",
     "url": "https://claude.com/blog/the-claude-cowork-product-guide",
     "source": "Claude",
@@ -242,7 +289,7 @@
     ]
   },
   {
-    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -310,7 +357,7 @@
     ]
   },
   {
-    "title": "OpenAI’s Frontier Governance Framework",
+    "title": "OpenAI\u2019s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28",
@@ -506,7 +553,7 @@
     ]
   },
   {
-    "title": "The next phase of OpenAI’s Education for Countries",
+    "title": "The next phase of OpenAI\u2019s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20",
