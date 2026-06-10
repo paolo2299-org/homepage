@@ -1,5 +1,44 @@
 [
   {
+    "title": "New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults",
+    "url": "https://claude.com/blog/whats-new-in-claude-managed-agents",
+    "source": "Claude",
+    "date": "2026-06-09",
+    "tags": [
+      "Product Launch",
+      "Agents"
+    ]
+  },
+  {
+    "title": "How engineers at Nextdoor use Codex to build without limits",
+    "url": "https://openai.com/index/nextdoor",
+    "source": "OpenAI",
+    "date": "2026-06-09",
+    "tags": [
+      "Case Study",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "What Codex unlocks for Notion",
+    "url": "https://openai.com/index/notion",
+    "source": "OpenAI",
+    "date": "2026-06-09",
+    "tags": [
+      "Case Study",
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Industrial policy for the Intelligence Age",
+    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "source": "OpenAI",
+    "date": "2026-06-09",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
     "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
     "url": "https://claude.com/blog/claude-for-foundation-models",
     "source": "Claude",
@@ -44,6 +83,16 @@
     "tags": [
       "Opinion",
       "Product Launch"
+    ]
+  },
+  {
+    "title": "Bringing the latest Gemini models to Apple developers",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/bringing-gemini-models-to-apple-developers/",
+    "source": "Google",
+    "date": "2026-06-08",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
     ]
   },
   {
@@ -289,7 +338,7 @@
     ]
   },
   {
-    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -357,7 +406,7 @@
     ]
   },
   {
-    "title": "OpenAI\u2019s Frontier Governance Framework",
+    "title": "OpenAI’s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28",
@@ -553,7 +602,7 @@
     ]
   },
   {
-    "title": "The next phase of OpenAI\u2019s Education for Countries",
+    "title": "The next phase of OpenAI’s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20",
