@@ -2,6 +2,8 @@ Title: Blog | Claude
 
 URL Source: https://claude.com/blog
 
+Published Time: Wed, 10 Jun 2026 01:07:55 GMT
+
 Markdown Content:
 # Blog | Claude
 
@@ -25,6 +27,8 @@ Features
 
 Models
 
+    *   [Mythos](https://www.anthropic.com/claude/mythos)
+    *   [Fable](https://www.anthropic.com/claude/fable)
     *   [Opus](https://www.anthropic.com/claude/opus)
     *   [Sonnet](https://www.anthropic.com/claude/sonnet)
     *   [Haiku](https://www.anthropic.com/claude/haiku)
@@ -96,19 +100,19 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/login)
+*   [Login](https://claude.ai/redirect/claudedotcom.v1.fac08b60-5afd-4cc6-9ed8-0cdec47bc0a8/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.fac08b60-5afd-4cc6-9ed8-0cdec47bc0a8)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.fac08b60-5afd-4cc6-9ed8-0cdec47bc0a8)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.fac08b60-5afd-4cc6-9ed8-0cdec47bc0a8)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.fac08b60-5afd-4cc6-9ed8-0cdec47bc0a8)Try Claude  
 
 *   
 Meet Claude       
@@ -128,6 +132,8 @@ Features
 
 Models
 
+    *   [Mythos](https://www.anthropic.com/claude/mythos)
+    *   [Fable](https://www.anthropic.com/claude/fable)
     *   [Opus](https://www.anthropic.com/claude/opus)
     *   [Sonnet](https://www.anthropic.com/claude/sonnet)
     *   [Haiku](https://www.anthropic.com/claude/haiku)
@@ -199,12 +205,12 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/login)
+*   [Login](https://claude.ai/redirect/claudedotcom.v1.fac08b60-5afd-4cc6-9ed8-0cdec47bc0a8/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.fac08b60-5afd-4cc6-9ed8-0cdec47bc0a8)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.fac08b60-5afd-4cc6-9ed8-0cdec47bc0a8)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -292,11 +298,11 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/)Try Claude
+[Try Claude](https://claude.ai/redirect/claudedotcom.v1.fac08b60-5afd-4cc6-9ed8-0cdec47bc0a8)Try Claude
 
 All
 
-162
+163
 
 ## [Agents](https://claude.com/blog/category/agents)
 
@@ -502,7 +508,33 @@ Grid
 
 List
 
-![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229b7f170bab528846d_0df729ce74e4c9dd62c3342c9549ce6c7cef1202-1000x1000.svg)
+![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22a7bb714a55b503cd7_cad034e66b44f7f017c0cb931c403a97d1763758-1000x1000.svg)
+
+Jun 9, 2026
+
+New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults
+
+Product announcements
+
+New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults
+
+[](https://claude.com/blog-product/claude-platform)
+
+Claude Platform
+
+[](https://claude.com/blog-usecases/agents)
+
+Agents
+
+June 9, 2026
+
+[New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults](https://claude.com/blog/whats-new-in-claude-managed-agents)New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults
+
+[New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults](https://claude.com/blog#)New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults
+
+[](https://claude.com/blog/whats-new-in-claude-managed-agents)
+
+![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229b7f170bab528846d_0df729ce74e4c9dd62c3342c9549ce6c7cef1202-1000x1000.svg)
 
 Jun 8, 2026
 
@@ -528,11 +560,13 @@ June 8, 2026
 
 [](https://claude.com/blog/claude-for-foundation-models)
 
-![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
+![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
 
 Jun 8, 2026
 
 Observability for developers building connectors
+
+Product announcements
 
 Observability for developers building connectors
 
@@ -548,7 +582,7 @@ June 8, 2026
 
 [](https://claude.com/blog/observability-for-developers-building-connectors)
 
-![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
+![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
 
 Jun 5, 2026
 
@@ -574,7 +608,7 @@ June 5, 2026
 
 [](https://claude.com/blog/the-claude-cowork-product-guide)
 
-![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2222403b092e0358b0e_cd4fd51deacd067d4e30aee4f4b149f6cba1b97b-1000x1000.svg)
+![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2222403b092e0358b0e_cd4fd51deacd067d4e30aee4f4b149f6cba1b97b-1000x1000.svg)
 
 Jun 5, 2026
 
@@ -604,7 +638,7 @@ June 5, 2026
 
 [](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering)
 
-![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22349f86cd1968deab7_f06ca06f9d08ca4a85f26357eb896c3730274507-1000x1000.svg)
+![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22349f86cd1968deab7_f06ca06f9d08ca4a85f26357eb896c3730274507-1000x1000.svg)
 
 Jun 3, 2026
 
@@ -626,7 +660,7 @@ June 3, 2026
 
 [](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude)
 
-![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
+![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
 
 Jun 3, 2026
 
@@ -648,7 +682,7 @@ June 3, 2026
 
 [](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills)
 
-![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226da492fb9f7f815ba_1c3d1af62032009538b8bf5864139ca124b06741-1000x1000.svg)
+![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226da492fb9f7f815ba_1c3d1af62032009538b8bf5864139ca124b06741-1000x1000.svg)
 
 Jun 3, 2026
 
@@ -678,7 +712,7 @@ June 3, 2026
 
 [](https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork)
 
-![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f7912d5b05a5c7ed8ae86_Object-CodeChatCode.svg)
+![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f7912d5b05a5c7ed8ae86_Object-CodeChatCode.svg)
 
 Jun 3, 2026
 
@@ -704,7 +738,7 @@ June 3, 2026
 
 [](https://claude.com/blog/running-an-ai-native-engineering-org)
 
-![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e13864f88ea55c2d8_b5c98d26c46edc43193e7f7e28a00633a538bb9c-1000x1000.svg)
+![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e13864f88ea55c2d8_b5c98d26c46edc43193e7f7e28a00633a538bb9c-1000x1000.svg)
 
 Jun 2, 2026
 
@@ -722,7 +756,7 @@ June 2, 2026
 
 [](https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code)
 
-![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d223de65e7dcca8267d8_ea364001be6bf6d2e86b58109ead6a779d5771a7-1000x1000.svg)
+![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d223de65e7dcca8267d8_ea364001be6bf6d2e86b58109ead6a779d5771a7-1000x1000.svg)
 
 May 28, 2026
 
@@ -748,7 +782,7 @@ May 28, 2026
 
 [](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code)
 
-![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22753311132c8c37b39_d3dd09ad16c68461dc3fb01df5e84cf7ccafda6c-1000x1000.svg)
+![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22753311132c8c37b39_d3dd09ad16c68461dc3fb01df5e84cf7ccafda6c-1000x1000.svg)
 
 May 27, 2026
 
@@ -766,7 +800,7 @@ May 27, 2026
 
 [](https://claude.com/blog/using-llms-to-secure-source-code)
 
-![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f76874e94e489958af8ba_Object-CodeMagnifier.svg)
+![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f76874e94e489958af8ba_Object-CodeMagnifier.svg)
 
 May 27, 2026
 
@@ -792,7 +826,7 @@ May 27, 2026
 
 [](https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system)
 
-![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
+![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
 
 May 27, 2026
 
@@ -814,7 +848,7 @@ May 27, 2026
 
 [](https://claude.com/blog/zero-trust-for-ai-agents)
 
-![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/690937bee860a953417a8eee_Object-CodeBrowserGlobe.svg)
+![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/690937bee860a953417a8eee_Object-CodeBrowserGlobe.svg)
 
 May 26, 2026
 
@@ -840,37 +874,7 @@ May 26, 2026
 
 [](https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build)
 
-![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
-
-May 22, 2026
-
-How Anthropic's finance team uses Claude to shape the narrative behind the numbers
-
-Enterprise AI
-
-How Anthropic's finance team uses Claude to shape the narrative behind the numbers
-
-[](https://claude.com/blog-product/claude-cowork)
-
-Claude Cowork
-
-[](https://claude.com/blog-usecases/productivity)
-
-Productivity
-
-[](https://claude.com/blog-usecases/financial-services)
-
-Financial services
-
-May 22, 2026
-
-[How Anthropic's finance team uses Claude to shape the narrative behind the numbers](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers)How Anthropic's finance team uses Claude to shape the narrative behind the numbers
-
-[How Anthropic's finance team uses Claude to shape the narrative behind the numbers](https://claude.com/blog#)How Anthropic's finance team uses Claude to shape the narrative behind the numbers
-
-[](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers)
-
-[View more](https://claude.com/blog?b7eea976_page=2)
+[Previous](https://claude.com/blog?b7eea976_page=11)[View more](https://claude.com/blog?b7eea976_page=2)
 
 1 / 11
 
@@ -879,6 +883,32 @@ Category
 Product
 
 Usecase
+
+### New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults
+
+Category
+
+Product announcements
+
+Product
+
+[](https://claude.com/blog-product/claude-platform)
+
+Claude Platform
+
+Usecase
+
+[](https://claude.com/blog-usecases/agents)
+
+Agents
+
+June 9, 2026
+
+[New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults](https://claude.com/blog/whats-new-in-claude-managed-agents)New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults
+
+[New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults](https://claude.com/blog#)New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults
+
+[](https://claude.com/blog/whats-new-in-claude-managed-agents)
 
 ### Building intelligent apps for Apple platforms with Claude in the Foundation Models framework
 
@@ -910,7 +940,7 @@ June 8, 2026
 
 Category
 
-No items found.
+Product announcements
 
 Product
 
@@ -1220,39 +1250,9 @@ May 26, 2026
 
 [](https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build)
 
-### How Anthropic's finance team uses Claude to shape the narrative behind the numbers
-
-Category
-
-Enterprise AI
-
-Product
-
-[](https://claude.com/blog-product/claude-cowork)
-
-Claude Cowork
-
-Usecase
-
-[](https://claude.com/blog-usecases/productivity)
-
-Productivity
-
-[](https://claude.com/blog-usecases/financial-services)
-
-Financial services
-
-May 22, 2026
-
-[How Anthropic's finance team uses Claude to shape the narrative behind the numbers](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers)How Anthropic's finance team uses Claude to shape the narrative behind the numbers
-
-[How Anthropic's finance team uses Claude to shape the narrative behind the numbers](https://claude.com/blog#)How Anthropic's finance team uses Claude to shape the narrative behind the numbers
-
-[](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers)
-
 [Previous](https://claude.com/blog?d7430fcd_page=11)[View more](https://claude.com/blog?d7430fcd_page=2)
 
-1 / 1
+1 / 11
 
 No
 
@@ -1415,7 +1415,7 @@ Products
 *   Claude Security [Claude Security](https://claude.com/product/claude-security)Claude Security 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/login)Log in 
+*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.fac08b60-5afd-4cc6-9ed8-0cdec47bc0a8/login)Log in 
 
 Features
 
@@ -1426,7 +1426,8 @@ Features
 
 Models
 
-*   Mythos Preview [Mythos Preview](https://www.anthropic.com/glasswing)Mythos Preview 
+*   Mythos [Mythos](https://www.anthropic.com/claude/mythos)Mythos 
+*   Fable [Fable](https://www.anthropic.com/claude/fable)Fable 
 *   Opus [Opus](https://www.anthropic.com/claude/opus)Opus 
 *   Sonnet [Sonnet](https://www.anthropic.com/claude/sonnet)Sonnet 
 *   Haiku [Haiku](https://www.anthropic.com/claude/haiku)Haiku 
