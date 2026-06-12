@@ -6,8 +6,20 @@
     "date": "2026-06-11"
   },
   {
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
+    "source": "OpenAI",
+    "date": "2026-06-11"
+  },
+  {
     "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "source": "OpenAI",
+    "date": "2026-06-11"
+  },
+  {
+    "title": "OpenAI to acquire Ona",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
     "source": "OpenAI",
     "date": "2026-06-11"
   },
@@ -96,14 +108,14 @@
     "date": "2026-06-03"
   },
   {
-    "title": "OpenAI public policy agenda",
-    "url": "https://openai.com/index/public-policy-agenda",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
     "source": "OpenAI",
     "date": "2026-06-03"
   },
   {
-    "title": "A blueprint for democratic governance of frontier AI",
-    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "title": "OpenAI public policy agenda",
+    "url": "https://openai.com/index/public-policy-agenda",
     "source": "OpenAI",
     "date": "2026-06-03"
   },
@@ -180,14 +192,14 @@
     "date": "2026-05-28"
   },
   {
-    "title": "OpenAI\u2019s Frontier Governance Framework",
-    "url": "https://openai.com/index/openai-frontier-governance-framework",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
     "source": "OpenAI",
     "date": "2026-05-28"
   },
   {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "url": "https://openai.com/index/mufg",
+    "title": "OpenAI\u2019s Frontier Governance Framework",
+    "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28"
   },
@@ -204,14 +216,14 @@
     "date": "2026-05-27"
   },
   {
-    "title": "Warp\u2019s big bet on building open source with GPT-5.5",
-    "url": "https://openai.com/index/warp",
+    "title": "Election information and safeguards in 2026",
+    "url": "https://openai.com/index/election-safeguards-2026",
     "source": "OpenAI",
     "date": "2026-05-27"
   },
   {
-    "title": "Election information and safeguards in 2026",
-    "url": "https://openai.com/index/election-safeguards-2026",
+    "title": "Warp\u2019s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
     "source": "OpenAI",
     "date": "2026-05-27"
   },
@@ -240,12 +252,6 @@
     "date": "2026-05-21"
   },
   {
-    "title": "How Ramp engineers accelerate code review with Codex",
-    "url": "https://openai.com/index/ramp",
-    "source": "OpenAI",
-    "date": "2026-05-20"
-  },
-  {
     "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
     "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
     "source": "OpenAI",
@@ -254,6 +260,12 @@
   {
     "title": "The next phase of OpenAI\u2019s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "source": "OpenAI",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "url": "https://openai.com/index/ramp",
     "source": "OpenAI",
     "date": "2026-05-20"
   },
@@ -282,14 +294,8 @@
     "date": "2026-05-16"
   },
   {
-    "title": "A new personal finance experience in ChatGPT",
-    "url": "https://openai.com/index/personal-finance-chatgpt",
-    "source": "OpenAI",
-    "date": "2026-05-15"
-  },
-  {
-    "title": "How business operations teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "title": "How sales teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
@@ -300,14 +306,20 @@
     "date": "2026-05-15"
   },
   {
-    "title": "How sales teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "title": "A new personal finance experience in ChatGPT",
+    "url": "https://openai.com/index/personal-finance-chatgpt",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
   {
     "title": "How data science teams use Codex",
     "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "source": "OpenAI",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "How business operations teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
     "source": "OpenAI",
     "date": "2026-05-15"
   },
@@ -334,17 +346,5 @@
     "url": "https://openai.com/index/building-codex-windows-sandbox",
     "source": "OpenAI",
     "date": "2026-05-13"
-  },
-  {
-    "title": "Our response to the TanStack npm supply chain attack",
-    "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-    "source": "OpenAI",
-    "date": "2026-05-13"
-  },
-  {
-    "title": "How finance teams use Codex",
-    "url": "https://openai.com/academy/how-finance-teams-use-codex",
-    "source": "OpenAI",
-    "date": "2026-05-12"
   }
 ]
