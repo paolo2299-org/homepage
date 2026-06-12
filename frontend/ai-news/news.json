@@ -1,5 +1,92 @@
 [
   {
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "source": "OpenAI",
+    "date": "2026-06-11",
+    "tags": [
+      "Case Study",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
+    "source": "OpenAI",
+    "date": "2026-06-11",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "source": "OpenAI",
+    "date": "2026-06-11",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "OpenAI to acquire Ona",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "source": "OpenAI",
+    "date": "2026-06-11",
+    "tags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "The evolution of agentic surfaces: building with Claude Managed Agents",
+    "url": "https://claude.com/blog/building-with-claude-managed-agents",
+    "source": "Claude",
+    "date": "2026-06-10",
+    "tags": [
+      "Agents",
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "source": "OpenAI",
+    "date": "2026-06-10",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "PRC-linked influence operations are targeting AI debates in the US",
+    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "source": "OpenAI",
+    "date": "2026-06-10",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "From data to decisions: how LSEG is scaling trusted AI",
+    "url": "https://openai.com/index/lseg",
+    "source": "OpenAI",
+    "date": "2026-06-10",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "DiffusionGemma: 4x faster text generation",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+    "source": "Google",
+    "date": "2026-06-10",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
     "title": "New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults",
     "url": "https://claude.com/blog/whats-new-in-claude-managed-agents",
     "source": "Claude",
@@ -36,6 +123,16 @@
     "date": "2026-06-09",
     "tags": [
       "Opinion"
+    ]
+  },
+  {
+    "title": "See what 3 builders are making with Gemma 4",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4-builders/",
+    "source": "Google",
+    "date": "2026-06-09",
+    "tags": [
+      "Case Study",
+      "Developer Tools"
     ]
   },
   {
@@ -338,7 +435,7 @@
     ]
   },
   {
-    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -406,7 +503,7 @@
     ]
   },
   {
-    "title": "OpenAI\u2019s Frontier Governance Framework",
+    "title": "OpenAI’s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28",
@@ -602,7 +699,7 @@
     ]
   },
   {
-    "title": "The next phase of OpenAI\u2019s Education for Countries",
+    "title": "The next phase of OpenAI’s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20",
@@ -845,75 +942,6 @@
     "tags": [
       "Opinion",
       "Developer Tools"
-    ]
-  },
-  {
-    "title": "Code w/ Claude SF 2026: Building on the AI exponential",
-    "url": "https://claude.com/blog/code-w-claude-sf-2026-sf",
-    "source": "Claude",
-    "date": "2026-05-12",
-    "tags": [
-      "Developer Tools",
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Claude for the legal industry",
-    "url": "https://claude.com/blog/claude-for-the-legal-industry",
-    "source": "Claude",
-    "date": "2026-05-12",
-    "tags": [
-      "Enterprise",
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "How Anthropic's cybersecurity team built a threat detection platform with Claude Code",
-    "url": "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity",
-    "source": "Claude",
-    "date": "2026-05-12",
-    "tags": [
-      "Case Study",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "How finance teams use Codex",
-    "url": "https://openai.com/academy/how-finance-teams-use-codex",
-    "source": "OpenAI",
-    "date": "2026-05-12",
-    "tags": [
-      "Enterprise",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "How NVIDIA engineers and researchers build with Codex",
-    "url": "https://openai.com/index/nvidia",
-    "source": "OpenAI",
-    "date": "2026-05-12",
-    "tags": [
-      "Case Study",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "What Parameter Golf taught us about AI-assisted research",
-    "url": "https://openai.com/index/what-parameter-golf-taught-us",
-    "source": "OpenAI",
-    "date": "2026-05-12",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "AutoScout24 scales engineering with AI-powered workflows",
-    "url": "https://openai.com/index/autoscout24",
-    "source": "OpenAI",
-    "date": "2026-05-12",
-    "tags": [
-      "Case Study",
-      "Enterprise"
     ]
   }
 ]
