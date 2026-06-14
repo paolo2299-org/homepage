@@ -40,7 +40,7 @@
     ]
   },
   {
-    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
     "date": "2026-06-11",
@@ -455,7 +455,7 @@
     ]
   },
   {
-    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -523,7 +523,7 @@
     ]
   },
   {
-    "title": "OpenAI\u2019s Frontier Governance Framework",
+    "title": "OpenAI’s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28",
@@ -719,7 +719,7 @@
     ]
   },
   {
-    "title": "The next phase of OpenAI\u2019s Education for Countries",
+    "title": "The next phase of OpenAI’s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20",
@@ -882,56 +882,6 @@
     "date": "2026-05-15",
     "tags": [
       "Product Launch"
-    ]
-  },
-  {
-    "title": "The founder's playbook: Building an AI-native startup",
-    "url": "https://claude.com/blog/the-founders-playbook",
-    "source": "Claude",
-    "date": "2026-05-14",
-    "tags": [
-      "Opinion",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "How Claude Code works in large codebases: Best practices and where to start",
-    "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
-    "source": "Claude",
-    "date": "2026-05-14",
-    "tags": [
-      "Developer Tools",
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Work with Codex from anywhere",
-    "url": "https://openai.com/index/work-with-codex-from-anywhere",
-    "source": "OpenAI",
-    "date": "2026-05-14",
-    "tags": [
-      "Developer Tools",
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Helping ChatGPT better recognize context in sensitive conversations",
-    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-    "source": "OpenAI",
-    "date": "2026-05-14",
-    "tags": [
-      "Product Launch",
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Sea's View on the Future of Agentic Software Development with Codex",
-    "url": "https://openai.com/index/sea-david-chen",
-    "source": "OpenAI",
-    "date": "2026-05-14",
-    "tags": [
-      "Opinion",
-      "Agents"
     ]
   }
 ]
