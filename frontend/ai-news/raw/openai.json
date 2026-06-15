@@ -1,5 +1,11 @@
 [
   {
+    "title": "Introducing the OpenAI Partner Network",
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "source": "OpenAI",
+    "date": "2026-06-14"
+  },
+  {
     "title": "New OpenAI Academy courses for the next era of work",
     "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
     "source": "OpenAI",
@@ -12,14 +18,8 @@
     "date": "2026-06-12"
   },
   {
-    "title": "OpenAI to acquire Ona",
-    "url": "https://openai.com/index/openai-to-acquire-ona",
-    "source": "OpenAI",
-    "date": "2026-06-11"
-  },
-  {
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
     "date": "2026-06-11"
   },
@@ -30,8 +30,14 @@
     "date": "2026-06-11"
   },
   {
-    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "title": "OpenAI to acquire Ona",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "source": "OpenAI",
+    "date": "2026-06-11"
+  },
+  {
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "source": "OpenAI",
     "date": "2026-06-11"
   },
@@ -120,14 +126,14 @@
     "date": "2026-06-03"
   },
   {
-    "title": "OpenAI public policy agenda",
-    "url": "https://openai.com/index/public-policy-agenda",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
     "source": "OpenAI",
     "date": "2026-06-03"
   },
   {
-    "title": "A blueprint for democratic governance of frontier AI",
-    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "title": "OpenAI public policy agenda",
+    "url": "https://openai.com/index/public-policy-agenda",
     "source": "OpenAI",
     "date": "2026-06-03"
   },
@@ -228,14 +234,14 @@
     "date": "2026-05-27"
   },
   {
-    "title": "Warp\u2019s big bet on building open source with GPT-5.5",
-    "url": "https://openai.com/index/warp",
+    "title": "Election information and safeguards in 2026",
+    "url": "https://openai.com/index/election-safeguards-2026",
     "source": "OpenAI",
     "date": "2026-05-27"
   },
   {
-    "title": "Election information and safeguards in 2026",
-    "url": "https://openai.com/index/election-safeguards-2026",
+    "title": "Warp\u2019s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
     "source": "OpenAI",
     "date": "2026-05-27"
   },
@@ -246,14 +252,14 @@
     "date": "2026-05-25"
   },
   {
-    "title": "How Virgin Atlantic ships faster with Codex",
-    "url": "https://openai.com/index/virgin-atlantic",
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
     "source": "OpenAI",
     "date": "2026-05-22"
   },
   {
-    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "title": "How Virgin Atlantic ships faster with Codex",
+    "url": "https://openai.com/index/virgin-atlantic",
     "source": "OpenAI",
     "date": "2026-05-22"
   },
@@ -264,14 +270,14 @@
     "date": "2026-05-21"
   },
   {
-    "title": "The next phase of OpenAI\u2019s Education for Countries",
-    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "url": "https://openai.com/index/ramp",
     "source": "OpenAI",
     "date": "2026-05-20"
   },
   {
-    "title": "How Ramp engineers accelerate code review with Codex",
-    "url": "https://openai.com/index/ramp",
+    "title": "The next phase of OpenAI\u2019s Education for Countries",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20"
   },
@@ -298,11 +304,5 @@
     "url": "https://openai.com/index/dell-codex-enterprise-partnership",
     "source": "OpenAI",
     "date": "2026-05-18"
-  },
-  {
-    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-    "source": "OpenAI",
-    "date": "2026-05-16"
   }
 ]
