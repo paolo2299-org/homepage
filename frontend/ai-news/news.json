@@ -1,5 +1,15 @@
 [
   {
+    "title": "Introducing the OpenAI Partner Network",
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "source": "OpenAI",
+    "date": "2026-06-14",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "New OpenAI Academy courses for the next era of work",
     "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
     "source": "OpenAI",
@@ -40,7 +50,7 @@
     ]
   },
   {
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
     "date": "2026-06-11",
@@ -455,7 +465,7 @@
     ]
   },
   {
-    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -523,7 +533,7 @@
     ]
   },
   {
-    "title": "OpenAI’s Frontier Governance Framework",
+    "title": "OpenAI\u2019s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28",
@@ -719,7 +729,7 @@
     ]
   },
   {
-    "title": "The next phase of OpenAI’s Education for Countries",
+    "title": "The next phase of OpenAI\u2019s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20",
@@ -813,16 +823,6 @@
     "tags": [
       "Enterprise",
       "Product Launch"
-    ]
-  },
-  {
-    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-    "source": "OpenAI",
-    "date": "2026-05-16",
-    "tags": [
-      "Product Launch",
-      "Enterprise"
     ]
   }
 ]
