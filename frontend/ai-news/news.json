@@ -1,5 +1,55 @@
 [
   {
+    "title": "Meet the winners of our Claude Opus 4.8 Build Day hackathon",
+    "url": "https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon",
+    "source": "Claude",
+    "date": "2026-06-17",
+    "tags": [
+      "Developer Tools",
+      "Case Study"
+    ]
+  },
+  {
+    "title": "Claude Design now stays on brand for daily work",
+    "url": "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work",
+    "source": "Claude",
+    "date": "2026-06-17",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Secure access to the Claude Platform with Workload Identity Federation",
+    "url": "https://claude.com/blog/workload-identity-federation",
+    "source": "Claude",
+    "date": "2026-06-17",
+    "tags": [
+      "Enterprise",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "source": "OpenAI",
+    "date": "2026-06-17",
+    "tags": [
+      "Case Study",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Introducing LifeSciBench",
+    "url": "https://openai.com/index/introducing-life-sci-bench",
+    "source": "OpenAI",
+    "date": "2026-06-17",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
     "title": "Predicting model behavior before release by simulating deployment",
     "url": "https://openai.com/index/predicting-model-behavior-before-release-by-simulating-deployment",
     "source": "OpenAI",
@@ -70,7 +120,7 @@
     ]
   },
   {
-    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
     "date": "2026-06-11",
@@ -485,7 +535,7 @@
     ]
   },
   {
-    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -553,7 +603,7 @@
     ]
   },
   {
-    "title": "OpenAI\u2019s Frontier Governance Framework",
+    "title": "OpenAI’s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28",
@@ -749,7 +799,7 @@
     ]
   },
   {
-    "title": "The next phase of OpenAI\u2019s Education for Countries",
+    "title": "The next phase of OpenAI’s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "source": "OpenAI",
     "date": "2026-05-20",
@@ -765,74 +815,6 @@
     "tags": [
       "Case Study",
       "Developer Tools"
-    ]
-  },
-  {
-    "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
-    "url": "https://claude.com/blog/claude-managed-agents-updates",
-    "source": "Claude",
-    "date": "2026-05-19",
-    "tags": [
-      "Product Launch",
-      "Agents"
-    ]
-  },
-  {
-    "title": "Introducing OpenAI for Singapore",
-    "url": "https://openai.com/index/introducing-openai-for-singapore",
-    "source": "OpenAI",
-    "date": "2026-05-19",
-    "tags": [
-      "Enterprise",
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-    "url": "https://openai.com/index/advancing-content-provenance",
-    "source": "OpenAI",
-    "date": "2026-05-19",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Introducing Managed Agents in the Gemini API",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/",
-    "source": "Google",
-    "date": "2026-05-19",
-    "tags": [
-      "Product Launch",
-      "Agents"
-    ]
-  },
-  {
-    "title": "Bring any idea to life: Google AI Studio at I/O 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026/",
-    "source": "Google",
-    "date": "2026-05-19",
-    "tags": [
-      "Product Launch",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Building the agentic future: Developer highlights from I/O 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights/",
-    "source": "Google",
-    "date": "2026-05-19",
-    "tags": [
-      "Product Launch",
-      "Agents"
-    ]
-  },
-  {
-    "title": "I/O 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-    "source": "Google",
-    "date": "2026-05-19",
-    "tags": [
-      "Product Launch"
     ]
   }
 ]
