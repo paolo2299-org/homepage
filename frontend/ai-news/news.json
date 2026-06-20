@@ -1,5 +1,62 @@
 [
   {
+    "title": "Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more",
+    "url": "https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more",
+    "source": "Claude",
+    "date": "2026-06-18",
+    "tags": [
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Centrally manage authorization for MCP connectors",
+    "url": "https://claude.com/blog/enterprise-managed-auth",
+    "source": "Claude",
+    "date": "2026-06-18",
+    "tags": [
+      "Enterprise",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Claude Code now supports artifacts",
+    "url": "https://claude.com/blog/artifacts-in-claude-code",
+    "source": "Claude",
+    "date": "2026-06-18",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "source": "OpenAI",
+    "date": "2026-06-18",
+    "tags": [
+      "Enterprise",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Improving health intelligence in ChatGPT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "source": "OpenAI",
+    "date": "2026-06-18",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "source": "OpenAI",
+    "date": "2026-06-18",
+    "tags": [
+      "Case Study"
+    ]
+  },
+  {
     "title": "Meet the winners of our Claude Opus 4.8 Build Day hackathon",
     "url": "https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon",
     "source": "Claude",
@@ -120,7 +177,7 @@
     ]
   },
   {
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
     "date": "2026-06-11",
@@ -535,7 +592,7 @@
     ]
   },
   {
-    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -603,7 +660,7 @@
     ]
   },
   {
-    "title": "OpenAI’s Frontier Governance Framework",
+    "title": "OpenAI\u2019s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28",
@@ -767,54 +824,6 @@
     "tags": [
       "Case Study",
       "Enterprise"
-    ]
-  },
-  {
-    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-    "url": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
-    "source": "Claude",
-    "date": "2026-05-20",
-    "tags": [
-      "Developer Tools",
-      "Case Study"
-    ]
-  },
-  {
-    "title": "How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book",
-    "url": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
-    "source": "Claude",
-    "date": "2026-05-20",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "source": "OpenAI",
-    "date": "2026-05-20",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "source": "OpenAI",
-    "date": "2026-05-20",
-    "tags": [
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "How Ramp engineers accelerate code review with Codex",
-    "url": "https://openai.com/index/ramp",
-    "source": "OpenAI",
-    "date": "2026-05-20",
-    "tags": [
-      "Case Study",
-      "Developer Tools"
     ]
   }
 ]
