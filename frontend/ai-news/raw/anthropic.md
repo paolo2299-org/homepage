@@ -932,7 +932,7 @@ June 3, 2026
 
 [](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills)
 
-[Previous](https://claude.com/blog?b7eea976_page=12)[View more](https://claude.com/blog?b7eea976_page=2)
+[View more](https://claude.com/blog?b7eea976_page=2)
 
 1 / 12
 
@@ -1362,7 +1362,7 @@ June 3, 2026
 
 [Previous](https://claude.com/blog?d7430fcd_page=12)[View more](https://claude.com/blog?d7430fcd_page=2)
 
-1 / 12
+1 / 1
 
 No
 
