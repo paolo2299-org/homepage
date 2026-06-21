@@ -177,7 +177,7 @@
     ]
   },
   {
-    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
     "date": "2026-06-11",
@@ -592,7 +592,7 @@
     ]
   },
   {
-    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -660,7 +660,7 @@
     ]
   },
   {
-    "title": "OpenAI\u2019s Frontier Governance Framework",
+    "title": "OpenAI’s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28",
@@ -794,36 +794,6 @@
     "tags": [
       "Case Study",
       "Developer Tools"
-    ]
-  },
-  {
-    "title": "Claude now works with more security and compliance tools",
-    "url": "https://claude.com/blog/compliance-api-security-partners",
-    "source": "Claude",
-    "date": "2026-05-21",
-    "tags": [
-      "Product Launch",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "How our partners are putting Opus to work for cybersecurity",
-    "url": "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity",
-    "source": "Claude",
-    "date": "2026-05-21",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "AdventHealth advances whole-person care with OpenAI",
-    "url": "https://openai.com/index/adventhealth",
-    "source": "OpenAI",
-    "date": "2026-05-21",
-    "tags": [
-      "Case Study",
-      "Enterprise"
     ]
   }
 ]
