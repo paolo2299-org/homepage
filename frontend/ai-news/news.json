@@ -177,7 +177,7 @@
     ]
   },
   {
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
     "date": "2026-06-11",
@@ -592,7 +592,7 @@
     ]
   },
   {
-    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -660,7 +660,7 @@
     ]
   },
   {
-    "title": "OpenAI’s Frontier Governance Framework",
+    "title": "OpenAI\u2019s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28",
@@ -764,36 +764,6 @@
     "date": "2026-05-25",
     "tags": [
       "Enterprise"
-    ]
-  },
-  {
-    "title": "How Anthropic's finance team uses Claude to shape the narrative behind the numbers",
-    "url": "https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers",
-    "source": "Claude",
-    "date": "2026-05-22",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-    "source": "OpenAI",
-    "date": "2026-05-22",
-    "tags": [
-      "Enterprise",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "How Virgin Atlantic ships faster with Codex",
-    "url": "https://openai.com/index/virgin-atlantic",
-    "source": "OpenAI",
-    "date": "2026-05-22",
-    "tags": [
-      "Case Study",
-      "Developer Tools"
     ]
   }
 ]
