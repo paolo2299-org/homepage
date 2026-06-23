@@ -1,5 +1,23 @@
 [
   {
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "source": "OpenAI",
+    "date": "2026-06-22"
+  },
+  {
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "url": "https://openai.com/index/patch-the-planet",
+    "source": "OpenAI",
+    "date": "2026-06-22"
+  },
+  {
+    "title": "Codex-maxxing for long-running work",
+    "url": "https://openai.com/index/codex-maxxing-long-running-work",
+    "source": "OpenAI",
+    "date": "2026-06-22"
+  },
+  {
     "title": "Samsung Electronics brings ChatGPT and Codex to employees",
     "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
     "source": "OpenAI",
@@ -66,12 +84,6 @@
     "date": "2026-06-11"
   },
   {
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "source": "OpenAI",
-    "date": "2026-06-11"
-  },
-  {
     "title": "OpenAI to acquire Ona",
     "url": "https://openai.com/index/openai-to-acquire-ona",
     "source": "OpenAI",
@@ -80,6 +92,12 @@
   {
     "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "source": "OpenAI",
+    "date": "2026-06-11"
+  },
+  {
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "source": "OpenAI",
     "date": "2026-06-11"
   },
@@ -276,14 +294,14 @@
     "date": "2026-05-27"
   },
   {
-    "title": "Warp\u2019s big bet on building open source with GPT-5.5",
-    "url": "https://openai.com/index/warp",
+    "title": "Election information and safeguards in 2026",
+    "url": "https://openai.com/index/election-safeguards-2026",
     "source": "OpenAI",
     "date": "2026-05-27"
   },
   {
-    "title": "Election information and safeguards in 2026",
-    "url": "https://openai.com/index/election-safeguards-2026",
+    "title": "Warp\u2019s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
     "source": "OpenAI",
     "date": "2026-05-27"
   },
