@@ -1,5 +1,55 @@
 [
   {
+    "title": "The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry",
+    "url": "https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry",
+    "source": "Claude",
+    "date": "2026-06-22",
+    "tags": [
+      "Enterprise",
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "source": "OpenAI",
+    "date": "2026-06-22",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "url": "https://openai.com/index/patch-the-planet",
+    "source": "OpenAI",
+    "date": "2026-06-22",
+    "tags": [
+      "Developer Tools",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Codex-maxxing for long-running work",
+    "url": "https://openai.com/index/codex-maxxing-long-running-work",
+    "source": "OpenAI",
+    "date": "2026-06-22",
+    "tags": [
+      "Developer Tools",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "source": "OpenAI",
+    "date": "2026-06-21",
+    "tags": [
+      "Enterprise",
+      "Case Study"
+    ]
+  },
+  {
     "title": "Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more",
     "url": "https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more",
     "source": "Claude",
@@ -177,7 +227,7 @@
     ]
   },
   {
-    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
     "date": "2026-06-11",
@@ -592,7 +642,7 @@
     ]
   },
   {
-    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -660,7 +710,7 @@
     ]
   },
   {
-    "title": "OpenAI\u2019s Frontier Governance Framework",
+    "title": "OpenAI’s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28",
