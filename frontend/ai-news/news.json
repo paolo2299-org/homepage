@@ -1,5 +1,43 @@
 [
   {
+    "title": "Agent identity in Claude Tag: a new access model for autonomous, team-wide AI",
+    "url": "https://claude.com/blog/agent-identity-access-model",
+    "source": "Claude",
+    "date": "2026-06-24",
+    "tags": [
+      "Agents",
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Helping build shared standards for advanced AI",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "source": "OpenAI",
+    "date": "2026-06-23",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "source": "OpenAI",
+    "date": "2026-06-23",
+    "tags": [
+      "Case Study"
+    ]
+  },
+  {
+    "title": "How Omio is building the future of conversational travel",
+    "url": "https://openai.com/index/omio",
+    "source": "OpenAI",
+    "date": "2026-06-23",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry",
     "url": "https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry",
     "source": "Claude",
@@ -37,6 +75,16 @@
     "tags": [
       "Developer Tools",
       "Agents"
+    ]
+  },
+  {
+    "title": "Interactions API: our primary interface for Gemini models and agents",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/",
+    "source": "Google",
+    "date": "2026-06-22",
+    "tags": [
+      "Developer Tools",
+      "Product Launch"
     ]
   },
   {
@@ -227,7 +275,7 @@
     ]
   },
   {
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
     "date": "2026-06-11",
@@ -642,7 +690,7 @@
     ]
   },
   {
-    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -710,7 +758,7 @@
     ]
   },
   {
-    "title": "OpenAI’s Frontier Governance Framework",
+    "title": "OpenAI\u2019s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28",
