@@ -1,5 +1,23 @@
 [
   {
+    "title": "Helping build shared standards for advanced AI",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "source": "OpenAI",
+    "date": "2026-06-23"
+  },
+  {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "source": "OpenAI",
+    "date": "2026-06-23"
+  },
+  {
+    "title": "How Omio is building the future of conversational travel",
+    "url": "https://openai.com/index/omio",
+    "source": "OpenAI",
+    "date": "2026-06-23"
+  },
+  {
     "title": "Daybreak: Tools for securing every organization in the world",
     "url": "https://openai.com/index/daybreak-securing-the-world",
     "source": "OpenAI",
@@ -186,14 +204,14 @@
     "date": "2026-06-03"
   },
   {
-    "title": "OpenAI public policy agenda",
-    "url": "https://openai.com/index/public-policy-agenda",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
     "source": "OpenAI",
     "date": "2026-06-03"
   },
   {
-    "title": "A blueprint for democratic governance of frontier AI",
-    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "title": "OpenAI public policy agenda",
+    "url": "https://openai.com/index/public-policy-agenda",
     "source": "OpenAI",
     "date": "2026-06-03"
   },
@@ -270,14 +288,14 @@
     "date": "2026-05-28"
   },
   {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "url": "https://openai.com/index/mufg",
+    "title": "OpenAI\u2019s Frontier Governance Framework",
+    "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28"
   },
   {
-    "title": "OpenAI\u2019s Frontier Governance Framework",
-    "url": "https://openai.com/index/openai-frontier-governance-framework",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
     "source": "OpenAI",
     "date": "2026-05-28"
   },
@@ -304,11 +322,5 @@
     "url": "https://openai.com/index/warp",
     "source": "OpenAI",
     "date": "2026-05-27"
-  },
-  {
-    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-    "source": "OpenAI",
-    "date": "2026-05-25"
   }
 ]
