@@ -10,6 +10,26 @@
     ]
   },
   {
+    "title": "Building effective human-agent teams",
+    "url": "https://claude.com/blog/building-effective-human-agent-teams",
+    "source": "Claude",
+    "date": "2026-06-24",
+    "tags": [
+      "Agents",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "source": "OpenAI",
+    "date": "2026-06-24",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
     "title": "Helping build shared standards for advanced AI",
     "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
     "source": "OpenAI",
@@ -275,7 +295,7 @@
     ]
   },
   {
-    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
     "date": "2026-06-11",
@@ -690,7 +710,7 @@
     ]
   },
   {
-    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -758,7 +778,7 @@
     ]
   },
   {
-    "title": "OpenAI\u2019s Frontier Governance Framework",
+    "title": "OpenAI’s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28",
@@ -853,15 +873,6 @@
     "tags": [
       "Developer Tools",
       "Opinion"
-    ]
-  },
-  {
-    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-    "source": "OpenAI",
-    "date": "2026-05-25",
-    "tags": [
-      "Enterprise"
     ]
   }
 ]
