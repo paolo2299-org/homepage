@@ -1,8 +1,8 @@
-Title: Blog | Claude
+Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
-Published Time: Tue, 23 Jun 2026 22:03:29 GMT
+Published Time: Thu, 25 Jun 2026 04:03:43 GMT
 
 Markdown Content:
 [](https://claude.com/)
@@ -38,11 +38,18 @@ Models
 *   
 Platform       
 
+Build on Claude 
     *   [Overview](https://claude.com/platform/api)
-    *   [Developer docs](https://platform.claude.com/docs)
     *   [Pricing](http://claude.com/pricing#api)
-
+    *   [Developer docs](https://platform.claude.com/docs)
     *   [Console login](https://platform.claude.com/)
+
+Works with Claude
+
+    *   [Ecosystem](https://claude.com/ecosystem)
+    *   [Marketplace](https://claude.com/platform/marketplace)
+    *   [Connectors](https://claude.com/connectors)
+    *   [Plugins](https://claude.com/plugins)
 
 *   
 Solutions       
@@ -92,29 +99,24 @@ Learn
     *   [Tutorials](https://claude.com/resources/tutorials)
     *   [Use cases](https://claude.com/resources/use-cases)
 
-Tools
-
-    *   [Connectors](https://claude.com/connectors)
-    *   [Plugins](https://claude.com/plugins)
-
 Connect
 
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/login)
+*   [Login](https://claude.ai/redirect/claudedotcom.v1.dbb92c47-ecdf-46f0-bc3b-60aaf2b7f756/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.dbb92c47-ecdf-46f0-bc3b-60aaf2b7f756)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.dbb92c47-ecdf-46f0-bc3b-60aaf2b7f756)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.dbb92c47-ecdf-46f0-bc3b-60aaf2b7f756)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.dbb92c47-ecdf-46f0-bc3b-60aaf2b7f756)Try Claude  
 
 *   
 Meet Claude       
@@ -147,11 +149,18 @@ Models
 *   
 Platform       
 
+Build on Claude 
     *   [Overview](https://claude.com/platform/api)
-    *   [Developer docs](https://platform.claude.com/docs)
     *   [Pricing](http://claude.com/pricing#api)
-
+    *   [Developer docs](https://platform.claude.com/docs)
     *   [Console login](https://platform.claude.com/)
+
+Works with Claude
+
+    *   [Ecosystem](https://claude.com/ecosystem)
+    *   [Marketplace](https://claude.com/platform/marketplace)
+    *   [Connectors](https://claude.com/connectors)
+    *   [Plugins](https://claude.com/plugins)
 
 *   
 Solutions       
@@ -201,22 +210,17 @@ Learn
     *   [Tutorials](https://claude.com/resources/tutorials)
     *   [Use cases](https://claude.com/resources/use-cases)
 
-Tools
-
-    *   [Connectors](https://claude.com/connectors)
-    *   [Plugins](https://claude.com/plugins)
-
 Connect
 
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/login)
+*   [Login](https://claude.ai/redirect/claudedotcom.v1.dbb92c47-ecdf-46f0-bc3b-60aaf2b7f756/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.dbb92c47-ecdf-46f0-bc3b-60aaf2b7f756)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.dbb92c47-ecdf-46f0-bc3b-60aaf2b7f756)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -308,11 +312,11 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/)Try Claude
+[Try Claude](https://claude.ai/redirect/claudedotcom.v1.dbb92c47-ecdf-46f0-bc3b-60aaf2b7f756)Try Claude
 
 All
 
-171
+172
 
 ## [Agents](https://claude.com/blog/category/agents)
 
@@ -522,7 +526,33 @@ Grid
 
 List
 
-![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225588ad176f7c4aafd_abc884c723daea810d2e986455358281a2f94102-1000x1000.svg)
+![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
+
+Jun 24, 2026
+
+Building effective human-agent teams
+
+Enterprise AI
+
+Building effective human-agent teams
+
+[](https://claude.com/blog-product/claude-tag)
+
+Claude Tag
+
+[](https://claude.com/blog-usecases/agents)
+
+Agents
+
+June 24, 2026
+
+[Building effective human-agent teams](https://claude.com/blog/building-effective-human-agent-teams)Building effective human-agent teams
+
+[Building effective human-agent teams](https://claude.com/blog#)Building effective human-agent teams
+
+[](https://claude.com/blog/building-effective-human-agent-teams)
+
+![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225588ad176f7c4aafd_abc884c723daea810d2e986455358281a2f94102-1000x1000.svg)
 
 Jun 24, 2026
 
@@ -544,7 +574,7 @@ June 24, 2026
 
 [](https://claude.com/blog/agent-identity-access-model)
 
-![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22c7f111435762ad994_1b398dbdfa4995ce5ce943aa87d8b78b2c2ba065-1000x1000.svg)
+![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22c7f111435762ad994_1b398dbdfa4995ce5ce943aa87d8b78b2c2ba065-1000x1000.svg)
 
 Jun 22, 2026
 
@@ -574,7 +604,7 @@ June 22, 2026
 
 [](https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry)
 
-![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d7d4c10df6024f7bc_ee580919acaba2ddc07425f7a7390c8962cadc94-1000x1000.svg)
+![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d7d4c10df6024f7bc_ee580919acaba2ddc07425f7a7390c8962cadc94-1000x1000.svg)
 
 Jun 18, 2026
 
@@ -600,7 +630,7 @@ June 18, 2026
 
 [](https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more)
 
-![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d23008bbc20c0ffaeb6f_43abe7e54b56a891e74a8542944dfbd33f07f49c-1000x1000.svg)
+![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d23008bbc20c0ffaeb6f_43abe7e54b56a891e74a8542944dfbd33f07f49c-1000x1000.svg)
 
 Jun 18, 2026
 
@@ -638,7 +668,7 @@ June 18, 2026
 
 [](https://claude.com/blog/enterprise-managed-auth)
 
-![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d0099a66d72e05699_33ddc751e21fb4b116b3f57dd553f0bc55ea09d1-1000x1000.svg)
+![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d0099a66d72e05699_33ddc751e21fb4b116b3f57dd553f0bc55ea09d1-1000x1000.svg)
 
 Jun 18, 2026
 
@@ -676,7 +706,7 @@ June 18, 2026
 
 [](https://claude.com/blog/artifacts-in-claude-code)
 
-![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6909386cc7ad3ed2a7ec8eed_Object-ThoughtBubble.svg)
+![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6909386cc7ad3ed2a7ec8eed_Object-ThoughtBubble.svg)
 
 Jun 17, 2026
 
@@ -702,7 +732,7 @@ June 17, 2026
 
 [](https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon)
 
-![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22949f86cd1968deb9f_33dbe8f783d4835a838b4c4ae85d3c04e352fee1-1000x1000.svg)
+![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22949f86cd1968deb9f_33dbe8f783d4835a838b4c4ae85d3c04e352fee1-1000x1000.svg)
 
 Jun 17, 2026
 
@@ -740,7 +770,7 @@ June 17, 2026
 
 [](https://claude.com/blog/claude-design-stays-on-brand-for-daily-work)
 
-![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
+![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
 
 Jun 17, 2026
 
@@ -766,7 +796,7 @@ June 17, 2026
 
 [](https://claude.com/blog/workload-identity-federation)
 
-![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229061abf091318fc81_6905c83d0735e1bc430025fdd1748d1406079036-1000x1000.svg)
+![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229061abf091318fc81_6905c83d0735e1bc430025fdd1748d1406079036-1000x1000.svg)
 
 Jun 15, 2026
 
@@ -792,7 +822,7 @@ June 15, 2026
 
 [](https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon)
 
-![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
+![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
 
 Jun 10, 2026
 
@@ -818,7 +848,7 @@ June 10, 2026
 
 [](https://claude.com/blog/building-with-claude-managed-agents)
 
-![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22a7bb714a55b503cd7_cad034e66b44f7f017c0cb931c403a97d1763758-1000x1000.svg)
+![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22a7bb714a55b503cd7_cad034e66b44f7f017c0cb931c403a97d1763758-1000x1000.svg)
 
 Jun 9, 2026
 
@@ -844,7 +874,7 @@ June 9, 2026
 
 [](https://claude.com/blog/whats-new-in-claude-managed-agents)
 
-![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229b7f170bab528846d_0df729ce74e4c9dd62c3342c9549ce6c7cef1202-1000x1000.svg)
+![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229b7f170bab528846d_0df729ce74e4c9dd62c3342c9549ce6c7cef1202-1000x1000.svg)
 
 Jun 8, 2026
 
@@ -870,7 +900,7 @@ June 8, 2026
 
 [](https://claude.com/blog/claude-for-foundation-models)
 
-![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
+![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
 
 Jun 8, 2026
 
@@ -892,7 +922,7 @@ June 8, 2026
 
 [](https://claude.com/blog/observability-for-developers-building-connectors)
 
-![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
+![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
 
 Jun 5, 2026
 
@@ -918,36 +948,6 @@ June 5, 2026
 
 [](https://claude.com/blog/the-claude-cowork-product-guide)
 
-![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2222403b092e0358b0e_cd4fd51deacd067d4e30aee4f4b149f6cba1b97b-1000x1000.svg)
-
-Jun 5, 2026
-
-How one Anthropic seller rebuilt his team's workflows with Claude Code
-
-Claude Code
-
-How one Anthropic seller rebuilt his team's workflows with Claude Code
-
-[](https://claude.com/blog-product/claude-code)
-
-Claude Code
-
-[](https://claude.com/blog-product/claude-cowork)
-
-Claude Cowork
-
-[](https://claude.com/blog-usecases/sales)
-
-Sales
-
-June 5, 2026
-
-[How one Anthropic seller rebuilt his team's workflows with Claude Code](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering)How one Anthropic seller rebuilt his team's workflows with Claude Code
-
-[How one Anthropic seller rebuilt his team's workflows with Claude Code](https://claude.com/blog#)How one Anthropic seller rebuilt his team's workflows with Claude Code
-
-[](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering)
-
 [Previous](https://claude.com/blog?b7eea976_page=12)[View more](https://claude.com/blog?b7eea976_page=2)
 
 1 / 12
@@ -957,6 +957,32 @@ Category
 Product
 
 Usecase
+
+### Building effective human-agent teams
+
+Category
+
+Enterprise AI
+
+Product
+
+[](https://claude.com/blog-product/claude-tag)
+
+Claude Tag
+
+Usecase
+
+[](https://claude.com/blog-usecases/agents)
+
+Agents
+
+June 24, 2026
+
+[Building effective human-agent teams](https://claude.com/blog/building-effective-human-agent-teams)Building effective human-agent teams
+
+[Building effective human-agent teams](https://claude.com/blog#)Building effective human-agent teams
+
+[](https://claude.com/blog/building-effective-human-agent-teams)
 
 ### Agent identity in Claude Tag: a new access model for autonomous, team-wide AI
 
@@ -1354,36 +1380,6 @@ June 5, 2026
 
 [](https://claude.com/blog/the-claude-cowork-product-guide)
 
-### How one Anthropic seller rebuilt his team's workflows with Claude Code
-
-Category
-
-Claude Code
-
-Product
-
-[](https://claude.com/blog-product/claude-code)
-
-Claude Code
-
-[](https://claude.com/blog-product/claude-cowork)
-
-Claude Cowork
-
-Usecase
-
-[](https://claude.com/blog-usecases/sales)
-
-Sales
-
-June 5, 2026
-
-[How one Anthropic seller rebuilt his team's workflows with Claude Code](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering)How one Anthropic seller rebuilt his team's workflows with Claude Code
-
-[How one Anthropic seller rebuilt his team's workflows with Claude Code](https://claude.com/blog#)How one Anthropic seller rebuilt his team's workflows with Claude Code
-
-[](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering)
-
 [Previous](https://claude.com/blog?d7430fcd_page=12)[View more](https://claude.com/blog?d7430fcd_page=2)
 
 1 / 12
@@ -1551,7 +1547,7 @@ Products
 *   Claude Security [Claude Security](https://claude.com/product/claude-security)Claude Security 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/login)Log in 
+*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.dbb92c47-ecdf-46f0-bc3b-60aaf2b7f756/login)Log in 
 
 Features
 
@@ -1590,6 +1586,7 @@ Claude Platform
 *   Overview [Overview](https://claude.com/platform/api)Overview 
 *   Developer docs [Developer docs](https://platform.claude.com/docs)Developer docs 
 *   Pricing [Pricing](https://claude.com/pricing#api)Pricing 
+*   Ecosystem [Ecosystem](https://claude.com/ecosystem)Ecosystem 
 *   Marketplace [Marketplace](https://claude.com/platform/marketplace)Marketplace 
 *   Claude on AWS [Claude on AWS](https://claude.com/partners/claude-on-aws)Claude on AWS 
 *   Google Cloud [Google Cloud](https://claude.com/partners/google-cloud)Google Cloud 

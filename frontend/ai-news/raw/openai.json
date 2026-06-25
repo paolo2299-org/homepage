@@ -1,5 +1,11 @@
 [
   {
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "source": "OpenAI",
+    "date": "2026-06-24"
+  },
+  {
     "title": "Helping build shared standards for advanced AI",
     "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
     "source": "OpenAI",
@@ -96,26 +102,26 @@
     "date": "2026-06-12"
   },
   {
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "url": "https://openai.com/index/bbva",
-    "source": "OpenAI",
-    "date": "2026-06-11"
-  },
-  {
     "title": "OpenAI to acquire Ona",
     "url": "https://openai.com/index/openai-to-acquire-ona",
     "source": "OpenAI",
     "date": "2026-06-11"
   },
   {
-    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
     "source": "OpenAI",
     "date": "2026-06-11"
   },
   {
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "source": "OpenAI",
+    "date": "2026-06-11"
+  },
+  {
+    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
     "date": "2026-06-11"
   },
