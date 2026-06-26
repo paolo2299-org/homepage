@@ -1,5 +1,11 @@
 [
   {
+    "title": "How agents are transforming work",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "source": "OpenAI",
+    "date": "2026-06-25"
+  },
+  {
     "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
     "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
     "source": "OpenAI",
@@ -24,14 +30,14 @@
     "date": "2026-06-23"
   },
   {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "url": "https://openai.com/index/patch-the-planet",
     "source": "OpenAI",
     "date": "2026-06-22"
   },
   {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "url": "https://openai.com/index/patch-the-planet",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
     "source": "OpenAI",
     "date": "2026-06-22"
   },
@@ -102,18 +108,6 @@
     "date": "2026-06-12"
   },
   {
-    "title": "OpenAI to acquire Ona",
-    "url": "https://openai.com/index/openai-to-acquire-ona",
-    "source": "OpenAI",
-    "date": "2026-06-11"
-  },
-  {
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "url": "https://openai.com/index/bbva",
-    "source": "OpenAI",
-    "date": "2026-06-11"
-  },
-  {
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "source": "OpenAI",
@@ -122,6 +116,18 @@
   {
     "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "source": "OpenAI",
+    "date": "2026-06-11"
+  },
+  {
+    "title": "OpenAI to acquire Ona",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "source": "OpenAI",
+    "date": "2026-06-11"
+  },
+  {
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
     "source": "OpenAI",
     "date": "2026-06-11"
   },
@@ -314,18 +320,6 @@
   {
     "title": "Building self-improving tax agents with Codex",
     "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-    "source": "OpenAI",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "Election information and safeguards in 2026",
-    "url": "https://openai.com/index/election-safeguards-2026",
-    "source": "OpenAI",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "Warp\u2019s big bet on building open source with GPT-5.5",
-    "url": "https://openai.com/index/warp",
     "source": "OpenAI",
     "date": "2026-05-27"
   }
