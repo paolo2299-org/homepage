@@ -1,5 +1,15 @@
 [
   {
+    "title": "How agents are transforming work",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "source": "OpenAI",
+    "date": "2026-06-25",
+    "tags": [
+      "Agents",
+      "Opinion"
+    ]
+  },
+  {
     "title": "Agent identity in Claude Tag: a new access model for autonomous, team-wide AI",
     "url": "https://claude.com/blog/agent-identity-access-model",
     "source": "Claude",
@@ -863,16 +873,6 @@
     "tags": [
       "Developer Tools",
       "Case Study"
-    ]
-  },
-  {
-    "title": "Code w/ Claude London 2026: Rethinking how we build",
-    "url": "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build",
-    "source": "Claude",
-    "date": "2026-05-26",
-    "tags": [
-      "Developer Tools",
-      "Opinion"
     ]
   }
 ]
