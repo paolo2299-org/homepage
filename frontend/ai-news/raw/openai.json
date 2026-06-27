@@ -1,5 +1,11 @@
 [
   {
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "source": "OpenAI",
+    "date": "2026-06-26"
+  },
+  {
     "title": "How agents are transforming work",
     "url": "https://openai.com/index/how-agents-are-transforming-work",
     "source": "OpenAI",
@@ -108,6 +114,12 @@
     "date": "2026-06-12"
   },
   {
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
+    "source": "OpenAI",
+    "date": "2026-06-11"
+  },
+  {
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "source": "OpenAI",
@@ -122,12 +134,6 @@
   {
     "title": "OpenAI to acquire Ona",
     "url": "https://openai.com/index/openai-to-acquire-ona",
-    "source": "OpenAI",
-    "date": "2026-06-11"
-  },
-  {
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "url": "https://openai.com/index/bbva",
     "source": "OpenAI",
     "date": "2026-06-11"
   },
@@ -298,29 +304,5 @@
     "url": "https://openai.com/index/endava",
     "source": "OpenAI",
     "date": "2026-05-28"
-  },
-  {
-    "title": "OpenAI\u2019s Frontier Governance Framework",
-    "url": "https://openai.com/index/openai-frontier-governance-framework",
-    "source": "OpenAI",
-    "date": "2026-05-28"
-  },
-  {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "url": "https://openai.com/index/mufg",
-    "source": "OpenAI",
-    "date": "2026-05-28"
-  },
-  {
-    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-    "url": "https://openai.com/index/cisco",
-    "source": "OpenAI",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "Building self-improving tax agents with Codex",
-    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-    "source": "OpenAI",
-    "date": "2026-05-27"
   }
 ]

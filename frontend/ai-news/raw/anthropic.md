@@ -2,7 +2,7 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
-Published Time: Thu, 25 Jun 2026 16:05:34 GMT
+Published Time: Fri, 26 Jun 2026 18:54:26 GMT
 
 Markdown Content:
 [](https://claude.com/)
@@ -536,11 +536,11 @@ Enterprise AI
 
 Building effective human-agent teams
 
-[](https://claude.com/blog-product/claude-tag)
+[](https://claude.com/blog)
 
 Claude Tag
 
-[](https://claude.com/blog-usecases/agents)
+[](https://claude.com/blog)
 
 Agents
 
@@ -562,7 +562,7 @@ Claude Code
 
 Agent identity in Claude Tag: a new access model for autonomous, team-wide AI
 
-[](https://claude.com/blog-product/claude-tag)
+[](https://claude.com/blog)
 
 Claude Tag
 
@@ -584,15 +584,15 @@ Enterprise AI
 
 The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry
 
-[](https://claude.com/blog-product/claude-enterprise)
+[](https://claude.com/blog)
 
 Claude Enterprise
 
-[](https://claude.com/blog-usecases/business)
+[](https://claude.com/blog)
 
 Business
 
-[](https://claude.com/blog-usecases/productivity)
+[](https://claude.com/blog)
 
 Productivity
 
@@ -614,11 +614,11 @@ Claude Code
 
 Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more 
 
-[](https://claude.com/blog-product/claude-code)
+[](https://claude.com/blog)
 
 Claude Code
 
-[](https://claude.com/blog-usecases/coding)
+[](https://claude.com/blog)
 
 Coding
 
@@ -640,23 +640,23 @@ Enterprise AI
 
 Centrally manage authorization for MCP connectors 
 
-[](https://claude.com/blog-product/claude-enterprise)
+[](https://claude.com/blog)
 
 Claude Enterprise
 
-[](https://claude.com/blog-product/claude-apps)
+[](https://claude.com/blog)
 
 Claude apps
 
-[](https://claude.com/blog-usecases/business)
+[](https://claude.com/blog)
 
 Business
 
-[](https://claude.com/blog-usecases/productivity)
+[](https://claude.com/blog)
 
 Productivity
 
-[](https://claude.com/blog-usecases/work)
+[](https://claude.com/blog)
 
 Work
 
@@ -678,23 +678,23 @@ Product announcements
 
 Claude Code now supports artifacts
 
-[](https://claude.com/blog-product/claude-code)
+[](https://claude.com/blog)
 
 Claude Code
 
-[](https://claude.com/blog-usecases/productivity)
+[](https://claude.com/blog)
 
 Productivity
 
-[](https://claude.com/blog-usecases/design)
+[](https://claude.com/blog)
 
 Design
 
-[](https://claude.com/blog-usecases/content-creation)
+[](https://claude.com/blog)
 
 Content Creation
 
-[](https://claude.com/blog-usecases/work)
+[](https://claude.com/blog)
 
 Work
 
@@ -716,11 +716,11 @@ Claude Code
 
 Meet the winners of our Claude Opus 4.8 Build Day hackathon
 
-[](https://claude.com/blog-product/claude-code)
+[](https://claude.com/blog)
 
 Claude Code
 
-[](https://claude.com/blog-usecases/coding)
+[](https://claude.com/blog)
 
 Coding
 
@@ -742,23 +742,23 @@ Product announcements
 
 Claude Design now stays on brand for daily work
 
-[](https://claude.com/blog-product/claude-design)
+[](https://claude.com/blog)
 
 Claude Design
 
-[](https://claude.com/blog-product/claude-code)
+[](https://claude.com/blog)
 
 Claude Code
 
-[](https://claude.com/blog-usecases/design)
+[](https://claude.com/blog)
 
 Design
 
-[](https://claude.com/blog-usecases/productivity)
+[](https://claude.com/blog)
 
 Productivity
 
-[](https://claude.com/blog-usecases/work)
+[](https://claude.com/blog)
 
 Work
 
@@ -780,11 +780,11 @@ Product announcements
 
 Secure access to the Claude Platform with Workload Identity Federation
 
-[](https://claude.com/blog-product/claude-platform)
+[](https://claude.com/blog)
 
 Claude Platform
 
-[](https://claude.com/blog-usecases/business)
+[](https://claude.com/blog)
 
 Business
 
@@ -806,11 +806,11 @@ Claude Code
 
 Meet the winners of the Built with Opus 4.7 Claude Code hackathon
 
-[](https://claude.com/blog-product/claude-code)
+[](https://claude.com/blog)
 
 Claude Code
 
-[](https://claude.com/blog-usecases/coding)
+[](https://claude.com/blog)
 
 Coding
 
@@ -832,11 +832,11 @@ Agents
 
 The evolution of agentic surfaces: building with Claude Managed Agents
 
-[](https://claude.com/blog-product/claude-platform)
+[](https://claude.com/blog)
 
 Claude Platform
 
-[](https://claude.com/blog-usecases/agents)
+[](https://claude.com/blog)
 
 Agents
 
@@ -858,11 +858,11 @@ Product announcements
 
 New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults
 
-[](https://claude.com/blog-product/claude-platform)
+[](https://claude.com/blog)
 
 Claude Platform
 
-[](https://claude.com/blog-usecases/agents)
+[](https://claude.com/blog)
 
 Agents
 
@@ -884,11 +884,11 @@ Product announcements
 
 Building intelligent apps for Apple platforms with Claude in the Foundation Models framework
 
-[](https://claude.com/blog-product/claude-platform)
+[](https://claude.com/blog)
 
 Claude Platform
 
-[](https://claude.com/blog-product/claude-apps)
+[](https://claude.com/blog)
 
 Claude apps
 
@@ -910,7 +910,7 @@ Product announcements
 
 Observability for developers building connectors
 
-[](https://claude.com/blog-product/claude-apps)
+[](https://claude.com/blog)
 
 Claude apps
 
@@ -932,11 +932,11 @@ Enterprise AI
 
 The Claude Cowork product guide
 
-[](https://claude.com/blog-product/claude-cowork)
+[](https://claude.com/blog)
 
 Claude Cowork
 
-[](https://claude.com/blog-usecases/work)
+[](https://claude.com/blog)
 
 Work
 
@@ -966,13 +966,13 @@ Enterprise AI
 
 Product
 
-[](https://claude.com/blog-product/claude-tag)
+[](https://claude.com/blog)
 
 Claude Tag
 
 Usecase
 
-[](https://claude.com/blog-usecases/agents)
+[](https://claude.com/blog)
 
 Agents
 
@@ -992,7 +992,7 @@ Claude Code
 
 Product
 
-[](https://claude.com/blog-product/claude-tag)
+[](https://claude.com/blog)
 
 Claude Tag
 
@@ -1014,17 +1014,17 @@ Enterprise AI
 
 Product
 
-[](https://claude.com/blog-product/claude-enterprise)
+[](https://claude.com/blog)
 
 Claude Enterprise
 
 Usecase
 
-[](https://claude.com/blog-usecases/business)
+[](https://claude.com/blog)
 
 Business
 
-[](https://claude.com/blog-usecases/productivity)
+[](https://claude.com/blog)
 
 Productivity
 
@@ -1044,13 +1044,13 @@ Claude Code
 
 Product
 
-[](https://claude.com/blog-product/claude-code)
+[](https://claude.com/blog)
 
 Claude Code
 
 Usecase
 
-[](https://claude.com/blog-usecases/coding)
+[](https://claude.com/blog)
 
 Coding
 
@@ -1070,25 +1070,25 @@ Enterprise AI
 
 Product
 
-[](https://claude.com/blog-product/claude-enterprise)
+[](https://claude.com/blog)
 
 Claude Enterprise
 
-[](https://claude.com/blog-product/claude-apps)
+[](https://claude.com/blog)
 
 Claude apps
 
 Usecase
 
-[](https://claude.com/blog-usecases/business)
+[](https://claude.com/blog)
 
 Business
 
-[](https://claude.com/blog-usecases/productivity)
+[](https://claude.com/blog)
 
 Productivity
 
-[](https://claude.com/blog-usecases/work)
+[](https://claude.com/blog)
 
 Work
 
@@ -1108,25 +1108,25 @@ Product announcements
 
 Product
 
-[](https://claude.com/blog-product/claude-code)
+[](https://claude.com/blog)
 
 Claude Code
 
 Usecase
 
-[](https://claude.com/blog-usecases/productivity)
+[](https://claude.com/blog)
 
 Productivity
 
-[](https://claude.com/blog-usecases/design)
+[](https://claude.com/blog)
 
 Design
 
-[](https://claude.com/blog-usecases/content-creation)
+[](https://claude.com/blog)
 
 Content Creation
 
-[](https://claude.com/blog-usecases/work)
+[](https://claude.com/blog)
 
 Work
 
@@ -1146,13 +1146,13 @@ Claude Code
 
 Product
 
-[](https://claude.com/blog-product/claude-code)
+[](https://claude.com/blog)
 
 Claude Code
 
 Usecase
 
-[](https://claude.com/blog-usecases/coding)
+[](https://claude.com/blog)
 
 Coding
 
@@ -1172,25 +1172,25 @@ Product announcements
 
 Product
 
-[](https://claude.com/blog-product/claude-design)
+[](https://claude.com/blog)
 
 Claude Design
 
-[](https://claude.com/blog-product/claude-code)
+[](https://claude.com/blog)
 
 Claude Code
 
 Usecase
 
-[](https://claude.com/blog-usecases/design)
+[](https://claude.com/blog)
 
 Design
 
-[](https://claude.com/blog-usecases/productivity)
+[](https://claude.com/blog)
 
 Productivity
 
-[](https://claude.com/blog-usecases/work)
+[](https://claude.com/blog)
 
 Work
 
@@ -1210,13 +1210,13 @@ Product announcements
 
 Product
 
-[](https://claude.com/blog-product/claude-platform)
+[](https://claude.com/blog)
 
 Claude Platform
 
 Usecase
 
-[](https://claude.com/blog-usecases/business)
+[](https://claude.com/blog)
 
 Business
 
@@ -1236,13 +1236,13 @@ Claude Code
 
 Product
 
-[](https://claude.com/blog-product/claude-code)
+[](https://claude.com/blog)
 
 Claude Code
 
 Usecase
 
-[](https://claude.com/blog-usecases/coding)
+[](https://claude.com/blog)
 
 Coding
 
@@ -1262,13 +1262,13 @@ Agents
 
 Product
 
-[](https://claude.com/blog-product/claude-platform)
+[](https://claude.com/blog)
 
 Claude Platform
 
 Usecase
 
-[](https://claude.com/blog-usecases/agents)
+[](https://claude.com/blog)
 
 Agents
 
@@ -1288,13 +1288,13 @@ Product announcements
 
 Product
 
-[](https://claude.com/blog-product/claude-platform)
+[](https://claude.com/blog)
 
 Claude Platform
 
 Usecase
 
-[](https://claude.com/blog-usecases/agents)
+[](https://claude.com/blog)
 
 Agents
 
@@ -1314,11 +1314,11 @@ Product announcements
 
 Product
 
-[](https://claude.com/blog-product/claude-platform)
+[](https://claude.com/blog)
 
 Claude Platform
 
-[](https://claude.com/blog-product/claude-apps)
+[](https://claude.com/blog)
 
 Claude apps
 
@@ -1340,7 +1340,7 @@ Product announcements
 
 Product
 
-[](https://claude.com/blog-product/claude-apps)
+[](https://claude.com/blog)
 
 Claude apps
 
@@ -1362,13 +1362,13 @@ Enterprise AI
 
 Product
 
-[](https://claude.com/blog-product/claude-cowork)
+[](https://claude.com/blog)
 
 Claude Cowork
 
 Usecase
 
-[](https://claude.com/blog-usecases/work)
+[](https://claude.com/blog)
 
 Work
 
