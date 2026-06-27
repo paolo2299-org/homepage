@@ -1,5 +1,15 @@
 [
   {
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "source": "OpenAI",
+    "date": "2026-06-26",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
     "title": "How agents are transforming work",
     "url": "https://openai.com/index/how-agents-are-transforming-work",
     "source": "OpenAI",
@@ -305,7 +315,7 @@
     ]
   },
   {
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
     "date": "2026-06-11",
@@ -720,7 +730,7 @@
     ]
   },
   {
-    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -788,7 +798,7 @@
     ]
   },
   {
-    "title": "OpenAI’s Frontier Governance Framework",
+    "title": "OpenAI\u2019s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "source": "OpenAI",
     "date": "2026-05-28",
@@ -804,75 +814,6 @@
     "tags": [
       "Case Study",
       "Enterprise"
-    ]
-  },
-  {
-    "title": "Using LLMs to secure source code",
-    "url": "https://claude.com/blog/using-llms-to-secure-source-code",
-    "source": "Claude",
-    "date": "2026-05-27",
-    "tags": [
-      "Developer Tools",
-      "Opinion"
-    ]
-  },
-  {
-    "title": "How CodeRabbit used Claude to build an agent orchestration system",
-    "url": "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system",
-    "source": "Claude",
-    "date": "2026-05-27",
-    "tags": [
-      "Agents",
-      "Case Study"
-    ]
-  },
-  {
-    "title": "Zero Trust for AI agents",
-    "url": "https://claude.com/blog/zero-trust-for-ai-agents",
-    "source": "Claude",
-    "date": "2026-05-27",
-    "tags": [
-      "Agents",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-    "url": "https://openai.com/index/cisco",
-    "source": "OpenAI",
-    "date": "2026-05-27",
-    "tags": [
-      "Enterprise",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Building self-improving tax agents with Codex",
-    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-    "source": "OpenAI",
-    "date": "2026-05-27",
-    "tags": [
-      "Agents",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Election information and safeguards in 2026",
-    "url": "https://openai.com/index/election-safeguards-2026",
-    "source": "OpenAI",
-    "date": "2026-05-27",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Warp's big bet on building open source with GPT-5.5",
-    "url": "https://openai.com/index/warp",
-    "source": "OpenAI",
-    "date": "2026-05-27",
-    "tags": [
-      "Developer Tools",
-      "Case Study"
     ]
   }
 ]
