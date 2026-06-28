@@ -315,7 +315,7 @@
     ]
   },
   {
-    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
     "date": "2026-06-11",
@@ -730,7 +730,7 @@
     ]
   },
   {
-    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
     "date": "2026-05-29",
@@ -775,45 +775,6 @@
     "date": "2026-05-29",
     "tags": [
       "Developer Tools"
-    ]
-  },
-  {
-    "title": "Introducing dynamic workflows in Claude Code",
-    "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-    "source": "Claude",
-    "date": "2026-05-28",
-    "tags": [
-      "Product Launch",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "How Endava builds an agentic organization with Codex",
-    "url": "https://openai.com/index/endava",
-    "source": "OpenAI",
-    "date": "2026-05-28",
-    "tags": [
-      "Case Study",
-      "Agents"
-    ]
-  },
-  {
-    "title": "OpenAI\u2019s Frontier Governance Framework",
-    "url": "https://openai.com/index/openai-frontier-governance-framework",
-    "source": "OpenAI",
-    "date": "2026-05-28",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "url": "https://openai.com/index/mufg",
-    "source": "OpenAI",
-    "date": "2026-05-28",
-    "tags": [
-      "Case Study",
-      "Enterprise"
     ]
   }
 ]
