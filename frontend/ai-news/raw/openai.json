@@ -1,5 +1,11 @@
 [
   {
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "source": "OpenAI",
+    "date": "2026-06-28"
+  },
+  {
     "title": "Previewing GPT-5.6 Sol: a next-generation model",
     "url": "https://openai.com/index/previewing-gpt-5-6-sol",
     "source": "OpenAI",
@@ -120,12 +126,6 @@
     "date": "2026-06-11"
   },
   {
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "source": "OpenAI",
-    "date": "2026-06-11"
-  },
-  {
     "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
@@ -134,6 +134,12 @@
   {
     "title": "OpenAI to acquire Ona",
     "url": "https://openai.com/index/openai-to-acquire-ona",
+    "source": "OpenAI",
+    "date": "2026-06-11"
+  },
+  {
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "source": "OpenAI",
     "date": "2026-06-11"
   },
@@ -274,17 +280,5 @@
     "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
     "source": "OpenAI",
     "date": "2026-06-01"
-  },
-  {
-    "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
-    "url": "https://openai.com/index/boston-childrens-hospital",
-    "source": "OpenAI",
-    "date": "2026-05-29"
-  },
-  {
-    "title": "How Braintrust turns customer requests into code with Codex",
-    "url": "https://openai.com/index/braintrust",
-    "source": "OpenAI",
-    "date": "2026-05-29"
   }
 ]
