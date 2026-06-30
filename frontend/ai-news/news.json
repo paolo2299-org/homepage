@@ -1,5 +1,45 @@
 [
   {
+    "title": "Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud",
+    "url": "https://claude.com/blog/introducing-the-claude-apps-gateway",
+    "source": "Claude",
+    "date": "2026-06-29",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Claude in Microsoft Foundry is now generally available",
+    "url": "https://claude.com/blog/claude-in-microsoft-foundry",
+    "source": "Claude",
+    "date": "2026-06-29",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "source": "OpenAI",
+    "date": "2026-06-29",
+    "tags": [
+      "Opinion",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "source": "OpenAI",
+    "date": "2026-06-28",
+    "tags": [
+      "Enterprise",
+      "Product Launch"
+    ]
+  },
+  {
     "title": "Previewing GPT-5.6 Sol: a next-generation model",
     "url": "https://openai.com/index/previewing-gpt-5-6-sol",
     "source": "OpenAI",
@@ -315,7 +355,7 @@
     ]
   },
   {
-    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
     "date": "2026-06-11",
