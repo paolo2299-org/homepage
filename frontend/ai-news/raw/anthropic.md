@@ -2,7 +2,7 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
-Published Time: Sun, 28 Jun 2026 19:51:12 GMT
+Published Time: Tue, 30 Jun 2026 01:40:12 GMT
 
 Markdown Content:
 [](https://claude.com/)
@@ -104,19 +104,19 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.1f375f66-5e00-4ece-b787-83033aaf381f/login)
+*   [Login](https://claude.ai/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.1f375f66-5e00-4ece-b787-83033aaf381f)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.1f375f66-5e00-4ece-b787-83033aaf381f)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.1f375f66-5e00-4ece-b787-83033aaf381f)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.1f375f66-5e00-4ece-b787-83033aaf381f)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 *   
 Meet Claude       
@@ -215,12 +215,12 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.1f375f66-5e00-4ece-b787-83033aaf381f/login)
+*   [Login](https://claude.ai/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.1f375f66-5e00-4ece-b787-83033aaf381f)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.1f375f66-5e00-4ece-b787-83033aaf381f)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -312,11 +312,11 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/redirect/claudedotcom.v1.1f375f66-5e00-4ece-b787-83033aaf381f)Try Claude
+[Try Claude](https://claude.ai/)Try Claude
 
 All
 
-172
+1
 
 ## [Agents](https://claude.com/blog/category/agents)
 
@@ -526,7 +526,43 @@ Grid
 
 List
 
-![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
+![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a42c9bc20d2072552ef256a_Node-EnterpriseAgents.svg)
+
+Jun 29, 2026
+
+Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud
+
+Product announcements
+
+Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud
+
+June 29, 2026
+
+[Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud](https://claude.com/blog/introducing-the-claude-apps-gateway)Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud
+
+[Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud](https://claude.com/blog#)Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud
+
+[](https://claude.com/blog/introducing-the-claude-apps-gateway)
+
+![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a3f14a08cb97bf1b16d40ef_ObjectClouds.svg)
+
+Jun 29, 2026
+
+Claude in Microsoft Foundry is now generally available
+
+Product announcements
+
+Claude in Microsoft Foundry is now generally available
+
+June 29, 2026
+
+[Claude in Microsoft Foundry is now generally available](https://claude.com/blog/claude-in-microsoft-foundry)Claude in Microsoft Foundry is now generally available
+
+[Claude in Microsoft Foundry is now generally available](https://claude.com/blog#)Claude in Microsoft Foundry is now generally available
+
+[](https://claude.com/blog/claude-in-microsoft-foundry)
+
+![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
 
 Jun 24, 2026
 
@@ -535,14 +571,6 @@ Building effective human-agent teams
 Enterprise AI
 
 Building effective human-agent teams
-
-[](https://claude.com/blog)
-
-Claude Tag
-
-[](https://claude.com/blog)
-
-Agents
 
 June 24, 2026
 
@@ -552,7 +580,7 @@ June 24, 2026
 
 [](https://claude.com/blog/building-effective-human-agent-teams)
 
-![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225588ad176f7c4aafd_abc884c723daea810d2e986455358281a2f94102-1000x1000.svg)
+![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225588ad176f7c4aafd_abc884c723daea810d2e986455358281a2f94102-1000x1000.svg)
 
 Jun 24, 2026
 
@@ -562,10 +590,6 @@ Claude Code
 
 Agent identity in Claude Tag: a new access model for autonomous, team-wide AI
 
-[](https://claude.com/blog)
-
-Claude Tag
-
 June 24, 2026
 
 [Agent identity in Claude Tag: a new access model for autonomous, team-wide AI](https://claude.com/blog/agent-identity-access-model)Agent identity in Claude Tag: a new access model for autonomous, team-wide AI
@@ -574,7 +598,7 @@ June 24, 2026
 
 [](https://claude.com/blog/agent-identity-access-model)
 
-![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22c7f111435762ad994_1b398dbdfa4995ce5ce943aa87d8b78b2c2ba065-1000x1000.svg)
+![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22c7f111435762ad994_1b398dbdfa4995ce5ce943aa87d8b78b2c2ba065-1000x1000.svg)
 
 Jun 22, 2026
 
@@ -584,18 +608,6 @@ Enterprise AI
 
 The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry
 
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-[](https://claude.com/blog)
-
-Business
-
-[](https://claude.com/blog)
-
-Productivity
-
 June 22, 2026
 
 [The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry](https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry)The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry
@@ -604,7 +616,7 @@ June 22, 2026
 
 [](https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry)
 
-![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d7d4c10df6024f7bc_ee580919acaba2ddc07425f7a7390c8962cadc94-1000x1000.svg)
+![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d7d4c10df6024f7bc_ee580919acaba2ddc07425f7a7390c8962cadc94-1000x1000.svg)
 
 Jun 18, 2026
 
@@ -613,14 +625,6 @@ Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more
 Claude Code
 
 Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more 
-
-[](https://claude.com/blog)
-
-Claude Code
-
-[](https://claude.com/blog)
-
-Coding
 
 June 18, 2026
 
@@ -630,7 +634,7 @@ June 18, 2026
 
 [](https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more)
 
-![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d23008bbc20c0ffaeb6f_43abe7e54b56a891e74a8542944dfbd33f07f49c-1000x1000.svg)
+![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d23008bbc20c0ffaeb6f_43abe7e54b56a891e74a8542944dfbd33f07f49c-1000x1000.svg)
 
 Jun 18, 2026
 
@@ -639,26 +643,6 @@ Centrally manage authorization for MCP connectors
 Enterprise AI
 
 Centrally manage authorization for MCP connectors 
-
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-[](https://claude.com/blog)
-
-Claude apps
-
-[](https://claude.com/blog)
-
-Business
-
-[](https://claude.com/blog)
-
-Productivity
-
-[](https://claude.com/blog)
-
-Work
 
 June 18, 2026
 
@@ -668,7 +652,7 @@ June 18, 2026
 
 [](https://claude.com/blog/enterprise-managed-auth)
 
-![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d0099a66d72e05699_33ddc751e21fb4b116b3f57dd553f0bc55ea09d1-1000x1000.svg)
+![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d0099a66d72e05699_33ddc751e21fb4b116b3f57dd553f0bc55ea09d1-1000x1000.svg)
 
 Jun 18, 2026
 
@@ -678,26 +662,6 @@ Product announcements
 
 Claude Code now supports artifacts
 
-[](https://claude.com/blog)
-
-Claude Code
-
-[](https://claude.com/blog)
-
-Productivity
-
-[](https://claude.com/blog)
-
-Design
-
-[](https://claude.com/blog)
-
-Content Creation
-
-[](https://claude.com/blog)
-
-Work
-
 June 18, 2026
 
 [Claude Code now supports artifacts](https://claude.com/blog/artifacts-in-claude-code)Claude Code now supports artifacts
@@ -706,7 +670,7 @@ June 18, 2026
 
 [](https://claude.com/blog/artifacts-in-claude-code)
 
-![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6909386cc7ad3ed2a7ec8eed_Object-ThoughtBubble.svg)
+![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6909386cc7ad3ed2a7ec8eed_Object-ThoughtBubble.svg)
 
 Jun 17, 2026
 
@@ -715,14 +679,6 @@ Meet the winners of our Claude Opus 4.8 Build Day hackathon
 Claude Code
 
 Meet the winners of our Claude Opus 4.8 Build Day hackathon
-
-[](https://claude.com/blog)
-
-Claude Code
-
-[](https://claude.com/blog)
-
-Coding
 
 June 17, 2026
 
@@ -732,7 +688,7 @@ June 17, 2026
 
 [](https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon)
 
-![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22949f86cd1968deb9f_33dbe8f783d4835a838b4c4ae85d3c04e352fee1-1000x1000.svg)
+![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22949f86cd1968deb9f_33dbe8f783d4835a838b4c4ae85d3c04e352fee1-1000x1000.svg)
 
 Jun 17, 2026
 
@@ -741,26 +697,6 @@ Claude Design now stays on brand for daily work
 Product announcements
 
 Claude Design now stays on brand for daily work
-
-[](https://claude.com/blog)
-
-Claude Design
-
-[](https://claude.com/blog)
-
-Claude Code
-
-[](https://claude.com/blog)
-
-Design
-
-[](https://claude.com/blog)
-
-Productivity
-
-[](https://claude.com/blog)
-
-Work
 
 June 17, 2026
 
@@ -770,7 +706,7 @@ June 17, 2026
 
 [](https://claude.com/blog/claude-design-stays-on-brand-for-daily-work)
 
-![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
+![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
 
 Jun 17, 2026
 
@@ -780,14 +716,6 @@ Product announcements
 
 Secure access to the Claude Platform with Workload Identity Federation
 
-[](https://claude.com/blog)
-
-Claude Platform
-
-[](https://claude.com/blog)
-
-Business
-
 June 17, 2026
 
 [Secure access to the Claude Platform with Workload Identity Federation](https://claude.com/blog/workload-identity-federation)Secure access to the Claude Platform with Workload Identity Federation
@@ -796,7 +724,7 @@ June 17, 2026
 
 [](https://claude.com/blog/workload-identity-federation)
 
-![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229061abf091318fc81_6905c83d0735e1bc430025fdd1748d1406079036-1000x1000.svg)
+![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229061abf091318fc81_6905c83d0735e1bc430025fdd1748d1406079036-1000x1000.svg)
 
 Jun 15, 2026
 
@@ -806,14 +734,6 @@ Claude Code
 
 Meet the winners of the Built with Opus 4.7 Claude Code hackathon
 
-[](https://claude.com/blog)
-
-Claude Code
-
-[](https://claude.com/blog)
-
-Coding
-
 June 15, 2026
 
 [Meet the winners of the Built with Opus 4.7 Claude Code hackathon](https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon)Meet the winners of the Built with Opus 4.7 Claude Code hackathon
@@ -822,7 +742,7 @@ June 15, 2026
 
 [](https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon)
 
-![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
+![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
 
 Jun 10, 2026
 
@@ -832,14 +752,6 @@ Agents
 
 The evolution of agentic surfaces: building with Claude Managed Agents
 
-[](https://claude.com/blog)
-
-Claude Platform
-
-[](https://claude.com/blog)
-
-Agents
-
 June 10, 2026
 
 [The evolution of agentic surfaces: building with Claude Managed Agents](https://claude.com/blog/building-with-claude-managed-agents)The evolution of agentic surfaces: building with Claude Managed Agents
@@ -848,7 +760,7 @@ June 10, 2026
 
 [](https://claude.com/blog/building-with-claude-managed-agents)
 
-![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22a7bb714a55b503cd7_cad034e66b44f7f017c0cb931c403a97d1763758-1000x1000.svg)
+![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22a7bb714a55b503cd7_cad034e66b44f7f017c0cb931c403a97d1763758-1000x1000.svg)
 
 Jun 9, 2026
 
@@ -858,14 +770,6 @@ Product announcements
 
 New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults
 
-[](https://claude.com/blog)
-
-Claude Platform
-
-[](https://claude.com/blog)
-
-Agents
-
 June 9, 2026
 
 [New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults](https://claude.com/blog/whats-new-in-claude-managed-agents)New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults
@@ -874,7 +778,7 @@ June 9, 2026
 
 [](https://claude.com/blog/whats-new-in-claude-managed-agents)
 
-![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229b7f170bab528846d_0df729ce74e4c9dd62c3342c9549ce6c7cef1202-1000x1000.svg)
+![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229b7f170bab528846d_0df729ce74e4c9dd62c3342c9549ce6c7cef1202-1000x1000.svg)
 
 Jun 8, 2026
 
@@ -883,14 +787,6 @@ Building intelligent apps for Apple platforms with Claude in the Foundation Mode
 Product announcements
 
 Building intelligent apps for Apple platforms with Claude in the Foundation Models framework
-
-[](https://claude.com/blog)
-
-Claude Platform
-
-[](https://claude.com/blog)
-
-Claude apps
 
 June 8, 2026
 
@@ -900,55 +796,7 @@ June 8, 2026
 
 [](https://claude.com/blog/claude-for-foundation-models)
 
-![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
-
-Jun 8, 2026
-
-Observability for developers building connectors
-
-Product announcements
-
-Observability for developers building connectors
-
-[](https://claude.com/blog)
-
-Claude apps
-
-June 8, 2026
-
-[Observability for developers building connectors](https://claude.com/blog/observability-for-developers-building-connectors)Observability for developers building connectors
-
-[Observability for developers building connectors](https://claude.com/blog#)Observability for developers building connectors
-
-[](https://claude.com/blog/observability-for-developers-building-connectors)
-
-![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
-
-Jun 5, 2026
-
-The Claude Cowork product guide
-
-Enterprise AI
-
-The Claude Cowork product guide
-
-[](https://claude.com/blog)
-
-Claude Cowork
-
-[](https://claude.com/blog)
-
-Work
-
-June 5, 2026
-
-[The Claude Cowork product guide](https://claude.com/blog/the-claude-cowork-product-guide)The Claude Cowork product guide
-
-[The Claude Cowork product guide](https://claude.com/blog#)The Claude Cowork product guide
-
-[](https://claude.com/blog/the-claude-cowork-product-guide)
-
-[Previous](https://claude.com/blog?b7eea976_page=12)[View more](https://claude.com/blog?b7eea976_page=2)
+[View more](https://claude.com/blog?b7eea976_page=2)
 
 1 / 12
 
@@ -958,6 +806,42 @@ Product
 
 Usecase
 
+### Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud
+
+Category
+
+Product announcements
+
+Product
+
+Usecase
+
+June 29, 2026
+
+[Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud](https://claude.com/blog/introducing-the-claude-apps-gateway)Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud
+
+[Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud](https://claude.com/blog#)Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud
+
+[](https://claude.com/blog/introducing-the-claude-apps-gateway)
+
+### Claude in Microsoft Foundry is now generally available
+
+Category
+
+Product announcements
+
+Product
+
+Usecase
+
+June 29, 2026
+
+[Claude in Microsoft Foundry is now generally available](https://claude.com/blog/claude-in-microsoft-foundry)Claude in Microsoft Foundry is now generally available
+
+[Claude in Microsoft Foundry is now generally available](https://claude.com/blog#)Claude in Microsoft Foundry is now generally available
+
+[](https://claude.com/blog/claude-in-microsoft-foundry)
+
 ### Building effective human-agent teams
 
 Category
@@ -966,15 +850,7 @@ Enterprise AI
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Tag
-
 Usecase
-
-[](https://claude.com/blog)
-
-Agents
 
 June 24, 2026
 
@@ -991,10 +867,6 @@ Category
 Claude Code
 
 Product
-
-[](https://claude.com/blog)
-
-Claude Tag
 
 Usecase
 
@@ -1014,19 +886,7 @@ Enterprise AI
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Enterprise
-
 Usecase
-
-[](https://claude.com/blog)
-
-Business
-
-[](https://claude.com/blog)
-
-Productivity
 
 June 22, 2026
 
@@ -1044,15 +904,7 @@ Claude Code
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Code
-
 Usecase
-
-[](https://claude.com/blog)
-
-Coding
 
 June 18, 2026
 
@@ -1070,27 +922,7 @@ Enterprise AI
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-[](https://claude.com/blog)
-
-Claude apps
-
 Usecase
-
-[](https://claude.com/blog)
-
-Business
-
-[](https://claude.com/blog)
-
-Productivity
-
-[](https://claude.com/blog)
-
-Work
 
 June 18, 2026
 
@@ -1108,27 +940,7 @@ Product announcements
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Code
-
 Usecase
-
-[](https://claude.com/blog)
-
-Productivity
-
-[](https://claude.com/blog)
-
-Design
-
-[](https://claude.com/blog)
-
-Content Creation
-
-[](https://claude.com/blog)
-
-Work
 
 June 18, 2026
 
@@ -1146,15 +958,7 @@ Claude Code
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Code
-
 Usecase
-
-[](https://claude.com/blog)
-
-Coding
 
 June 17, 2026
 
@@ -1172,27 +976,7 @@ Product announcements
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Design
-
-[](https://claude.com/blog)
-
-Claude Code
-
 Usecase
-
-[](https://claude.com/blog)
-
-Design
-
-[](https://claude.com/blog)
-
-Productivity
-
-[](https://claude.com/blog)
-
-Work
 
 June 17, 2026
 
@@ -1210,15 +994,7 @@ Product announcements
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Platform
-
 Usecase
-
-[](https://claude.com/blog)
-
-Business
 
 June 17, 2026
 
@@ -1236,15 +1012,7 @@ Claude Code
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Code
-
 Usecase
-
-[](https://claude.com/blog)
-
-Coding
 
 June 15, 2026
 
@@ -1262,15 +1030,7 @@ Agents
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Platform
-
 Usecase
-
-[](https://claude.com/blog)
-
-Agents
 
 June 10, 2026
 
@@ -1288,15 +1048,7 @@ Product announcements
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Platform
-
 Usecase
-
-[](https://claude.com/blog)
-
-Agents
 
 June 9, 2026
 
@@ -1314,14 +1066,6 @@ Product announcements
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Platform
-
-[](https://claude.com/blog)
-
-Claude apps
-
 Usecase
 
 June 8, 2026
@@ -1332,55 +1076,7 @@ June 8, 2026
 
 [](https://claude.com/blog/claude-for-foundation-models)
 
-### Observability for developers building connectors
-
-Category
-
-Product announcements
-
-Product
-
-[](https://claude.com/blog)
-
-Claude apps
-
-Usecase
-
-June 8, 2026
-
-[Observability for developers building connectors](https://claude.com/blog/observability-for-developers-building-connectors)Observability for developers building connectors
-
-[Observability for developers building connectors](https://claude.com/blog#)Observability for developers building connectors
-
-[](https://claude.com/blog/observability-for-developers-building-connectors)
-
-### The Claude Cowork product guide
-
-Category
-
-Enterprise AI
-
-Product
-
-[](https://claude.com/blog)
-
-Claude Cowork
-
-Usecase
-
-[](https://claude.com/blog)
-
-Work
-
-June 5, 2026
-
-[The Claude Cowork product guide](https://claude.com/blog/the-claude-cowork-product-guide)The Claude Cowork product guide
-
-[The Claude Cowork product guide](https://claude.com/blog#)The Claude Cowork product guide
-
-[](https://claude.com/blog/the-claude-cowork-product-guide)
-
-[Previous](https://claude.com/blog?d7430fcd_page=12)[View more](https://claude.com/blog?d7430fcd_page=2)
+[View more](https://claude.com/blog?d7430fcd_page=2)
 
 1 / 12
 
@@ -1547,7 +1243,7 @@ Products
 *   Claude Security [Claude Security](https://claude.com/product/claude-security)Claude Security 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.1f375f66-5e00-4ece-b787-83033aaf381f/login)Log in 
+*   Log in [Log in](https://claude.ai/login)Log in 
 
 Features
 
