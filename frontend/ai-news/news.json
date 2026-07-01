@@ -1,5 +1,54 @@
 [
   {
+    "title": "Getting started with loops",
+    "url": "https://claude.com/blog/getting-started-with-loops",
+    "source": "Claude",
+    "date": "2026-06-30",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "How ChatGPT adoption has expanded",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "source": "OpenAI",
+    "date": "2026-06-30",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Introducing GeneBench-Pro",
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "source": "OpenAI",
+    "date": "2026-06-30",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "source": "OpenAI",
+    "date": "2026-06-30",
+    "tags": [
+      "Developer Tools",
+      "Case Study"
+    ]
+  },
+  {
+    "title": "Inside Genebench-Pro",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "source": "OpenAI",
+    "date": "2026-06-30",
+    "tags": [
+      "Case Study",
+      "Developer Tools"
+    ]
+  },
+  {
     "title": "Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud",
     "url": "https://claude.com/blog/introducing-the-claude-apps-gateway",
     "source": "Claude",
@@ -27,6 +76,15 @@
     "tags": [
       "Opinion",
       "Enterprise"
+    ]
+  },
+  {
+    "title": "Ask an AI expert: What exactly is the full stack?",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "source": "Google",
+    "date": "2026-06-29",
+    "tags": [
+      "Opinion"
     ]
   },
   {
