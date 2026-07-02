@@ -788,43 +788,5 @@
       "Product Launch",
       "Developer Tools"
     ]
-  },
-  {
-    "title": "Our views on AI policy and political advocacy",
-    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-    "source": "OpenAI",
-    "date": "2026-06-01",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Building the infrastructure for the Intelligence Age in Michigan",
-    "url": "https://openai.com/index/stargate-michigan-data-center",
-    "source": "OpenAI",
-    "date": "2026-06-01",
-    "tags": [
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "OpenAI frontier models and Codex are now available on AWS",
-    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-    "source": "OpenAI",
-    "date": "2026-06-01",
-    "tags": [
-      "Product Launch",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "How we used Gemini to build Google I/O 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-    "source": "Google",
-    "date": "2026-06-01",
-    "tags": [
-      "Case Study",
-      "Developer Tools"
-    ]
   }
 ]
