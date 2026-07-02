@@ -6,6 +6,12 @@
     "date": "2026-06-30"
   },
   {
+    "title": "Inside Genebench-Pro",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "source": "OpenAI",
+    "date": "2026-06-30"
+  },
+  {
     "title": "Introducing GeneBench-Pro",
     "url": "https://openai.com/index/introducing-genebench-pro",
     "source": "OpenAI",
@@ -14,12 +20,6 @@
   {
     "title": "Core dump epidemiology: fixing an 18-year-old bug",
     "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "source": "OpenAI",
-    "date": "2026-06-30"
-  },
-  {
-    "title": "Inside Genebench-Pro",
-    "url": "https://openai.com/index/genebench-pro/case-studies",
     "source": "OpenAI",
     "date": "2026-06-30"
   },
@@ -72,14 +72,14 @@
     "date": "2026-06-23"
   },
   {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "url": "https://openai.com/index/patch-the-planet",
     "source": "OpenAI",
     "date": "2026-06-22"
   },
   {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "url": "https://openai.com/index/patch-the-planet",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
     "source": "OpenAI",
     "date": "2026-06-22"
   },
@@ -150,12 +150,6 @@
     "date": "2026-06-12"
   },
   {
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "url": "https://openai.com/index/bbva",
-    "source": "OpenAI",
-    "date": "2026-06-11"
-  },
-  {
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "source": "OpenAI",
@@ -164,6 +158,12 @@
   {
     "title": "OpenAI to acquire Ona",
     "url": "https://openai.com/index/openai-to-acquire-ona",
+    "source": "OpenAI",
+    "date": "2026-06-11"
+  },
+  {
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
     "source": "OpenAI",
     "date": "2026-06-11"
   },
@@ -258,14 +258,14 @@
     "date": "2026-06-03"
   },
   {
-    "title": "A blueprint for democratic governance of frontier AI",
-    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "title": "OpenAI public policy agenda",
+    "url": "https://openai.com/index/public-policy-agenda",
     "source": "OpenAI",
     "date": "2026-06-03"
   },
   {
-    "title": "OpenAI public policy agenda",
-    "url": "https://openai.com/index/public-policy-agenda",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
     "source": "OpenAI",
     "date": "2026-06-03"
   },
@@ -286,29 +286,5 @@
     "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
     "source": "OpenAI",
     "date": "2026-06-02"
-  },
-  {
-    "title": "Codex is becoming a productivity tool for everyone",
-    "url": "https://openai.com/index/codex-for-knowledge-work",
-    "source": "OpenAI",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Our views on AI policy and political advocacy",
-    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-    "source": "OpenAI",
-    "date": "2026-06-01"
-  },
-  {
-    "title": "Building the infrastructure for the Intelligence Age in Michigan",
-    "url": "https://openai.com/index/stargate-michigan-data-center",
-    "source": "OpenAI",
-    "date": "2026-06-01"
-  },
-  {
-    "title": "OpenAI frontier models and Codex are now available on AWS",
-    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-    "source": "OpenAI",
-    "date": "2026-06-01"
   }
 ]
