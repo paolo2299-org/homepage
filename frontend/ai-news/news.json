@@ -1,5 +1,24 @@
 [
   {
+    "title": "Giving admins more visibility and control over Claude spend",
+    "url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
+    "source": "Claude",
+    "date": "2026-07-02",
+    "tags": [
+      "Enterprise",
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "The latest AI news we announced in June 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+    "source": "Google",
+    "date": "2026-07-01",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
     "title": "Getting started with loops",
     "url": "https://claude.com/blog/getting-started-with-loops",
     "source": "Claude",
@@ -738,55 +757,6 @@
     "date": "2026-06-03",
     "tags": [
       "Product Launch"
-    ]
-  },
-  {
-    "title": "A harness for every task: dynamic workflows in Claude Code",
-    "url": "https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code",
-    "source": "Claude",
-    "date": "2026-06-02",
-    "tags": [
-      "Product Launch",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-    "url": "https://openai.com/index/travelers",
-    "source": "OpenAI",
-    "date": "2026-06-02",
-    "tags": [
-      "Enterprise",
-      "Case Study"
-    ]
-  },
-  {
-    "title": "Codex for every role, tool, and workflow",
-    "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-    "source": "OpenAI",
-    "date": "2026-06-02",
-    "tags": [
-      "Developer Tools",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Advancing youth safety and opportunity through global leadership",
-    "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-    "source": "OpenAI",
-    "date": "2026-06-02",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Codex is becoming a productivity tool for everyone",
-    "url": "https://openai.com/index/codex-for-knowledge-work",
-    "source": "OpenAI",
-    "date": "2026-06-02",
-    "tags": [
-      "Product Launch",
-      "Developer Tools"
     ]
   }
 ]
