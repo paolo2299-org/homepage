@@ -238,35 +238,5 @@
     "url": "https://openai.com/index/chatgpt-memory-dreaming",
     "source": "OpenAI",
     "date": "2026-06-04"
-  },
-  {
-    "title": "Biodefense in the Intelligence Age",
-    "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-    "source": "OpenAI",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "Introducing new capabilities to GPT-Rosalind",
-    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-    "source": "OpenAI",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-    "url": "https://openai.com/index/wasmer",
-    "source": "OpenAI",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "OpenAI public policy agenda",
-    "url": "https://openai.com/index/public-policy-agenda",
-    "source": "OpenAI",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "A blueprint for democratic governance of frontier AI",
-    "url": "https://openai.com/index/frontier-safety-blueprint",
-    "source": "OpenAI",
-    "date": "2026-06-03"
   }
 ]
