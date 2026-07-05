@@ -633,43 +633,5 @@
       "Product Launch",
       "Developer Tools"
     ]
-  },
-  {
-    "title": "How Endava is redesigning software delivery around AI agents",
-    "url": "https://openai.com/index/endava-frontiers",
-    "source": "OpenAI",
-    "date": "2026-06-04",
-    "tags": [
-      "Agents",
-      "Case Study"
-    ]
-  },
-  {
-    "title": "Dreaming: Better memory for a more helpful ChatGPT",
-    "url": "https://openai.com/index/chatgpt-memory-dreaming",
-    "source": "OpenAI",
-    "date": "2026-06-04",
-    "tags": [
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Biodefense in the Intelligence Age",
-    "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-    "source": "OpenAI",
-    "date": "2026-06-04",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Kaggle is making AI benchmark creation effortless",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-kaggle--benchmarks-locally/",
-    "source": "Google",
-    "date": "2026-06-04",
-    "tags": [
-      "Developer Tools",
-      "Product Launch"
-    ]
   }
 ]
