@@ -603,35 +603,5 @@
       "Product Launch",
       "Developer Tools"
     ]
-  },
-  {
-    "title": "The Claude Cowork product guide",
-    "url": "https://claude.com/blog/the-claude-cowork-product-guide",
-    "source": "Claude",
-    "date": "2026-06-05",
-    "tags": [
-      "Product Launch",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
-    "url": "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering",
-    "source": "Claude",
-    "date": "2026-06-05",
-    "tags": [
-      "Case Study",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-    "source": "Google",
-    "date": "2026-06-05",
-    "tags": [
-      "Product Launch",
-      "Developer Tools"
-    ]
   }
 ]
