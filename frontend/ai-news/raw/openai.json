@@ -1,5 +1,17 @@
 [
   {
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "url": "https://openai.com/index/australian-payments-plus",
+    "source": "OpenAI",
+    "date": "2026-07-07"
+  },
+  {
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
+    "source": "OpenAI",
+    "date": "2026-07-07"
+  },
+  {
     "title": "How ChatGPT adoption has expanded",
     "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "source": "OpenAI",
@@ -72,14 +84,14 @@
     "date": "2026-06-23"
   },
   {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "url": "https://openai.com/index/patch-the-planet",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
     "source": "OpenAI",
     "date": "2026-06-22"
   },
   {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "url": "https://openai.com/index/patch-the-planet",
     "source": "OpenAI",
     "date": "2026-06-22"
   },
@@ -150,12 +162,6 @@
     "date": "2026-06-12"
   },
   {
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "url": "https://openai.com/index/bbva",
-    "source": "OpenAI",
-    "date": "2026-06-11"
-  },
-  {
     "title": "OpenAI to acquire Ona",
     "url": "https://openai.com/index/openai-to-acquire-ona",
     "source": "OpenAI",
@@ -164,6 +170,12 @@
   {
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "source": "OpenAI",
+    "date": "2026-06-11"
+  },
+  {
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
     "source": "OpenAI",
     "date": "2026-06-11"
   },
@@ -212,18 +224,6 @@
   {
     "title": "Confidential submission of draft S-1 to the SEC",
     "url": "https://openai.com/index/openai-submits-confidential-s-1",
-    "source": "OpenAI",
-    "date": "2026-06-08"
-  },
-  {
-    "title": "Built to benefit everyone: our plan",
-    "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-    "source": "OpenAI",
-    "date": "2026-06-08"
-  },
-  {
-    "title": "Introducing the OpenAI Economic Research Exchange",
-    "url": "https://openai.com/index/economic-research-exchange",
     "source": "OpenAI",
     "date": "2026-06-08"
   }
