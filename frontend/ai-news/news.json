@@ -1,5 +1,64 @@
 [
   {
+    "title": "Bringing Claude Code and Claude Cowork to government",
+    "url": "https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government",
+    "source": "Claude",
+    "date": "2026-07-07",
+    "tags": [
+      "Enterprise",
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Choosing a Claude model and effort level in Claude Code",
+    "url": "https://claude.com/blog/claude-model-and-effort-level-in-claude-code",
+    "source": "Claude",
+    "date": "2026-07-07",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Claude Cowork is coming to mobile and web",
+    "url": "https://claude.com/blog/cowork-web-mobile",
+    "source": "Claude",
+    "date": "2026-07-07",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "How people are using Claude Cowork",
+    "url": "https://claude.com/blog/how-people-are-using-claude-cowork",
+    "source": "Claude",
+    "date": "2026-07-07",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "url": "https://openai.com/index/australian-payments-plus",
+    "source": "OpenAI",
+    "date": "2026-07-07",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
+    "source": "OpenAI",
+    "date": "2026-07-07",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "A field guide to Claude Fable 5: Finding your unknowns",
     "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
     "source": "Claude",
