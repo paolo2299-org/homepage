@@ -1,5 +1,65 @@
 [
   {
+    "title": "Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work",
+    "url": "https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work",
+    "source": "Claude",
+    "date": "2026-07-08",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds",
+    "url": "https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds",
+    "source": "Claude",
+    "date": "2026-07-08",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Our approach to government and national security partnerships",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "source": "OpenAI",
+    "date": "2026-07-08",
+    "tags": [
+      "Enterprise",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Separating signal from noise in coding evaluations",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "source": "OpenAI",
+    "date": "2026-07-08",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Helping K–12 educators build practical AI skills",
+    "url": "https://openai.com/index/k-12-educators-practical-skills",
+    "source": "OpenAI",
+    "date": "2026-07-08",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Introducing GPT-Live",
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "source": "OpenAI",
+    "date": "2026-07-08",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
     "title": "Bringing Claude Code and Claude Cowork to government",
     "url": "https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government",
     "source": "Claude",
@@ -56,6 +116,16 @@
     "tags": [
       "Case Study",
       "Enterprise"
+    ]
+  },
+  {
+    "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "source": "Google",
+    "date": "2026-07-07",
+    "tags": [
+      "Agents",
+      "Developer Tools"
     ]
   },
   {
@@ -613,63 +683,6 @@
     "date": "2026-06-09",
     "tags": [
       "Case Study",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
-    "url": "https://claude.com/blog/claude-for-foundation-models",
-    "source": "Claude",
-    "date": "2026-06-08",
-    "tags": [
-      "Product Launch",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Observability for developers building connectors",
-    "url": "https://claude.com/blog/observability-for-developers-building-connectors",
-    "source": "Claude",
-    "date": "2026-06-08",
-    "tags": [
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Confidential submission of draft S-1 to the SEC",
-    "url": "https://openai.com/index/openai-submits-confidential-s-1",
-    "source": "OpenAI",
-    "date": "2026-06-08",
-    "tags": [
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Built to benefit everyone: our plan",
-    "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-    "source": "OpenAI",
-    "date": "2026-06-08",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Introducing the OpenAI Economic Research Exchange",
-    "url": "https://openai.com/index/economic-research-exchange",
-    "source": "OpenAI",
-    "date": "2026-06-08",
-    "tags": [
-      "Opinion",
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Bringing the latest Gemini models to Apple developers",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/bringing-gemini-models-to-apple-developers/",
-    "source": "Google",
-    "date": "2026-06-08",
-    "tags": [
-      "Product Launch",
       "Developer Tools"
     ]
   }
