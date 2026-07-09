@@ -2,7 +2,7 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
-Published Time: Tue, 07 Jul 2026 19:46:03 GMT
+Published Time: Thu, 09 Jul 2026 04:04:37 GMT
 
 Markdown Content:
 [](https://claude.com/)
@@ -105,19 +105,19 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.3bc1cc25-f9e9-4700-b621-95b194fe3bd0/login)
+*   [Login](https://claude.ai/redirect/claudedotcom.v1.f2e2f4b3-5e87-4d26-a5a6-460e56705e55/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.3bc1cc25-f9e9-4700-b621-95b194fe3bd0)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.f2e2f4b3-5e87-4d26-a5a6-460e56705e55)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.3bc1cc25-f9e9-4700-b621-95b194fe3bd0)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.f2e2f4b3-5e87-4d26-a5a6-460e56705e55)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.3bc1cc25-f9e9-4700-b621-95b194fe3bd0)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.f2e2f4b3-5e87-4d26-a5a6-460e56705e55)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.3bc1cc25-f9e9-4700-b621-95b194fe3bd0)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.f2e2f4b3-5e87-4d26-a5a6-460e56705e55)Try Claude  
 
 *   
 Meet Claude       
@@ -217,12 +217,12 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.3bc1cc25-f9e9-4700-b621-95b194fe3bd0/login)
+*   [Login](https://claude.ai/redirect/claudedotcom.v1.f2e2f4b3-5e87-4d26-a5a6-460e56705e55/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.3bc1cc25-f9e9-4700-b621-95b194fe3bd0)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.f2e2f4b3-5e87-4d26-a5a6-460e56705e55)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.3bc1cc25-f9e9-4700-b621-95b194fe3bd0)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.f2e2f4b3-5e87-4d26-a5a6-460e56705e55)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -314,11 +314,11 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/redirect/claudedotcom.v1.3bc1cc25-f9e9-4700-b621-95b194fe3bd0)Try Claude
+[Try Claude](https://claude.ai/redirect/claudedotcom.v1.f2e2f4b3-5e87-4d26-a5a6-460e56705e55)Try Claude
 
 All
 
-181
+183
 
 ## [Agents](https://claude.com/blog-category/agents)
 
@@ -528,7 +528,71 @@ Grid
 
 List
 
-![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e6fa9211768bbce0b_6e00dbffcddc82df5e471c43453abfc74ca94e8d-1000x1000.svg)
+![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e7cc0b92f0562c5e3_a199a67a3347dcc102d63943338e14cb3b4e5405-1000x1000.svg)
+
+Jul 8, 2026
+
+Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work
+
+Enterprise AI
+
+Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work
+
+[](https://claude.com/blog)
+
+Claude Platform
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Legal
+
+[](https://claude.com/blog)
+
+Work
+
+July 8, 2026
+
+[Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work](https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work)Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work
+
+[Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work](https://claude.com/blog#)Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work
+
+[](https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work)
+
+![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2261b7d4c0eae4fdf9b_036c01a9e427ea0f4d1e6c7221e4f6dce2259bf7-1000x1000.svg)
+
+Jul 8, 2026
+
+How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds
+
+Enterprise AI
+
+How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds
+
+[](https://claude.com/blog)
+
+Claude Cowork
+
+[](https://claude.com/blog)
+
+Business
+
+July 8, 2026
+
+[How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds](https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds)How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds
+
+[How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds](https://claude.com/blog#)How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds
+
+[](https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds)
+
+![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e6fa9211768bbce0b_6e00dbffcddc82df5e471c43453abfc74ca94e8d-1000x1000.svg)
 
 Jul 7, 2026
 
@@ -558,7 +622,7 @@ July 7, 2026
 
 [](https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government)
 
-![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22651dd05046d0fdb0b_39c40393e610cc0a5e65f50ad12ff5ada273f792-1000x1000.svg)
+![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22651dd05046d0fdb0b_39c40393e610cc0a5e65f50ad12ff5ada273f792-1000x1000.svg)
 
 Jul 7, 2026
 
@@ -584,7 +648,7 @@ July 7, 2026
 
 [](https://claude.com/blog/claude-model-and-effort-level-in-claude-code)
 
-![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a3f14a08cb97bf1b16d40ef_ObjectClouds.svg)
+![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a3f14a08cb97bf1b16d40ef_ObjectClouds.svg)
 
 Jul 7, 2026
 
@@ -618,7 +682,7 @@ July 7, 2026
 
 [](https://claude.com/blog/cowork-web-mobile)
 
-![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226ca443e2e05990c00_83d7d2fe412ceb4dfe627f0d5f3d64aff1a3f5db-1000x1000.svg)
+![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226ca443e2e05990c00_83d7d2fe412ceb4dfe627f0d5f3d64aff1a3f5db-1000x1000.svg)
 
 Jul 7, 2026
 
@@ -644,7 +708,7 @@ July 7, 2026
 
 [](https://claude.com/blog/how-people-are-using-claude-cowork)
 
-![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229b7f170bab528846d_0df729ce74e4c9dd62c3342c9549ce6c7cef1202-1000x1000.svg)
+![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229b7f170bab528846d_0df729ce74e4c9dd62c3342c9549ce6c7cef1202-1000x1000.svg)
 
 Jul 6, 2026
 
@@ -670,7 +734,7 @@ July 6, 2026
 
 [](https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns)
 
-![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22349f86cd1968deab7_f06ca06f9d08ca4a85f26357eb896c3730274507-1000x1000.svg)
+![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22349f86cd1968deab7_f06ca06f9d08ca4a85f26357eb896c3730274507-1000x1000.svg)
 
 Jul 2, 2026
 
@@ -692,7 +756,7 @@ July 2, 2026
 
 [](https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend)
 
-![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229e73ca2d0d73d78f7_682ac293884c9d4ee4ebe2355a2f6c4ecfdd9c1b-1000x1000.svg)
+![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229e73ca2d0d73d78f7_682ac293884c9d4ee4ebe2355a2f6c4ecfdd9c1b-1000x1000.svg)
 
 Jun 30, 2026
 
@@ -718,7 +782,7 @@ June 30, 2026
 
 [](https://claude.com/blog/getting-started-with-loops)
 
-![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a42c9bc20d2072552ef256a_Node-EnterpriseAgents.svg)
+![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a42c9bc20d2072552ef256a_Node-EnterpriseAgents.svg)
 
 Jun 29, 2026
 
@@ -740,7 +804,7 @@ June 29, 2026
 
 [](https://claude.com/blog/introducing-the-claude-apps-gateway)
 
-![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a3f14a08cb97bf1b16d40ef_ObjectClouds.svg)
+![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a3f14a08cb97bf1b16d40ef_ObjectClouds.svg)
 
 Jun 29, 2026
 
@@ -774,7 +838,7 @@ June 29, 2026
 
 [](https://claude.com/blog/claude-in-microsoft-foundry)
 
-![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
+![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
 
 Jun 24, 2026
 
@@ -800,7 +864,7 @@ June 24, 2026
 
 [](https://claude.com/blog/building-effective-human-agent-teams)
 
-![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225588ad176f7c4aafd_abc884c723daea810d2e986455358281a2f94102-1000x1000.svg)
+![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225588ad176f7c4aafd_abc884c723daea810d2e986455358281a2f94102-1000x1000.svg)
 
 Jun 24, 2026
 
@@ -822,7 +886,7 @@ June 24, 2026
 
 [](https://claude.com/blog/agent-identity-access-model)
 
-![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22c7f111435762ad994_1b398dbdfa4995ce5ce943aa87d8b78b2c2ba065-1000x1000.svg)
+![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22c7f111435762ad994_1b398dbdfa4995ce5ce943aa87d8b78b2c2ba065-1000x1000.svg)
 
 Jun 22, 2026
 
@@ -852,15 +916,15 @@ June 22, 2026
 
 [](https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry)
 
-![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d7d4c10df6024f7bc_ee580919acaba2ddc07425f7a7390c8962cadc94-1000x1000.svg)
+![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d7d4c10df6024f7bc_ee580919acaba2ddc07425f7a7390c8962cadc94-1000x1000.svg)
 
 Jun 18, 2026
 
-Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more 
+Steering Claude Code: when to use CLAUDE.md, skills, hooks, and subagents
 
 Claude Code
 
-Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more 
+Steering Claude Code: when to use CLAUDE.md, skills, hooks, and subagents
 
 [](https://claude.com/blog)
 
@@ -872,87 +936,11 @@ Coding
 
 June 18, 2026
 
-[Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more](https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more)Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more 
+[Steering Claude Code: when to use CLAUDE.md, skills, hooks, and subagents](https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more)Steering Claude Code: when to use CLAUDE.md, skills, hooks, and subagents
 
-[Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more](https://claude.com/blog#)Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more 
+[Steering Claude Code: when to use CLAUDE.md, skills, hooks, and subagents](https://claude.com/blog#)Steering Claude Code: when to use CLAUDE.md, skills, hooks, and subagents
 
 [](https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more)
-
-![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d23008bbc20c0ffaeb6f_43abe7e54b56a891e74a8542944dfbd33f07f49c-1000x1000.svg)
-
-Jun 18, 2026
-
-Centrally manage authorization for MCP connectors 
-
-Enterprise AI
-
-Centrally manage authorization for MCP connectors 
-
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-[](https://claude.com/blog)
-
-Claude apps
-
-[](https://claude.com/blog)
-
-Business
-
-[](https://claude.com/blog)
-
-Productivity
-
-[](https://claude.com/blog)
-
-Work
-
-June 18, 2026
-
-[Centrally manage authorization for MCP connectors](https://claude.com/blog/enterprise-managed-auth)Centrally manage authorization for MCP connectors 
-
-[Centrally manage authorization for MCP connectors](https://claude.com/blog#)Centrally manage authorization for MCP connectors 
-
-[](https://claude.com/blog/enterprise-managed-auth)
-
-![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d0099a66d72e05699_33ddc751e21fb4b116b3f57dd553f0bc55ea09d1-1000x1000.svg)
-
-Jun 18, 2026
-
-Claude Code now supports artifacts
-
-Product announcements
-
-Claude Code now supports artifacts
-
-[](https://claude.com/blog)
-
-Claude Code
-
-[](https://claude.com/blog)
-
-Productivity
-
-[](https://claude.com/blog)
-
-Design
-
-[](https://claude.com/blog)
-
-Content Creation
-
-[](https://claude.com/blog)
-
-Work
-
-June 18, 2026
-
-[Claude Code now supports artifacts](https://claude.com/blog/artifacts-in-claude-code)Claude Code now supports artifacts
-
-[Claude Code now supports artifacts](https://claude.com/blog#)Claude Code now supports artifacts
-
-[](https://claude.com/blog/artifacts-in-claude-code)
 
 [Previous](https://claude.com/blog?b7eea976_page=13)[View more](https://claude.com/blog?b7eea976_page=2)
 
@@ -963,6 +951,70 @@ Category
 Product
 
 Usecase
+
+### Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work
+
+Category
+
+Enterprise AI
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Platform
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Claude Code
+
+Usecase
+
+[](https://claude.com/blog)
+
+Legal
+
+[](https://claude.com/blog)
+
+Work
+
+July 8, 2026
+
+[Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work](https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work)Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work
+
+[Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work](https://claude.com/blog#)Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work
+
+[](https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work)
+
+### How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds
+
+Category
+
+Enterprise AI
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Cowork
+
+Usecase
+
+[](https://claude.com/blog)
+
+Business
+
+July 8, 2026
+
+[How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds](https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds)How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds
+
+[How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds](https://claude.com/blog#)How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds
+
+[](https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds)
 
 ### Bringing Claude Code and Claude Cowork to government
 
@@ -1288,7 +1340,7 @@ June 22, 2026
 
 [](https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry)
 
-### Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more
+### Steering Claude Code: when to use CLAUDE.md, skills, hooks, and subagents
 
 Category
 
@@ -1308,87 +1360,11 @@ Coding
 
 June 18, 2026
 
-[Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more](https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more)Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more 
+[Steering Claude Code: when to use CLAUDE.md, skills, hooks, and subagents](https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more)Steering Claude Code: when to use CLAUDE.md, skills, hooks, and subagents
 
-[Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more](https://claude.com/blog#)Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more 
+[Steering Claude Code: when to use CLAUDE.md, skills, hooks, and subagents](https://claude.com/blog#)Steering Claude Code: when to use CLAUDE.md, skills, hooks, and subagents
 
 [](https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more)
-
-### Centrally manage authorization for MCP connectors
-
-Category
-
-Enterprise AI
-
-Product
-
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-[](https://claude.com/blog)
-
-Claude apps
-
-Usecase
-
-[](https://claude.com/blog)
-
-Business
-
-[](https://claude.com/blog)
-
-Productivity
-
-[](https://claude.com/blog)
-
-Work
-
-June 18, 2026
-
-[Centrally manage authorization for MCP connectors](https://claude.com/blog/enterprise-managed-auth)Centrally manage authorization for MCP connectors 
-
-[Centrally manage authorization for MCP connectors](https://claude.com/blog#)Centrally manage authorization for MCP connectors 
-
-[](https://claude.com/blog/enterprise-managed-auth)
-
-### Claude Code now supports artifacts
-
-Category
-
-Product announcements
-
-Product
-
-[](https://claude.com/blog)
-
-Claude Code
-
-Usecase
-
-[](https://claude.com/blog)
-
-Productivity
-
-[](https://claude.com/blog)
-
-Design
-
-[](https://claude.com/blog)
-
-Content Creation
-
-[](https://claude.com/blog)
-
-Work
-
-June 18, 2026
-
-[Claude Code now supports artifacts](https://claude.com/blog/artifacts-in-claude-code)Claude Code now supports artifacts
-
-[Claude Code now supports artifacts](https://claude.com/blog#)Claude Code now supports artifacts
-
-[](https://claude.com/blog/artifacts-in-claude-code)
 
 [Previous](https://claude.com/blog?d7430fcd_page=13)[View more](https://claude.com/blog?d7430fcd_page=2)
 
@@ -1558,7 +1534,7 @@ Products
 *   Claude Security [Claude Security](https://claude.com/product/claude-security)Claude Security 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.3bc1cc25-f9e9-4700-b621-95b194fe3bd0/login)Log in 
+*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.f2e2f4b3-5e87-4d26-a5a6-460e56705e55/login)Log in 
 
 Features
 
