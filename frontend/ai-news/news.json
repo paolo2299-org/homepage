@@ -1,5 +1,25 @@
 [
   {
+    "title": "Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night",
+    "url": "https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night",
+    "source": "Claude",
+    "date": "2026-07-10",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "source": "OpenAI",
+    "date": "2026-07-10",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
     "source": "OpenAI",
@@ -36,6 +56,16 @@
     "tags": [
       "Product Launch",
       "Developer Tools"
+    ]
+  },
+  {
+    "title": "We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/",
+    "source": "Google",
+    "date": "2026-07-09",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
     ]
   },
   {
@@ -79,7 +109,7 @@
     ]
   },
   {
-    "title": "Helping K–12 educators build practical AI skills",
+    "title": "Helping K\u201312 educators build practical AI skills",
     "url": "https://openai.com/index/k-12-educators-practical-skills",
     "source": "OpenAI",
     "date": "2026-07-08",
@@ -266,7 +296,7 @@
     ]
   },
   {
-    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "title": "Mapping Europe\u2019s AI Workforce Opportunity",
     "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
     "source": "OpenAI",
     "date": "2026-06-29",
@@ -610,7 +640,7 @@
     ]
   },
   {
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
     "date": "2026-06-11",
@@ -625,55 +655,6 @@
     "date": "2026-06-11",
     "tags": [
       "Enterprise"
-    ]
-  },
-  {
-    "title": "The evolution of agentic surfaces: building with Claude Managed Agents",
-    "url": "https://claude.com/blog/building-with-claude-managed-agents",
-    "source": "Claude",
-    "date": "2026-06-10",
-    "tags": [
-      "Agents",
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-    "url": "https://openai.com/index/openai-on-oracle-cloud",
-    "source": "OpenAI",
-    "date": "2026-06-10",
-    "tags": [
-      "Product Launch",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "PRC-linked influence operations are targeting AI debates in the US",
-    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-    "source": "OpenAI",
-    "date": "2026-06-10",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "From data to decisions: how LSEG is scaling trusted AI",
-    "url": "https://openai.com/index/lseg",
-    "source": "OpenAI",
-    "date": "2026-06-10",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "DiffusionGemma: 4x faster text generation",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
-    "source": "Google",
-    "date": "2026-06-10",
-    "tags": [
-      "Product Launch",
-      "Developer Tools"
     ]
   }
 ]
