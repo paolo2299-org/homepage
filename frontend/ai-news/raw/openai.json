@@ -6,8 +6,20 @@
     "date": "2026-07-10"
   },
   {
+    "title": "Getting started with ChatGPT",
+    "url": "https://openai.com/academy/getting-started",
+    "source": "OpenAI",
+    "date": "2026-07-10"
+  },
+  {
     "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "source": "OpenAI",
+    "date": "2026-07-09"
+  },
+  {
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/bio-bug-bounty",
     "source": "OpenAI",
     "date": "2026-07-09"
   },
@@ -20,12 +32,6 @@
   {
     "title": "ChatGPT is now a partner for your most ambitious work",
     "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "source": "OpenAI",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "url": "https://openai.com/index/bio-bug-bounty",
     "source": "OpenAI",
     "date": "2026-07-09"
   },
@@ -72,12 +78,6 @@
     "date": "2026-06-30"
   },
   {
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "source": "OpenAI",
-    "date": "2026-06-30"
-  },
-  {
     "title": "Introducing GeneBench-Pro",
     "url": "https://openai.com/index/introducing-genebench-pro",
     "source": "OpenAI",
@@ -86,6 +86,12 @@
   {
     "title": "Inside Genebench-Pro",
     "url": "https://openai.com/index/genebench-pro/case-studies",
+    "source": "OpenAI",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
     "source": "OpenAI",
     "date": "2026-06-30"
   },
@@ -138,14 +144,14 @@
     "date": "2026-06-23"
   },
   {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "url": "https://openai.com/index/patch-the-planet",
     "source": "OpenAI",
     "date": "2026-06-22"
   },
   {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "url": "https://openai.com/index/patch-the-planet",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
     "source": "OpenAI",
     "date": "2026-06-22"
   },
