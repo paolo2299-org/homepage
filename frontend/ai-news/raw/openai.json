@@ -1,5 +1,23 @@
 [
   {
+    "title": "How to manage AI investments in the agentic era",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "source": "OpenAI",
+    "date": "2026-07-14"
+  },
+  {
+    "title": "How sales teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "source": "OpenAI",
+    "date": "2026-07-14"
+  },
+  {
+    "title": "How data science teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "source": "OpenAI",
+    "date": "2026-07-14"
+  },
+  {
     "title": "How Deutsche Telekom is rewiring telecommunications with AI",
     "url": "https://openai.com/index/deutsche-telekom",
     "source": "OpenAI",
@@ -60,14 +78,14 @@
     "date": "2026-07-08"
   },
   {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "url": "https://openai.com/index/mufg",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "url": "https://openai.com/index/australian-payments-plus",
     "source": "OpenAI",
     "date": "2026-07-07"
   },
   {
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "url": "https://openai.com/index/australian-payments-plus",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
     "source": "OpenAI",
     "date": "2026-07-07"
   },
@@ -144,14 +162,14 @@
     "date": "2026-06-23"
   },
   {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "url": "https://openai.com/index/patch-the-planet",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
     "source": "OpenAI",
     "date": "2026-06-22"
   },
   {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "url": "https://openai.com/index/patch-the-planet",
     "source": "OpenAI",
     "date": "2026-06-22"
   },
@@ -202,11 +220,5 @@
     "url": "https://openai.com/index/deployment-simulation",
     "source": "OpenAI",
     "date": "2026-06-16"
-  },
-  {
-    "title": "Introducing the OpenAI Partner Network",
-    "url": "https://openai.com/index/introducing-openai-partner-network",
-    "source": "OpenAI",
-    "date": "2026-06-14"
   }
 ]

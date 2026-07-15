@@ -2,7 +2,7 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
-Published Time: Mon, 13 Jul 2026 20:44:32 GMT
+Published Time: Tue, 14 Jul 2026 22:04:31 GMT
 
 Markdown Content:
 [](https://claude.com/)
@@ -72,10 +72,11 @@ Departments
 Industries
 
     *   [Customer support](https://claude.com/solutions/customer-support)
-    *   [Education](https://claude.com/solutions/education)
     *   [Financial services](https://claude.com/solutions/financial-services)
     *   [Government](https://claude.com/solutions/government)
     *   [Healthcare](https://claude.com/solutions/healthcare)
+    *   [Higher education](https://claude.com/solutions/education)
+    *   [K-12 teachers](https://claude.com/solutions/teachers)
     *   [Life sciences](https://claude.com/solutions/life-sciences)
     *   [Nonprofits](https://claude.com/solutions/nonprofits)
 
@@ -105,19 +106,19 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.bb36a69b-970a-4a9e-8039-974215c4e965/login)
+*   [Login](https://claude.ai/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.bb36a69b-970a-4a9e-8039-974215c4e965)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.bb36a69b-970a-4a9e-8039-974215c4e965)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.bb36a69b-970a-4a9e-8039-974215c4e965)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.bb36a69b-970a-4a9e-8039-974215c4e965)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 *   
 Meet Claude       
@@ -184,10 +185,11 @@ Departments
 Industries
 
     *   [Customer support](https://claude.com/solutions/customer-support)
-    *   [Education](https://claude.com/solutions/education)
     *   [Financial services](https://claude.com/solutions/financial-services)
     *   [Government](https://claude.com/solutions/government)
     *   [Healthcare](https://claude.com/solutions/healthcare)
+    *   [Higher education](https://claude.com/solutions/education)
+    *   [K-12 teachers](https://claude.com/solutions/teachers)
     *   [Life sciences](https://claude.com/solutions/life-sciences)
     *   [Nonprofits](https://claude.com/solutions/nonprofits)
 
@@ -217,12 +219,12 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.bb36a69b-970a-4a9e-8039-974215c4e965/login)
+*   [Login](https://claude.ai/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.bb36a69b-970a-4a9e-8039-974215c4e965)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.bb36a69b-970a-4a9e-8039-974215c4e965)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -314,11 +316,11 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/redirect/claudedotcom.v1.bb36a69b-970a-4a9e-8039-974215c4e965)Try Claude
+[Try Claude](https://claude.ai/)Try Claude
 
 All
 
-185
+75
 
 ## [Agents](https://claude.com/blog-category/agents)
 
@@ -1344,7 +1346,7 @@ June 24, 2026
 
 [Previous](https://claude.com/blog?d7430fcd_page=13)[View more](https://claude.com/blog?d7430fcd_page=2)
 
-1 / 13
+1 / 3
 
 No
 
@@ -1510,7 +1512,7 @@ Products
 *   Claude Security [Claude Security](https://claude.com/product/claude-security)Claude Security 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.bb36a69b-970a-4a9e-8039-974215c4e965/login)Log in 
+*   Log in [Log in](https://claude.ai/login)Log in 
 
 Features
 
@@ -1532,11 +1534,12 @@ Solutions
 *   Code modernization [Code modernization](https://claude.com/solutions/code-modernization)Code modernization 
 *   Coding [Coding](https://claude.com/solutions/coding)Coding 
 *   Customer support [Customer support](https://claude.com/solutions/customer-support)Customer support 
-*   Education [Education](https://claude.com/solutions/education)Education 
 *   Enterprise [Enterprise](https://claude.com/solutions/enterprise)Enterprise 
 *   Financial services [Financial services](https://claude.com/solutions/financial-services)Financial services 
 *   Government [Government](https://claude.com/solutions/government)Government 
 *   Healthcare [Healthcare](https://claude.com/solutions/healthcare)Healthcare 
+*   Higher education [Higher education](https://claude.com/solutions/education)Higher education 
+*   K-12 teachers [K-12 teachers](https://claude.com/solutions/teachers)K-12 teachers 
 *   Legal [Legal](https://claude.com/solutions/legal)Legal 
 *   Life sciences [Life sciences](https://claude.com/solutions/life-sciences)Life sciences 
 *   Nonprofits [Nonprofits](https://claude.com/solutions/nonprofits)Nonprofits 
@@ -1613,6 +1616,8 @@ Enables ads personalization and tracking. Off- [x]     Save preferences
 *   Responsible disclosure policy [Responsible disclosure policy](https://www.anthropic.com/responsible-disclosure-policy)Responsible disclosure policy 
 *   Terms of service: Commercial [Terms of service: Commercial](https://www.anthropic.com/legal/commercial-terms)Terms of service: Commercial 
 *   Terms of service: Consumer [Terms of service: Consumer](https://www.anthropic.com/legal/consumer-terms)Terms of service: Consumer 
+*   Terms of Service: US K-12 [Terms of Service: US K-12](https://anthropic.com/legal/k12-terms)Terms of Service: US K-12 
+*   Data Processing Agreement: US K-12 [Data Processing Agreement: US K-12](https://anthropic.com/legal/k12-dpa)Data Processing Agreement: US K-12 
 *   Usage policy [Usage policy](https://www.anthropic.com/legal/aup)Usage policy 
 
 [x.com](https://x.com/claudeai)x.com
