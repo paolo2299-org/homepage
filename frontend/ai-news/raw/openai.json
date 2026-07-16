@@ -1,5 +1,17 @@
 [
   {
+    "title": "The US is advancing AI safety through state and federal action",
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "source": "OpenAI",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "source": "OpenAI",
+    "date": "2026-07-15"
+  },
+  {
     "title": "How to manage AI investments in the agentic era",
     "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
     "source": "OpenAI",
@@ -36,8 +48,8 @@
     "date": "2026-07-09"
   },
   {
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "url": "https://openai.com/index/bio-bug-bounty",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "source": "OpenAI",
     "date": "2026-07-09"
   },
@@ -48,8 +60,8 @@
     "date": "2026-07-09"
   },
   {
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/bio-bug-bounty",
     "source": "OpenAI",
     "date": "2026-07-09"
   },
@@ -78,14 +90,14 @@
     "date": "2026-07-08"
   },
   {
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "url": "https://openai.com/index/australian-payments-plus",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
     "source": "OpenAI",
     "date": "2026-07-07"
   },
   {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "url": "https://openai.com/index/mufg",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "url": "https://openai.com/index/australian-payments-plus",
     "source": "OpenAI",
     "date": "2026-07-07"
   },
@@ -162,14 +174,14 @@
     "date": "2026-06-23"
   },
   {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "url": "https://openai.com/index/patch-the-planet",
     "source": "OpenAI",
     "date": "2026-06-22"
   },
   {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "url": "https://openai.com/index/patch-the-planet",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
     "source": "OpenAI",
     "date": "2026-06-22"
   },
@@ -214,11 +226,5 @@
     "url": "https://openai.com/index/introducing-life-sci-bench",
     "source": "OpenAI",
     "date": "2026-06-17"
-  },
-  {
-    "title": "Predicting model behavior before release by simulating deployment",
-    "url": "https://openai.com/index/deployment-simulation",
-    "source": "OpenAI",
-    "date": "2026-06-16"
   }
 ]
