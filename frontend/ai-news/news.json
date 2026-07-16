@@ -1,5 +1,34 @@
 [
   {
+    "title": "Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work",
+    "url": "https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work",
+    "source": "Claude",
+    "date": "2026-07-15",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "The US is advancing AI safety through state and federal action",
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "source": "OpenAI",
+    "date": "2026-07-15",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "source": "OpenAI",
+    "date": "2026-07-15",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
     "title": "How to manage AI investments in the agentic era",
     "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
     "source": "OpenAI",
@@ -617,16 +646,6 @@
     "tags": [
       "Opinion",
       "Developer Tools"
-    ]
-  },
-  {
-    "title": "Meet the winners of the Built with Opus 4.7 Claude Code hackathon",
-    "url": "https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon",
-    "source": "Claude",
-    "date": "2026-06-15",
-    "tags": [
-      "Developer Tools",
-      "Case Study"
     ]
   }
 ]
