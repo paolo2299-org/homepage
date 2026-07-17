@@ -2,6 +2,8 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
+Published Time: Thu, 16 Jul 2026 21:33:14 GMT
+
 Markdown Content:
 [](https://claude.com/)
 
@@ -318,7 +320,7 @@ Try Claude
 
 All
 
-15
+188
 
 ## [Agents](https://claude.com/blog-category/agents)
 
@@ -528,7 +530,59 @@ Grid
 
 List
 
-![Image 1](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
+![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2260bfc90348429f9c3_cd9cf56a7f049285b7c1c8786c0a600cf3d7f317-1000x1000.svg)
+
+Jul 16, 2026
+
+How Anthropic runs large-scale code migrations with Claude Code
+
+Claude Code
+
+How Anthropic runs large-scale code migrations with Claude Code
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Coding
+
+July 16, 2026
+
+[How Anthropic runs large-scale code migrations with Claude Code](https://claude.com/blog/ai-code-migration)How Anthropic runs large-scale code migrations with Claude Code
+
+[How Anthropic runs large-scale code migrations with Claude Code](https://claude.com/blog#)How Anthropic runs large-scale code migrations with Claude Code
+
+[](https://claude.com/blog/ai-code-migration)
+
+![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d227246bc2b5a3cc3626_9f6a378a1e3592cf8d27447457409ba12284faef-1000x1000.svg)
+
+Jul 16, 2026
+
+Working with Claude Fable 5 in Claude Cowork
+
+Enterprise AI
+
+Working with Claude Fable 5 in Claude Cowork
+
+[](https://claude.com/blog)
+
+Claude Cowork
+
+[](https://claude.com/blog)
+
+Work
+
+July 16, 2026
+
+[Working with Claude Fable 5 in Claude Cowork](https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork)Working with Claude Fable 5 in Claude Cowork
+
+[Working with Claude Fable 5 in Claude Cowork](https://claude.com/blog#)Working with Claude Fable 5 in Claude Cowork
+
+[](https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork)
+
+![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
 
 Jul 15, 2026
 
@@ -538,6 +592,10 @@ Enterprise AI
 
 Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work
 
+[](https://claude.com/blog)
+
+Claude Platform
+
 July 15, 2026
 
 [Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work](https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work)Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work
@@ -546,7 +604,7 @@ July 15, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work)
 
-![Image 2](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2287f90c57df4c9dd97_c1ef4c0b6882dfe985555b52999d370ea88a3c50-1000x1000.svg)
+![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2287f90c57df4c9dd97_c1ef4c0b6882dfe985555b52999d370ea88a3c50-1000x1000.svg)
 
 Jul 13, 2026
 
@@ -556,6 +614,10 @@ Enterprise AI
 
 Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail
 
+[](https://claude.com/blog)
+
+Financial services
+
 July 13, 2026
 
 [Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail](https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail)Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail
@@ -564,7 +626,7 @@ July 13, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail)
 
-![Image 3](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22c10cdf166eebe4c84_d4b15045df86e43e5b5dc7b25784321ce8b5dd88-1000x1000.svg)
+![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22c10cdf166eebe4c84_d4b15045df86e43e5b5dc7b25784321ce8b5dd88-1000x1000.svg)
 
 Jul 10, 2026
 
@@ -574,6 +636,10 @@ Enterprise AI
 
 Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night
 
+[](https://claude.com/blog)
+
+Coding
+
 July 10, 2026
 
 [Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night](https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night)Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night
@@ -582,7 +648,7 @@ July 10, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night)
 
-![Image 4](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e7cc0b92f0562c5e3_a199a67a3347dcc102d63943338e14cb3b4e5405-1000x1000.svg)
+![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e7cc0b92f0562c5e3_a199a67a3347dcc102d63943338e14cb3b4e5405-1000x1000.svg)
 
 Jul 8, 2026
 
@@ -591,6 +657,26 @@ Working at the frontier: How Thomson Reuters builds AI for high-stakes professio
 Enterprise AI
 
 Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work
+
+[](https://claude.com/blog)
+
+Claude Platform
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Legal
+
+[](https://claude.com/blog)
+
+Work
 
 July 8, 2026
 
@@ -600,7 +686,7 @@ July 8, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work)
 
-![Image 5](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2261b7d4c0eae4fdf9b_036c01a9e427ea0f4d1e6c7221e4f6dce2259bf7-1000x1000.svg)
+![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2261b7d4c0eae4fdf9b_036c01a9e427ea0f4d1e6c7221e4f6dce2259bf7-1000x1000.svg)
 
 Jul 8, 2026
 
@@ -610,6 +696,14 @@ Enterprise AI
 
 How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds
 
+[](https://claude.com/blog)
+
+Claude Cowork
+
+[](https://claude.com/blog)
+
+Business
+
 July 8, 2026
 
 [How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds](https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds)How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds
@@ -618,7 +712,7 @@ July 8, 2026
 
 [](https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds)
 
-![Image 6](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e6fa9211768bbce0b_6e00dbffcddc82df5e471c43453abfc74ca94e8d-1000x1000.svg)
+![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e6fa9211768bbce0b_6e00dbffcddc82df5e471c43453abfc74ca94e8d-1000x1000.svg)
 
 Jul 7, 2026
 
@@ -627,6 +721,18 @@ Bringing Claude Code and Claude Cowork to government
 Product announcements
 
 Bringing Claude Code and Claude Cowork to government
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Cowork
+
+[](https://claude.com/blog)
+
+Government
 
 July 7, 2026
 
@@ -636,7 +742,7 @@ July 7, 2026
 
 [](https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government)
 
-![Image 7](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22651dd05046d0fdb0b_39c40393e610cc0a5e65f50ad12ff5ada273f792-1000x1000.svg)
+![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22651dd05046d0fdb0b_39c40393e610cc0a5e65f50ad12ff5ada273f792-1000x1000.svg)
 
 Jul 7, 2026
 
@@ -645,6 +751,14 @@ Choosing a Claude model and effort level in Claude Code
 Claude Code
 
 Choosing a Claude model and effort level in Claude Code
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Coding
 
 July 7, 2026
 
@@ -654,7 +768,7 @@ July 7, 2026
 
 [](https://claude.com/blog/claude-model-and-effort-level-in-claude-code)
 
-![Image 8](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a3f14a08cb97bf1b16d40ef_ObjectClouds.svg)
+![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a3f14a08cb97bf1b16d40ef_ObjectClouds.svg)
 
 Jul 7, 2026
 
@@ -663,6 +777,22 @@ Claude Cowork is coming to mobile and web
 Product announcements
 
 Claude Cowork is coming to mobile and web
+
+[](https://claude.com/blog)
+
+Claude Cowork
+
+[](https://claude.com/blog)
+
+Business
+
+[](https://claude.com/blog)
+
+Work
+
+[](https://claude.com/blog)
+
+Productivity
 
 July 7, 2026
 
@@ -672,7 +802,7 @@ July 7, 2026
 
 [](https://claude.com/blog/cowork-web-mobile)
 
-![Image 9](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226ca443e2e05990c00_83d7d2fe412ceb4dfe627f0d5f3d64aff1a3f5db-1000x1000.svg)
+![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226ca443e2e05990c00_83d7d2fe412ceb4dfe627f0d5f3d64aff1a3f5db-1000x1000.svg)
 
 Jul 7, 2026
 
@@ -682,6 +812,14 @@ Enterprise AI
 
 How people are using Claude Cowork
 
+[](https://claude.com/blog)
+
+Claude Cowork
+
+[](https://claude.com/blog)
+
+Productivity
+
 July 7, 2026
 
 [How people are using Claude Cowork](https://claude.com/blog/how-people-are-using-claude-cowork)How people are using Claude Cowork
@@ -690,7 +828,7 @@ July 7, 2026
 
 [](https://claude.com/blog/how-people-are-using-claude-cowork)
 
-![Image 10](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229b7f170bab528846d_0df729ce74e4c9dd62c3342c9549ce6c7cef1202-1000x1000.svg)
+![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229b7f170bab528846d_0df729ce74e4c9dd62c3342c9549ce6c7cef1202-1000x1000.svg)
 
 Jul 6, 2026
 
@@ -700,6 +838,14 @@ Claude Code
 
 A field guide to Claude Fable 5: Finding your unknowns
 
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Coding
+
 July 6, 2026
 
 [A field guide to Claude Fable 5: Finding your unknowns](https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns)A field guide to Claude Fable 5: Finding your unknowns
@@ -708,7 +854,7 @@ July 6, 2026
 
 [](https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns)
 
-![Image 11](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22349f86cd1968deab7_f06ca06f9d08ca4a85f26357eb896c3730274507-1000x1000.svg)
+![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22349f86cd1968deab7_f06ca06f9d08ca4a85f26357eb896c3730274507-1000x1000.svg)
 
 Jul 2, 2026
 
@@ -718,6 +864,10 @@ Product announcements
 
 Giving admins more visibility and control over Claude spend
 
+[](https://claude.com/blog)
+
+Claude Enterprise
+
 July 2, 2026
 
 [Giving admins more visibility and control over Claude spend](https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend)Giving admins more visibility and control over Claude spend
@@ -726,7 +876,7 @@ July 2, 2026
 
 [](https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend)
 
-![Image 12](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229e73ca2d0d73d78f7_682ac293884c9d4ee4ebe2355a2f6c4ecfdd9c1b-1000x1000.svg)
+![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229e73ca2d0d73d78f7_682ac293884c9d4ee4ebe2355a2f6c4ecfdd9c1b-1000x1000.svg)
 
 Jun 30, 2026
 
@@ -736,6 +886,14 @@ Claude Code
 
 Loop engineering: Getting started with loops
 
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Coding
+
 June 30, 2026
 
 [Loop engineering: Getting started with loops](https://claude.com/blog/getting-started-with-loops)Loop engineering: Getting started with loops
@@ -744,7 +902,7 @@ June 30, 2026
 
 [](https://claude.com/blog/getting-started-with-loops)
 
-![Image 13](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a42c9bc20d2072552ef256a_Node-EnterpriseAgents.svg)
+![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a42c9bc20d2072552ef256a_Node-EnterpriseAgents.svg)
 
 Jun 29, 2026
 
@@ -753,6 +911,10 @@ Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud
 Product announcements
 
 Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud
+
+[](https://claude.com/blog)
+
+Claude Code
 
 June 29, 2026
 
@@ -762,51 +924,67 @@ June 29, 2026
 
 [](https://claude.com/blog/introducing-the-claude-apps-gateway)
 
-![Image 14](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a3f14a08cb97bf1b16d40ef_ObjectClouds.svg)
+[Previous](https://claude.com/blog?b7eea976_page=13)[View more](https://claude.com/blog?b7eea976_page=2)
 
-Jun 29, 2026
-
-Claude in Microsoft Foundry is now generally available
-
-Product announcements
-
-Claude in Microsoft Foundry is now generally available
-
-June 29, 2026
-
-[Claude in Microsoft Foundry is now generally available](https://claude.com/blog/claude-in-microsoft-foundry)Claude in Microsoft Foundry is now generally available
-
-[Claude in Microsoft Foundry is now generally available](https://claude.com/blog#)Claude in Microsoft Foundry is now generally available
-
-[](https://claude.com/blog/claude-in-microsoft-foundry)
-
-![Image 15](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
-
-Jun 24, 2026
-
-Building effective human-agent teams
-
-Enterprise AI
-
-Building effective human-agent teams
-
-June 24, 2026
-
-[Building effective human-agent teams](https://claude.com/blog/building-effective-human-agent-teams)Building effective human-agent teams
-
-[Building effective human-agent teams](https://claude.com/blog#)Building effective human-agent teams
-
-[](https://claude.com/blog/building-effective-human-agent-teams)
-
-[View more](https://claude.com/blog?b7eea976_page=2)
-
-1 / 1
+1 / 13
 
 Category
 
 Product
 
 Usecase
+
+### How Anthropic runs large-scale code migrations with Claude Code
+
+Category
+
+Claude Code
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Code
+
+Usecase
+
+[](https://claude.com/blog)
+
+Coding
+
+July 16, 2026
+
+[How Anthropic runs large-scale code migrations with Claude Code](https://claude.com/blog/ai-code-migration)How Anthropic runs large-scale code migrations with Claude Code
+
+[How Anthropic runs large-scale code migrations with Claude Code](https://claude.com/blog#)How Anthropic runs large-scale code migrations with Claude Code
+
+[](https://claude.com/blog/ai-code-migration)
+
+### Working with Claude Fable 5 in Claude Cowork
+
+Category
+
+Enterprise AI
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Cowork
+
+Usecase
+
+[](https://claude.com/blog)
+
+Work
+
+July 16, 2026
+
+[Working with Claude Fable 5 in Claude Cowork](https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork)Working with Claude Fable 5 in Claude Cowork
+
+[Working with Claude Fable 5 in Claude Cowork](https://claude.com/blog#)Working with Claude Fable 5 in Claude Cowork
+
+[](https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork)
 
 ### Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work
 
@@ -815,6 +993,10 @@ Category
 Enterprise AI
 
 Product
+
+[](https://claude.com/blog)
+
+Claude Platform
 
 Usecase
 
@@ -836,6 +1018,10 @@ Product
 
 Usecase
 
+[](https://claude.com/blog)
+
+Financial services
+
 July 13, 2026
 
 [Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail](https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail)Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail
@@ -854,6 +1040,10 @@ Product
 
 Usecase
 
+[](https://claude.com/blog)
+
+Coding
+
 July 10, 2026
 
 [Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night](https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night)Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night
@@ -870,7 +1060,27 @@ Enterprise AI
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Platform
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Claude Code
+
 Usecase
+
+[](https://claude.com/blog)
+
+Legal
+
+[](https://claude.com/blog)
+
+Work
 
 July 8, 2026
 
@@ -888,7 +1098,15 @@ Enterprise AI
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Cowork
+
 Usecase
+
+[](https://claude.com/blog)
+
+Business
 
 July 8, 2026
 
@@ -906,7 +1124,19 @@ Product announcements
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Cowork
+
 Usecase
+
+[](https://claude.com/blog)
+
+Government
 
 July 7, 2026
 
@@ -924,7 +1154,15 @@ Claude Code
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Code
+
 Usecase
+
+[](https://claude.com/blog)
+
+Coding
 
 July 7, 2026
 
@@ -942,7 +1180,23 @@ Product announcements
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Cowork
+
 Usecase
+
+[](https://claude.com/blog)
+
+Business
+
+[](https://claude.com/blog)
+
+Work
+
+[](https://claude.com/blog)
+
+Productivity
 
 July 7, 2026
 
@@ -960,7 +1214,15 @@ Enterprise AI
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Cowork
+
 Usecase
+
+[](https://claude.com/blog)
+
+Productivity
 
 July 7, 2026
 
@@ -978,7 +1240,15 @@ Claude Code
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Code
+
 Usecase
+
+[](https://claude.com/blog)
+
+Coding
 
 July 6, 2026
 
@@ -995,6 +1265,10 @@ Category
 Product announcements
 
 Product
+
+[](https://claude.com/blog)
+
+Claude Enterprise
 
 Usecase
 
@@ -1014,7 +1288,15 @@ Claude Code
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Code
+
 Usecase
+
+[](https://claude.com/blog)
+
+Coding
 
 June 30, 2026
 
@@ -1032,6 +1314,10 @@ Product announcements
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Code
+
 Usecase
 
 June 29, 2026
@@ -1041,42 +1327,6 @@ June 29, 2026
 [Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud](https://claude.com/blog#)Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud
 
 [](https://claude.com/blog/introducing-the-claude-apps-gateway)
-
-### Claude in Microsoft Foundry is now generally available
-
-Category
-
-Product announcements
-
-Product
-
-Usecase
-
-June 29, 2026
-
-[Claude in Microsoft Foundry is now generally available](https://claude.com/blog/claude-in-microsoft-foundry)Claude in Microsoft Foundry is now generally available
-
-[Claude in Microsoft Foundry is now generally available](https://claude.com/blog#)Claude in Microsoft Foundry is now generally available
-
-[](https://claude.com/blog/claude-in-microsoft-foundry)
-
-### Building effective human-agent teams
-
-Category
-
-Enterprise AI
-
-Product
-
-Usecase
-
-June 24, 2026
-
-[Building effective human-agent teams](https://claude.com/blog/building-effective-human-agent-teams)Building effective human-agent teams
-
-[Building effective human-agent teams](https://claude.com/blog#)Building effective human-agent teams
-
-[](https://claude.com/blog/building-effective-human-agent-teams)
 
 [View more](https://claude.com/blog?d7430fcd_page=2)
 
@@ -1112,9 +1362,9 @@ Download now
 
 [Download now](https://assets.anthropic.com/m/66daaa23018ab0fd/original/Anthropic-enterprise-ebook-digital.pdf)Download now
 
-![Image 16](https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6889473610b50328dbb70b58_placeholder.svg)
+![Image 34](https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6889473610b50328dbb70b58_placeholder.svg)
 
-![Image 17](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/68e9140968560c6fe367e267_Hand-City-light.svg)![Image 18](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/68e9140d1a23dfc2e7405210_Hand-City-dark.svg)
+![Image 35](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/68e9140968560c6fe367e267_Hand-City-light.svg)![Image 36](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/68e9140d1a23dfc2e7405210_Hand-City-dark.svg)
 
 [Video 2](https://claude.com/blog)
 
