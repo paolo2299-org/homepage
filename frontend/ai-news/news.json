@@ -1,5 +1,44 @@
 [
   {
+    "title": "How Anthropic runs large-scale code migrations with Claude Code",
+    "url": "https://claude.com/blog/ai-code-migration",
+    "source": "Claude",
+    "date": "2026-07-16",
+    "tags": [
+      "Developer Tools",
+      "Case Study"
+    ]
+  },
+  {
+    "title": "Working with Claude Fable 5 in Claude Cowork",
+    "url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
+    "source": "Claude",
+    "date": "2026-07-16",
+    "tags": [
+      "Enterprise",
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Why teens deserve access to safe AI",
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "source": "OpenAI",
+    "date": "2026-07-16",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "url": "https://openai.com/index/cars24",
+    "source": "OpenAI",
+    "date": "2026-07-16",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work",
     "url": "https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work",
     "source": "Claude",
@@ -178,7 +217,7 @@
     ]
   },
   {
-    "title": "Helping K\u201312 educators build practical AI skills",
+    "title": "Helping K–12 educators build practical AI skills",
     "url": "https://openai.com/index/k-12-educators-practical-skills",
     "source": "OpenAI",
     "date": "2026-07-08",
@@ -365,7 +404,7 @@
     ]
   },
   {
-    "title": "Mapping Europe\u2019s AI Workforce Opportunity",
+    "title": "Mapping Europe’s AI Workforce Opportunity",
     "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
     "source": "OpenAI",
     "date": "2026-06-29",
@@ -636,16 +675,6 @@
     "tags": [
       "Developer Tools",
       "Opinion"
-    ]
-  },
-  {
-    "title": "Predicting model behavior before release by simulating deployment",
-    "url": "https://openai.com/index/predicting-model-behavior-before-release-by-simulating-deployment",
-    "source": "OpenAI",
-    "date": "2026-06-16",
-    "tags": [
-      "Opinion",
-      "Developer Tools"
     ]
   }
 ]
