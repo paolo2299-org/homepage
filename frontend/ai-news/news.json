@@ -1,5 +1,34 @@
 [
   {
+    "title": "Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+    "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+    "source": "Claude",
+    "date": "2026-07-17",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Zero risk isn't the job: a CISO's guide to agentic AI",
+    "url": "https://claude.com/blog/ciso-guide-to-agentic-ai",
+    "source": "Claude",
+    "date": "2026-07-17",
+    "tags": [
+      "Opinion",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "A scorecard for the AI age",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "source": "OpenAI",
+    "date": "2026-07-17",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
     "title": "How Anthropic runs large-scale code migrations with Claude Code",
     "url": "https://claude.com/blog/ai-code-migration",
     "source": "Claude",
@@ -217,7 +246,7 @@
     ]
   },
   {
-    "title": "Helping K–12 educators build practical AI skills",
+    "title": "Helping K\u201312 educators build practical AI skills",
     "url": "https://openai.com/index/k-12-educators-practical-skills",
     "source": "OpenAI",
     "date": "2026-07-08",
@@ -404,7 +433,7 @@
     ]
   },
   {
-    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "title": "Mapping Europe\u2019s AI Workforce Opportunity",
     "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
     "source": "OpenAI",
     "date": "2026-06-29",
@@ -625,56 +654,6 @@
     "date": "2026-06-18",
     "tags": [
       "Case Study"
-    ]
-  },
-  {
-    "title": "Meet the winners of our Claude Opus 4.8 Build Day hackathon",
-    "url": "https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon",
-    "source": "Claude",
-    "date": "2026-06-17",
-    "tags": [
-      "Developer Tools",
-      "Case Study"
-    ]
-  },
-  {
-    "title": "Claude Design now stays on brand for daily work",
-    "url": "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work",
-    "source": "Claude",
-    "date": "2026-06-17",
-    "tags": [
-      "Product Launch",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Secure access to the Claude Platform with Workload Identity Federation",
-    "url": "https://claude.com/blog/workload-identity-federation",
-    "source": "Claude",
-    "date": "2026-06-17",
-    "tags": [
-      "Enterprise",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-    "url": "https://openai.com/index/ai-chemist-improves-reaction",
-    "source": "OpenAI",
-    "date": "2026-06-17",
-    "tags": [
-      "Case Study",
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Introducing LifeSciBench",
-    "url": "https://openai.com/index/introducing-life-sci-bench",
-    "source": "OpenAI",
-    "date": "2026-06-17",
-    "tags": [
-      "Developer Tools",
-      "Opinion"
     ]
   }
 ]
