@@ -320,7 +320,7 @@ Try Claude
 
 All
 
-180
+190
 
 ## [Agents](https://claude.com/blog-category/agents)
 
@@ -1312,9 +1312,9 @@ July 2, 2026
 
 [](https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend)
 
-[View more](https://claude.com/blog?d7430fcd_page=2)
+[Previous](https://claude.com/blog?d7430fcd_page=13)[View more](https://claude.com/blog?d7430fcd_page=2)
 
-1 / 8
+1 / 13
 
 No posts for those filters
 
