@@ -1,5 +1,25 @@
 [
   {
+    "title": "Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5",
+    "url": "https://claude.com/blog/working-at-the-frontier-rakuten",
+    "source": "Claude",
+    "date": "2026-07-20",
+    "tags": [
+      "Case Study",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Safety and alignment in an era of long-horizon models",
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "source": "OpenAI",
+    "date": "2026-07-20",
+    "tags": [
+      "Agents",
+      "Opinion"
+    ]
+  },
+  {
     "title": "Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
     "url": "https://claude.com/blog/working-at-the-frontier-cursor",
     "source": "Claude",
