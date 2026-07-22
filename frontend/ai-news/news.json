@@ -1,5 +1,53 @@
 [
   {
+    "title": "How Anthropic secures its AI-native software development lifecycle",
+    "url": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+    "source": "Claude",
+    "date": "2026-07-21",
+    "tags": [
+      "Developer Tools",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code",
+    "url": "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
+    "source": "Claude",
+    "date": "2026-07-21",
+    "tags": [
+      "Case Study",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Introducing the ChatGPT for small business program",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "source": "OpenAI",
+    "date": "2026-07-21",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "source": "OpenAI",
+    "date": "2026-07-21",
+    "tags": [
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "source": "OpenAI",
+    "date": "2026-07-21",
+    "tags": [
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5",
     "url": "https://claude.com/blog/working-at-the-frontier-rakuten",
     "source": "Claude",
@@ -607,16 +655,6 @@
     "tags": [
       "Developer Tools",
       "Product Launch"
-    ]
-  },
-  {
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "source": "OpenAI",
-    "date": "2026-06-21",
-    "tags": [
-      "Enterprise",
-      "Case Study"
     ]
   }
 ]
