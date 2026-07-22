@@ -2,7 +2,7 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
-Published Time: Mon, 20 Jul 2026 19:53:33 GMT
+Published Time: Tue, 21 Jul 2026 18:24:02 GMT
 
 Markdown Content:
 [](https://claude.com/)
@@ -320,7 +320,7 @@ Try Claude
 
 All
 
-191
+193
 
 ## [Agents](https://claude.com/blog-category/agents)
 
@@ -530,7 +530,63 @@ Grid
 
 List
 
-![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f7912d5b05a5c7ed8ae86_Object-CodeChatCode.svg)
+![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22824d4124c2e33ba8e_b1ce510c468b2920d4f8f61c17a50906801f939a-1000x1000.svg)
+
+Jul 21, 2026
+
+How Anthropic secures its AI-native software development lifecycle
+
+Claude Code
+
+How Anthropic secures its AI-native software development lifecycle
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Tag
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+July 21, 2026
+
+[How Anthropic secures its AI-native software development lifecycle](https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle)How Anthropic secures its AI-native software development lifecycle
+
+[How Anthropic secures its AI-native software development lifecycle](https://claude.com/blog#)How Anthropic secures its AI-native software development lifecycle
+
+[](https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle)
+
+![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229061abf091318fc81_6905c83d0735e1bc430025fdd1748d1406079036-1000x1000.svg)
+
+Jul 21, 2026
+
+How Datadog built a “universal machine tool” for Claude Code
+
+Claude Code
+
+How Datadog built a “universal machine tool” for Claude Code
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Coding
+
+July 21, 2026
+
+[How Datadog built a “universal machine tool” for Claude Code](https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code)How Datadog built a “universal machine tool” for Claude Code
+
+[How Datadog built a “universal machine tool” for Claude Code](https://claude.com/blog#)How Datadog built a “universal machine tool” for Claude Code
+
+[](https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code)
+
+![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f7912d5b05a5c7ed8ae86_Object-CodeChatCode.svg)
 
 Jul 20, 2026
 
@@ -568,7 +624,7 @@ July 20, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-rakuten)
 
-![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d7d4c10df6024f7bc_ee580919acaba2ddc07425f7a7390c8962cadc94-1000x1000.svg)
+![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d7d4c10df6024f7bc_ee580919acaba2ddc07425f7a7390c8962cadc94-1000x1000.svg)
 
 Jul 17, 2026
 
@@ -590,7 +646,7 @@ July 17, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-cursor)
 
-![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
+![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
 
 Jul 17, 2026
 
@@ -608,7 +664,7 @@ July 17, 2026
 
 [](https://claude.com/blog/ciso-guide-to-agentic-ai)
 
-![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2260bfc90348429f9c3_cd9cf56a7f049285b7c1c8786c0a600cf3d7f317-1000x1000.svg)
+![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2260bfc90348429f9c3_cd9cf56a7f049285b7c1c8786c0a600cf3d7f317-1000x1000.svg)
 
 Jul 16, 2026
 
@@ -634,7 +690,7 @@ July 16, 2026
 
 [](https://claude.com/blog/ai-code-migration)
 
-![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d227246bc2b5a3cc3626_9f6a378a1e3592cf8d27447457409ba12284faef-1000x1000.svg)
+![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d227246bc2b5a3cc3626_9f6a378a1e3592cf8d27447457409ba12284faef-1000x1000.svg)
 
 Jul 16, 2026
 
@@ -660,7 +716,7 @@ July 16, 2026
 
 [](https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork)
 
-![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
+![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
 
 Jul 15, 2026
 
@@ -682,7 +738,7 @@ July 15, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work)
 
-![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2287f90c57df4c9dd97_c1ef4c0b6882dfe985555b52999d370ea88a3c50-1000x1000.svg)
+![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2287f90c57df4c9dd97_c1ef4c0b6882dfe985555b52999d370ea88a3c50-1000x1000.svg)
 
 Jul 13, 2026
 
@@ -704,7 +760,7 @@ July 13, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail)
 
-![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22c10cdf166eebe4c84_d4b15045df86e43e5b5dc7b25784321ce8b5dd88-1000x1000.svg)
+![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22c10cdf166eebe4c84_d4b15045df86e43e5b5dc7b25784321ce8b5dd88-1000x1000.svg)
 
 Jul 10, 2026
 
@@ -726,7 +782,7 @@ July 10, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night)
 
-![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e7cc0b92f0562c5e3_a199a67a3347dcc102d63943338e14cb3b4e5405-1000x1000.svg)
+![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e7cc0b92f0562c5e3_a199a67a3347dcc102d63943338e14cb3b4e5405-1000x1000.svg)
 
 Jul 8, 2026
 
@@ -764,7 +820,7 @@ July 8, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work)
 
-![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2261b7d4c0eae4fdf9b_036c01a9e427ea0f4d1e6c7221e4f6dce2259bf7-1000x1000.svg)
+![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2261b7d4c0eae4fdf9b_036c01a9e427ea0f4d1e6c7221e4f6dce2259bf7-1000x1000.svg)
 
 Jul 8, 2026
 
@@ -790,7 +846,7 @@ July 8, 2026
 
 [](https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds)
 
-![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e6fa9211768bbce0b_6e00dbffcddc82df5e471c43453abfc74ca94e8d-1000x1000.svg)
+![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e6fa9211768bbce0b_6e00dbffcddc82df5e471c43453abfc74ca94e8d-1000x1000.svg)
 
 Jul 7, 2026
 
@@ -820,7 +876,7 @@ July 7, 2026
 
 [](https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government)
 
-![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22651dd05046d0fdb0b_39c40393e610cc0a5e65f50ad12ff5ada273f792-1000x1000.svg)
+![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22651dd05046d0fdb0b_39c40393e610cc0a5e65f50ad12ff5ada273f792-1000x1000.svg)
 
 Jul 7, 2026
 
@@ -846,7 +902,7 @@ July 7, 2026
 
 [](https://claude.com/blog/claude-model-and-effort-level-in-claude-code)
 
-![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a3f14a08cb97bf1b16d40ef_ObjectClouds.svg)
+![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a3f14a08cb97bf1b16d40ef_ObjectClouds.svg)
 
 Jul 7, 2026
 
@@ -880,58 +936,6 @@ July 7, 2026
 
 [](https://claude.com/blog/cowork-web-mobile)
 
-![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226ca443e2e05990c00_83d7d2fe412ceb4dfe627f0d5f3d64aff1a3f5db-1000x1000.svg)
-
-Jul 7, 2026
-
-How people are using Claude Cowork
-
-Enterprise AI
-
-How people are using Claude Cowork
-
-[](https://claude.com/blog)
-
-Claude Cowork
-
-[](https://claude.com/blog)
-
-Productivity
-
-July 7, 2026
-
-[How people are using Claude Cowork](https://claude.com/blog/how-people-are-using-claude-cowork)How people are using Claude Cowork
-
-[How people are using Claude Cowork](https://claude.com/blog#)How people are using Claude Cowork
-
-[](https://claude.com/blog/how-people-are-using-claude-cowork)
-
-![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229b7f170bab528846d_0df729ce74e4c9dd62c3342c9549ce6c7cef1202-1000x1000.svg)
-
-Jul 6, 2026
-
-A field guide to Claude Fable 5: Finding your unknowns
-
-Claude Code
-
-A field guide to Claude Fable 5: Finding your unknowns
-
-[](https://claude.com/blog)
-
-Claude Code
-
-[](https://claude.com/blog)
-
-Coding
-
-July 6, 2026
-
-[A field guide to Claude Fable 5: Finding your unknowns](https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns)A field guide to Claude Fable 5: Finding your unknowns
-
-[A field guide to Claude Fable 5: Finding your unknowns](https://claude.com/blog#)A field guide to Claude Fable 5: Finding your unknowns
-
-[](https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns)
-
 [Previous](https://claude.com/blog?b7eea976_page=13)[View more](https://claude.com/blog?b7eea976_page=2)
 
 1 / 13
@@ -941,6 +945,62 @@ Category
 Product
 
 Usecase
+
+### How Anthropic secures its AI-native software development lifecycle
+
+Category
+
+Claude Code
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Tag
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+Usecase
+
+July 21, 2026
+
+[How Anthropic secures its AI-native software development lifecycle](https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle)How Anthropic secures its AI-native software development lifecycle
+
+[How Anthropic secures its AI-native software development lifecycle](https://claude.com/blog#)How Anthropic secures its AI-native software development lifecycle
+
+[](https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle)
+
+### How Datadog built a “universal machine tool” for Claude Code
+
+Category
+
+Claude Code
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Code
+
+Usecase
+
+[](https://claude.com/blog)
+
+Coding
+
+July 21, 2026
+
+[How Datadog built a “universal machine tool” for Claude Code](https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code)How Datadog built a “universal machine tool” for Claude Code
+
+[How Datadog built a “universal machine tool” for Claude Code](https://claude.com/blog#)How Datadog built a “universal machine tool” for Claude Code
+
+[](https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code)
 
 ### Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5
 
@@ -1291,58 +1351,6 @@ July 7, 2026
 [Claude Cowork is coming to mobile and web](https://claude.com/blog#)Claude Cowork is coming to mobile and web
 
 [](https://claude.com/blog/cowork-web-mobile)
-
-### How people are using Claude Cowork
-
-Category
-
-Enterprise AI
-
-Product
-
-[](https://claude.com/blog)
-
-Claude Cowork
-
-Usecase
-
-[](https://claude.com/blog)
-
-Productivity
-
-July 7, 2026
-
-[How people are using Claude Cowork](https://claude.com/blog/how-people-are-using-claude-cowork)How people are using Claude Cowork
-
-[How people are using Claude Cowork](https://claude.com/blog#)How people are using Claude Cowork
-
-[](https://claude.com/blog/how-people-are-using-claude-cowork)
-
-### A field guide to Claude Fable 5: Finding your unknowns
-
-Category
-
-Claude Code
-
-Product
-
-[](https://claude.com/blog)
-
-Claude Code
-
-Usecase
-
-[](https://claude.com/blog)
-
-Coding
-
-July 6, 2026
-
-[A field guide to Claude Fable 5: Finding your unknowns](https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns)A field guide to Claude Fable 5: Finding your unknowns
-
-[A field guide to Claude Fable 5: Finding your unknowns](https://claude.com/blog#)A field guide to Claude Fable 5: Finding your unknowns
-
-[](https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns)
 
 [Previous](https://claude.com/blog?d7430fcd_page=13)[View more](https://claude.com/blog?d7430fcd_page=2)
 
