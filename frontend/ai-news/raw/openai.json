@@ -1,5 +1,35 @@
 [
   {
+    "title": "Building AI infrastructure with the Effingham County community",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "source": "OpenAI",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "How news organizations are using AI to advance their vital missions",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "source": "OpenAI",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Advancing the next era of national science",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "source": "OpenAI",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Introducing OpenAI Presence",
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "source": "OpenAI",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "url": "https://openai.com/index/ntt-data",
+    "source": "OpenAI",
+    "date": "2026-07-22"
+  },
+  {
     "title": "Introducing the ChatGPT for small business program",
     "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
     "source": "OpenAI",
@@ -60,14 +90,14 @@
     "date": "2026-07-14"
   },
   {
-    "title": "How sales teams use ChatGPT Work",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "title": "How data science teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
     "source": "OpenAI",
     "date": "2026-07-14"
   },
   {
-    "title": "How data science teams use ChatGPT Work",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "title": "How sales teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "source": "OpenAI",
     "date": "2026-07-14"
   },
@@ -90,6 +120,12 @@
     "date": "2026-07-09"
   },
   {
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "source": "OpenAI",
+    "date": "2026-07-09"
+  },
+  {
     "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "url": "https://openai.com/index/gpt-5-6",
     "source": "OpenAI",
@@ -98,12 +134,6 @@
   {
     "title": "GPT-5.5 Bio Bug Bounty",
     "url": "https://openai.com/index/bio-bug-bounty",
-    "source": "OpenAI",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "source": "OpenAI",
     "date": "2026-07-09"
   },
@@ -150,6 +180,12 @@
     "date": "2026-06-30"
   },
   {
+    "title": "Introducing GeneBench-Pro",
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "source": "OpenAI",
+    "date": "2026-06-30"
+  },
+  {
     "title": "Inside Genebench-Pro",
     "url": "https://openai.com/index/genebench-pro/case-studies",
     "source": "OpenAI",
@@ -158,12 +194,6 @@
   {
     "title": "Core dump epidemiology: fixing an 18-year-old bug",
     "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "source": "OpenAI",
-    "date": "2026-06-30"
-  },
-  {
-    "title": "Introducing GeneBench-Pro",
-    "url": "https://openai.com/index/introducing-genebench-pro",
     "source": "OpenAI",
     "date": "2026-06-30"
   },
@@ -208,23 +238,5 @@
     "url": "https://openai.com/index/gpt-5-immunology-mystery",
     "source": "OpenAI",
     "date": "2026-06-23"
-  },
-  {
-    "title": "How Omio is building the future of conversational travel",
-    "url": "https://openai.com/index/omio",
-    "source": "OpenAI",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "url": "https://openai.com/index/patch-the-planet",
-    "source": "OpenAI",
-    "date": "2026-06-22"
-  },
-  {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "url": "https://openai.com/index/daybreak-securing-the-world",
-    "source": "OpenAI",
-    "date": "2026-06-22"
   }
 ]
