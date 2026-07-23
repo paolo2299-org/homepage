@@ -1,5 +1,73 @@
 [
   {
+    "title": "Building verification loops in Claude Code with skills",
+    "url": "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills",
+    "source": "Claude",
+    "date": "2026-07-22",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "How Outtake built a cyber investigator on Claude",
+    "url": "https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude",
+    "source": "Claude",
+    "date": "2026-07-22",
+    "tags": [
+      "Case Study",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Building AI infrastructure with the Effingham County community",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "source": "OpenAI",
+    "date": "2026-07-22",
+    "tags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "How news organizations are using AI to advance their vital missions",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "source": "OpenAI",
+    "date": "2026-07-22",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Advancing the next era of national science",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "source": "OpenAI",
+    "date": "2026-07-22",
+    "tags": [
+      "Enterprise",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Introducing OpenAI Presence",
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "source": "OpenAI",
+    "date": "2026-07-22",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "url": "https://openai.com/index/ntt-data",
+    "source": "OpenAI",
+    "date": "2026-07-22",
+    "tags": [
+      "Case Study",
+      "Developer Tools"
+    ]
+  },
+  {
     "title": "How Anthropic secures its AI-native software development lifecycle",
     "url": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
     "source": "Claude",
@@ -10,7 +78,7 @@
     ]
   },
   {
-    "title": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code",
+    "title": "How Datadog built a “universal machine tool” for Claude Code",
     "url": "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
     "source": "Claude",
     "date": "2026-07-21",
@@ -39,7 +107,7 @@
     ]
   },
   {
-    "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
     "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
     "source": "OpenAI",
     "date": "2026-07-21",
@@ -314,7 +382,7 @@
     ]
   },
   {
-    "title": "Helping K\u201312 educators build practical AI skills",
+    "title": "Helping K–12 educators build practical AI skills",
     "url": "https://openai.com/index/k-12-educators-practical-skills",
     "source": "OpenAI",
     "date": "2026-07-08",
@@ -501,7 +569,7 @@
     ]
   },
   {
-    "title": "Mapping Europe\u2019s AI Workforce Opportunity",
+    "title": "Mapping Europe’s AI Workforce Opportunity",
     "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
     "source": "OpenAI",
     "date": "2026-06-29",
@@ -605,56 +673,6 @@
     "tags": [
       "Case Study",
       "Enterprise"
-    ]
-  },
-  {
-    "title": "The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry",
-    "url": "https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry",
-    "source": "Claude",
-    "date": "2026-06-22",
-    "tags": [
-      "Enterprise",
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "url": "https://openai.com/index/daybreak-securing-the-world",
-    "source": "OpenAI",
-    "date": "2026-06-22",
-    "tags": [
-      "Product Launch",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "url": "https://openai.com/index/patch-the-planet",
-    "source": "OpenAI",
-    "date": "2026-06-22",
-    "tags": [
-      "Developer Tools",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Codex-maxxing for long-running work",
-    "url": "https://openai.com/index/codex-maxxing-long-running-work",
-    "source": "OpenAI",
-    "date": "2026-06-22",
-    "tags": [
-      "Developer Tools",
-      "Agents"
-    ]
-  },
-  {
-    "title": "Interactions API: our primary interface for Gemini models and agents",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/",
-    "source": "Google",
-    "date": "2026-06-22",
-    "tags": [
-      "Developer Tools",
-      "Product Launch"
     ]
   }
 ]
