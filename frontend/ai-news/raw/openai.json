@@ -1,5 +1,11 @@
 [
   {
+    "title": "Launching Health in ChatGPT",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "source": "OpenAI",
+    "date": "2026-07-23"
+  },
+  {
     "title": "Building AI infrastructure with the Effingham County community",
     "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
     "source": "OpenAI",
@@ -66,6 +72,12 @@
     "date": "2026-07-16"
   },
   {
+    "title": "How Codex became a collaborator for OpenAI\u2019s creative team",
+    "url": "https://openai.com/index/codex-collaborator-creative-team",
+    "source": "OpenAI",
+    "date": "2026-07-16"
+  },
+  {
     "title": "How Cars24 scales conversations and builds faster with OpenAI",
     "url": "https://openai.com/index/cars24",
     "source": "OpenAI",
@@ -120,12 +132,6 @@
     "date": "2026-07-09"
   },
   {
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "source": "OpenAI",
-    "date": "2026-07-09"
-  },
-  {
     "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "url": "https://openai.com/index/gpt-5-6",
     "source": "OpenAI",
@@ -134,6 +140,12 @@
   {
     "title": "GPT-5.5 Bio Bug Bounty",
     "url": "https://openai.com/index/bio-bug-bounty",
+    "source": "OpenAI",
+    "date": "2026-07-09"
+  },
+  {
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "source": "OpenAI",
     "date": "2026-07-09"
   },
@@ -226,17 +238,5 @@
     "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
     "source": "OpenAI",
     "date": "2026-06-24"
-  },
-  {
-    "title": "Helping build shared standards for advanced AI",
-    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "source": "OpenAI",
-    "date": "2026-06-23"
-  },
-  {
-    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "url": "https://openai.com/index/gpt-5-immunology-mystery",
-    "source": "OpenAI",
-    "date": "2026-06-23"
   }
 ]
