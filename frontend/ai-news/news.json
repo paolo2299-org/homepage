@@ -1,5 +1,35 @@
 [
   {
+    "title": "How the product designer who built Claude Design uses it to explore ideas before building them",
+    "url": "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
+    "source": "Claude",
+    "date": "2026-07-24",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "The new rules of context engineering for Claude 5 generation models",
+    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "source": "Claude",
+    "date": "2026-07-24",
+    "tags": [
+      "Opinion",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Claude models explained: choosing the best model for your use case",
+    "url": "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case",
+    "source": "Claude",
+    "date": "2026-07-24",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
     "title": "Four role-based certifications for the people who put Claude to work for customers",
     "url": "https://claude.com/blog/four-role-based-claude-certifications",
     "source": "Claude",
@@ -106,7 +136,7 @@
     ]
   },
   {
-    "title": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code",
+    "title": "How Datadog built a “universal machine tool” for Claude Code",
     "url": "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
     "source": "Claude",
     "date": "2026-07-21",
@@ -135,7 +165,7 @@
     ]
   },
   {
-    "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
     "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
     "source": "OpenAI",
     "date": "2026-07-21",
@@ -410,7 +440,7 @@
     ]
   },
   {
-    "title": "Helping K\u201312 educators build practical AI skills",
+    "title": "Helping K–12 educators build practical AI skills",
     "url": "https://openai.com/index/k-12-educators-practical-skills",
     "source": "OpenAI",
     "date": "2026-07-08",
@@ -597,7 +627,7 @@
     ]
   },
   {
-    "title": "Mapping Europe\u2019s AI Workforce Opportunity",
+    "title": "Mapping Europe’s AI Workforce Opportunity",
     "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
     "source": "OpenAI",
     "date": "2026-06-29",
@@ -643,36 +673,6 @@
     "tags": [
       "Agents",
       "Opinion"
-    ]
-  },
-  {
-    "title": "Agent identity in Claude Tag: a new access model for autonomous, team-wide AI",
-    "url": "https://claude.com/blog/agent-identity-access-model",
-    "source": "Claude",
-    "date": "2026-06-24",
-    "tags": [
-      "Agents",
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Building effective human-agent teams",
-    "url": "https://claude.com/blog/building-effective-human-agent-teams",
-    "source": "Claude",
-    "date": "2026-06-24",
-    "tags": [
-      "Agents",
-      "Opinion"
-    ]
-  },
-  {
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "source": "OpenAI",
-    "date": "2026-06-24",
-    "tags": [
-      "Product Launch",
-      "Developer Tools"
     ]
   }
 ]
