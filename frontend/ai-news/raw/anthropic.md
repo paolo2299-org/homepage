@@ -2,7 +2,7 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
-Published Time: Fri, 24 Jul 2026 00:50:42 GMT
+Published Time: Fri, 24 Jul 2026 19:27:19 GMT
 
 Markdown Content:
 [](https://claude.com/)
@@ -320,7 +320,7 @@ Try Claude
 
 All
 
-197
+200
 
 ## [Agents](https://claude.com/blog-category/agents)
 
@@ -530,7 +530,109 @@ Grid
 
 List
 
-![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d6ec42bcf1c632f75_52f59749d1e033ff2675c6686a07bcce83fb5046-1000x1000.svg)
+![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d224f466b800c4a5a016_a7b8978859371a024139418f3366bb0600ee1675-1000x1000.svg)
+
+Jul 24, 2026
+
+How the product designer who built Claude Design uses it to explore ideas before building them
+
+Enterprise AI
+
+How the product designer who built Claude Design uses it to explore ideas before building them
+
+[](https://claude.com/blog)
+
+Claude Design
+
+[](https://claude.com/blog)
+
+Design
+
+July 24, 2026
+
+[How the product designer who built Claude Design uses it to explore ideas before building them](https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them)How the product designer who built Claude Design uses it to explore ideas before building them
+
+[How the product designer who built Claude Design uses it to explore ideas before building them](https://claude.com/blog#)How the product designer who built Claude Design uses it to explore ideas before building them
+
+[](https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them)
+
+![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
+
+Jul 24, 2026
+
+The new rules of context engineering for Claude 5 generation models 
+
+Claude Code
+
+The new rules of context engineering for Claude 5 generation models 
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Claude Platform
+
+[](https://claude.com/blog)
+
+Agents
+
+[](https://claude.com/blog)
+
+Coding
+
+July 24, 2026
+
+[The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)The new rules of context engineering for Claude 5 generation models 
+
+[The new rules of context engineering for Claude 5 generation models](https://claude.com/blog#)The new rules of context engineering for Claude 5 generation models 
+
+[](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
+
+![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225e31f7aa22c1f28cb_46e4aa7ea208ed440d5bd9e9e3a0ee66bc336ff1-1000x1000.svg)
+
+Jul 24, 2026
+
+Claude models explained: choosing the best model for your use case
+
+Enterprise AI
+
+Claude models explained: choosing the best model for your use case
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Cowork
+
+[](https://claude.com/blog)
+
+Claude Design
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Claude Platform
+
+July 24, 2026
+
+[Claude models explained: choosing the best model for your use case](https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case)Claude models explained: choosing the best model for your use case
+
+[Claude models explained: choosing the best model for your use case](https://claude.com/blog#)Claude models explained: choosing the best model for your use case
+
+[](https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case)
+
+![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d6ec42bcf1c632f75_52f59749d1e033ff2675c6686a07bcce83fb5046-1000x1000.svg)
 
 Jul 23, 2026
 
@@ -568,7 +670,7 @@ July 23, 2026
 
 [](https://claude.com/blog/four-role-based-claude-certifications)
 
-![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d231b45c2193efbb0f02_1869137c9d7f2a38b50e804d707e10e85de05ddb-1000x1000.svg)
+![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d231b45c2193efbb0f02_1869137c9d7f2a38b50e804d707e10e85de05ddb-1000x1000.svg)
 
 Jul 23, 2026
 
@@ -594,7 +696,7 @@ July 23, 2026
 
 [](https://claude.com/blog/think-through-hard-problems-in-voice-mode)
 
-![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d224d39f9b8e905d1823_b68cbb43d7c8f56f0b14cc867e8d4d74445f78b0-1000x1000.svg)
+![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d224d39f9b8e905d1823_b68cbb43d7c8f56f0b14cc867e8d4d74445f78b0-1000x1000.svg)
 
 Jul 22, 2026
 
@@ -620,7 +722,7 @@ July 22, 2026
 
 [](https://claude.com/blog/building-verification-loops-in-claude-code-with-skills)
 
-![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f76874e94e489958af8ba_Object-CodeMagnifier.svg)
+![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f76874e94e489958af8ba_Object-CodeMagnifier.svg)
 
 Jul 22, 2026
 
@@ -654,7 +756,7 @@ July 22, 2026
 
 [](https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude)
 
-![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22824d4124c2e33ba8e_b1ce510c468b2920d4f8f61c17a50906801f939a-1000x1000.svg)
+![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22824d4124c2e33ba8e_b1ce510c468b2920d4f8f61c17a50906801f939a-1000x1000.svg)
 
 Jul 21, 2026
 
@@ -684,7 +786,7 @@ July 21, 2026
 
 [](https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle)
 
-![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229061abf091318fc81_6905c83d0735e1bc430025fdd1748d1406079036-1000x1000.svg)
+![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229061abf091318fc81_6905c83d0735e1bc430025fdd1748d1406079036-1000x1000.svg)
 
 Jul 21, 2026
 
@@ -710,7 +812,7 @@ July 21, 2026
 
 [](https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code)
 
-![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f7912d5b05a5c7ed8ae86_Object-CodeChatCode.svg)
+![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f7912d5b05a5c7ed8ae86_Object-CodeChatCode.svg)
 
 Jul 20, 2026
 
@@ -748,7 +850,7 @@ July 20, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-rakuten)
 
-![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d7d4c10df6024f7bc_ee580919acaba2ddc07425f7a7390c8962cadc94-1000x1000.svg)
+![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d7d4c10df6024f7bc_ee580919acaba2ddc07425f7a7390c8962cadc94-1000x1000.svg)
 
 Jul 17, 2026
 
@@ -770,7 +872,7 @@ July 17, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-cursor)
 
-![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
+![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
 
 Jul 17, 2026
 
@@ -788,7 +890,7 @@ July 17, 2026
 
 [](https://claude.com/blog/ciso-guide-to-agentic-ai)
 
-![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2260bfc90348429f9c3_cd9cf56a7f049285b7c1c8786c0a600cf3d7f317-1000x1000.svg)
+![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2260bfc90348429f9c3_cd9cf56a7f049285b7c1c8786c0a600cf3d7f317-1000x1000.svg)
 
 Jul 16, 2026
 
@@ -814,7 +916,7 @@ July 16, 2026
 
 [](https://claude.com/blog/ai-code-migration)
 
-![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d227246bc2b5a3cc3626_9f6a378a1e3592cf8d27447457409ba12284faef-1000x1000.svg)
+![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d227246bc2b5a3cc3626_9f6a378a1e3592cf8d27447457409ba12284faef-1000x1000.svg)
 
 Jul 16, 2026
 
@@ -840,7 +942,7 @@ July 16, 2026
 
 [](https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork)
 
-![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
+![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
 
 Jul 15, 2026
 
@@ -862,88 +964,6 @@ July 15, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work)
 
-![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2287f90c57df4c9dd97_c1ef4c0b6882dfe985555b52999d370ea88a3c50-1000x1000.svg)
-
-Jul 13, 2026
-
-Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail
-
-Enterprise AI
-
-Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail
-
-[](https://claude.com/blog)
-
-Financial services
-
-July 13, 2026
-
-[Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail](https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail)Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail
-
-[Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail](https://claude.com/blog#)Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail
-
-[](https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail)
-
-![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22c10cdf166eebe4c84_d4b15045df86e43e5b5dc7b25784321ce8b5dd88-1000x1000.svg)
-
-Jul 10, 2026
-
-Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night
-
-Enterprise AI
-
-Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night
-
-[](https://claude.com/blog)
-
-Coding
-
-July 10, 2026
-
-[Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night](https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night)Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night
-
-[Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night](https://claude.com/blog#)Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night
-
-[](https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night)
-
-![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e7cc0b92f0562c5e3_a199a67a3347dcc102d63943338e14cb3b4e5405-1000x1000.svg)
-
-Jul 8, 2026
-
-Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work
-
-Enterprise AI
-
-Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work
-
-[](https://claude.com/blog)
-
-Claude Platform
-
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-[](https://claude.com/blog)
-
-Claude Code
-
-[](https://claude.com/blog)
-
-Legal
-
-[](https://claude.com/blog)
-
-Work
-
-July 8, 2026
-
-[Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work](https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work)Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work
-
-[Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work](https://claude.com/blog#)Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work
-
-[](https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work)
-
 [Previous](https://claude.com/blog?b7eea976_page=14)[View more](https://claude.com/blog?b7eea976_page=2)
 
 1 / 14
@@ -953,6 +973,108 @@ Category
 Product
 
 Usecase
+
+### How the product designer who built Claude Design uses it to explore ideas before building them
+
+Category
+
+Enterprise AI
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Design
+
+Usecase
+
+[](https://claude.com/blog)
+
+Design
+
+July 24, 2026
+
+[How the product designer who built Claude Design uses it to explore ideas before building them](https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them)How the product designer who built Claude Design uses it to explore ideas before building them
+
+[How the product designer who built Claude Design uses it to explore ideas before building them](https://claude.com/blog#)How the product designer who built Claude Design uses it to explore ideas before building them
+
+[](https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them)
+
+### The new rules of context engineering for Claude 5 generation models
+
+Category
+
+Claude Code
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Claude Platform
+
+Usecase
+
+[](https://claude.com/blog)
+
+Agents
+
+[](https://claude.com/blog)
+
+Coding
+
+July 24, 2026
+
+[The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)The new rules of context engineering for Claude 5 generation models 
+
+[The new rules of context engineering for Claude 5 generation models](https://claude.com/blog#)The new rules of context engineering for Claude 5 generation models 
+
+[](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
+
+### Claude models explained: choosing the best model for your use case
+
+Category
+
+Enterprise AI
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Cowork
+
+[](https://claude.com/blog)
+
+Claude Design
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Claude Platform
+
+Usecase
+
+July 24, 2026
+
+[Claude models explained: choosing the best model for your use case](https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case)Claude models explained: choosing the best model for your use case
+
+[Claude models explained: choosing the best model for your use case](https://claude.com/blog#)Claude models explained: choosing the best model for your use case
+
+[](https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case)
 
 ### Four role-based certifications for the people who put Claude to work for customers
 
@@ -1286,91 +1408,9 @@ July 15, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work)
 
-### Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail
+[Previous](https://claude.com/blog?d7430fcd_page=14)[View more](https://claude.com/blog?d7430fcd_page=2)
 
-Category
-
-Enterprise AI
-
-Product
-
-Usecase
-
-[](https://claude.com/blog)
-
-Financial services
-
-July 13, 2026
-
-[Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail](https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail)Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail
-
-[Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail](https://claude.com/blog#)Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail
-
-[](https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail)
-
-### Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night
-
-Category
-
-Enterprise AI
-
-Product
-
-Usecase
-
-[](https://claude.com/blog)
-
-Coding
-
-July 10, 2026
-
-[Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night](https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night)Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night
-
-[Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night](https://claude.com/blog#)Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night
-
-[](https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night)
-
-### Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work
-
-Category
-
-Enterprise AI
-
-Product
-
-[](https://claude.com/blog)
-
-Claude Platform
-
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-[](https://claude.com/blog)
-
-Claude Code
-
-Usecase
-
-[](https://claude.com/blog)
-
-Legal
-
-[](https://claude.com/blog)
-
-Work
-
-July 8, 2026
-
-[Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work](https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work)Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work
-
-[Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work](https://claude.com/blog#)Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work
-
-[](https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work)
-
-[View more](https://claude.com/blog?d7430fcd_page=2)
-
-1 / 5
+1 / 14
 
 No posts for those filters
 
