@@ -964,7 +964,7 @@ July 15, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work)
 
-[Previous](https://claude.com/blog?b7eea976_page=14)[View more](https://claude.com/blog?b7eea976_page=2)
+[View more](https://claude.com/blog?b7eea976_page=2)
 
 1 / 14
 
@@ -1410,7 +1410,7 @@ July 15, 2026
 
 [Previous](https://claude.com/blog?d7430fcd_page=14)[View more](https://claude.com/blog?d7430fcd_page=2)
 
-1 / 14
+1 / 1
 
 No posts for those filters
 

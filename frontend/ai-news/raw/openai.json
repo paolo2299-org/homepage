@@ -1,5 +1,11 @@
 [
   {
+    "title": "How AI is expanding what people do at work",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "source": "OpenAI",
+    "date": "2026-07-27"
+  },
+  {
     "title": "Launching Health in ChatGPT",
     "url": "https://openai.com/index/health-in-chatgpt",
     "source": "OpenAI",
@@ -192,12 +198,6 @@
     "date": "2026-06-30"
   },
   {
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "source": "OpenAI",
-    "date": "2026-06-30"
-  },
-  {
     "title": "Inside Genebench-Pro",
     "url": "https://openai.com/index/genebench-pro/case-studies",
     "source": "OpenAI",
@@ -206,6 +206,12 @@
   {
     "title": "Introducing GeneBench-Pro",
     "url": "https://openai.com/index/introducing-genebench-pro",
+    "source": "OpenAI",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
     "source": "OpenAI",
     "date": "2026-06-30"
   },
