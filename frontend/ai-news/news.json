@@ -1,5 +1,25 @@
 [
   {
+    "title": "Bringing MCP 2026-07-28 to Claude",
+    "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
+    "source": "Claude",
+    "date": "2026-07-28",
+    "tags": [
+      "Product Launch",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Scientific computing in the age of agentic AI",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "source": "OpenAI",
+    "date": "2026-07-28",
+    "tags": [
+      "Agents",
+      "Opinion"
+    ]
+  },
+  {
     "title": "How AI is expanding what people do at work",
     "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
     "source": "OpenAI",
@@ -145,7 +165,7 @@
     ]
   },
   {
-    "title": "How Datadog built a “universal machine tool” for Claude Code",
+    "title": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code",
     "url": "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
     "source": "Claude",
     "date": "2026-07-21",
@@ -174,7 +194,7 @@
     ]
   },
   {
-    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
     "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
     "source": "OpenAI",
     "date": "2026-07-21",
@@ -449,7 +469,7 @@
     ]
   },
   {
-    "title": "Helping K–12 educators build practical AI skills",
+    "title": "Helping K\u201312 educators build practical AI skills",
     "url": "https://openai.com/index/k-12-educators-practical-skills",
     "source": "OpenAI",
     "date": "2026-07-08",
@@ -636,7 +656,7 @@
     ]
   },
   {
-    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "title": "Mapping Europe\u2019s AI Workforce Opportunity",
     "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
     "source": "OpenAI",
     "date": "2026-06-29",
@@ -652,16 +672,6 @@
     "date": "2026-06-29",
     "tags": [
       "Opinion"
-    ]
-  },
-  {
-    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-    "url": "https://openai.com/index/hp-frontier-partnership",
-    "source": "OpenAI",
-    "date": "2026-06-28",
-    "tags": [
-      "Enterprise",
-      "Product Launch"
     ]
   }
 ]
