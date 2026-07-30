@@ -1,5 +1,35 @@
 [
   {
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "source": "OpenAI",
+    "date": "2026-07-29",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "source": "OpenAI",
+    "date": "2026-07-29",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "source": "OpenAI",
+    "date": "2026-07-29",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
     "title": "Bringing MCP 2026-07-28 to Claude",
     "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
     "source": "Claude",
@@ -17,6 +47,16 @@
     "tags": [
       "Agents",
       "Opinion"
+    ]
+  },
+  {
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "source": "Google",
+    "date": "2026-07-28",
+    "tags": [
+      "Agents",
+      "Developer Tools"
     ]
   },
   {
@@ -165,7 +205,7 @@
     ]
   },
   {
-    "title": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code",
+    "title": "How Datadog built a “universal machine tool” for Claude Code",
     "url": "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
     "source": "Claude",
     "date": "2026-07-21",
@@ -194,7 +234,7 @@
     ]
   },
   {
-    "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
     "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
     "source": "OpenAI",
     "date": "2026-07-21",
@@ -469,7 +509,7 @@
     ]
   },
   {
-    "title": "Helping K\u201312 educators build practical AI skills",
+    "title": "Helping K–12 educators build practical AI skills",
     "url": "https://openai.com/index/k-12-educators-practical-skills",
     "source": "OpenAI",
     "date": "2026-07-08",
@@ -633,45 +673,6 @@
     "tags": [
       "Case Study",
       "Developer Tools"
-    ]
-  },
-  {
-    "title": "Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud",
-    "url": "https://claude.com/blog/introducing-the-claude-apps-gateway",
-    "source": "Claude",
-    "date": "2026-06-29",
-    "tags": [
-      "Product Launch",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Claude in Microsoft Foundry is now generally available",
-    "url": "https://claude.com/blog/claude-in-microsoft-foundry",
-    "source": "Claude",
-    "date": "2026-06-29",
-    "tags": [
-      "Product Launch",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Mapping Europe\u2019s AI Workforce Opportunity",
-    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-    "source": "OpenAI",
-    "date": "2026-06-29",
-    "tags": [
-      "Opinion",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Ask an AI expert: What exactly is the full stack?",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-    "source": "Google",
-    "date": "2026-06-29",
-    "tags": [
-      "Opinion"
     ]
   }
 ]
