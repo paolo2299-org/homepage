@@ -2,7 +2,7 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
-Published Time: Tue, 28 Jul 2026 17:02:20 GMT
+Published Time: Tue, 28 Jul 2026 17:02:22 GMT
 
 Markdown Content:
 [](https://claude.com/)
@@ -1426,7 +1426,7 @@ July 16, 2026
 
 [Previous](https://claude.com/blog?d7430fcd_page=14)[View more](https://claude.com/blog?d7430fcd_page=2)
 
-1 / 1
+1 / 14
 
 No posts for those filters
 
