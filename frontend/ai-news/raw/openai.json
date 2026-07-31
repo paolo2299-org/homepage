@@ -1,5 +1,17 @@
 [
   {
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "source": "OpenAI",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "url": "https://openai.com/index/avatarin",
+    "source": "OpenAI",
+    "date": "2026-07-30"
+  },
+  {
     "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
     "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
     "source": "OpenAI",
@@ -132,14 +144,14 @@
     "date": "2026-07-14"
   },
   {
-    "title": "How sales teams use ChatGPT Work",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "title": "How data science teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
     "source": "OpenAI",
     "date": "2026-07-14"
   },
   {
-    "title": "How data science teams use ChatGPT Work",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "title": "How sales teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "source": "OpenAI",
     "date": "2026-07-14"
   },
@@ -162,12 +174,6 @@
     "date": "2026-07-09"
   },
   {
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "url": "https://openai.com/index/bio-bug-bounty",
-    "source": "OpenAI",
-    "date": "2026-07-09"
-  },
-  {
     "title": "ChatGPT is now a partner for your most ambitious work",
     "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "source": "OpenAI",
@@ -176,6 +182,12 @@
   {
     "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "url": "https://openai.com/index/gpt-5-6",
+    "source": "OpenAI",
+    "date": "2026-07-09"
+  },
+  {
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/bio-bug-bounty",
     "source": "OpenAI",
     "date": "2026-07-09"
   },
@@ -204,21 +216,15 @@
     "date": "2026-07-08"
   },
   {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "url": "https://openai.com/index/mufg",
-    "source": "OpenAI",
-    "date": "2026-07-07"
-  },
-  {
     "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
     "url": "https://openai.com/index/australian-payments-plus",
     "source": "OpenAI",
     "date": "2026-07-07"
   },
   {
-    "title": "How ChatGPT adoption has expanded",
-    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
     "source": "OpenAI",
-    "date": "2026-06-30"
+    "date": "2026-07-07"
   }
 ]
