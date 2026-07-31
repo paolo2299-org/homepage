@@ -1,5 +1,25 @@
 [
   {
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "source": "OpenAI",
+    "date": "2026-07-30",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "url": "https://openai.com/index/avatarin",
+    "source": "OpenAI",
+    "date": "2026-07-30",
+    "tags": [
+      "Case Study",
+      "Agents"
+    ]
+  },
+  {
     "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
     "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
     "source": "OpenAI",
@@ -624,55 +644,6 @@
     "date": "2026-07-01",
     "tags": [
       "Product Launch"
-    ]
-  },
-  {
-    "title": "Getting started with loops",
-    "url": "https://claude.com/blog/getting-started-with-loops",
-    "source": "Claude",
-    "date": "2026-06-30",
-    "tags": [
-      "Product Launch",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "How ChatGPT adoption has expanded",
-    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "source": "OpenAI",
-    "date": "2026-06-30",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Introducing GeneBench-Pro",
-    "url": "https://openai.com/index/introducing-genebench-pro",
-    "source": "OpenAI",
-    "date": "2026-06-30",
-    "tags": [
-      "Product Launch",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "source": "OpenAI",
-    "date": "2026-06-30",
-    "tags": [
-      "Developer Tools",
-      "Case Study"
-    ]
-  },
-  {
-    "title": "Inside Genebench-Pro",
-    "url": "https://openai.com/index/genebench-pro/case-studies",
-    "source": "OpenAI",
-    "date": "2026-06-30",
-    "tags": [
-      "Case Study",
-      "Developer Tools"
     ]
   }
 ]
