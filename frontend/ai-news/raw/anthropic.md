@@ -2,6 +2,8 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
+Published Time: Tue, 28 Jul 2026 17:02:22 GMT
+
 Markdown Content:
 [](https://claude.com/)
 
@@ -318,7 +320,7 @@ Try Claude
 
 All
 
-1
+201
 
 ## [Agents](https://claude.com/blog-category/agents)
 
@@ -538,6 +540,18 @@ Product announcements
 
 Bringing MCP 2026-07-28 to Claude
 
+[](https://claude.com/blog)
+
+Claude apps
+
+[](https://claude.com/blog)
+
+Claude Platform
+
+[](https://claude.com/blog)
+
+Agents
+
 July 28, 2026
 
 [Bringing MCP 2026-07-28 to Claude](https://claude.com/blog/bringing-mcp-2026-07-28-to-claude)Bringing MCP 2026-07-28 to Claude
@@ -555,6 +569,14 @@ How the product designer who built Claude Design uses it to explore ideas before
 Enterprise AI
 
 How the product designer who built Claude Design uses it to explore ideas before building them
+
+[](https://claude.com/blog)
+
+Claude Design
+
+[](https://claude.com/blog)
+
+Design
 
 July 24, 2026
 
@@ -574,6 +596,26 @@ Claude Code
 
 The new rules of context engineering for Claude 5 generation models 
 
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Claude Platform
+
+[](https://claude.com/blog)
+
+Agents
+
+[](https://claude.com/blog)
+
+Coding
+
 July 24, 2026
 
 [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)The new rules of context engineering for Claude 5 generation models 
@@ -591,6 +633,26 @@ Claude models explained: choosing the best model for your use case
 Enterprise AI
 
 Claude models explained: choosing the best model for your use case
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Cowork
+
+[](https://claude.com/blog)
+
+Claude Design
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Claude Platform
 
 July 24, 2026
 
@@ -610,6 +672,26 @@ Enterprise AI
 
 Four role-based certifications for the people who put Claude to work for customers
 
+[](https://claude.com/blog)
+
+Claude apps
+
+[](https://claude.com/blog)
+
+Claude Platform
+
+[](https://claude.com/blog)
+
+Business
+
+[](https://claude.com/blog)
+
+Productivity
+
+[](https://claude.com/blog)
+
+Work
+
 July 23, 2026
 
 [Four role-based certifications for the people who put Claude to work for customers](https://claude.com/blog/four-role-based-claude-certifications)Four role-based certifications for the people who put Claude to work for customers
@@ -627,6 +709,14 @@ Think through hard problems in voice mode
 Product announcements
 
 Think through hard problems in voice mode
+
+[](https://claude.com/blog)
+
+Claude apps
+
+[](https://claude.com/blog)
+
+Productivity
 
 July 23, 2026
 
@@ -646,6 +736,14 @@ Claude Code
 
 Building verification loops in Claude Code with skills
 
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Coding
+
 July 22, 2026
 
 [Building verification loops in Claude Code with skills](https://claude.com/blog/building-verification-loops-in-claude-code-with-skills)Building verification loops in Claude Code with skills
@@ -663,6 +761,22 @@ How Outtake built a cyber investigator on Claude
 Agents
 
 How Outtake built a cyber investigator on Claude
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Platform
+
+[](https://claude.com/blog)
+
+Agents
+
+[](https://claude.com/blog)
+
+Startups
 
 July 22, 2026
 
@@ -682,6 +796,18 @@ Claude Code
 
 How Anthropic secures its AI-native software development lifecycle
 
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Tag
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
 July 21, 2026
 
 [How Anthropic secures its AI-native software development lifecycle](https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle)How Anthropic secures its AI-native software development lifecycle
@@ -699,6 +825,14 @@ How Datadog built a “universal machine tool” for Claude Code
 Claude Code
 
 How Datadog built a “universal machine tool” for Claude Code
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Coding
 
 July 21, 2026
 
@@ -718,6 +852,26 @@ Enterprise AI
 
 Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5
 
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Cowork
+
+[](https://claude.com/blog)
+
+Claude Platform
+
+[](https://claude.com/blog)
+
+Coding
+
+[](https://claude.com/blog)
+
+Agents
+
 July 20, 2026
 
 [Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5](https://claude.com/blog/working-at-the-frontier-rakuten)Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5
@@ -735,6 +889,10 @@ Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardes
 Enterprise AI
 
 Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems
+
+[](https://claude.com/blog)
+
+Claude Platform
 
 July 17, 2026
 
@@ -772,6 +930,14 @@ Claude Code
 
 How Anthropic runs large-scale code migrations with Claude Code
 
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Coding
+
 July 16, 2026
 
 [How Anthropic runs large-scale code migrations with Claude Code](https://claude.com/blog/ai-code-migration)How Anthropic runs large-scale code migrations with Claude Code
@@ -790,6 +956,14 @@ Enterprise AI
 
 Working with Claude Fable 5 in Claude Cowork
 
+[](https://claude.com/blog)
+
+Claude Cowork
+
+[](https://claude.com/blog)
+
+Work
+
 July 16, 2026
 
 [Working with Claude Fable 5 in Claude Cowork](https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork)Working with Claude Fable 5 in Claude Cowork
@@ -798,7 +972,7 @@ July 16, 2026
 
 [](https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork)
 
-[View more](https://claude.com/blog?b7eea976_page=2)
+[Previous](https://claude.com/blog?b7eea976_page=14)[View more](https://claude.com/blog?b7eea976_page=2)
 
 1 / 14
 
@@ -816,7 +990,19 @@ Product announcements
 
 Product
 
+[](https://claude.com/blog)
+
+Claude apps
+
+[](https://claude.com/blog)
+
+Claude Platform
+
 Usecase
+
+[](https://claude.com/blog)
+
+Agents
 
 July 28, 2026
 
@@ -834,7 +1020,15 @@ Enterprise AI
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Design
+
 Usecase
+
+[](https://claude.com/blog)
+
+Design
 
 July 24, 2026
 
@@ -852,7 +1046,27 @@ Claude Code
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Claude Platform
+
 Usecase
+
+[](https://claude.com/blog)
+
+Agents
+
+[](https://claude.com/blog)
+
+Coding
 
 July 24, 2026
 
@@ -869,6 +1083,26 @@ Category
 Enterprise AI
 
 Product
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Cowork
+
+[](https://claude.com/blog)
+
+Claude Design
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Claude Platform
 
 Usecase
 
@@ -888,7 +1122,27 @@ Enterprise AI
 
 Product
 
+[](https://claude.com/blog)
+
+Claude apps
+
+[](https://claude.com/blog)
+
+Claude Platform
+
 Usecase
+
+[](https://claude.com/blog)
+
+Business
+
+[](https://claude.com/blog)
+
+Productivity
+
+[](https://claude.com/blog)
+
+Work
 
 July 23, 2026
 
@@ -906,7 +1160,15 @@ Product announcements
 
 Product
 
+[](https://claude.com/blog)
+
+Claude apps
+
 Usecase
+
+[](https://claude.com/blog)
+
+Productivity
 
 July 23, 2026
 
@@ -924,7 +1186,15 @@ Claude Code
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Code
+
 Usecase
+
+[](https://claude.com/blog)
+
+Coding
 
 July 22, 2026
 
@@ -942,7 +1212,23 @@ Agents
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Platform
+
 Usecase
+
+[](https://claude.com/blog)
+
+Agents
+
+[](https://claude.com/blog)
+
+Startups
 
 July 22, 2026
 
@@ -959,6 +1245,18 @@ Category
 Claude Code
 
 Product
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Tag
+
+[](https://claude.com/blog)
+
+Claude Enterprise
 
 Usecase
 
@@ -978,7 +1276,15 @@ Claude Code
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Code
+
 Usecase
+
+[](https://claude.com/blog)
+
+Coding
 
 July 21, 2026
 
@@ -996,7 +1302,27 @@ Enterprise AI
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Cowork
+
+[](https://claude.com/blog)
+
+Claude Platform
+
 Usecase
+
+[](https://claude.com/blog)
+
+Coding
+
+[](https://claude.com/blog)
+
+Agents
 
 July 20, 2026
 
@@ -1013,6 +1339,10 @@ Category
 Enterprise AI
 
 Product
+
+[](https://claude.com/blog)
+
+Claude Platform
 
 Usecase
 
@@ -1050,7 +1380,15 @@ Claude Code
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Code
+
 Usecase
+
+[](https://claude.com/blog)
+
+Coding
 
 July 16, 2026
 
@@ -1068,7 +1406,15 @@ Enterprise AI
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Cowork
+
 Usecase
+
+[](https://claude.com/blog)
+
+Work
 
 July 16, 2026
 
@@ -1078,7 +1424,7 @@ July 16, 2026
 
 [](https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork)
 
-[View more](https://claude.com/blog?d7430fcd_page=2)
+[Previous](https://claude.com/blog?d7430fcd_page=14)[View more](https://claude.com/blog?d7430fcd_page=2)
 
 1 / 14
 
@@ -1224,7 +1570,7 @@ this is a test
 
 [Anthropic](https://www.anthropic.com/)Anthropic
 
-© [year]Anthropic PBC
+© 2026 Anthropic PBC
 
 Products
 
@@ -1367,3 +1713,5 @@ English (US)
 [한국어 (South Korea)](https://claude.com/ko/blog)
 
 [Italian (Italy)](https://claude.com/it/blog)
+
+×
