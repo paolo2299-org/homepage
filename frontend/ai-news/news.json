@@ -1,5 +1,42 @@
 [
   {
+    "title": "Univ\u00e9 builds an AI-ready workforce",
+    "url": "https://openai.com/index/unive",
+    "source": "OpenAI",
+    "date": "2026-07-31",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Disrupting a Criminal Scam Operation",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "source": "OpenAI",
+    "date": "2026-07-31",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Building abundant intelligence",
+    "url": "https://openai.com/index/building-abundant-intelligence",
+    "source": "OpenAI",
+    "date": "2026-07-31",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Advancing responsible AI across Europe",
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "source": "OpenAI",
+    "date": "2026-07-31",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
     "title": "Advancing the price-performance frontier with GPT-5.6",
     "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
     "source": "OpenAI",
@@ -17,6 +54,16 @@
     "tags": [
       "Case Study",
       "Agents"
+    ]
+  },
+  {
+    "title": "Introducing Gemini Robotics ER 2",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/",
+    "source": "Google",
+    "date": "2026-07-30",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
     ]
   },
   {
@@ -225,7 +272,7 @@
     ]
   },
   {
-    "title": "How Datadog built a “universal machine tool” for Claude Code",
+    "title": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code",
     "url": "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
     "source": "Claude",
     "date": "2026-07-21",
@@ -254,7 +301,7 @@
     ]
   },
   {
-    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
     "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
     "source": "OpenAI",
     "date": "2026-07-21",
@@ -529,7 +576,7 @@
     ]
   },
   {
-    "title": "Helping K–12 educators build practical AI skills",
+    "title": "Helping K\u201312 educators build practical AI skills",
     "url": "https://openai.com/index/k-12-educators-practical-skills",
     "source": "OpenAI",
     "date": "2026-07-08",
@@ -634,15 +681,6 @@
     "date": "2026-07-02",
     "tags": [
       "Enterprise",
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "The latest AI news we announced in June 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-    "source": "Google",
-    "date": "2026-07-01",
-    "tags": [
       "Product Launch"
     ]
   }
