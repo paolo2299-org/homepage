@@ -1,5 +1,25 @@
 [
   {
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "source": "OpenAI",
+    "date": "2026-08-03",
+    "tags": [
+      "Developer Tools",
+      "Case Study"
+    ]
+  },
+  {
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "url": "https://openai.com/index/circles",
+    "source": "OpenAI",
+    "date": "2026-08-03",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Ten advances in mathematics and theoretical computer science",
     "url": "https://openai.com/index/ten-advances-in-mathematics",
     "source": "OpenAI",
@@ -9,7 +29,7 @@
     ]
   },
   {
-    "title": "Univ\u00e9 builds an AI-ready workforce",
+    "title": "Univé builds an AI-ready workforce",
     "url": "https://openai.com/index/unive",
     "source": "OpenAI",
     "date": "2026-07-31",
@@ -281,7 +301,7 @@
     ]
   },
   {
-    "title": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code",
+    "title": "How Datadog built a “universal machine tool” for Claude Code",
     "url": "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
     "source": "Claude",
     "date": "2026-07-21",
@@ -310,7 +330,7 @@
     ]
   },
   {
-    "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
     "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
     "source": "OpenAI",
     "date": "2026-07-21",
@@ -585,7 +605,7 @@
     ]
   },
   {
-    "title": "Helping K\u201312 educators build practical AI skills",
+    "title": "Helping K–12 educators build practical AI skills",
     "url": "https://openai.com/index/k-12-educators-practical-skills",
     "source": "OpenAI",
     "date": "2026-07-08",
