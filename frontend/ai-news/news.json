@@ -1,5 +1,35 @@
 [
   {
+    "title": "A guide to cost visibility and control in Claude",
+    "url": "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude",
+    "source": "Claude",
+    "date": "2026-08-04",
+    "tags": [
+      "Enterprise",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "source": "OpenAI",
+    "date": "2026-08-04",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "source": "OpenAI",
+    "date": "2026-08-04",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "How we built a realtime system for responsive voice AI in six months",
     "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
     "source": "OpenAI",
@@ -20,6 +50,25 @@
     ]
   },
   {
+    "title": "Apple is getting this wrong",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "source": "OpenAI",
+    "date": "2026-08-03",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Inside our 353,000-person vibe coding course",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+    "source": "Google",
+    "date": "2026-08-03",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Ten advances in mathematics and theoretical computer science",
     "url": "https://openai.com/index/ten-advances-in-mathematics",
     "source": "OpenAI",
@@ -29,7 +78,7 @@
     ]
   },
   {
-    "title": "Univé builds an AI-ready workforce",
+    "title": "Univ\u00e9 builds an AI-ready workforce",
     "url": "https://openai.com/index/unive",
     "source": "OpenAI",
     "date": "2026-07-31",
@@ -301,7 +350,7 @@
     ]
   },
   {
-    "title": "How Datadog built a “universal machine tool” for Claude Code",
+    "title": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code",
     "url": "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
     "source": "Claude",
     "date": "2026-07-21",
@@ -330,7 +379,7 @@
     ]
   },
   {
-    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
     "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
     "source": "OpenAI",
     "date": "2026-07-21",
@@ -605,7 +654,7 @@
     ]
   },
   {
-    "title": "Helping K–12 educators build practical AI skills",
+    "title": "Helping K\u201312 educators build practical AI skills",
     "url": "https://openai.com/index/k-12-educators-practical-skills",
     "source": "OpenAI",
     "date": "2026-07-08",
