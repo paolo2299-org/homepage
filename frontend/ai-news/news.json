@@ -1,5 +1,15 @@
 [
   {
+    "title": "Inference hooks: inline data loss prevention for Claude Enterprise",
+    "url": "https://claude.com/blog/claude-enterprise-inference-hooks",
+    "source": "Claude",
+    "date": "2026-08-05",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "A guide to cost visibility and control in Claude",
     "url": "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude",
     "source": "Claude",
@@ -739,16 +749,6 @@
     "date": "2026-07-07",
     "tags": [
       "Agents",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "A field guide to Claude Fable 5: Finding your unknowns",
-    "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
-    "source": "Claude",
-    "date": "2026-07-06",
-    "tags": [
-      "Opinion",
       "Developer Tools"
     ]
   }
