@@ -2,7 +2,7 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
-Published Time: Wed, 05 Aug 2026 17:43:56 GMT
+Published Time: Fri, 07 Aug 2026 04:14:57 GMT
 
 Markdown Content:
 [](https://claude.com/)
@@ -320,7 +320,7 @@ Try Claude
 
 All
 
-203
+205
 
 ## [Agents](https://claude.com/blog-category/agents)
 
@@ -530,7 +530,55 @@ Grid
 
 List
 
-![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22753311132c8c37b39_d3dd09ad16c68461dc3fb01df5e84cf7ccafda6c-1000x1000.svg)
+![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d223e0a787df988a824b_39db33950eb113e504a5b9fc56db490a64673e96-1000x1000.svg)
+
+Aug 6, 2026
+
+Millennium and Anthropic are building a digital risk analyst with Claude 
+
+Enterprise AI
+
+Millennium and Anthropic are building a digital risk analyst with Claude 
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Financial services
+
+August 6, 2026
+
+[Millennium and Anthropic are building a digital risk analyst with Claude](https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude)Millennium and Anthropic are building a digital risk analyst with Claude 
+
+[Millennium and Anthropic are building a digital risk analyst with Claude](https://claude.com/blog#)Millennium and Anthropic are building a digital risk analyst with Claude 
+
+[](https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude)
+
+![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22651dd05046d0fdb0b_39c40393e610cc0a5e65f50ad12ff5ada273f792-1000x1000.svg)
+
+Aug 6, 2026
+
+Run Claude Code sessions on your own compute
+
+Product announcements
+
+Run Claude Code sessions on your own compute
+
+[](https://claude.com/blog)
+
+Claude Code
+
+August 6, 2026
+
+[Run Claude Code sessions on your own compute](https://claude.com/blog/run-claude-code-sessions-on-your-own-compute)Run Claude Code sessions on your own compute
+
+[Run Claude Code sessions on your own compute](https://claude.com/blog#)Run Claude Code sessions on your own compute
+
+[](https://claude.com/blog/run-claude-code-sessions-on-your-own-compute)
+
+![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22753311132c8c37b39_d3dd09ad16c68461dc3fb01df5e84cf7ccafda6c-1000x1000.svg)
 
 Aug 5, 2026
 
@@ -564,7 +612,7 @@ August 5, 2026
 
 [](https://claude.com/blog/claude-enterprise-inference-hooks)
 
-![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
+![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
 
 Aug 4, 2026
 
@@ -586,7 +634,7 @@ August 4, 2026
 
 [](https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude)
 
-![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229b7f170bab528846d_0df729ce74e4c9dd62c3342c9549ce6c7cef1202-1000x1000.svg)
+![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229b7f170bab528846d_0df729ce74e4c9dd62c3342c9549ce6c7cef1202-1000x1000.svg)
 
 Jul 28, 2026
 
@@ -616,7 +664,7 @@ July 28, 2026
 
 [](https://claude.com/blog/bringing-mcp-2026-07-28-to-claude)
 
-![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d224f466b800c4a5a016_a7b8978859371a024139418f3366bb0600ee1675-1000x1000.svg)
+![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d224f466b800c4a5a016_a7b8978859371a024139418f3366bb0600ee1675-1000x1000.svg)
 
 Jul 24, 2026
 
@@ -642,7 +690,7 @@ July 24, 2026
 
 [](https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them)
 
-![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
+![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
 
 Jul 24, 2026
 
@@ -680,7 +728,7 @@ July 24, 2026
 
 [](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
 
-![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225e31f7aa22c1f28cb_46e4aa7ea208ed440d5bd9e9e3a0ee66bc336ff1-1000x1000.svg)
+![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225e31f7aa22c1f28cb_46e4aa7ea208ed440d5bd9e9e3a0ee66bc336ff1-1000x1000.svg)
 
 Jul 24, 2026
 
@@ -718,7 +766,7 @@ July 24, 2026
 
 [](https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case)
 
-![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d6ec42bcf1c632f75_52f59749d1e033ff2675c6686a07bcce83fb5046-1000x1000.svg)
+![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d6ec42bcf1c632f75_52f59749d1e033ff2675c6686a07bcce83fb5046-1000x1000.svg)
 
 Jul 23, 2026
 
@@ -756,7 +804,7 @@ July 23, 2026
 
 [](https://claude.com/blog/four-role-based-claude-certifications)
 
-![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d231b45c2193efbb0f02_1869137c9d7f2a38b50e804d707e10e85de05ddb-1000x1000.svg)
+![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d231b45c2193efbb0f02_1869137c9d7f2a38b50e804d707e10e85de05ddb-1000x1000.svg)
 
 Jul 23, 2026
 
@@ -782,7 +830,7 @@ July 23, 2026
 
 [](https://claude.com/blog/think-through-hard-problems-in-voice-mode)
 
-![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d224d39f9b8e905d1823_b68cbb43d7c8f56f0b14cc867e8d4d74445f78b0-1000x1000.svg)
+![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d224d39f9b8e905d1823_b68cbb43d7c8f56f0b14cc867e8d4d74445f78b0-1000x1000.svg)
 
 Jul 22, 2026
 
@@ -808,7 +856,7 @@ July 22, 2026
 
 [](https://claude.com/blog/building-verification-loops-in-claude-code-with-skills)
 
-![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f76874e94e489958af8ba_Object-CodeMagnifier.svg)
+![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f76874e94e489958af8ba_Object-CodeMagnifier.svg)
 
 Jul 22, 2026
 
@@ -842,7 +890,7 @@ July 22, 2026
 
 [](https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude)
 
-![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22824d4124c2e33ba8e_b1ce510c468b2920d4f8f61c17a50906801f939a-1000x1000.svg)
+![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22824d4124c2e33ba8e_b1ce510c468b2920d4f8f61c17a50906801f939a-1000x1000.svg)
 
 Jul 21, 2026
 
@@ -872,7 +920,7 @@ July 21, 2026
 
 [](https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle)
 
-![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229061abf091318fc81_6905c83d0735e1bc430025fdd1748d1406079036-1000x1000.svg)
+![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229061abf091318fc81_6905c83d0735e1bc430025fdd1748d1406079036-1000x1000.svg)
 
 Jul 21, 2026
 
@@ -898,7 +946,7 @@ July 21, 2026
 
 [](https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code)
 
-![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f7912d5b05a5c7ed8ae86_Object-CodeChatCode.svg)
+![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f7912d5b05a5c7ed8ae86_Object-CodeChatCode.svg)
 
 Jul 20, 2026
 
@@ -936,46 +984,6 @@ July 20, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-rakuten)
 
-![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d7d4c10df6024f7bc_ee580919acaba2ddc07425f7a7390c8962cadc94-1000x1000.svg)
-
-Jul 17, 2026
-
-Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems
-
-Enterprise AI
-
-Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems
-
-[](https://claude.com/blog)
-
-Claude Platform
-
-July 17, 2026
-
-[Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems](https://claude.com/blog/working-at-the-frontier-cursor)Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems
-
-[Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems](https://claude.com/blog#)Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems
-
-[](https://claude.com/blog/working-at-the-frontier-cursor)
-
-![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
-
-Jul 17, 2026
-
-Zero risk isn't the job: a CISO's guide to agentic AI
-
-Enterprise AI
-
-Zero risk isn't the job: a CISO's guide to agentic AI
-
-July 17, 2026
-
-[Zero risk isn't the job: a CISO's guide to agentic AI](https://claude.com/blog/ciso-guide-to-agentic-ai)Zero risk isn't the job: a CISO's guide to agentic AI
-
-[Zero risk isn't the job: a CISO's guide to agentic AI](https://claude.com/blog#)Zero risk isn't the job: a CISO's guide to agentic AI
-
-[](https://claude.com/blog/ciso-guide-to-agentic-ai)
-
 [View more](https://claude.com/blog?b7eea976_page=2)
 
 1 / 14
@@ -985,6 +993,54 @@ Category
 Product
 
 Usecase
+
+### Millennium and Anthropic are building a digital risk analyst with Claude
+
+Category
+
+Enterprise AI
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+Usecase
+
+[](https://claude.com/blog)
+
+Financial services
+
+August 6, 2026
+
+[Millennium and Anthropic are building a digital risk analyst with Claude](https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude)Millennium and Anthropic are building a digital risk analyst with Claude 
+
+[Millennium and Anthropic are building a digital risk analyst with Claude](https://claude.com/blog#)Millennium and Anthropic are building a digital risk analyst with Claude 
+
+[](https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude)
+
+### Run Claude Code sessions on your own compute
+
+Category
+
+Product announcements
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Code
+
+Usecase
+
+August 6, 2026
+
+[Run Claude Code sessions on your own compute](https://claude.com/blog/run-claude-code-sessions-on-your-own-compute)Run Claude Code sessions on your own compute
+
+[Run Claude Code sessions on your own compute](https://claude.com/blog#)Run Claude Code sessions on your own compute
+
+[](https://claude.com/blog/run-claude-code-sessions-on-your-own-compute)
 
 ### Inference hooks: inline data loss prevention for Claude Enterprise
 
@@ -1392,49 +1448,9 @@ July 20, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-rakuten)
 
-### Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems
-
-Category
-
-Enterprise AI
-
-Product
-
-[](https://claude.com/blog)
-
-Claude Platform
-
-Usecase
-
-July 17, 2026
-
-[Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems](https://claude.com/blog/working-at-the-frontier-cursor)Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems
-
-[Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems](https://claude.com/blog#)Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems
-
-[](https://claude.com/blog/working-at-the-frontier-cursor)
-
-### Zero risk isn't the job: a CISO's guide to agentic AI
-
-Category
-
-Enterprise AI
-
-Product
-
-Usecase
-
-July 17, 2026
-
-[Zero risk isn't the job: a CISO's guide to agentic AI](https://claude.com/blog/ciso-guide-to-agentic-ai)Zero risk isn't the job: a CISO's guide to agentic AI
-
-[Zero risk isn't the job: a CISO's guide to agentic AI](https://claude.com/blog#)Zero risk isn't the job: a CISO's guide to agentic AI
-
-[](https://claude.com/blog/ciso-guide-to-agentic-ai)
-
 [View more](https://claude.com/blog?d7430fcd_page=2)
 
-1 / 1
+1 / 2
 
 No posts for those filters
 
