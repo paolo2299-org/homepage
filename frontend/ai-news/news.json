@@ -1,5 +1,45 @@
 [
   {
+    "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "source": "Claude",
+    "date": "2026-08-07",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Running auto mode in production",
+    "url": "https://claude.com/blog/auto-mode-in-production",
+    "source": "Claude",
+    "date": "2026-08-07",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "source": "OpenAI",
+    "date": "2026-08-07",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "url": "https://openai.com/index/hsp-gruppe",
+    "source": "OpenAI",
+    "date": "2026-08-07",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Millennium and Anthropic are building a digital risk analyst with Claude",
     "url": "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
     "source": "Claude",
@@ -669,66 +709,6 @@
     "tags": [
       "Product Launch",
       "Enterprise"
-    ]
-  },
-  {
-    "title": "Working at the frontier: How Thomson Reuters builds AI for high-stakes professional work",
-    "url": "https://claude.com/blog/working-at-the-frontier-how-thomson-reuters-builds-ai-for-high--stakes-professional-work",
-    "source": "Claude",
-    "date": "2026-07-08",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds",
-    "url": "https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds",
-    "source": "Claude",
-    "date": "2026-07-08",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Our approach to government and national security partnerships",
-    "url": "https://openai.com/index/government-national-security-partnerships",
-    "source": "OpenAI",
-    "date": "2026-07-08",
-    "tags": [
-      "Enterprise",
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Separating signal from noise in coding evaluations",
-    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-    "source": "OpenAI",
-    "date": "2026-07-08",
-    "tags": [
-      "Developer Tools",
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Helping K–12 educators build practical AI skills",
-    "url": "https://openai.com/index/k-12-educators-practical-skills",
-    "source": "OpenAI",
-    "date": "2026-07-08",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Introducing GPT-Live",
-    "url": "https://openai.com/index/introducing-gpt-live",
-    "source": "OpenAI",
-    "date": "2026-07-08",
-    "tags": [
-      "Product Launch",
-      "Developer Tools"
     ]
   }
 ]
