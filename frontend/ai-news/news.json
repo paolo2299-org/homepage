@@ -60,7 +60,7 @@
     ]
   },
   {
-    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "title": "Improving GPT\u20115.6 Sol in ChatGPT\u2014and expanding access to GPT-5.6 Luna for free users",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
     "source": "OpenAI",
     "date": "2026-08-06",
@@ -176,7 +176,7 @@
     ]
   },
   {
-    "title": "Univé builds an AI-ready workforce",
+    "title": "Univ\u00e9 builds an AI-ready workforce",
     "url": "https://openai.com/index/unive",
     "source": "OpenAI",
     "date": "2026-07-31",
@@ -448,7 +448,7 @@
     ]
   },
   {
-    "title": "How Datadog built a “universal machine tool” for Claude Code",
+    "title": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code",
     "url": "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
     "source": "Claude",
     "date": "2026-07-21",
@@ -477,7 +477,7 @@
     ]
   },
   {
-    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
     "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
     "source": "OpenAI",
     "date": "2026-07-21",
@@ -637,26 +637,6 @@
     "url": "https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail",
     "source": "Claude",
     "date": "2026-07-13",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night",
-    "url": "https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night",
-    "source": "Claude",
-    "date": "2026-07-10",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-    "url": "https://openai.com/index/deutsche-telekom",
-    "source": "OpenAI",
-    "date": "2026-07-10",
     "tags": [
       "Case Study",
       "Enterprise"
