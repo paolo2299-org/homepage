@@ -1,5 +1,85 @@
 [
   {
+    "title": "OpenAI\u2019s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "source": "OpenAI",
+    "date": "2026-08-10",
+    "tags": [
+      "Enterprise",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+    "url": "https://openai.com/index/model-ml",
+    "source": "OpenAI",
+    "date": "2026-08-10",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "What building an AI-native finance function taught me",
+    "url": "https://openai.com/index/building-an-ai-native-finance-function",
+    "source": "OpenAI",
+    "date": "2026-08-10",
+    "tags": [
+      "Opinion",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "source": "OpenAI",
+    "date": "2026-08-10",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Putting frontier cyber models in more trusted hands",
+    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "source": "OpenAI",
+    "date": "2026-08-10",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Premium seats are coming to ChatGPT Business",
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "source": "OpenAI",
+    "date": "2026-08-10",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "url": "https://openai.com/index/zapier",
+    "source": "OpenAI",
+    "date": "2026-08-10",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "source": "OpenAI",
+    "date": "2026-08-10",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
     "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
     "source": "Claude",
