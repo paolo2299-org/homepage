@@ -1,5 +1,34 @@
 [
   {
+    "title": "The Claude in Chrome side panel is now Claude Cowork",
+    "url": "https://claude.com/blog/cowork-chrome-side-panel",
+    "source": "Claude",
+    "date": "2026-08-12",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "source": "OpenAI",
+    "date": "2026-08-12",
+    "tags": [
+      "Opinion",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "url": "https://openai.com/index/ringcentral",
+    "source": "OpenAI",
+    "date": "2026-08-12",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Compliance API coverage extends to Claude Cowork and Claude Code",
     "url": "https://claude.com/blog/compliance-api-cowork-and-claude-code",
     "source": "Claude",
@@ -739,16 +768,6 @@
     "tags": [
       "Case Study",
       "Developer Tools"
-    ]
-  },
-  {
-    "title": "Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail",
-    "url": "https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail",
-    "source": "Claude",
-    "date": "2026-07-13",
-    "tags": [
-      "Case Study",
-      "Enterprise"
     ]
   }
 ]
