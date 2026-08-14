@@ -1,5 +1,23 @@
 [
   {
+    "title": "The builder\u2019s guide to GPT\u20115.6",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "source": "OpenAI",
+    "date": "2026-08-13"
+  },
+  {
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "source": "OpenAI",
+    "date": "2026-08-13"
+  },
+  {
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "source": "OpenAI",
+    "date": "2026-08-13"
+  },
+  {
     "title": "From assistance to execution: How enterprises put AI to work",
     "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
     "source": "OpenAI",
@@ -54,6 +72,12 @@
     "date": "2026-08-10"
   },
   {
+    "title": "Premium seats are coming to ChatGPT Business",
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "source": "OpenAI",
+    "date": "2026-08-10"
+  },
+  {
     "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
     "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "source": "OpenAI",
@@ -62,12 +86,6 @@
   {
     "title": "How Zapier transformed core marketing processes with ChatGPT Work",
     "url": "https://openai.com/index/zapier",
-    "source": "OpenAI",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "Premium seats are coming to ChatGPT Business",
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
     "source": "OpenAI",
     "date": "2026-08-10"
   },
@@ -298,11 +316,5 @@
     "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
     "source": "OpenAI",
     "date": "2026-07-15"
-  },
-  {
-    "title": "How to manage AI investments in the agentic era",
-    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "source": "OpenAI",
-    "date": "2026-07-14"
   }
 ]
