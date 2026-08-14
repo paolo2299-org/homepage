@@ -1,5 +1,63 @@
 [
   {
+    "title": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions",
+    "url": "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
+    "source": "Claude",
+    "date": "2026-08-13",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Claude Tag now reads even more of the room",
+    "url": "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
+    "source": "Claude",
+    "date": "2026-08-13",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5",
+    "url": "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5",
+    "source": "Claude",
+    "date": "2026-08-13",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "The builder\u2019s guide to GPT\u20115.6",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "source": "OpenAI",
+    "date": "2026-08-13",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "source": "OpenAI",
+    "date": "2026-08-13",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "source": "OpenAI",
+    "date": "2026-08-13",
+    "tags": [
+      "Enterprise"
+    ]
+  },
+  {
     "title": "The Claude in Chrome side panel is now Claude Cowork",
     "url": "https://claude.com/blog/cowork-chrome-side-panel",
     "source": "Claude",
@@ -738,36 +796,6 @@
     "tags": [
       "Developer Tools",
       "Opinion"
-    ]
-  },
-  {
-    "title": "How to manage AI investments in the agentic era",
-    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "source": "OpenAI",
-    "date": "2026-07-14",
-    "tags": [
-      "Agents",
-      "Opinion"
-    ]
-  },
-  {
-    "title": "How sales teams use ChatGPT Work",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "source": "OpenAI",
-    "date": "2026-07-14",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "How data science teams use ChatGPT Work",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "source": "OpenAI",
-    "date": "2026-07-14",
-    "tags": [
-      "Case Study",
-      "Developer Tools"
     ]
   }
 ]
