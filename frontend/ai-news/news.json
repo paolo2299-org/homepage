@@ -1,5 +1,15 @@
 [
   {
+    "title": "Maximizing the value of your Claude Code sessions",
+    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "source": "Claude",
+    "date": "2026-08-14",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
     "title": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions",
     "url": "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
     "source": "Claude",
@@ -29,7 +39,7 @@
     ]
   },
   {
-    "title": "The builder\u2019s guide to GPT\u20115.6",
+    "title": "The builder’s guide to GPT‑5.6",
     "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
     "source": "OpenAI",
     "date": "2026-08-13",
@@ -116,7 +126,7 @@
     ]
   },
   {
-    "title": "OpenAI\u2019s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
     "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
     "source": "OpenAI",
     "date": "2026-08-10",
@@ -256,7 +266,7 @@
     ]
   },
   {
-    "title": "Improving GPT\u20115.6 Sol in ChatGPT\u2014and expanding access to GPT-5.6 Luna for free users",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
     "source": "OpenAI",
     "date": "2026-08-06",
@@ -372,7 +382,7 @@
     ]
   },
   {
-    "title": "Univ\u00e9 builds an AI-ready workforce",
+    "title": "Univé builds an AI-ready workforce",
     "url": "https://openai.com/index/unive",
     "source": "OpenAI",
     "date": "2026-07-31",
@@ -644,7 +654,7 @@
     ]
   },
   {
-    "title": "How Datadog built a \u201cuniversal machine tool\u201d for Claude Code",
+    "title": "How Datadog built a “universal machine tool” for Claude Code",
     "url": "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
     "source": "Claude",
     "date": "2026-07-21",
@@ -673,7 +683,7 @@
     ]
   },
   {
-    "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
     "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
     "source": "OpenAI",
     "date": "2026-07-21",
@@ -767,35 +777,6 @@
     "tags": [
       "Case Study",
       "Enterprise"
-    ]
-  },
-  {
-    "title": "Working at the frontier: Why Base44 trusts Claude Fable 5 with their most challenging engineering work",
-    "url": "https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work",
-    "source": "Claude",
-    "date": "2026-07-15",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "The US is advancing AI safety through state and federal action",
-    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "source": "OpenAI",
-    "date": "2026-07-15",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "source": "OpenAI",
-    "date": "2026-07-15",
-    "tags": [
-      "Developer Tools",
-      "Opinion"
     ]
   }
 ]
