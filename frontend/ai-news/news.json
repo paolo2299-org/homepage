@@ -739,44 +739,5 @@
     "tags": [
       "Opinion"
     ]
-  },
-  {
-    "title": "How Anthropic runs large-scale code migrations with Claude Code",
-    "url": "https://claude.com/blog/ai-code-migration",
-    "source": "Claude",
-    "date": "2026-07-16",
-    "tags": [
-      "Developer Tools",
-      "Case Study"
-    ]
-  },
-  {
-    "title": "Working with Claude Fable 5 in Claude Cowork",
-    "url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
-    "source": "Claude",
-    "date": "2026-07-16",
-    "tags": [
-      "Enterprise",
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Why teens deserve access to safe AI",
-    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "source": "OpenAI",
-    "date": "2026-07-16",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "url": "https://openai.com/index/cars24",
-    "source": "OpenAI",
-    "date": "2026-07-16",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
   }
 ]
