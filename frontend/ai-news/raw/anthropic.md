@@ -2,8 +2,6 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
-Published Time: Fri, 14 Aug 2026 21:48:41 GMT
-
 Markdown Content:
 [](https://claude.com/)
 
@@ -106,19 +104,19 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.97cf07b9-b15b-424b-89a9-48004190e774/login)
+*   [Login](https://claude.ai/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.97cf07b9-b15b-424b-89a9-48004190e774)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.97cf07b9-b15b-424b-89a9-48004190e774)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.97cf07b9-b15b-424b-89a9-48004190e774)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.97cf07b9-b15b-424b-89a9-48004190e774)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 *   
 Meet Claude       
@@ -219,12 +217,12 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.97cf07b9-b15b-424b-89a9-48004190e774/login)
+*   [Login](https://claude.ai/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.97cf07b9-b15b-424b-89a9-48004190e774)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.97cf07b9-b15b-424b-89a9-48004190e774)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -316,11 +314,11 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.97cf07b9-b15b-424b-89a9-48004190e774)Try Claude
+[Try Claude](https://claude.ai/)Try Claude
 
 All
 
-214
+1
 
 ## [Agents](https://claude.com/blog-category/agents)
 
@@ -540,10 +538,6 @@ Claude Code
 
 Maximizing the value of your Claude Code sessions
 
-[](https://claude.com/blog)
-
-Claude Code
-
 August 14, 2026
 
 [Maximizing the value of your Claude Code sessions](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions)Maximizing the value of your Claude Code sessions
@@ -577,10 +571,6 @@ Claude Tag now reads even more of the room
 Product announcements
 
 Claude Tag now reads even more of the room
-
-[](https://claude.com/blog)
-
-Claude Tag
 
 August 13, 2026
 
@@ -618,22 +608,6 @@ Product announcements
 
 The Claude in Chrome side panel is now Claude Cowork
 
-[](https://claude.com/blog)
-
-Claude Cowork
-
-[](https://claude.com/blog)
-
-Claude apps
-
-[](https://claude.com/blog)
-
-Work
-
-[](https://claude.com/blog)
-
-Productivity
-
 August 12, 2026
 
 [The Claude in Chrome side panel is now Claude Cowork](https://claude.com/blog/cowork-chrome-side-panel)The Claude in Chrome side panel is now Claude Cowork
@@ -651,26 +625,6 @@ Compliance API coverage extends to Claude Cowork and Claude Code
 Enterprise AI
 
 Compliance API coverage extends to Claude Cowork and Claude Code
-
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-[](https://claude.com/blog)
-
-Claude apps
-
-[](https://claude.com/blog)
-
-Claude Code
-
-[](https://claude.com/blog)
-
-Claude Cowork
-
-[](https://claude.com/blog)
-
-Business
 
 August 11, 2026
 
@@ -690,14 +644,6 @@ Enterprise AI
 
 How Anthropic's business development team uses Claude to run inbound and outbound at scale
 
-[](https://claude.com/blog)
-
-Claude Cowork
-
-[](https://claude.com/blog)
-
-Sales
-
 August 7, 2026
 
 [How Anthropic's business development team uses Claude to run inbound and outbound at scale](https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale)How Anthropic's business development team uses Claude to run inbound and outbound at scale
@@ -715,10 +661,6 @@ Auto mode is now the default in Claude Code for Pro, Max, and Team plans
 Claude Code
 
 Auto mode is now the default in Claude Code for Pro, Max, and Team plans
-
-[](https://claude.com/blog)
-
-Claude Code
 
 August 7, 2026
 
@@ -738,14 +680,6 @@ Claude Code
 
 Running auto mode in production
 
-[](https://claude.com/blog)
-
-Claude Code
-
-[](https://claude.com/blog)
-
-Coding
-
 August 7, 2026
 
 [Running auto mode in production](https://claude.com/blog/auto-mode-in-production)Running auto mode in production
@@ -763,14 +697,6 @@ Millennium and Anthropic are building a digital risk analyst with Claude
 Enterprise AI
 
 Millennium and Anthropic are building a digital risk analyst with Claude 
-
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-[](https://claude.com/blog)
-
-Financial services
 
 August 6, 2026
 
@@ -790,10 +716,6 @@ Product announcements
 
 Run Claude Code sessions on your own compute
 
-[](https://claude.com/blog)
-
-Claude Code
-
 August 6, 2026
 
 [Run Claude Code sessions on your own compute](https://claude.com/blog/run-claude-code-sessions-on-your-own-compute)Run Claude Code sessions on your own compute
@@ -811,22 +733,6 @@ Inference hooks: inline data loss prevention for Claude Enterprise
 Enterprise AI
 
 Inference hooks: inline data loss prevention for Claude Enterprise
-
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-[](https://claude.com/blog)
-
-Claude apps
-
-[](https://claude.com/blog)
-
-Claude Cowork
-
-[](https://claude.com/blog)
-
-Claude Code
 
 August 5, 2026
 
@@ -846,10 +752,6 @@ Enterprise AI
 
 A guide to cost visibility and control in Claude
 
-[](https://claude.com/blog)
-
-Claude Enterprise
-
 August 4, 2026
 
 [A guide to cost visibility and control in Claude](https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude)A guide to cost visibility and control in Claude
@@ -867,18 +769,6 @@ Bringing MCP 2026-07-28 to Claude
 Product announcements
 
 Bringing MCP 2026-07-28 to Claude
-
-[](https://claude.com/blog)
-
-Claude apps
-
-[](https://claude.com/blog)
-
-Claude Platform
-
-[](https://claude.com/blog)
-
-Agents
 
 July 28, 2026
 
@@ -898,14 +788,6 @@ Enterprise AI
 
 How the product designer who built Claude Design uses it to explore ideas before building them
 
-[](https://claude.com/blog)
-
-Claude Design
-
-[](https://claude.com/blog)
-
-Design
-
 July 24, 2026
 
 [How the product designer who built Claude Design uses it to explore ideas before building them](https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them)How the product designer who built Claude Design uses it to explore ideas before building them
@@ -914,7 +796,7 @@ July 24, 2026
 
 [](https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them)
 
-[Previous](https://claude.com/blog?b7eea976_page=15)[View more](https://claude.com/blog?b7eea976_page=2)
+[View more](https://claude.com/blog?b7eea976_page=2)
 
 1 / 15
 
@@ -931,10 +813,6 @@ Category
 Claude Code
 
 Product
-
-[](https://claude.com/blog)
-
-Claude Code
 
 Usecase
 
@@ -972,10 +850,6 @@ Product announcements
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Tag
-
 Usecase
 
 August 13, 2026
@@ -1012,23 +886,7 @@ Product announcements
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Cowork
-
-[](https://claude.com/blog)
-
-Claude apps
-
 Usecase
-
-[](https://claude.com/blog)
-
-Work
-
-[](https://claude.com/blog)
-
-Productivity
 
 August 12, 2026
 
@@ -1046,27 +904,7 @@ Enterprise AI
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-[](https://claude.com/blog)
-
-Claude apps
-
-[](https://claude.com/blog)
-
-Claude Code
-
-[](https://claude.com/blog)
-
-Claude Cowork
-
 Usecase
-
-[](https://claude.com/blog)
-
-Business
 
 August 11, 2026
 
@@ -1084,15 +922,7 @@ Enterprise AI
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Cowork
-
 Usecase
-
-[](https://claude.com/blog)
-
-Sales
 
 August 7, 2026
 
@@ -1109,10 +939,6 @@ Category
 Claude Code
 
 Product
-
-[](https://claude.com/blog)
-
-Claude Code
 
 Usecase
 
@@ -1132,15 +958,7 @@ Claude Code
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Code
-
 Usecase
-
-[](https://claude.com/blog)
-
-Coding
 
 August 7, 2026
 
@@ -1158,15 +976,7 @@ Enterprise AI
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Enterprise
-
 Usecase
-
-[](https://claude.com/blog)
-
-Financial services
 
 August 6, 2026
 
@@ -1183,10 +993,6 @@ Category
 Product announcements
 
 Product
-
-[](https://claude.com/blog)
-
-Claude Code
 
 Usecase
 
@@ -1206,22 +1012,6 @@ Enterprise AI
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-[](https://claude.com/blog)
-
-Claude apps
-
-[](https://claude.com/blog)
-
-Claude Cowork
-
-[](https://claude.com/blog)
-
-Claude Code
-
 Usecase
 
 August 5, 2026
@@ -1239,10 +1029,6 @@ Category
 Enterprise AI
 
 Product
-
-[](https://claude.com/blog)
-
-Claude Enterprise
 
 Usecase
 
@@ -1262,19 +1048,7 @@ Product announcements
 
 Product
 
-[](https://claude.com/blog)
-
-Claude apps
-
-[](https://claude.com/blog)
-
-Claude Platform
-
 Usecase
-
-[](https://claude.com/blog)
-
-Agents
 
 July 28, 2026
 
@@ -1292,15 +1066,7 @@ Enterprise AI
 
 Product
 
-[](https://claude.com/blog)
-
-Claude Design
-
 Usecase
-
-[](https://claude.com/blog)
-
-Design
 
 July 24, 2026
 
@@ -1310,7 +1076,7 @@ July 24, 2026
 
 [](https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them)
 
-[Previous](https://claude.com/blog?d7430fcd_page=15)[View more](https://claude.com/blog?d7430fcd_page=2)
+[View more](https://claude.com/blog?d7430fcd_page=2)
 
 1 / 15
 
@@ -1456,7 +1222,7 @@ this is a test
 
 [Anthropic](https://www.anthropic.com/)Anthropic
 
-© 2026 Anthropic PBC
+© [year]Anthropic PBC
 
 Products
 
@@ -1470,7 +1236,7 @@ Products
 *   Claude Security [Claude Security](https://claude.com/product/claude-security)Claude Security 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.97cf07b9-b15b-424b-89a9-48004190e774/login)Log in 
+*   Log in [Log in](https://claude.ai/login)Log in 
 
 Features
 
@@ -1599,5 +1365,3 @@ English (US)
 [한국어 (South Korea)](https://claude.com/ko/blog)
 
 [Italiano (Italy)](https://claude.com/it/blog)
-
-×
