@@ -710,34 +710,5 @@
       "Agents",
       "Opinion"
     ]
-  },
-  {
-    "title": "Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
-    "url": "https://claude.com/blog/working-at-the-frontier-cursor",
-    "source": "Claude",
-    "date": "2026-07-17",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Zero risk isn't the job: a CISO's guide to agentic AI",
-    "url": "https://claude.com/blog/ciso-guide-to-agentic-ai",
-    "source": "Claude",
-    "date": "2026-07-17",
-    "tags": [
-      "Opinion",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "A scorecard for the AI age",
-    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "source": "OpenAI",
-    "date": "2026-07-17",
-    "tags": [
-      "Opinion"
-    ]
   }
 ]
