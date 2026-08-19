@@ -2,7 +2,7 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
-Published Time: Tue, 18 Aug 2026 02:16:30 GMT
+Published Time: Wed, 19 Aug 2026 00:49:26 GMT
 
 Markdown Content:
 [](https://claude.com/)
@@ -106,19 +106,19 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.a4fae1b6-1c74-463b-9d97-46bf6e5b93b8/login)
+*   [Login](https://claude.ai/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.a4fae1b6-1c74-463b-9d97-46bf6e5b93b8)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.a4fae1b6-1c74-463b-9d97-46bf6e5b93b8)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.a4fae1b6-1c74-463b-9d97-46bf6e5b93b8)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.a4fae1b6-1c74-463b-9d97-46bf6e5b93b8)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 *   
 Meet Claude       
@@ -219,12 +219,12 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.a4fae1b6-1c74-463b-9d97-46bf6e5b93b8/login)
+*   [Login](https://claude.ai/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.a4fae1b6-1c74-463b-9d97-46bf6e5b93b8)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.a4fae1b6-1c74-463b-9d97-46bf6e5b93b8)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -254,6 +254,8 @@ Category
 - [x] Product announcements 
 
 Product
+
+- [x] Claude Science 
 
 - [x] Claude Tag 
 
@@ -316,11 +318,11 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.a4fae1b6-1c74-463b-9d97-46bf6e5b93b8)Try Claude
+[Try Claude](https://claude.ai/)Try Claude
 
 All
 
-45
+217
 
 ## [Agents](https://claude.com/blog-category/agents)
 
@@ -468,6 +470,8 @@ Category
 
 Product
 
+- [x] Claude Science 
+
 - [x] Claude Tag 
 
 - [x] Claude Design 
@@ -530,7 +534,55 @@ Grid
 
 List
 
-![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22949f86cd1968deb9f_33dbe8f783d4835a838b4c4ae85d3c04e352fee1-1000x1000.svg)
+![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22a7bb714a55b503cd7_cad034e66b44f7f017c0cb931c403a97d1763758-1000x1000.svg)
+
+Aug 18, 2026
+
+Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures
+
+Enterprise AI
+
+Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures
+
+[](https://claude.com/blog)
+
+Claude Tag
+
+[](https://claude.com/blog)
+
+Coding
+
+August 18, 2026
+
+[Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures](https://claude.com/blog/ai-ci-cd-on-call)Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures
+
+[Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures](https://claude.com/blog#)Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures
+
+[](https://claude.com/blog/ai-ci-cd-on-call)
+
+![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f7365ae69f4d9f4f96fa2_Object-DoubleHelix.svg)
+
+Aug 18, 2026
+
+The Claude Science product guide
+
+Enterprise AI
+
+The Claude Science product guide
+
+[](https://claude.com/blog)
+
+Claude Science
+
+August 18, 2026
+
+[The Claude Science product guide](https://claude.com/blog/the-claude-science-product-guide)The Claude Science product guide
+
+[The Claude Science product guide](https://claude.com/blog#)The Claude Science product guide
+
+[](https://claude.com/blog/the-claude-science-product-guide)
+
+![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22949f86cd1968deb9f_33dbe8f783d4835a838b4c4ae85d3c04e352fee1-1000x1000.svg)
 
 Aug 17, 2026
 
@@ -556,7 +608,7 @@ August 17, 2026
 
 [](https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents)
 
-![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22f63175f636cba4641_c0af2a56f56cf298ce5904f2901e9a36facd0dbe-1000x1000.svg)
+![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22f63175f636cba4641_c0af2a56f56cf298ce5904f2901e9a36facd0dbe-1000x1000.svg)
 
 Aug 14, 2026
 
@@ -578,7 +630,7 @@ August 14, 2026
 
 [](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions)
 
-![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
+![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
 
 Aug 13, 2026
 
@@ -594,7 +646,7 @@ August 13, 2026
 
 [](https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions)
 
-![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2260bfc90348429f9c3_cd9cf56a7f049285b7c1c8786c0a600cf3d7f317-1000x1000.svg)
+![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2260bfc90348429f9c3_cd9cf56a7f049285b7c1c8786c0a600cf3d7f317-1000x1000.svg)
 
 Aug 13, 2026
 
@@ -616,7 +668,7 @@ August 13, 2026
 
 [](https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room)
 
-![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225485fe31f1ed2d9a1_db28a79c9f4492b8471009d4c20e900f234ece48-1000x1000.svg)
+![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225485fe31f1ed2d9a1_db28a79c9f4492b8471009d4c20e900f234ece48-1000x1000.svg)
 
 Aug 13, 2026
 
@@ -634,7 +686,7 @@ August 13, 2026
 
 [](https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5)
 
-![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d0099a66d72e05699_33ddc751e21fb4b116b3f57dd553f0bc55ea09d1-1000x1000.svg)
+![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d0099a66d72e05699_33ddc751e21fb4b116b3f57dd553f0bc55ea09d1-1000x1000.svg)
 
 Aug 12, 2026
 
@@ -668,7 +720,7 @@ August 12, 2026
 
 [](https://claude.com/blog/cowork-chrome-side-panel)
 
-![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
+![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
 
 Aug 11, 2026
 
@@ -706,7 +758,7 @@ August 11, 2026
 
 [](https://claude.com/blog/compliance-api-cowork-and-claude-code)
 
-![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225588ad176f7c4aafd_abc884c723daea810d2e986455358281a2f94102-1000x1000.svg)
+![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225588ad176f7c4aafd_abc884c723daea810d2e986455358281a2f94102-1000x1000.svg)
 
 Aug 7, 2026
 
@@ -732,7 +784,7 @@ August 7, 2026
 
 [](https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale)
 
-![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/690937bee860a953417a8eee_Object-CodeBrowserGlobe.svg)
+![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/690937bee860a953417a8eee_Object-CodeBrowserGlobe.svg)
 
 Aug 7, 2026
 
@@ -754,7 +806,7 @@ August 7, 2026
 
 [](https://claude.com/blog/auto-mode-default-in-claude-code)
 
-![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22b1ef956a6d81cfd9c_653e7474811cf768b6b0f628e253f98c60e2747e-1000x1000.svg)
+![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22b1ef956a6d81cfd9c_653e7474811cf768b6b0f628e253f98c60e2747e-1000x1000.svg)
 
 Aug 7, 2026
 
@@ -780,7 +832,7 @@ August 7, 2026
 
 [](https://claude.com/blog/auto-mode-in-production)
 
-![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d223e0a787df988a824b_39db33950eb113e504a5b9fc56db490a64673e96-1000x1000.svg)
+![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d223e0a787df988a824b_39db33950eb113e504a5b9fc56db490a64673e96-1000x1000.svg)
 
 Aug 6, 2026
 
@@ -806,7 +858,7 @@ August 6, 2026
 
 [](https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude)
 
-![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22651dd05046d0fdb0b_39c40393e610cc0a5e65f50ad12ff5ada273f792-1000x1000.svg)
+![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22651dd05046d0fdb0b_39c40393e610cc0a5e65f50ad12ff5ada273f792-1000x1000.svg)
 
 Aug 6, 2026
 
@@ -828,7 +880,7 @@ August 6, 2026
 
 [](https://claude.com/blog/run-claude-code-sessions-on-your-own-compute)
 
-![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22753311132c8c37b39_d3dd09ad16c68461dc3fb01df5e84cf7ccafda6c-1000x1000.svg)
+![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22753311132c8c37b39_d3dd09ad16c68461dc3fb01df5e84cf7ccafda6c-1000x1000.svg)
 
 Aug 5, 2026
 
@@ -862,58 +914,6 @@ August 5, 2026
 
 [](https://claude.com/blog/claude-enterprise-inference-hooks)
 
-![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
-
-Aug 4, 2026
-
-A guide to cost visibility and control in Claude
-
-Enterprise AI
-
-A guide to cost visibility and control in Claude
-
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-August 4, 2026
-
-[A guide to cost visibility and control in Claude](https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude)A guide to cost visibility and control in Claude
-
-[A guide to cost visibility and control in Claude](https://claude.com/blog#)A guide to cost visibility and control in Claude
-
-[](https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude)
-
-![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229b7f170bab528846d_0df729ce74e4c9dd62c3342c9549ce6c7cef1202-1000x1000.svg)
-
-Jul 28, 2026
-
-Bringing MCP 2026-07-28 to Claude
-
-Product announcements
-
-Bringing MCP 2026-07-28 to Claude
-
-[](https://claude.com/blog)
-
-Claude apps
-
-[](https://claude.com/blog)
-
-Claude Platform
-
-[](https://claude.com/blog)
-
-Agents
-
-July 28, 2026
-
-[Bringing MCP 2026-07-28 to Claude](https://claude.com/blog/bringing-mcp-2026-07-28-to-claude)Bringing MCP 2026-07-28 to Claude
-
-[Bringing MCP 2026-07-28 to Claude](https://claude.com/blog#)Bringing MCP 2026-07-28 to Claude
-
-[](https://claude.com/blog/bringing-mcp-2026-07-28-to-claude)
-
 [Previous](https://claude.com/blog?b7eea976_page=15)[View more](https://claude.com/blog?b7eea976_page=2)
 
 1 / 15
@@ -923,6 +923,54 @@ Category
 Product
 
 Usecase
+
+### Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures
+
+Category
+
+Enterprise AI
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Tag
+
+Usecase
+
+[](https://claude.com/blog)
+
+Coding
+
+August 18, 2026
+
+[Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures](https://claude.com/blog/ai-ci-cd-on-call)Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures
+
+[Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures](https://claude.com/blog#)Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures
+
+[](https://claude.com/blog/ai-ci-cd-on-call)
+
+### The Claude Science product guide
+
+Category
+
+Enterprise AI
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Science
+
+Usecase
+
+August 18, 2026
+
+[The Claude Science product guide](https://claude.com/blog/the-claude-science-product-guide)The Claude Science product guide
+
+[The Claude Science product guide](https://claude.com/blog#)The Claude Science product guide
+
+[](https://claude.com/blog/the-claude-science-product-guide)
 
 ### How ABC Legal turned every employee into a builder with Claude Managed Agents
 
@@ -1258,61 +1306,9 @@ August 5, 2026
 
 [](https://claude.com/blog/claude-enterprise-inference-hooks)
 
-### A guide to cost visibility and control in Claude
+[Previous](https://claude.com/blog?d7430fcd_page=15)[View more](https://claude.com/blog?d7430fcd_page=2)
 
-Category
-
-Enterprise AI
-
-Product
-
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-Usecase
-
-August 4, 2026
-
-[A guide to cost visibility and control in Claude](https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude)A guide to cost visibility and control in Claude
-
-[A guide to cost visibility and control in Claude](https://claude.com/blog#)A guide to cost visibility and control in Claude
-
-[](https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude)
-
-### Bringing MCP 2026-07-28 to Claude
-
-Category
-
-Product announcements
-
-Product
-
-[](https://claude.com/blog)
-
-Claude apps
-
-[](https://claude.com/blog)
-
-Claude Platform
-
-Usecase
-
-[](https://claude.com/blog)
-
-Agents
-
-July 28, 2026
-
-[Bringing MCP 2026-07-28 to Claude](https://claude.com/blog/bringing-mcp-2026-07-28-to-claude)Bringing MCP 2026-07-28 to Claude
-
-[Bringing MCP 2026-07-28 to Claude](https://claude.com/blog#)Bringing MCP 2026-07-28 to Claude
-
-[](https://claude.com/blog/bringing-mcp-2026-07-28-to-claude)
-
-[View more](https://claude.com/blog?d7430fcd_page=2)
-
-1 / 2
+1 / 1
 
 No posts for those filters
 
@@ -1470,7 +1466,7 @@ Products
 *   Claude Security [Claude Security](https://claude.com/product/claude-security)Claude Security 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.a4fae1b6-1c74-463b-9d97-46bf6e5b93b8/login)Log in 
+*   Log in [Log in](https://claude.ai/login)Log in 
 
 Features
 
@@ -1529,7 +1525,7 @@ Resources
 *   Events [Events](https://www.anthropic.com/events)Events 
 *   Plugins [Plugins](https://claude.com/plugins)Plugins 
 *   Powered by Claude [Powered by Claude](https://claude.com/partners/powered-by-claude)Powered by Claude 
-*   Service partners [Service partners](https://claude.com/partners/services)Service partners 
+*   Service partners [Service partners](https://claude.com/blog#)Service partners 
 *   Tutorials [Tutorials](https://claude.com/resources/tutorials)Tutorials 
 *   Use cases [Use cases](https://claude.com/resources/use-cases)Use cases 
 
