@@ -1,5 +1,82 @@
 [
   {
+    "title": "Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures",
+    "url": "https://claude.com/blog/ai-ci-cd-on-call",
+    "source": "Claude",
+    "date": "2026-08-18",
+    "tags": [
+      "Case Study",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "The Claude Science product guide",
+    "url": "https://claude.com/blog/the-claude-science-product-guide",
+    "source": "Claude",
+    "date": "2026-08-18",
+    "tags": [
+      "Enterprise",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Strengthening democratic oversight in national security",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "source": "OpenAI",
+    "date": "2026-08-18",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "url": "https://openai.com/index/partnering-with-codeai",
+    "source": "OpenAI",
+    "date": "2026-08-18",
+    "tags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "source": "OpenAI",
+    "date": "2026-08-18",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "url": "https://openai.com/index/chatgpt-for-teens",
+    "source": "OpenAI",
+    "date": "2026-08-18",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "url": "https://openai.com/index/nvidia/chatgpt-work",
+    "source": "OpenAI",
+    "date": "2026-08-18",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+    "url": "https://openai.com/index/asana",
+    "source": "OpenAI",
+    "date": "2026-08-18",
+    "tags": [
+      "Case Study",
+      "Developer Tools"
+    ]
+  },
+  {
     "title": "How ABC Legal turned every employee into a builder with Claude Managed Agents",
     "url": "https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents",
     "source": "Claude",
