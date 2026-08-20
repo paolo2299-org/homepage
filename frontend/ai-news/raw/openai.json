@@ -1,5 +1,23 @@
 [
   {
+    "title": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "source": "OpenAI",
+    "date": "2026-08-19"
+  },
+  {
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "url": "https://openai.com/index/replit",
+    "source": "OpenAI",
+    "date": "2026-08-19"
+  },
+  {
+    "title": "ChatGPT Ads expands across Europe",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "source": "OpenAI",
+    "date": "2026-08-18"
+  },
+  {
     "title": "Strengthening democratic oversight in national security",
     "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
     "source": "OpenAI",
@@ -322,17 +340,5 @@
     "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
     "source": "OpenAI",
     "date": "2026-07-21"
-  },
-  {
-    "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-    "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "source": "OpenAI",
-    "date": "2026-07-21"
-  },
-  {
-    "title": "Safety and alignment in an era of long-horizon models",
-    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "source": "OpenAI",
-    "date": "2026-07-20"
   }
 ]
