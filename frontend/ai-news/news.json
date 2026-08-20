@@ -1,5 +1,35 @@
 [
   {
+    "title": "Turning conversation into knowledge: how Slack builds human-agent teams",
+    "url": "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
+    "source": "Claude",
+    "date": "2026-08-19",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "source": "OpenAI",
+    "date": "2026-08-19",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "url": "https://openai.com/index/replit",
+    "source": "OpenAI",
+    "date": "2026-08-19",
+    "tags": [
+      "Case Study",
+      "Developer Tools"
+    ]
+  },
+  {
     "title": "Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures",
     "url": "https://claude.com/blog/ai-ci-cd-on-call",
     "source": "Claude",
@@ -74,6 +104,15 @@
     "tags": [
       "Case Study",
       "Developer Tools"
+    ]
+  },
+  {
+    "title": "ChatGPT Ads expands across Europe",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "source": "OpenAI",
+    "date": "2026-08-18",
+    "tags": [
+      "Product Launch"
     ]
   },
   {
@@ -803,26 +842,6 @@
     "date": "2026-07-21",
     "tags": [
       "Enterprise"
-    ]
-  },
-  {
-    "title": "Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5",
-    "url": "https://claude.com/blog/working-at-the-frontier-rakuten",
-    "source": "Claude",
-    "date": "2026-07-20",
-    "tags": [
-      "Case Study",
-      "Agents"
-    ]
-  },
-  {
-    "title": "Safety and alignment in an era of long-horizon models",
-    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "source": "OpenAI",
-    "date": "2026-07-20",
-    "tags": [
-      "Agents",
-      "Opinion"
     ]
   }
 ]
