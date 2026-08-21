@@ -1,5 +1,17 @@
 [
   {
+    "title": "Introducing AI Futures",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "source": "OpenAI",
+    "date": "2026-08-20"
+  },
+  {
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "url": "https://openai.com/index/stampli",
+    "source": "OpenAI",
+    "date": "2026-08-20"
+  },
+  {
     "title": "Offering Zero Data Retention for frontier models",
     "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
     "source": "OpenAI",
@@ -322,23 +334,5 @@
     "url": "https://openai.com/index/introducing-openai-presence",
     "source": "OpenAI",
     "date": "2026-07-22"
-  },
-  {
-    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-    "url": "https://openai.com/index/ntt-data",
-    "source": "OpenAI",
-    "date": "2026-07-22"
-  },
-  {
-    "title": "Introducing the ChatGPT for small business program",
-    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-    "source": "OpenAI",
-    "date": "2026-07-21"
-  },
-  {
-    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-    "source": "OpenAI",
-    "date": "2026-07-21"
   }
 ]
