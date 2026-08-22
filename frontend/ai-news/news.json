@@ -1,5 +1,25 @@
 [
   {
+    "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+    "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+    "source": "Claude",
+    "date": "2026-08-21",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "The AI-Native SDLC playbook",
+    "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+    "source": "Claude",
+    "date": "2026-08-21",
+    "tags": [
+      "Developer Tools",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Anthropic’s approach to teaching and learning AI",
     "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
     "source": "Claude",
@@ -55,6 +75,15 @@
     "tags": [
       "Case Study",
       "Enterprise"
+    ]
+  },
+  {
+    "title": "Inside the Gemmaverse: Celebrating one billion Gemma downloads",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/",
+    "source": "Google",
+    "date": "2026-08-20",
+    "tags": [
+      "Developer Tools"
     ]
   },
   {
@@ -784,74 +813,6 @@
     "date": "2026-07-23",
     "tags": [
       "Product Launch"
-    ]
-  },
-  {
-    "title": "Building verification loops in Claude Code with skills",
-    "url": "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills",
-    "source": "Claude",
-    "date": "2026-07-22",
-    "tags": [
-      "Developer Tools",
-      "Opinion"
-    ]
-  },
-  {
-    "title": "How Outtake built a cyber investigator on Claude",
-    "url": "https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude",
-    "source": "Claude",
-    "date": "2026-07-22",
-    "tags": [
-      "Case Study",
-      "Agents"
-    ]
-  },
-  {
-    "title": "Building AI infrastructure with the Effingham County community",
-    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "source": "OpenAI",
-    "date": "2026-07-22",
-    "tags": [
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "How news organizations are using AI to advance their vital missions",
-    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-    "source": "OpenAI",
-    "date": "2026-07-22",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Advancing the next era of national science",
-    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "source": "OpenAI",
-    "date": "2026-07-22",
-    "tags": [
-      "Enterprise",
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Introducing OpenAI Presence",
-    "url": "https://openai.com/index/introducing-openai-presence",
-    "source": "OpenAI",
-    "date": "2026-07-22",
-    "tags": [
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-    "url": "https://openai.com/index/ntt-data",
-    "source": "OpenAI",
-    "date": "2026-07-22",
-    "tags": [
-      "Case Study",
-      "Developer Tools"
     ]
   }
 ]
