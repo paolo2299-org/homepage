@@ -756,35 +756,5 @@
     "tags": [
       "Opinion"
     ]
-  },
-  {
-    "title": "How the product designer who built Claude Design uses it to explore ideas before building them",
-    "url": "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
-    "source": "Claude",
-    "date": "2026-07-24",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "The new rules of context engineering for Claude 5 generation models",
-    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-    "source": "Claude",
-    "date": "2026-07-24",
-    "tags": [
-      "Opinion",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Claude models explained: choosing the best model for your use case",
-    "url": "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case",
-    "source": "Claude",
-    "date": "2026-07-24",
-    "tags": [
-      "Developer Tools",
-      "Opinion"
-    ]
   }
 ]
