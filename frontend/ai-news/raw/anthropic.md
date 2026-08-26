@@ -2,7 +2,7 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
-Published Time: Mon, 24 Aug 2026 20:21:35 GMT
+Published Time: Wed, 26 Aug 2026 01:57:13 GMT
 
 Markdown Content:
 [](https://claude.com/)
@@ -106,19 +106,19 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/login)
+*   [Login](https://claude.ai/redirect/claude_com.v1.c4f1c0ee-3a7a-41ec-9fbc-8bfc7a17820e/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.c4f1c0ee-3a7a-41ec-9fbc-8bfc7a17820e)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.c4f1c0ee-3a7a-41ec-9fbc-8bfc7a17820e)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.c4f1c0ee-3a7a-41ec-9fbc-8bfc7a17820e)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.c4f1c0ee-3a7a-41ec-9fbc-8bfc7a17820e)Try Claude  
 
 *   
 Meet Claude       
@@ -219,12 +219,12 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/login)
+*   [Login](https://claude.ai/redirect/claude_com.v1.c4f1c0ee-3a7a-41ec-9fbc-8bfc7a17820e/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.c4f1c0ee-3a7a-41ec-9fbc-8bfc7a17820e)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.c4f1c0ee-3a7a-41ec-9fbc-8bfc7a17820e)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -318,11 +318,11 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/)Try Claude
+[Try Claude](https://claude.ai/redirect/claude_com.v1.c4f1c0ee-3a7a-41ec-9fbc-8bfc7a17820e)Try Claude
 
 All
 
-224
+226
 
 ## [Agents](https://claude.com/blog-category/agents)
 
@@ -534,7 +534,47 @@ Grid
 
 List
 
-![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226ca443e2e05990c00_83d7d2fe412ceb4dfe627f0d5f3d64aff1a3f5db-1000x1000.svg)
+![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22727482c9ba6a02e71_1576ae23eaf481f33bd36ab468171cc69d12361a-1000x1000.svg)
+
+Aug 25, 2026
+
+Bain & Company joins the Claude Partner Network as a Global Premier partner
+
+Enterprise AI
+
+Bain & Company joins the Claude Partner Network as a Global Premier partner
+
+August 25, 2026
+
+[Bain & Company joins the Claude Partner Network as a Global Premier partner](https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner)Bain & Company joins the Claude Partner Network as a Global Premier partner
+
+[Bain & Company joins the Claude Partner Network as a Global Premier partner](https://claude.com/blog#)Bain & Company joins the Claude Partner Network as a Global Premier partner
+
+[](https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner)
+
+![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22562f020146c9ec973_f8f4644253bde2f901550431b871b6dcf91e5d9d-1000x1000.svg)
+
+Aug 25, 2026
+
+Claude's memory works everywhere, and you decide what's in it
+
+Product announcements
+
+Claude's memory works everywhere, and you decide what's in it
+
+[](https://claude.com/blog)
+
+Claude Cowork
+
+August 25, 2026
+
+[Claude's memory works everywhere, and you decide what's in it](https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it)Claude's memory works everywhere, and you decide what's in it
+
+[Claude's memory works everywhere, and you decide what's in it](https://claude.com/blog#)Claude's memory works everywhere, and you decide what's in it
+
+[](https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it)
+
+![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226ca443e2e05990c00_83d7d2fe412ceb4dfe627f0d5f3d64aff1a3f5db-1000x1000.svg)
 
 Aug 24, 2026
 
@@ -564,7 +604,7 @@ August 24, 2026
 
 [](https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep)
 
-![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
+![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
 
 Aug 21, 2026
 
@@ -582,7 +622,7 @@ August 21, 2026
 
 [](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
 
-![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
+![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
 
 Aug 21, 2026
 
@@ -616,7 +656,7 @@ August 21, 2026
 
 [](https://claude.com/blog/the-ai-native-sdlc-playbook)
 
-![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d223de65e7dcca8267d8_ea364001be6bf6d2e86b58109ead6a779d5771a7-1000x1000.svg)
+![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d223de65e7dcca8267d8_ea364001be6bf6d2e86b58109ead6a779d5771a7-1000x1000.svg)
 
 Aug 20, 2026
 
@@ -642,7 +682,7 @@ August 20, 2026
 
 [](https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai)
 
-![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f76874e94e489958af8ba_Object-CodeMagnifier.svg)
+![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f76874e94e489958af8ba_Object-CodeMagnifier.svg)
 
 Aug 20, 2026
 
@@ -668,7 +708,7 @@ August 20, 2026
 
 [](https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate)
 
-![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
+![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
 
 Aug 20, 2026
 
@@ -694,7 +734,7 @@ August 20, 2026
 
 [](https://claude.com/blog/claude-code-guide-for-startups)
 
-![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229061abf091318fc81_6905c83d0735e1bc430025fdd1748d1406079036-1000x1000.svg)
+![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229061abf091318fc81_6905c83d0735e1bc430025fdd1748d1406079036-1000x1000.svg)
 
 Aug 20, 2026
 
@@ -720,7 +760,7 @@ August 20, 2026
 
 [](https://claude.com/blog/computer-use-skills-api-files-api)
 
-![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22b1ef956a6d81cfd9c_653e7474811cf768b6b0f628e253f98c60e2747e-1000x1000.svg)
+![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22b1ef956a6d81cfd9c_653e7474811cf768b6b0f628e253f98c60e2747e-1000x1000.svg)
 
 Aug 19, 2026
 
@@ -738,7 +778,7 @@ August 19, 2026
 
 [](https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams)
 
-![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22a7bb714a55b503cd7_cad034e66b44f7f017c0cb931c403a97d1763758-1000x1000.svg)
+![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22a7bb714a55b503cd7_cad034e66b44f7f017c0cb931c403a97d1763758-1000x1000.svg)
 
 Aug 18, 2026
 
@@ -764,7 +804,7 @@ August 18, 2026
 
 [](https://claude.com/blog/ai-ci-cd-on-call)
 
-![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22949f86cd1968deb9f_33dbe8f783d4835a838b4c4ae85d3c04e352fee1-1000x1000.svg)
+![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22949f86cd1968deb9f_33dbe8f783d4835a838b4c4ae85d3c04e352fee1-1000x1000.svg)
 
 Aug 17, 2026
 
@@ -790,7 +830,7 @@ August 17, 2026
 
 [](https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents)
 
-![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22f63175f636cba4641_c0af2a56f56cf298ce5904f2901e9a36facd0dbe-1000x1000.svg)
+![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22f63175f636cba4641_c0af2a56f56cf298ce5904f2901e9a36facd0dbe-1000x1000.svg)
 
 Aug 14, 2026
 
@@ -812,7 +852,7 @@ August 14, 2026
 
 [](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions)
 
-![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
+![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2238ce207f9b2011d3f_e44a6b53398f189b9fd0d4f70516db614ac84db3-1000x1000.svg)
 
 Aug 13, 2026
 
@@ -834,7 +874,7 @@ August 13, 2026
 
 [](https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions)
 
-![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2260bfc90348429f9c3_cd9cf56a7f049285b7c1c8786c0a600cf3d7f317-1000x1000.svg)
+![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2260bfc90348429f9c3_cd9cf56a7f049285b7c1c8786c0a600cf3d7f317-1000x1000.svg)
 
 Aug 13, 2026
 
@@ -856,67 +896,55 @@ August 13, 2026
 
 [](https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room)
 
-![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225485fe31f1ed2d9a1_db28a79c9f4492b8471009d4c20e900f234ece48-1000x1000.svg)
+[Previous](https://claude.com/blog?b7eea976_page=16)[View more](https://claude.com/blog?b7eea976_page=2)
 
-Aug 13, 2026
-
-Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5
-
-Enterprise AI
-
-Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5
-
-August 13, 2026
-
-[Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5](https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5)Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5
-
-[Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5](https://claude.com/blog#)Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5
-
-[](https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5)
-
-![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d0099a66d72e05699_33ddc751e21fb4b116b3f57dd553f0bc55ea09d1-1000x1000.svg)
-
-Aug 12, 2026
-
-The Claude in Chrome side panel is now Claude Cowork
-
-Product announcements
-
-The Claude in Chrome side panel is now Claude Cowork
-
-[](https://claude.com/blog)
-
-Claude Cowork
-
-[](https://claude.com/blog)
-
-Claude apps
-
-[](https://claude.com/blog)
-
-Work
-
-[](https://claude.com/blog)
-
-Productivity
-
-August 12, 2026
-
-[The Claude in Chrome side panel is now Claude Cowork](https://claude.com/blog/cowork-chrome-side-panel)The Claude in Chrome side panel is now Claude Cowork
-
-[The Claude in Chrome side panel is now Claude Cowork](https://claude.com/blog#)The Claude in Chrome side panel is now Claude Cowork
-
-[](https://claude.com/blog/cowork-chrome-side-panel)
-
-[View more](https://claude.com/blog?b7eea976_page=2)
-
-1 / 15
+1 / 16
 
 Category
 
 Product
 
 Usecase
+
+### Bain & Company joins the Claude Partner Network as a Global Premier partner
+
+Category
+
+Enterprise AI
+
+Product
+
+Usecase
+
+August 25, 2026
+
+[Bain & Company joins the Claude Partner Network as a Global Premier partner](https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner)Bain & Company joins the Claude Partner Network as a Global Premier partner
+
+[Bain & Company joins the Claude Partner Network as a Global Premier partner](https://claude.com/blog#)Bain & Company joins the Claude Partner Network as a Global Premier partner
+
+[](https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner)
+
+### Claude's memory works everywhere, and you decide what's in it
+
+Category
+
+Product announcements
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Cowork
+
+Usecase
+
+August 25, 2026
+
+[Claude's memory works everywhere, and you decide what's in it](https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it)Claude's memory works everywhere, and you decide what's in it
+
+[Claude's memory works everywhere, and you decide what's in it](https://claude.com/blog#)Claude's memory works everywhere, and you decide what's in it
+
+[](https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it)
 
 ### How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep
 
@@ -1240,61 +1268,9 @@ August 13, 2026
 
 [](https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room)
 
-### Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5
+[Previous](https://claude.com/blog?d7430fcd_page=16)[View more](https://claude.com/blog?d7430fcd_page=2)
 
-Category
-
-Enterprise AI
-
-Product
-
-Usecase
-
-August 13, 2026
-
-[Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5](https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5)Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5
-
-[Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5](https://claude.com/blog#)Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5
-
-[](https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5)
-
-### The Claude in Chrome side panel is now Claude Cowork
-
-Category
-
-Product announcements
-
-Product
-
-[](https://claude.com/blog)
-
-Claude Cowork
-
-[](https://claude.com/blog)
-
-Claude apps
-
-Usecase
-
-[](https://claude.com/blog)
-
-Work
-
-[](https://claude.com/blog)
-
-Productivity
-
-August 12, 2026
-
-[The Claude in Chrome side panel is now Claude Cowork](https://claude.com/blog/cowork-chrome-side-panel)The Claude in Chrome side panel is now Claude Cowork
-
-[The Claude in Chrome side panel is now Claude Cowork](https://claude.com/blog#)The Claude in Chrome side panel is now Claude Cowork
-
-[](https://claude.com/blog/cowork-chrome-side-panel)
-
-[Previous](https://claude.com/blog?d7430fcd_page=15)[View more](https://claude.com/blog?d7430fcd_page=2)
-
-1 / 4
+1 / 16
 
 No posts for those filters
 
@@ -1360,82 +1336,6 @@ Thank you! Your submission has been received!
 
 Oops! Something went wrong while submitting the form.
 
-Write
-
-[Button Text](https://claude.com/blog#)Button Text
-
-Learn
-
-[Button Text](https://claude.com/blog#)Button Text
-
-Code
-
-[Button Text](https://claude.com/blog#)Button Text
-
-Write
-
-*   Help me develop a unique voice for an audience    [](https://claude.com/blog#) 
-Hi Claude! Could you help me develop a unique voice for an audience? If you need more information from me, ask me 1-2 key questions right away. If you think I should upload any documents that would help you do a better job, let me know. You can use the tools you have access to— like Google Drive, web search, etc.—if they’ll help you better accomplish this task. Do not use analysis tool. Please keep your responses friendly, brief and conversational. 
-
-Please execute the task as soon as you can—an artifact would be great if it makes sense. If using an artifact, consider what kind of artifact (interactive, visual, checklist, etc.) might be most helpful for this specific task. Thanks for your help!
-
-*   Improve my writing style    [](https://claude.com/blog#) 
-Hi Claude! Could you improve my writing style? If you need more information from me, ask me 1-2 key questions right away. If you think I should upload any documents that would help you do a better job, let me know. You can use the tools you have access to— like Google Drive, web search, etc.—if they’ll help you better accomplish this task. Do not use analysis tool. Please keep your responses friendly, brief and conversational. 
-
-Please execute the task as soon as you can—an artifact would be great if it makes sense. If using an artifact, consider what kind of artifact (interactive, visual, checklist, etc.) might be most helpful for this specific task. Thanks for your help!
-
-*   Brainstorm creative ideas    [](https://claude.com/blog#) 
-Hi Claude! Could you brainstorm creative ideas? If you need more information from me, ask me 1-2 key questions right away. If you think I should upload any documents that would help you do a better job, let me know. You can use the tools you have access to— like Google Drive, web search, etc.—if they’ll help you better accomplish this task. Do not use analysis tool. Please keep your responses friendly, brief and conversational. 
-
-Please execute the task as soon as you can—an artifact would be great if it makes sense. If using an artifact, consider what kind of artifact (interactive, visual, checklist, etc.) might be most helpful for this specific task. Thanks for your help!
-
-Learn
-
-*   Explain a complex topic simply    [](https://claude.com/blog#) 
-Hi Claude! Could you explain a complex topic simply? If you need more information from me, ask me 1-2 key questions right away. If you think I should upload any documents that would help you do a better job, let me know. You can use the tools you have access to— like Google Drive, web search, etc.—if they’ll help you better accomplish this task. Do not use analysis tool. Please keep your responses friendly, brief and conversational. 
-
-Please execute the task as soon as you can—an artifact would be great if it makes sense. If using an artifact, consider what kind of artifact (interactive, visual, checklist, etc.) might be most helpful for this specific task. Thanks for your help!
-
-*   Help me make sense of these ideas    [](https://claude.com/blog#) 
-Hi Claude! Could you help me make sense of these ideas? If you need more information from me, ask me 1-2 key questions right away. If you think I should upload any documents that would help you do a better job, let me know. You can use the tools you have access to— like Google Drive, web search, etc.—if they’ll help you better accomplish this task. Do not use analysis tool. Please keep your responses friendly, brief and conversational. 
-
-Please execute the task as soon as you can—an artifact would be great if it makes sense. If using an artifact, consider what kind of artifact (interactive, visual, checklist, etc.) might be most helpful for this specific task. Thanks for your help!
-
-*   Prepare for an exam or interview    [](https://claude.com/blog#) 
-Hi Claude! Could you prepare for an exam or interview? If you need more information from me, ask me 1-2 key questions right away. If you think I should upload any documents that would help you do a better job, let me know. You can use the tools you have access to— like Google Drive, web search, etc.—if they’ll help you better accomplish this task. Do not use analysis tool. Please keep your responses friendly, brief and conversational. 
-
-Please execute the task as soon as you can—an artifact would be great if it makes sense. If using an artifact, consider what kind of artifact (interactive, visual, checklist, etc.) might be most helpful for this specific task. Thanks for your help!
-
-Code
-
-*   Explain a programming concept    [](https://claude.com/blog#) 
-Hi Claude! Could you explain a programming concept? If you need more information from me, ask me 1-2 key questions right away. If you think I should upload any documents that would help you do a better job, let me know. You can use the tools you have access to— like Google Drive, web search, etc.—if they’ll help you better accomplish this task. Do not use analysis tool. Please keep your responses friendly, brief and conversational. 
-
-Please execute the task as soon as you can—an artifact would be great if it makes sense. If using an artifact, consider what kind of artifact (interactive, visual, checklist, etc.) might be most helpful for this specific task. Thanks for your help!
-
-*   Look over my code and give me tips    [](https://claude.com/blog#) 
-Hi Claude! Could you look over my code and give me tips? If you need more information from me, ask me 1-2 key questions right away. If you think I should upload any documents that would help you do a better job, let me know. You can use the tools you have access to— like Google Drive, web search, etc.—if they’ll help you better accomplish this task. Do not use analysis tool. Please keep your responses friendly, brief and conversational. 
-
-Please execute the task as soon as you can—an artifact would be great if it makes sense. If using an artifact, consider what kind of artifact (interactive, visual, checklist, etc.) might be most helpful for this specific task. Thanks for your help!
-
-*   Vibe code with me    [](https://claude.com/blog#) 
-Hi Claude! Could you vibe code with me? If you need more information from me, ask me 1-2 key questions right away. If you think I should upload any documents that would help you do a better job, let me know. You can use the tools you have access to— like Google Drive, web search, etc.—if they’ll help you better accomplish this task. Do not use analysis tool. Please keep your responses friendly, brief and conversational. 
-
-Please execute the task as soon as you can—an artifact would be great if it makes sense. If using an artifact, consider what kind of artifact (interactive, visual, checklist, etc.) might be most helpful for this specific task. Thanks for your help!
-
-More
-
-*   Write case studies    [](https://claude.com/blog#) 
-This is another test
-
-*   Write grant proposals    [](https://claude.com/blog#) 
-Hi Claude! Could you write grant proposals? If you need more information from me, ask me 1-2 key questions right away. If you think I should upload any documents that would help you do a better job, let me know. You can use the tools you have access to — like Google Drive, web search, etc. — if they’ll help you better accomplish this task. Do not use analysis tool. Please keep your responses friendly, brief and conversational. 
-
-Please execute the task as soon as you can - an artifact would be great if it makes sense. If using an artifact, consider what kind of artifact (interactive, visual, checklist, etc.) might be most helpful for this specific task. Thanks for your help!
-
-*   Write video scripts    [](https://claude.com/blog#) 
-this is a test
-
 [Anthropic](https://www.anthropic.com/)Anthropic
 
 © 2026 Anthropic PBC
@@ -1452,7 +1352,7 @@ Products
 *   Claude Security [Claude Security](https://claude.com/product/claude-security)Claude Security 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/login)Log in 
+*   Log in [Log in](https://claude.ai/redirect/claude_com.v1.c4f1c0ee-3a7a-41ec-9fbc-8bfc7a17820e/login)Log in 
 
 Features
 
