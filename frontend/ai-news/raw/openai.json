@@ -1,5 +1,35 @@
 [
   {
+    "title": "Expanding OpenAI\u2019s presence in Brazil",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "source": "OpenAI",
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "source": "OpenAI",
+    "date": "2026-08-26"
+  },
+  {
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
+    "source": "OpenAI",
+    "date": "2026-08-26"
+  },
+  {
+    "title": "The Hugging Face incident and the road ahead",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "source": "OpenAI",
+    "date": "2026-08-26"
+  },
+  {
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "url": "https://openai.com/index/loveholidays",
+    "source": "OpenAI",
+    "date": "2026-08-26"
+  },
+  {
     "title": "The full stack behind abundant intelligence",
     "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
     "source": "OpenAI",
@@ -30,8 +60,14 @@
     "date": "2026-08-24"
   },
   {
-    "title": "Introducing AI Futures",
+    "title": "Introducing Intelligence Age",
     "url": "https://openai.com/index/introducing-ai-futures",
+    "source": "OpenAI",
+    "date": "2026-08-20"
+  },
+  {
+    "title": "Introducing Intelligence Age",
+    "url": "https://openai.com/index/introducing-intelligence-age",
     "source": "OpenAI",
     "date": "2026-08-20"
   },
@@ -328,11 +364,5 @@
     "url": "https://openai.com/index/scientific-computing-agentic-ai",
     "source": "OpenAI",
     "date": "2026-07-28"
-  },
-  {
-    "title": "How AI is expanding what people do at work",
-    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "source": "OpenAI",
-    "date": "2026-07-27"
   }
 ]
