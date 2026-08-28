@@ -717,35 +717,5 @@
       "Product Launch",
       "Developer Tools"
     ]
-  },
-  {
-    "title": "Bringing MCP 2026-07-28 to Claude",
-    "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
-    "source": "Claude",
-    "date": "2026-07-28",
-    "tags": [
-      "Product Launch",
-      "Agents"
-    ]
-  },
-  {
-    "title": "Scientific computing in the age of agentic AI",
-    "url": "https://openai.com/index/scientific-computing-agentic-ai",
-    "source": "OpenAI",
-    "date": "2026-07-28",
-    "tags": [
-      "Agents",
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-    "source": "Google",
-    "date": "2026-07-28",
-    "tags": [
-      "Agents",
-      "Developer Tools"
-    ]
   }
 ]
