@@ -1,5 +1,11 @@
 [
   {
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "source": "OpenAI",
+    "date": "2026-08-28"
+  },
+  {
     "title": "Supporting Thailand\u2019s next generation of AI startups",
     "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
     "source": "OpenAI",
@@ -18,14 +24,14 @@
     "date": "2026-08-27"
   },
   {
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
     "source": "OpenAI",
     "date": "2026-08-26"
   },
   {
-    "title": "Learning never stops: How AI makes learning continuous",
-    "url": "https://openai.com/index/learning-never-stops",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "source": "OpenAI",
     "date": "2026-08-26"
   },
@@ -73,13 +79,13 @@
   },
   {
     "title": "Introducing Intelligence Age",
-    "url": "https://openai.com/index/introducing-ai-futures",
+    "url": "https://openai.com/index/introducing-intelligence-age",
     "source": "OpenAI",
     "date": "2026-08-20"
   },
   {
     "title": "Introducing Intelligence Age",
-    "url": "https://openai.com/index/introducing-intelligence-age",
+    "url": "https://openai.com/index/introducing-ai-futures",
     "source": "OpenAI",
     "date": "2026-08-20"
   },
@@ -192,14 +198,14 @@
     "date": "2026-08-12"
   },
   {
-    "title": "Testing ads in ChatGPT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "title": "Daybreak models are now available on AWS",
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
     "source": "OpenAI",
     "date": "2026-08-11"
   },
   {
-    "title": "Daybreak models are now available on AWS",
-    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "source": "OpenAI",
     "date": "2026-08-11"
   },
@@ -222,20 +228,14 @@
     "date": "2026-08-10"
   },
   {
-    "title": "Putting frontier cyber models in more trusted hands",
-    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "source": "OpenAI",
-    "date": "2026-08-10"
-  },
-  {
     "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
     "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
     "source": "OpenAI",
     "date": "2026-08-10"
   },
   {
-    "title": "Premium seats are coming to ChatGPT Business",
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "title": "Putting frontier cyber models in more trusted hands",
+    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
     "source": "OpenAI",
     "date": "2026-08-10"
   },
@@ -248,6 +248,12 @@
   {
     "title": "How Zapier transformed core marketing processes with ChatGPT Work",
     "url": "https://openai.com/index/zapier",
+    "source": "OpenAI",
+    "date": "2026-08-10"
+  },
+  {
+    "title": "Premium seats are coming to ChatGPT Business",
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
     "source": "OpenAI",
     "date": "2026-08-10"
   },
@@ -346,17 +352,5 @@
     "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
     "source": "OpenAI",
     "date": "2026-07-30"
-  },
-  {
-    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "url": "https://openai.com/index/avatarin",
-    "source": "OpenAI",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "source": "OpenAI",
-    "date": "2026-07-29"
   }
 ]
