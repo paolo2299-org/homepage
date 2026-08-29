@@ -687,35 +687,5 @@
       "Product Launch",
       "Developer Tools"
     ]
-  },
-  {
-    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "source": "OpenAI",
-    "date": "2026-07-29",
-    "tags": [
-      "Developer Tools",
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "source": "OpenAI",
-    "date": "2026-07-29",
-    "tags": [
-      "Product Launch",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "source": "OpenAI",
-    "date": "2026-07-29",
-    "tags": [
-      "Product Launch",
-      "Developer Tools"
-    ]
   }
 ]
