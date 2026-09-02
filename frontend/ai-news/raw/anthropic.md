@@ -2,8 +2,6 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
-Published Time: Mon, 31 Aug 2026 16:46:19 GMT
-
 Markdown Content:
 [](https://claude.com/)
 
@@ -534,7 +532,7 @@ Grid
 
 List
 
-![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f783c784823d48ad84175_Object-CodeChatText.svg)
+![Image 1](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f783c784823d48ad84175_Object-CodeChatText.svg)
 
 Aug 28, 2026
 
@@ -552,7 +550,7 @@ August 28, 2026
 
 [](https://claude.com/blog/how-anthropic-employees-use-claude-tag)
 
-![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a90479f5433ec75978f1e8a_Object-Apple.svg)
+![Image 2](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a90479f5433ec75978f1e8a_Object-Apple.svg)
 
 Aug 28, 2026
 
@@ -570,7 +568,7 @@ August 28, 2026
 
 [](https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts)
 
-![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225485fe31f1ed2d9a1_db28a79c9f4492b8471009d4c20e900f234ece48-1000x1000.svg)
+![Image 3](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225485fe31f1ed2d9a1_db28a79c9f4492b8471009d4c20e900f234ece48-1000x1000.svg)
 
 Aug 26, 2026
 
@@ -588,7 +586,7 @@ August 26, 2026
 
 [](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude)
 
-![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d0099a66d72e05699_33ddc751e21fb4b116b3f57dd553f0bc55ea09d1-1000x1000.svg)
+![Image 4](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d0099a66d72e05699_33ddc751e21fb4b116b3f57dd553f0bc55ea09d1-1000x1000.svg)
 
 Aug 26, 2026
 
@@ -606,7 +604,7 @@ August 26, 2026
 
 [](https://claude.com/blog/claude-in-chrome-generally-available)
 
-![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22b8840b2f6f9a40fe0_8925ac952fa2cb8eb5e845b2e44f3e71b33fd695-1000x1000.svg)
+![Image 5](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22b8840b2f6f9a40fe0_8925ac952fa2cb8eb5e845b2e44f3e71b33fd695-1000x1000.svg)
 
 Aug 26, 2026
 
@@ -624,7 +622,7 @@ August 26, 2026
 
 [](https://claude.com/blog/cowork-built-in-browser)
 
-![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22727482c9ba6a02e71_1576ae23eaf481f33bd36ab468171cc69d12361a-1000x1000.svg)
+![Image 6](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22727482c9ba6a02e71_1576ae23eaf481f33bd36ab468171cc69d12361a-1000x1000.svg)
 
 Aug 25, 2026
 
@@ -642,7 +640,7 @@ August 25, 2026
 
 [](https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner)
 
-![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22562f020146c9ec973_f8f4644253bde2f901550431b871b6dcf91e5d9d-1000x1000.svg)
+![Image 7](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22562f020146c9ec973_f8f4644253bde2f901550431b871b6dcf91e5d9d-1000x1000.svg)
 
 Aug 25, 2026
 
@@ -660,7 +658,7 @@ August 25, 2026
 
 [](https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it)
 
-![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226ca443e2e05990c00_83d7d2fe412ceb4dfe627f0d5f3d64aff1a3f5db-1000x1000.svg)
+![Image 8](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226ca443e2e05990c00_83d7d2fe412ceb4dfe627f0d5f3d64aff1a3f5db-1000x1000.svg)
 
 Aug 24, 2026
 
@@ -678,7 +676,7 @@ August 24, 2026
 
 [](https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep)
 
-![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
+![Image 9](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
 
 Aug 21, 2026
 
@@ -696,7 +694,7 @@ August 21, 2026
 
 [](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
 
-![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
+![Image 10](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
 
 Aug 21, 2026
 
@@ -714,7 +712,7 @@ August 21, 2026
 
 [](https://claude.com/blog/the-ai-native-sdlc-playbook)
 
-![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d223de65e7dcca8267d8_ea364001be6bf6d2e86b58109ead6a779d5771a7-1000x1000.svg)
+![Image 11](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d223de65e7dcca8267d8_ea364001be6bf6d2e86b58109ead6a779d5771a7-1000x1000.svg)
 
 Aug 20, 2026
 
@@ -732,7 +730,7 @@ August 20, 2026
 
 [](https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai)
 
-![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f76874e94e489958af8ba_Object-CodeMagnifier.svg)
+![Image 12](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f76874e94e489958af8ba_Object-CodeMagnifier.svg)
 
 Aug 20, 2026
 
@@ -750,7 +748,7 @@ August 20, 2026
 
 [](https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate)
 
-![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
+![Image 13](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
 
 Aug 20, 2026
 
@@ -768,7 +766,7 @@ August 20, 2026
 
 [](https://claude.com/blog/claude-code-guide-for-startups)
 
-![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229061abf091318fc81_6905c83d0735e1bc430025fdd1748d1406079036-1000x1000.svg)
+![Image 14](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229061abf091318fc81_6905c83d0735e1bc430025fdd1748d1406079036-1000x1000.svg)
 
 Aug 20, 2026
 
@@ -786,7 +784,7 @@ August 20, 2026
 
 [](https://claude.com/blog/computer-use-skills-api-files-api)
 
-![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22b1ef956a6d81cfd9c_653e7474811cf768b6b0f628e253f98c60e2747e-1000x1000.svg)
+![Image 15](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22b1ef956a6d81cfd9c_653e7474811cf768b6b0f628e253f98c60e2747e-1000x1000.svg)
 
 Aug 19, 2026
 
@@ -1110,9 +1108,9 @@ Read more
 
 [Read more](https://claude.com/blog/the-ai-native-sdlc-playbook)Read more
 
-![Image 34](https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6889473610b50328dbb70b58_placeholder.svg)
+![Image 16](https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6889473610b50328dbb70b58_placeholder.svg)
 
-![Image 35](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a887fb7499f6c70801d5e42_illo-light.svg)![Image 36](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a887fc0af0379f689797a01_illo-dark.svg)
+![Image 17](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a887fb7499f6c70801d5e42_illo-light.svg)![Image 18](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a887fc0af0379f689797a01_illo-dark.svg)
 
 [Video 2](https://claude.com/blog)
 
@@ -1247,7 +1245,7 @@ Company
 Programs
 
 *   Startups [Startups](https://claude.com/programs/startups)Startups 
-*   Research Labs [Research Labs](https://claude.com/programs/claude-team-plan-for-research-labs)Research Labs 
+*   Scientists [Scientists](https://claude.com/programs/team-plan-for-scientists)Scientists 
 
 Help and security
 

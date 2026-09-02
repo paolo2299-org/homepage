@@ -1,5 +1,29 @@
 [
   {
+    "title": "How AI-native companies turn workflows into operating capability",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "source": "OpenAI",
+    "date": "2026-09-01"
+  },
+  {
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "url": "https://openai.com/index/path-to-astra",
+    "source": "OpenAI",
+    "date": "2026-09-01"
+  },
+  {
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "source": "OpenAI",
+    "date": "2026-09-01"
+  },
+  {
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "url": "https://openai.com/index/gilbert-tobin",
+    "source": "OpenAI",
+    "date": "2026-09-01"
+  },
+  {
     "title": "OpenAI supports California\u2019s bill to advance youth AI safety",
     "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
     "source": "OpenAI",
@@ -42,14 +66,14 @@
     "date": "2026-08-27"
   },
   {
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
     "source": "OpenAI",
     "date": "2026-08-26"
   },
   {
-    "title": "Learning never stops: How AI makes learning continuous",
-    "url": "https://openai.com/index/learning-never-stops",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "source": "OpenAI",
     "date": "2026-08-26"
   },
@@ -252,14 +276,14 @@
     "date": "2026-08-10"
   },
   {
-    "title": "Premium seats are coming to ChatGPT Business",
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "url": "https://openai.com/index/zapier",
     "source": "OpenAI",
     "date": "2026-08-10"
   },
   {
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-    "url": "https://openai.com/index/zapier",
+    "title": "Premium seats are coming to ChatGPT Business",
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
     "source": "OpenAI",
     "date": "2026-08-10"
   },
@@ -314,18 +338,6 @@
   {
     "title": "Apple is getting this wrong",
     "url": "https://openai.com/index/apple-is-getting-this-wrong",
-    "source": "OpenAI",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "How we built a realtime system for responsive voice AI in six months",
-    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "source": "OpenAI",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "Circles powers telco personalization with OpenAI technology",
-    "url": "https://openai.com/index/circles",
     "source": "OpenAI",
     "date": "2026-08-03"
   }
