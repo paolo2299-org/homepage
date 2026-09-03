@@ -1,5 +1,11 @@
 [
   {
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "url": "https://openai.com/index/atv-big-air-tour",
+    "source": "OpenAI",
+    "date": "2026-09-02"
+  },
+  {
     "title": "How AI-native companies turn workflows into operating capability",
     "url": "https://openai.com/index/ai-native-company-workflows",
     "source": "OpenAI",
@@ -264,20 +270,20 @@
     "date": "2026-08-10"
   },
   {
-    "title": "Putting frontier cyber models in more trusted hands",
-    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "source": "OpenAI",
-    "date": "2026-08-10"
-  },
-  {
     "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
     "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
     "source": "OpenAI",
     "date": "2026-08-10"
   },
   {
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-    "url": "https://openai.com/index/zapier",
+    "title": "Putting frontier cyber models in more trusted hands",
+    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "source": "OpenAI",
+    "date": "2026-08-10"
+  },
+  {
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "source": "OpenAI",
     "date": "2026-08-10"
   },
@@ -288,8 +294,8 @@
     "date": "2026-08-10"
   },
   {
-    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "url": "https://openai.com/index/zapier",
     "source": "OpenAI",
     "date": "2026-08-10"
   },
@@ -328,17 +334,5 @@
     "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
     "source": "OpenAI",
     "date": "2026-08-04"
-  },
-  {
-    "title": "New ways to learn and teach with ChatGPT Work and Codex",
-    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "source": "OpenAI",
-    "date": "2026-08-04"
-  },
-  {
-    "title": "Apple is getting this wrong",
-    "url": "https://openai.com/index/apple-is-getting-this-wrong",
-    "source": "OpenAI",
-    "date": "2026-08-03"
   }
 ]

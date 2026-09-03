@@ -2,6 +2,8 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
+Published Time: Wed, 02 Sep 2026 21:15:31 GMT
+
 Markdown Content:
 [](https://claude.com/)
 
@@ -56,6 +58,7 @@ Solutions
 Use cases 
     *   [AI agents](https://claude.com/solutions/agents)
     *   [Coding](https://claude.com/solutions/coding)
+    *   [Commerce](https://claude.com/solutions/commerce)
 
 Company size
 
@@ -104,19 +107,19 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/login)
+*   [Login](https://claude.ai/redirect/claude_com.v1.514344ec-edb0-4315-8553-610c2500e6f0/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.514344ec-edb0-4315-8553-610c2500e6f0)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.514344ec-edb0-4315-8553-610c2500e6f0)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.514344ec-edb0-4315-8553-610c2500e6f0)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.514344ec-edb0-4315-8553-610c2500e6f0)Try Claude  
 
 *   
 Meet Claude       
@@ -169,6 +172,7 @@ Solutions
 Use cases 
     *   [AI agents](https://claude.com/solutions/agents)
     *   [Coding](https://claude.com/solutions/coding)
+    *   [Commerce](https://claude.com/solutions/commerce)
 
 Company size
 
@@ -217,12 +221,12 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/login)
+*   [Login](https://claude.ai/redirect/claude_com.v1.514344ec-edb0-4315-8553-610c2500e6f0/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.514344ec-edb0-4315-8553-610c2500e6f0)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.514344ec-edb0-4315-8553-610c2500e6f0)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -316,11 +320,11 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/)Try Claude
+[Try Claude](https://claude.ai/redirect/claude_com.v1.514344ec-edb0-4315-8553-610c2500e6f0)Try Claude
 
 All
 
-15
+233
 
 ## [Agents](https://claude.com/blog-category/agents)
 
@@ -532,7 +536,59 @@ Grid
 
 List
 
-![Image 1](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f783c784823d48ad84175_Object-CodeChatText.svg)
+![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
+
+Sep 2, 2026
+
+A guide to the anatomy of effective commerce agents
+
+Agents
+
+A guide to the anatomy of effective commerce agents
+
+[](https://claude.com/blog)
+
+Claude Platform
+
+[](https://claude.com/blog)
+
+Agents
+
+September 2, 2026
+
+[A guide to the anatomy of effective commerce agents](https://claude.com/blog/the-anatomy-of-effective-commerce-agents)A guide to the anatomy of effective commerce agents
+
+[A guide to the anatomy of effective commerce agents](https://claude.com/blog#)A guide to the anatomy of effective commerce agents
+
+[](https://claude.com/blog/the-anatomy-of-effective-commerce-agents)
+
+![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d228c83775fcc75f4e6d_74409af25137110ac04cc39e4d5ea0a2fbcea421-1000x1000.svg)
+
+Sep 2, 2026
+
+Building commerce agents with Claude
+
+Product announcements
+
+Building commerce agents with Claude
+
+[](https://claude.com/blog)
+
+Claude Platform
+
+[](https://claude.com/blog)
+
+Agents
+
+September 2, 2026
+
+[Building commerce agents with Claude](https://claude.com/blog/claude-for-commerce-agents)Building commerce agents with Claude
+
+[Building commerce agents with Claude](https://claude.com/blog#)Building commerce agents with Claude
+
+[](https://claude.com/blog/claude-for-commerce-agents)
+
+![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f783c784823d48ad84175_Object-CodeChatText.svg)
 
 Aug 28, 2026
 
@@ -542,6 +598,10 @@ Enterprise AI
 
 How Anthropic employees use Claude Tag
 
+[](https://claude.com/blog)
+
+Claude Tag
+
 August 28, 2026
 
 [How Anthropic employees use Claude Tag](https://claude.com/blog/how-anthropic-employees-use-claude-tag)How Anthropic employees use Claude Tag
@@ -550,7 +610,7 @@ August 28, 2026
 
 [](https://claude.com/blog/how-anthropic-employees-use-claude-tag)
 
-![Image 2](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a90479f5433ec75978f1e8a_Object-Apple.svg)
+![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a90479f5433ec75978f1e8a_Object-Apple.svg)
 
 Aug 28, 2026
 
@@ -560,6 +620,14 @@ Product announcements
 
 Claude for Teachers, now available for U.S. K-12 schools and districts
 
+[](https://claude.com/blog)
+
+Claude apps
+
+[](https://claude.com/blog)
+
+Education
+
 August 28, 2026
 
 [Claude for Teachers, now available for U.S. K-12 schools and districts](https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts)Claude for Teachers, now available for U.S. K-12 schools and districts
@@ -568,7 +636,7 @@ August 28, 2026
 
 [](https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts)
 
-![Image 3](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225485fe31f1ed2d9a1_db28a79c9f4492b8471009d4c20e900f234ece48-1000x1000.svg)
+![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225485fe31f1ed2d9a1_db28a79c9f4492b8471009d4c20e900f234ece48-1000x1000.svg)
 
 Aug 26, 2026
 
@@ -578,6 +646,10 @@ Agents
 
 How Warp builds self-improving agents on Claude
 
+[](https://claude.com/blog)
+
+Claude Platform
+
 August 26, 2026
 
 [How Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude)How Warp builds self-improving agents on Claude
@@ -586,7 +658,7 @@ August 26, 2026
 
 [](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude)
 
-![Image 4](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d0099a66d72e05699_33ddc751e21fb4b116b3f57dd553f0bc55ea09d1-1000x1000.svg)
+![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d0099a66d72e05699_33ddc751e21fb4b116b3f57dd553f0bc55ea09d1-1000x1000.svg)
 
 Aug 26, 2026
 
@@ -595,6 +667,22 @@ Claude in Chrome is generally available
 Product announcements
 
 Claude in Chrome is generally available 
+
+[](https://claude.com/blog)
+
+Claude Cowork
+
+[](https://claude.com/blog)
+
+Claude apps
+
+[](https://claude.com/blog)
+
+Work
+
+[](https://claude.com/blog)
+
+Productivity
 
 August 26, 2026
 
@@ -604,7 +692,7 @@ August 26, 2026
 
 [](https://claude.com/blog/claude-in-chrome-generally-available)
 
-![Image 5](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22b8840b2f6f9a40fe0_8925ac952fa2cb8eb5e845b2e44f3e71b33fd695-1000x1000.svg)
+![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22b8840b2f6f9a40fe0_8925ac952fa2cb8eb5e845b2e44f3e71b33fd695-1000x1000.svg)
 
 Aug 26, 2026
 
@@ -614,6 +702,22 @@ Product announcements
 
 Claude gets its own browser in Cowork
 
+[](https://claude.com/blog)
+
+Claude Cowork
+
+[](https://claude.com/blog)
+
+Claude apps
+
+[](https://claude.com/blog)
+
+Work
+
+[](https://claude.com/blog)
+
+Productivity
+
 August 26, 2026
 
 [Claude gets its own browser in Cowork](https://claude.com/blog/cowork-built-in-browser)Claude gets its own browser in Cowork
@@ -622,7 +726,7 @@ August 26, 2026
 
 [](https://claude.com/blog/cowork-built-in-browser)
 
-![Image 6](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22727482c9ba6a02e71_1576ae23eaf481f33bd36ab468171cc69d12361a-1000x1000.svg)
+![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22727482c9ba6a02e71_1576ae23eaf481f33bd36ab468171cc69d12361a-1000x1000.svg)
 
 Aug 25, 2026
 
@@ -640,7 +744,7 @@ August 25, 2026
 
 [](https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner)
 
-![Image 7](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22562f020146c9ec973_f8f4644253bde2f901550431b871b6dcf91e5d9d-1000x1000.svg)
+![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22562f020146c9ec973_f8f4644253bde2f901550431b871b6dcf91e5d9d-1000x1000.svg)
 
 Aug 25, 2026
 
@@ -650,6 +754,10 @@ Product announcements
 
 Claude's memory works everywhere, and you decide what's in it
 
+[](https://claude.com/blog)
+
+Claude Cowork
+
 August 25, 2026
 
 [Claude's memory works everywhere, and you decide what's in it](https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it)Claude's memory works everywhere, and you decide what's in it
@@ -658,7 +766,7 @@ August 25, 2026
 
 [](https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it)
 
-![Image 8](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226ca443e2e05990c00_83d7d2fe412ceb4dfe627f0d5f3d64aff1a3f5db-1000x1000.svg)
+![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226ca443e2e05990c00_83d7d2fe412ceb4dfe627f0d5f3d64aff1a3f5db-1000x1000.svg)
 
 Aug 24, 2026
 
@@ -668,6 +776,18 @@ Claude Code
 
 How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep
 
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Sales
+
+[](https://claude.com/blog)
+
+Productivity
+
 August 24, 2026
 
 [How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep](https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep)How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep
@@ -676,7 +796,7 @@ August 24, 2026
 
 [](https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep)
 
-![Image 9](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
+![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
 
 Aug 21, 2026
 
@@ -694,7 +814,7 @@ August 21, 2026
 
 [](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
 
-![Image 10](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
+![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
 
 Aug 21, 2026
 
@@ -704,6 +824,22 @@ Enterprise AI
 
 The AI-Native SDLC playbook
 
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Tag
+
+[](https://claude.com/blog)
+
+Coding
+
 August 21, 2026
 
 [The AI-Native SDLC playbook](https://claude.com/blog/the-ai-native-sdlc-playbook)The AI-Native SDLC playbook
@@ -712,7 +848,7 @@ August 21, 2026
 
 [](https://claude.com/blog/the-ai-native-sdlc-playbook)
 
-![Image 11](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d223de65e7dcca8267d8_ea364001be6bf6d2e86b58109ead6a779d5771a7-1000x1000.svg)
+![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d223de65e7dcca8267d8_ea364001be6bf6d2e86b58109ead6a779d5771a7-1000x1000.svg)
 
 Aug 20, 2026
 
@@ -721,6 +857,14 @@ Anthropic’s approach to teaching and learning AI
 Product announcements
 
 Anthropic’s approach to teaching and learning AI
+
+[](https://claude.com/blog)
+
+Agents
+
+[](https://claude.com/blog)
+
+Productivity
 
 August 20, 2026
 
@@ -730,7 +874,7 @@ August 20, 2026
 
 [](https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai)
 
-![Image 12](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f76874e94e489958af8ba_Object-CodeMagnifier.svg)
+![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f76874e94e489958af8ba_Object-CodeMagnifier.svg)
 
 Aug 20, 2026
 
@@ -740,6 +884,14 @@ Agents
 
 How monday.com transformed its platform into an agent-first product where humans and agents collaborate
 
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Business
+
 August 20, 2026
 
 [How monday.com transformed its platform into an agent-first product where humans and agents collaborate](https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate)How monday.com transformed its platform into an agent-first product where humans and agents collaborate
@@ -748,7 +900,7 @@ August 20, 2026
 
 [](https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate)
 
-![Image 13](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
+![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
 
 Aug 20, 2026
 
@@ -758,6 +910,14 @@ Claude Code
 
 The Claude Code guide for startups
 
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Startups
+
 August 20, 2026
 
 [The Claude Code guide for startups](https://claude.com/blog/claude-code-guide-for-startups)The Claude Code guide for startups
@@ -766,51 +926,67 @@ August 20, 2026
 
 [](https://claude.com/blog/claude-code-guide-for-startups)
 
-![Image 14](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229061abf091318fc81_6905c83d0735e1bc430025fdd1748d1406079036-1000x1000.svg)
+[Previous](https://claude.com/blog?b7eea976_page=16)[View more](https://claude.com/blog?b7eea976_page=2)
 
-Aug 20, 2026
-
-Build production agents with computer use, the Skills API, and the Files API
-
-Product announcements
-
-Build production agents with computer use, the Skills API, and the Files API
-
-August 20, 2026
-
-[Build production agents with computer use, the Skills API, and the Files API](https://claude.com/blog/computer-use-skills-api-files-api)Build production agents with computer use, the Skills API, and the Files API
-
-[Build production agents with computer use, the Skills API, and the Files API](https://claude.com/blog#)Build production agents with computer use, the Skills API, and the Files API
-
-[](https://claude.com/blog/computer-use-skills-api-files-api)
-
-![Image 15](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22b1ef956a6d81cfd9c_653e7474811cf768b6b0f628e253f98c60e2747e-1000x1000.svg)
-
-Aug 19, 2026
-
-Turning conversation into knowledge: how Slack builds human-agent teams
-
-Enterprise AI
-
-Turning conversation into knowledge: how Slack builds human-agent teams
-
-August 19, 2026
-
-[Turning conversation into knowledge: how Slack builds human-agent teams](https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams)Turning conversation into knowledge: how Slack builds human-agent teams
-
-[Turning conversation into knowledge: how Slack builds human-agent teams](https://claude.com/blog#)Turning conversation into knowledge: how Slack builds human-agent teams
-
-[](https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams)
-
-[View more](https://claude.com/blog?b7eea976_page=2)
-
-1 / 1
+1 / 16
 
 Category
 
 Product
 
 Usecase
+
+### A guide to the anatomy of effective commerce agents
+
+Category
+
+Agents
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Platform
+
+Usecase
+
+[](https://claude.com/blog)
+
+Agents
+
+September 2, 2026
+
+[A guide to the anatomy of effective commerce agents](https://claude.com/blog/the-anatomy-of-effective-commerce-agents)A guide to the anatomy of effective commerce agents
+
+[A guide to the anatomy of effective commerce agents](https://claude.com/blog#)A guide to the anatomy of effective commerce agents
+
+[](https://claude.com/blog/the-anatomy-of-effective-commerce-agents)
+
+### Building commerce agents with Claude
+
+Category
+
+Product announcements
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Platform
+
+Usecase
+
+[](https://claude.com/blog)
+
+Agents
+
+September 2, 2026
+
+[Building commerce agents with Claude](https://claude.com/blog/claude-for-commerce-agents)Building commerce agents with Claude
+
+[Building commerce agents with Claude](https://claude.com/blog#)Building commerce agents with Claude
+
+[](https://claude.com/blog/claude-for-commerce-agents)
 
 ### How Anthropic employees use Claude Tag
 
@@ -819,6 +995,10 @@ Category
 Enterprise AI
 
 Product
+
+[](https://claude.com/blog)
+
+Claude Tag
 
 Usecase
 
@@ -838,7 +1018,15 @@ Product announcements
 
 Product
 
+[](https://claude.com/blog)
+
+Claude apps
+
 Usecase
+
+[](https://claude.com/blog)
+
+Education
 
 August 28, 2026
 
@@ -855,6 +1043,10 @@ Category
 Agents
 
 Product
+
+[](https://claude.com/blog)
+
+Claude Platform
 
 Usecase
 
@@ -874,7 +1066,23 @@ Product announcements
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Cowork
+
+[](https://claude.com/blog)
+
+Claude apps
+
 Usecase
+
+[](https://claude.com/blog)
+
+Work
+
+[](https://claude.com/blog)
+
+Productivity
 
 August 26, 2026
 
@@ -892,7 +1100,23 @@ Product announcements
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Cowork
+
+[](https://claude.com/blog)
+
+Claude apps
+
 Usecase
+
+[](https://claude.com/blog)
+
+Work
+
+[](https://claude.com/blog)
+
+Productivity
 
 August 26, 2026
 
@@ -928,6 +1152,10 @@ Product announcements
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Cowork
+
 Usecase
 
 August 25, 2026
@@ -946,7 +1174,19 @@ Claude Code
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Code
+
 Usecase
+
+[](https://claude.com/blog)
+
+Sales
+
+[](https://claude.com/blog)
+
+Productivity
 
 August 24, 2026
 
@@ -982,7 +1222,23 @@ Enterprise AI
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Tag
+
 Usecase
+
+[](https://claude.com/blog)
+
+Coding
 
 August 21, 2026
 
@@ -1002,6 +1258,14 @@ Product
 
 Usecase
 
+[](https://claude.com/blog)
+
+Agents
+
+[](https://claude.com/blog)
+
+Productivity
+
 August 20, 2026
 
 [Anthropic’s approach to teaching and learning AI](https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai)Anthropic’s approach to teaching and learning AI
@@ -1018,7 +1282,15 @@ Agents
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Enterprise
+
 Usecase
+
+[](https://claude.com/blog)
+
+Business
 
 August 20, 2026
 
@@ -1036,7 +1308,15 @@ Claude Code
 
 Product
 
+[](https://claude.com/blog)
+
+Claude Code
+
 Usecase
+
+[](https://claude.com/blog)
+
+Startups
 
 August 20, 2026
 
@@ -1046,45 +1326,9 @@ August 20, 2026
 
 [](https://claude.com/blog/claude-code-guide-for-startups)
 
-### Build production agents with computer use, the Skills API, and the Files API
+[Previous](https://claude.com/blog?d7430fcd_page=16)[View more](https://claude.com/blog?d7430fcd_page=2)
 
-Category
-
-Product announcements
-
-Product
-
-Usecase
-
-August 20, 2026
-
-[Build production agents with computer use, the Skills API, and the Files API](https://claude.com/blog/computer-use-skills-api-files-api)Build production agents with computer use, the Skills API, and the Files API
-
-[Build production agents with computer use, the Skills API, and the Files API](https://claude.com/blog#)Build production agents with computer use, the Skills API, and the Files API
-
-[](https://claude.com/blog/computer-use-skills-api-files-api)
-
-### Turning conversation into knowledge: how Slack builds human-agent teams
-
-Category
-
-Enterprise AI
-
-Product
-
-Usecase
-
-August 19, 2026
-
-[Turning conversation into knowledge: how Slack builds human-agent teams](https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams)Turning conversation into knowledge: how Slack builds human-agent teams
-
-[Turning conversation into knowledge: how Slack builds human-agent teams](https://claude.com/blog#)Turning conversation into knowledge: how Slack builds human-agent teams
-
-[](https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams)
-
-[View more](https://claude.com/blog?d7430fcd_page=2)
-
-1 / 1
+1 / 16
 
 No posts for those filters
 
@@ -1108,9 +1352,9 @@ Read more
 
 [Read more](https://claude.com/blog/the-ai-native-sdlc-playbook)Read more
 
-![Image 16](https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6889473610b50328dbb70b58_placeholder.svg)
+![Image 34](https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6889473610b50328dbb70b58_placeholder.svg)
 
-![Image 17](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a887fb7499f6c70801d5e42_illo-light.svg)![Image 18](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a887fc0af0379f689797a01_illo-dark.svg)
+![Image 35](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a887fb7499f6c70801d5e42_illo-light.svg)![Image 36](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a887fc0af0379f689797a01_illo-dark.svg)
 
 [Video 2](https://claude.com/blog)
 
@@ -1166,7 +1410,7 @@ Products
 *   Claude Security [Claude Security](https://claude.com/product/claude-security)Claude Security 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/login)Log in 
+*   Log in [Log in](https://claude.ai/redirect/claude_com.v1.514344ec-edb0-4315-8553-610c2500e6f0/login)Log in 
 
 Features
 
@@ -1187,6 +1431,7 @@ Solutions
 *   AI agents [AI agents](https://claude.com/solutions/agents)AI agents 
 *   Code modernization [Code modernization](https://claude.com/solutions/code-modernization)Code modernization 
 *   Coding [Coding](https://claude.com/solutions/coding)Coding 
+*   Commerce [Commerce](https://claude.com/solutions/commerce)Commerce 
 *   Customer support [Customer support](https://claude.com/solutions/customer-support)Customer support 
 *   Cybersecurity [Cybersecurity](https://claude.com/solutions/cybersecurity)Cybersecurity 
 *   Enterprise [Enterprise](https://claude.com/solutions/enterprise)Enterprise 
@@ -1250,8 +1495,9 @@ Programs
 Help and security
 
 *   Availability [Availability](https://www.anthropic.com/supported-countries)Availability 
-*   Status [Status](https://status.anthropic.com/)Status 
+*   Check files [Check files](https://claude.com/check-files)Check files 
 *   Report abuse [Report abuse](https://claude.com/form/anthropic-content-reporting)Report abuse 
+*   Status [Status](https://status.anthropic.com/)Status 
 *   Support center [Support center](https://support.claude.com/en/)Support center 
 
 Terms and policies
@@ -1277,24 +1523,26 @@ Enables ads personalization and tracking. Off- [x]     Save preferences
 
 [x.com](https://x.com/claudeai)x.com
 
+[x.com](https://www.threads.com/@claudeai)x.com
+
 [LinkedIn](https://www.linkedin.com/showcase/claude/)LinkedIn
 
 [YouTube](https://www.youtube.com/@anthropic-ai)YouTube
 
 [Instagram](https://www.instagram.com/claudeai)Instagram
 
-English (US)
+English
 
-[English (US)](https://claude.com/blog)
+[English](https://claude.com/blog)
 
-[日本語 (Japan)](https://claude.com/ja/blog)
+[日本語](https://claude.com/ja/blog)
 
-[Deutsch (Germany)](https://claude.com/de/blog)
+[Deutsch](https://claude.com/de/blog)
 
-[Français (France)](https://claude.com/fr/blog)
+[Français](https://claude.com/fr/blog)
 
-[한국어 (South Korea)](https://claude.com/ko/blog)
+[한국어](https://claude.com/ko/blog)
 
-[Italiano (Italy)](https://claude.com/it/blog)
+[Italiano](https://claude.com/it/blog)
 
 ×
