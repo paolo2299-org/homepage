@@ -572,44 +572,5 @@
       "Case Study",
       "Enterprise"
     ]
-  },
-  {
-    "title": "How we built a realtime system for responsive voice AI in six months",
-    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "source": "OpenAI",
-    "date": "2026-08-03",
-    "tags": [
-      "Developer Tools",
-      "Case Study"
-    ]
-  },
-  {
-    "title": "Circles powers telco personalization with OpenAI technology",
-    "url": "https://openai.com/index/circles",
-    "source": "OpenAI",
-    "date": "2026-08-03",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Apple is getting this wrong",
-    "url": "https://openai.com/index/apple-is-getting-this-wrong",
-    "source": "OpenAI",
-    "date": "2026-08-03",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Inside our 353,000-person vibe coding course",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-    "source": "Google",
-    "date": "2026-08-03",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
   }
 ]
