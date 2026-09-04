@@ -542,35 +542,5 @@
       "Product Launch",
       "Enterprise"
     ]
-  },
-  {
-    "title": "A guide to cost visibility and control in Claude",
-    "url": "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude",
-    "source": "Claude",
-    "date": "2026-08-04",
-    "tags": [
-      "Enterprise",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Third-party cyber evaluations involving OpenAI models",
-    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "source": "OpenAI",
-    "date": "2026-08-04",
-    "tags": [
-      "Developer Tools",
-      "Opinion"
-    ]
-  },
-  {
-    "title": "New ways to learn and teach with ChatGPT Work and Codex",
-    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "source": "OpenAI",
-    "date": "2026-08-04",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
   }
 ]
