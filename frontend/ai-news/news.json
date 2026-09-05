@@ -532,15 +532,5 @@
       "Opinion",
       "Case Study"
     ]
-  },
-  {
-    "title": "Inference hooks: inline data loss prevention for Claude Enterprise",
-    "url": "https://claude.com/blog/claude-enterprise-inference-hooks",
-    "source": "Claude",
-    "date": "2026-08-05",
-    "tags": [
-      "Product Launch",
-      "Enterprise"
-    ]
   }
 ]
