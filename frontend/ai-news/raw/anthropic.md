@@ -1328,7 +1328,7 @@ August 20, 2026
 
 [Previous](https://claude.com/blog?d7430fcd_page=16)[View more](https://claude.com/blog?d7430fcd_page=2)
 
-1 / 16
+1 / 1
 
 No posts for those filters
 
