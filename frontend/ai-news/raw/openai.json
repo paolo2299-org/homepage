@@ -1,5 +1,47 @@
 [
   {
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "source": "OpenAI",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "The Work Now Within Reach",
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "source": "OpenAI",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "Introducing ChatGPT Images 2.5",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "source": "OpenAI",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "On the Navier\u2013Stokes Millennium Prize Problem",
+    "url": "https://openai.com/index/navier-stokes-solution",
+    "source": "OpenAI",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "Funding grants for new research into AI and teen development",
+    "url": "https://openai.com/index/teen-development-research-grants",
+    "source": "OpenAI",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "source": "OpenAI",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "1Password increases engineering productivity 21% with Codex",
+    "url": "https://openai.com/index/1password",
+    "source": "OpenAI",
+    "date": "2026-09-08"
+  },
+  {
     "title": "Supporting independent journalism in Ukraine",
     "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
     "source": "OpenAI",
@@ -24,14 +66,14 @@
     "date": "2026-09-03"
   },
   {
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
     "source": "OpenAI",
     "date": "2026-09-03"
   },
   {
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "source": "OpenAI",
     "date": "2026-09-03"
   },
@@ -120,14 +162,14 @@
     "date": "2026-08-27"
   },
   {
-    "title": "Learning never stops: How AI makes learning continuous",
-    "url": "https://openai.com/index/learning-never-stops",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "source": "OpenAI",
     "date": "2026-08-26"
   },
   {
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
     "source": "OpenAI",
     "date": "2026-08-26"
   },
@@ -318,32 +360,14 @@
     "date": "2026-08-10"
   },
   {
-    "title": "Putting frontier cyber models in more trusted hands",
-    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "source": "OpenAI",
-    "date": "2026-08-10"
-  },
-  {
     "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
     "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
     "source": "OpenAI",
     "date": "2026-08-10"
   },
   {
-    "title": "Premium seats are coming to ChatGPT Business",
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
-    "source": "OpenAI",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-    "source": "OpenAI",
-    "date": "2026-08-10"
-  },
-  {
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-    "url": "https://openai.com/index/zapier",
+    "title": "Putting frontier cyber models in more trusted hands",
+    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
     "source": "OpenAI",
     "date": "2026-08-10"
   }
