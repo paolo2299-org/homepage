@@ -1,5 +1,41 @@
 [
   {
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "source": "OpenAI",
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Now everyone can put data to work",
+    "url": "https://openai.com/index/put-data-to-work",
+    "source": "OpenAI",
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Introducing ChatGPT for Financial Services",
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "source": "OpenAI",
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "url": "https://openai.com/index/expanding-ai-access-us-government",
+    "source": "OpenAI",
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Introducing the Agents API",
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "source": "OpenAI",
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "source": "OpenAI",
+    "date": "2026-09-10"
+  },
+  {
     "title": "The AI policy window is open. We need to act.",
     "url": "https://openai.com/index/ai-policy-window",
     "source": "OpenAI",
@@ -180,14 +216,14 @@
     "date": "2026-08-27"
   },
   {
-    "title": "Learning never stops: How AI makes learning continuous",
-    "url": "https://openai.com/index/learning-never-stops",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "source": "OpenAI",
     "date": "2026-08-26"
   },
   {
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
     "source": "OpenAI",
     "date": "2026-08-26"
   },
@@ -334,29 +370,5 @@
     "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
     "source": "OpenAI",
     "date": "2026-08-13"
-  },
-  {
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "source": "OpenAI",
-    "date": "2026-08-12"
-  },
-  {
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "url": "https://openai.com/index/ringcentral",
-    "source": "OpenAI",
-    "date": "2026-08-12"
-  },
-  {
-    "title": "Testing ads in ChatGPT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "source": "OpenAI",
-    "date": "2026-08-11"
-  },
-  {
-    "title": "Daybreak models are now available on AWS",
-    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "source": "OpenAI",
-    "date": "2026-08-11"
   }
 ]
