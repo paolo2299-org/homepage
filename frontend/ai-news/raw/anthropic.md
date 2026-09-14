@@ -107,19 +107,19 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claude_com.v1.64106c76-a54d-408c-841d-997e2b6692ba/login)
+*   [Login](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.64106c76-a54d-408c-841d-997e2b6692ba)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.64106c76-a54d-408c-841d-997e2b6692ba)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.64106c76-a54d-408c-841d-997e2b6692ba)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.64106c76-a54d-408c-841d-997e2b6692ba)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957)Try Claude  
 
 *   
 Meet Claude       
@@ -221,12 +221,12 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claude_com.v1.64106c76-a54d-408c-841d-997e2b6692ba/login)
+*   [Login](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.64106c76-a54d-408c-841d-997e2b6692ba)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.64106c76-a54d-408c-841d-997e2b6692ba)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -322,7 +322,7 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/redirect/claude_com.v1.64106c76-a54d-408c-841d-997e2b6692ba)Try Claude
+[Try Claude](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957)Try Claude
 
 All
 
@@ -1412,7 +1412,7 @@ Products
 *   Claude Security [Claude Security](https://claude.com/product/claude-security)Claude Security 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/redirect/claude_com.v1.64106c76-a54d-408c-841d-997e2b6692ba/login)Log in 
+*   Log in [Log in](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957/login)Log in 
 
 Features
 
