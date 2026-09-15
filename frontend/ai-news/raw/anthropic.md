@@ -2,7 +2,7 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
-Published Time: Sun, 13 Sep 2026 01:09:19 GMT
+Published Time: Tue, 15 Sep 2026 03:57:52 GMT
 
 Markdown Content:
 [](https://claude.com/)
@@ -49,7 +49,7 @@ Works with Claude
 
     *   [Ecosystem](https://claude.com/ecosystem)
     *   [Marketplace](https://claude.com/platform/marketplace)
-    *   [Connectors](https://claude.com/archive/connectors)
+    *   [Connectors](https://claude.com/connectors)
     *   [Plugins](https://claude.com/plugins)
 
 *   
@@ -107,19 +107,19 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957/login)
+*   [Login](https://claude.ai/redirect/claude_com.v1.096ad49b-9945-477d-995a-c64efcb4bc8c/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.096ad49b-9945-477d-995a-c64efcb4bc8c)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.096ad49b-9945-477d-995a-c64efcb4bc8c)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.096ad49b-9945-477d-995a-c64efcb4bc8c)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.096ad49b-9945-477d-995a-c64efcb4bc8c)Try Claude  
 
 *   
 Meet Claude       
@@ -163,7 +163,7 @@ Works with Claude
 
     *   [Ecosystem](https://claude.com/ecosystem)
     *   [Marketplace](https://claude.com/platform/marketplace)
-    *   [Connectors](https://claude.com/archive/connectors)
+    *   [Connectors](https://claude.com/connectors)
     *   [Plugins](https://claude.com/plugins)
 
 *   
@@ -221,12 +221,12 @@ Connect
     *   [Events](https://www.anthropic.com/events)
     *   [Community](https://claude.com/community)
 
-*   [Login](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957/login)
+*   [Login](https://claude.ai/redirect/claude_com.v1.096ad49b-9945-477d-995a-c64efcb4bc8c/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.096ad49b-9945-477d-995a-c64efcb4bc8c)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claude_com.v1.096ad49b-9945-477d-995a-c64efcb4bc8c)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -322,11 +322,11 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957)Try Claude
+[Try Claude](https://claude.ai/redirect/claude_com.v1.096ad49b-9945-477d-995a-c64efcb4bc8c)Try Claude
 
 All
 
-236
+240
 
 ## [Agents](https://claude.com/blog-category/agents)
 
@@ -540,7 +540,111 @@ Grid
 
 List
 
-![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22252eca371ddd7020f_60d57c0d0bf031e140de678692f7c3ef2d885ce3-1000x1000.svg)
+![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d228e9c51800dde13958_6507d83d1197bb8630131d363fb8bea838d79ca7-1000x1000.svg)
+
+Sep 14, 2026
+
+Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic
+
+Claude Code
+
+Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Claude Tag
+
+[](https://claude.com/blog)
+
+Coding
+
+September 14, 2026
+
+[Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic](https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic)Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic
+
+[Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic](https://claude.com/blog#)Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic
+
+[](https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic)
+
+![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2319ef2161fcf9ba649_ddad92700787ec1bf1d80359c0c5e6ca305682b0-1000x1000.svg)
+
+Sep 14, 2026
+
+Claude for Financial Advisors
+
+Product announcements
+
+Claude for Financial Advisors
+
+[](https://claude.com/blog)
+
+Financial services
+
+September 14, 2026
+
+[Claude for Financial Advisors](https://claude.com/blog/claude-for-financial-advisors)Claude for Financial Advisors
+
+[Claude for Financial Advisors](https://claude.com/blog#)Claude for Financial Advisors
+
+[](https://claude.com/blog/claude-for-financial-advisors)
+
+![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22deea97e4a5b5e5739_8d339ae8ecedecc1409db8f5bbb99c958db56946-1000x1000.svg)
+
+Sep 14, 2026
+
+How healthcare organizations use Claude Tag
+
+Enterprise AI
+
+How healthcare organizations use Claude Tag
+
+[](https://claude.com/blog)
+
+Claude Tag
+
+[](https://claude.com/blog)
+
+Health care and life sciences
+
+September 14, 2026
+
+[How healthcare organizations use Claude Tag](https://claude.com/blog/how-healthcare-organizations-use-claude-tag)How healthcare organizations use Claude Tag
+
+[How healthcare organizations use Claude Tag](https://claude.com/blog#)How healthcare organizations use Claude Tag
+
+[](https://claude.com/blog/how-healthcare-organizations-use-claude-tag)
+
+![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d224d39f9b8e905d1823_b68cbb43d7c8f56f0b14cc867e8d4d74445f78b0-1000x1000.svg)
+
+Sep 14, 2026
+
+Deploying AI from pilot to production
+
+Enterprise AI
+
+Deploying AI from pilot to production
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+September 14, 2026
+
+[Deploying AI from pilot to production](https://claude.com/blog/deploying-ai-from-pilot-to-production)Deploying AI from pilot to production
+
+[Deploying AI from pilot to production](https://claude.com/blog#)Deploying AI from pilot to production
+
+[](https://claude.com/blog/deploying-ai-from-pilot-to-production)
+
+![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22252eca371ddd7020f_60d57c0d0bf031e140de678692f7c3ef2d885ce3-1000x1000.svg)
 
 Sep 10, 2026
 
@@ -572,7 +676,7 @@ September 10, 2026
 
 [](https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process)
 
-![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2222403b092e0358b0e_cd4fd51deacd067d4e30aee4f4b149f6cba1b97b-1000x1000.svg)
+![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2222403b092e0358b0e_cd4fd51deacd067d4e30aee4f4b149f6cba1b97b-1000x1000.svg)
 
 Sep 10, 2026
 
@@ -594,7 +698,7 @@ September 10, 2026
 
 [](https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai)
 
-![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
+![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a0112e18cdd7f0b92d19e40_Hand-BuildingBricks.svg)
 
 Sep 8, 2026
 
@@ -616,7 +720,7 @@ September 8, 2026
 
 [](https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform)
 
-![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
+![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
 
 Sep 2, 2026
 
@@ -642,7 +746,7 @@ September 2, 2026
 
 [](https://claude.com/blog/the-anatomy-of-effective-commerce-agents)
 
-![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d228c83775fcc75f4e6d_74409af25137110ac04cc39e4d5ea0a2fbcea421-1000x1000.svg)
+![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d228c83775fcc75f4e6d_74409af25137110ac04cc39e4d5ea0a2fbcea421-1000x1000.svg)
 
 Sep 2, 2026
 
@@ -668,7 +772,7 @@ September 2, 2026
 
 [](https://claude.com/blog/claude-for-commerce-agents)
 
-![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f783c784823d48ad84175_Object-CodeChatText.svg)
+![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/692f783c784823d48ad84175_Object-CodeChatText.svg)
 
 Aug 28, 2026
 
@@ -690,7 +794,7 @@ August 28, 2026
 
 [](https://claude.com/blog/how-anthropic-employees-use-claude-tag)
 
-![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a90479f5433ec75978f1e8a_Object-Apple.svg)
+![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a90479f5433ec75978f1e8a_Object-Apple.svg)
 
 Aug 28, 2026
 
@@ -716,7 +820,7 @@ August 28, 2026
 
 [](https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts)
 
-![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225485fe31f1ed2d9a1_db28a79c9f4492b8471009d4c20e900f234ece48-1000x1000.svg)
+![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225485fe31f1ed2d9a1_db28a79c9f4492b8471009d4c20e900f234ece48-1000x1000.svg)
 
 Aug 26, 2026
 
@@ -738,7 +842,7 @@ August 26, 2026
 
 [](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude)
 
-![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d0099a66d72e05699_33ddc751e21fb4b116b3f57dd553f0bc55ea09d1-1000x1000.svg)
+![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22d0099a66d72e05699_33ddc751e21fb4b116b3f57dd553f0bc55ea09d1-1000x1000.svg)
 
 Aug 26, 2026
 
@@ -772,7 +876,7 @@ August 26, 2026
 
 [](https://claude.com/blog/claude-in-chrome-generally-available)
 
-![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22b8840b2f6f9a40fe0_8925ac952fa2cb8eb5e845b2e44f3e71b33fd695-1000x1000.svg)
+![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22b8840b2f6f9a40fe0_8925ac952fa2cb8eb5e845b2e44f3e71b33fd695-1000x1000.svg)
 
 Aug 26, 2026
 
@@ -806,7 +910,7 @@ August 26, 2026
 
 [](https://claude.com/blog/cowork-built-in-browser)
 
-![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22727482c9ba6a02e71_1576ae23eaf481f33bd36ab468171cc69d12361a-1000x1000.svg)
+![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22727482c9ba6a02e71_1576ae23eaf481f33bd36ab468171cc69d12361a-1000x1000.svg)
 
 Aug 25, 2026
 
@@ -824,111 +928,7 @@ August 25, 2026
 
 [](https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner)
 
-![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22562f020146c9ec973_f8f4644253bde2f901550431b871b6dcf91e5d9d-1000x1000.svg)
-
-Aug 25, 2026
-
-Claude's memory works everywhere, and you decide what's in it
-
-Product announcements
-
-Claude's memory works everywhere, and you decide what's in it
-
-[](https://claude.com/blog)
-
-Claude Cowork
-
-August 25, 2026
-
-[Claude's memory works everywhere, and you decide what's in it](https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it)Claude's memory works everywhere, and you decide what's in it
-
-[Claude's memory works everywhere, and you decide what's in it](https://claude.com/blog#)Claude's memory works everywhere, and you decide what's in it
-
-[](https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it)
-
-![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d226ca443e2e05990c00_83d7d2fe412ceb4dfe627f0d5f3d64aff1a3f5db-1000x1000.svg)
-
-Aug 24, 2026
-
-How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep
-
-Claude Code
-
-How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep
-
-[](https://claude.com/blog)
-
-Claude Code
-
-[](https://claude.com/blog)
-
-Sales
-
-[](https://claude.com/blog)
-
-Productivity
-
-August 24, 2026
-
-[How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep](https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep)How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep
-
-[How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep](https://claude.com/blog#)How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep
-
-[](https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep)
-
-![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2308749b4e883cc44b7_e029027e0b3beeb5b629bd4a26143597e7775b38-1000x1000.svg)
-
-Aug 21, 2026
-
-Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders
-
-Product announcements
-
-Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders
-
-August 21, 2026
-
-[Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders
-
-[Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog#)Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders
-
-[](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
-
-![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d222061abf091318fb82_423062049d4676b41d52b16068cbb5e21603190e-1000x1000.svg)
-
-Aug 21, 2026
-
-The AI-Native SDLC playbook
-
-Enterprise AI
-
-The AI-Native SDLC playbook
-
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-[](https://claude.com/blog)
-
-Claude Code
-
-[](https://claude.com/blog)
-
-Claude Tag
-
-[](https://claude.com/blog)
-
-Coding
-
-August 21, 2026
-
-[The AI-Native SDLC playbook](https://claude.com/blog/the-ai-native-sdlc-playbook)The AI-Native SDLC playbook
-
-[The AI-Native SDLC playbook](https://claude.com/blog#)The AI-Native SDLC playbook
-
-[](https://claude.com/blog/the-ai-native-sdlc-playbook)
-
-[Previous](https://claude.com/blog?b7eea976_page=16)[View more](https://claude.com/blog?b7eea976_page=2)
+[View more](https://claude.com/blog?b7eea976_page=2)
 
 1 / 16
 
@@ -937,6 +937,110 @@ Category
 Product
 
 Usecase
+
+### Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic
+
+Category
+
+Claude Code
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Claude Tag
+
+Usecase
+
+[](https://claude.com/blog)
+
+Coding
+
+September 14, 2026
+
+[Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic](https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic)Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic
+
+[Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic](https://claude.com/blog#)Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic
+
+[](https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic)
+
+### Claude for Financial Advisors
+
+Category
+
+Product announcements
+
+Product
+
+Usecase
+
+[](https://claude.com/blog)
+
+Financial services
+
+September 14, 2026
+
+[Claude for Financial Advisors](https://claude.com/blog/claude-for-financial-advisors)Claude for Financial Advisors
+
+[Claude for Financial Advisors](https://claude.com/blog#)Claude for Financial Advisors
+
+[](https://claude.com/blog/claude-for-financial-advisors)
+
+### How healthcare organizations use Claude Tag
+
+Category
+
+Enterprise AI
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Tag
+
+Usecase
+
+[](https://claude.com/blog)
+
+Health care and life sciences
+
+September 14, 2026
+
+[How healthcare organizations use Claude Tag](https://claude.com/blog/how-healthcare-organizations-use-claude-tag)How healthcare organizations use Claude Tag
+
+[How healthcare organizations use Claude Tag](https://claude.com/blog#)How healthcare organizations use Claude Tag
+
+[](https://claude.com/blog/how-healthcare-organizations-use-claude-tag)
+
+### Deploying AI from pilot to production
+
+Category
+
+Enterprise AI
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+Usecase
+
+September 14, 2026
+
+[Deploying AI from pilot to production](https://claude.com/blog/deploying-ai-from-pilot-to-production)Deploying AI from pilot to production
+
+[Deploying AI from pilot to production](https://claude.com/blog#)Deploying AI from pilot to production
+
+[](https://claude.com/blog/deploying-ai-from-pilot-to-production)
 
 ### T. Rowe Price brings more of Claude to its investment process
 
@@ -1224,113 +1328,9 @@ August 25, 2026
 
 [](https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner)
 
-### Claude's memory works everywhere, and you decide what's in it
-
-Category
-
-Product announcements
-
-Product
-
-[](https://claude.com/blog)
-
-Claude Cowork
-
-Usecase
-
-August 25, 2026
-
-[Claude's memory works everywhere, and you decide what's in it](https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it)Claude's memory works everywhere, and you decide what's in it
-
-[Claude's memory works everywhere, and you decide what's in it](https://claude.com/blog#)Claude's memory works everywhere, and you decide what's in it
-
-[](https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it)
-
-### How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep
-
-Category
-
-Claude Code
-
-Product
-
-[](https://claude.com/blog)
-
-Claude Code
-
-Usecase
-
-[](https://claude.com/blog)
-
-Sales
-
-[](https://claude.com/blog)
-
-Productivity
-
-August 24, 2026
-
-[How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep](https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep)How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep
-
-[How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep](https://claude.com/blog#)How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep
-
-[](https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep)
-
-### Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders
-
-Category
-
-Product announcements
-
-Product
-
-Usecase
-
-August 21, 2026
-
-[Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders
-
-[Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders](https://claude.com/blog#)Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders
-
-[](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
-
-### The AI-Native SDLC playbook
-
-Category
-
-Enterprise AI
-
-Product
-
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-[](https://claude.com/blog)
-
-Claude Code
-
-[](https://claude.com/blog)
-
-Claude Tag
-
-Usecase
-
-[](https://claude.com/blog)
-
-Coding
-
-August 21, 2026
-
-[The AI-Native SDLC playbook](https://claude.com/blog/the-ai-native-sdlc-playbook)The AI-Native SDLC playbook
-
-[The AI-Native SDLC playbook](https://claude.com/blog#)The AI-Native SDLC playbook
-
-[](https://claude.com/blog/the-ai-native-sdlc-playbook)
-
 [Previous](https://claude.com/blog?d7430fcd_page=16)[View more](https://claude.com/blog?d7430fcd_page=2)
 
-1 / 3
+1 / 1
 
 No posts for those filters
 
@@ -1412,7 +1412,7 @@ Products
 *   Claude Security [Claude Security](https://claude.com/product/claude-security)Claude Security 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/redirect/claude_com.v1.0c6dee79-43dc-40b8-b2ec-6430b8319957/login)Log in 
+*   Log in [Log in](https://claude.ai/redirect/claude_com.v1.096ad49b-9945-477d-995a-c64efcb4bc8c/login)Log in 
 
 Features
 
