@@ -1,5 +1,35 @@
 [
   {
+    "title": "Helping older adults use AI in everyday life",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "source": "OpenAI",
+    "date": "2026-09-16"
+  },
+  {
+    "title": "Reimagining advertising with AI",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "source": "OpenAI",
+    "date": "2026-09-16"
+  },
+  {
+    "title": "How to connect AI usage to business value",
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "source": "OpenAI",
+    "date": "2026-09-16"
+  },
+  {
+    "title": "Our framework for reporting model misalignment",
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "source": "OpenAI",
+    "date": "2026-09-16"
+  },
+  {
+    "title": "How workers are unlocking new ways of working",
+    "url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "source": "OpenAI",
+    "date": "2026-09-16"
+  },
+  {
     "title": "How Fyxer built an AI executive assistant people trust",
     "url": "https://openai.com/index/fyxer",
     "source": "OpenAI",
@@ -240,14 +270,14 @@
     "date": "2026-08-27"
   },
   {
-    "title": "Learning never stops: How AI makes learning continuous",
-    "url": "https://openai.com/index/learning-never-stops",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "source": "OpenAI",
     "date": "2026-08-26"
   },
   {
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
     "source": "OpenAI",
     "date": "2026-08-26"
   },
@@ -344,18 +374,6 @@
   {
     "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
     "url": "https://openai.com/index/chatgpt-for-teens",
-    "source": "OpenAI",
-    "date": "2026-08-18"
-  },
-  {
-    "title": "How NVIDIA scales expertise with ChatGPT Work",
-    "url": "https://openai.com/index/nvidia/chatgpt-work",
-    "source": "OpenAI",
-    "date": "2026-08-18"
-  },
-  {
-    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-    "url": "https://openai.com/index/asana",
     "source": "OpenAI",
     "date": "2026-08-18"
   }
