@@ -1,5 +1,17 @@
 [
   {
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "url": "https://openai.com/index/cooley-gopublic",
+    "source": "OpenAI",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Introducing Astra for Law",
+    "url": "https://openai.com/index/astra-for-law",
+    "source": "OpenAI",
+    "date": "2026-09-17"
+  },
+  {
     "title": "Helping older adults use AI in everyday life",
     "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
     "source": "OpenAI",
@@ -78,14 +90,14 @@
     "date": "2026-09-10"
   },
   {
-    "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "title": "Introducing the Agents API",
+    "url": "https://openai.com/index/introducing-the-agents-api",
     "source": "OpenAI",
     "date": "2026-09-10"
   },
   {
-    "title": "Introducing the Agents API",
-    "url": "https://openai.com/index/introducing-the-agents-api",
+    "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "source": "OpenAI",
     "date": "2026-09-10"
   },
@@ -174,14 +186,14 @@
     "date": "2026-09-03"
   },
   {
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
     "source": "OpenAI",
     "date": "2026-09-03"
   },
   {
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "source": "OpenAI",
     "date": "2026-09-03"
   },
@@ -340,41 +352,5 @@
     "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
     "source": "OpenAI",
     "date": "2026-08-19"
-  },
-  {
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "url": "https://openai.com/index/replit",
-    "source": "OpenAI",
-    "date": "2026-08-19"
-  },
-  {
-    "title": "ChatGPT Ads expands across Europe",
-    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-    "source": "OpenAI",
-    "date": "2026-08-18"
-  },
-  {
-    "title": "Strengthening democratic oversight in national security",
-    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "source": "OpenAI",
-    "date": "2026-08-18"
-  },
-  {
-    "title": "Partnering with CodeAI to prepare the first AI generation",
-    "url": "https://openai.com/index/partnering-with-codeai",
-    "source": "OpenAI",
-    "date": "2026-08-18"
-  },
-  {
-    "title": "Pacing model development in an era of cyber-critical capabilities",
-    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-    "source": "OpenAI",
-    "date": "2026-08-18"
-  },
-  {
-    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-    "url": "https://openai.com/index/chatgpt-for-teens",
-    "source": "OpenAI",
-    "date": "2026-08-18"
   }
 ]
