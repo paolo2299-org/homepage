@@ -1,5 +1,11 @@
 [
   {
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "source": "OpenAI",
+    "date": "2026-09-18"
+  },
+  {
     "title": "How Cooley is accelerating IPO work with ChatGPT",
     "url": "https://openai.com/index/cooley-gopublic",
     "source": "OpenAI",
@@ -20,6 +26,12 @@
   {
     "title": "Reimagining advertising with AI",
     "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "source": "OpenAI",
+    "date": "2026-09-16"
+  },
+  {
+    "title": "Hex turns complex analysis into visual reports with GPT\u20116 Astra",
+    "url": "https://openai.com/index/hex-gpt-6-astra",
     "source": "OpenAI",
     "date": "2026-09-16"
   },
@@ -90,14 +102,14 @@
     "date": "2026-09-10"
   },
   {
-    "title": "Introducing the Agents API",
-    "url": "https://openai.com/index/introducing-the-agents-api",
+    "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "source": "OpenAI",
     "date": "2026-09-10"
   },
   {
-    "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "title": "Introducing the Agents API",
+    "url": "https://openai.com/index/introducing-the-agents-api",
     "source": "OpenAI",
     "date": "2026-09-10"
   },
@@ -186,14 +198,14 @@
     "date": "2026-09-03"
   },
   {
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "source": "OpenAI",
     "date": "2026-09-03"
   },
   {
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
     "source": "OpenAI",
     "date": "2026-09-03"
   },
@@ -334,23 +346,5 @@
     "url": "https://openai.com/index/gpt-5-6-in-kiro",
     "source": "OpenAI",
     "date": "2026-08-24"
-  },
-  {
-    "title": "Introducing Intelligence Age",
-    "url": "https://openai.com/index/introducing-intelligence-age",
-    "source": "OpenAI",
-    "date": "2026-08-20"
-  },
-  {
-    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-    "url": "https://openai.com/index/stampli",
-    "source": "OpenAI",
-    "date": "2026-08-20"
-  },
-  {
-    "title": "Offering Zero Data Retention for frontier models",
-    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "source": "OpenAI",
-    "date": "2026-08-19"
   }
 ]
