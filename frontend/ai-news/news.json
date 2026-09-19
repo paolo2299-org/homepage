@@ -85,35 +85,5 @@
     "tags": [
       "Developer Tools"
     ]
-  },
-  {
-    "title": "Turning conversation into knowledge: how Slack builds human-agent teams",
-    "url": "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
-    "source": "Claude",
-    "date": "2026-08-19",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Offering Zero Data Retention for frontier models",
-    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "source": "OpenAI",
-    "date": "2026-08-19",
-    "tags": [
-      "Product Launch",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "url": "https://openai.com/index/replit",
-    "source": "OpenAI",
-    "date": "2026-08-19",
-    "tags": [
-      "Case Study",
-      "Developer Tools"
-    ]
   }
 ]
