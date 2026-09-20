@@ -49,7 +49,7 @@ Download apps
 
 Login
 
-[Login](https://claude.ai/redirect/claudedotcom.v1.166596c3-4c62-4b07-afd3-61ec1777e853/login)Login
+[Login](https://claude.ai/redirect/claudedotcom.v1.aa175220-b9e0-4133-bdcd-f85a2c4a6f34/login)Login
 
 *   
 Developers       
@@ -136,19 +136,19 @@ Pricing
     *   [Overview](https://claude.com/pricing)
     *   [API](https://claude.com/pricing#api)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.166596c3-4c62-4b07-afd3-61ec1777e853/login)
+*   [Login](https://claude.ai/redirect/claudedotcom.v1.aa175220-b9e0-4133-bdcd-f85a2c4a6f34/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.166596c3-4c62-4b07-afd3-61ec1777e853)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.aa175220-b9e0-4133-bdcd-f85a2c4a6f34)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.166596c3-4c62-4b07-afd3-61ec1777e853)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.aa175220-b9e0-4133-bdcd-f85a2c4a6f34)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.166596c3-4c62-4b07-afd3-61ec1777e853)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.aa175220-b9e0-4133-bdcd-f85a2c4a6f34)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.166596c3-4c62-4b07-afd3-61ec1777e853)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.aa175220-b9e0-4133-bdcd-f85a2c4a6f34)Try Claude  
 
 *   
 Product       
@@ -192,7 +192,7 @@ Download apps
 
 Login
 
-[Login](https://claude.ai/redirect/claudedotcom.v1.166596c3-4c62-4b07-afd3-61ec1777e853/login)Login
+[Login](https://claude.ai/redirect/claudedotcom.v1.aa175220-b9e0-4133-bdcd-f85a2c4a6f34/login)Login
 
 *   
 Developers       
@@ -279,12 +279,12 @@ Pricing
     *   [Overview](https://claude.com/pricing)
     *   [API](https://claude.com/pricing#api)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.166596c3-4c62-4b07-afd3-61ec1777e853/login)
+*   [Login](https://claude.ai/redirect/claudedotcom.v1.aa175220-b9e0-4133-bdcd-f85a2c4a6f34/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.166596c3-4c62-4b07-afd3-61ec1777e853)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.aa175220-b9e0-4133-bdcd-f85a2c4a6f34)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.166596c3-4c62-4b07-afd3-61ec1777e853)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.aa175220-b9e0-4133-bdcd-f85a2c4a6f34)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -380,7 +380,7 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/redirect/claudedotcom.v1.166596c3-4c62-4b07-afd3-61ec1777e853)Try Claude
+[Try Claude](https://claude.ai/redirect/claudedotcom.v1.aa175220-b9e0-4133-bdcd-f85a2c4a6f34)Try Claude
 
 All
 
@@ -1498,7 +1498,7 @@ Products
 *   Claude Security [Claude Security](https://claude.com/product/claude-security)Claude Security 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.166596c3-4c62-4b07-afd3-61ec1777e853/login)Log in 
+*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.aa175220-b9e0-4133-bdcd-f85a2c4a6f34/login)Log in 
 
 Capabilities
 
