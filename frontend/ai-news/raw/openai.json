@@ -1,13 +1,37 @@
 [
   {
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "title": "Better prompt caching for GPT-6",
+    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
     "source": "OpenAI",
-    "date": "2026-09-21"
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Introducing GPT-6 Sol and Luna",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "source": "OpenAI",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Parallel cut research time and cost in half with GPT\u20116 Astra",
+    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "source": "OpenAI",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Priorities and principles for effective third party assessments",
+    "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "source": "OpenAI",
+    "date": "2026-09-22"
   },
   {
     "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
     "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "source": "OpenAI",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "source": "OpenAI",
     "date": "2026-09-21"
   },
@@ -324,14 +348,14 @@
     "date": "2026-08-27"
   },
   {
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
     "source": "OpenAI",
     "date": "2026-08-26"
   },
   {
-    "title": "Learning never stops: How AI makes learning continuous",
-    "url": "https://openai.com/index/learning-never-stops",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "source": "OpenAI",
     "date": "2026-08-26"
   },
