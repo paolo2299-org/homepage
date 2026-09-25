@@ -108,7 +108,7 @@
     "date": "2026-09-21"
   },
   {
-    "title": "How V7 gives AI agents institutional memory",
+    "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
     "url": "https://openai.com/index/v7",
     "source": "OpenAI",
     "date": "2026-09-21"
@@ -416,18 +416,6 @@
   {
     "title": "Learning never stops: How AI makes learning continuous",
     "url": "https://openai.com/index/learning-never-stops",
-    "source": "OpenAI",
-    "date": "2026-08-26"
-  },
-  {
-    "title": "The Hugging Face incident and the road ahead",
-    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-    "source": "OpenAI",
-    "date": "2026-08-26"
-  },
-  {
-    "title": "How loveholidays is making everyone a builder with Codex",
-    "url": "https://openai.com/index/loveholidays",
     "source": "OpenAI",
     "date": "2026-08-26"
   }

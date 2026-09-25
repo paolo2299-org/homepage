@@ -2,7 +2,7 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
-Published Time: Wed, 23 Sep 2026 21:01:59 GMT
+Published Time: Thu, 24 Sep 2026 21:09:47 GMT
 
 Markdown Content:
 [](https://claude.com/)
@@ -49,7 +49,7 @@ Download apps
 
 Login
 
-[Login](https://claude.ai/redirect/claudedotcom.v1.a1aae52b-3026-44f5-a8ad-36f1fcd469b6/login)Login
+[Login](https://claude.ai/redirect/claudedotcom.v1.4f752af3-9262-4105-add3-f45c2c976450/login)Login
 
 *   
 Developers       
@@ -140,19 +140,19 @@ Pricing
     *   [Overview](https://claude.com/pricing)
     *   [API](https://claude.com/pricing#api)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.a1aae52b-3026-44f5-a8ad-36f1fcd469b6/login)
+*   [Login](https://claude.ai/redirect/claudedotcom.v1.4f752af3-9262-4105-add3-f45c2c976450/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.a1aae52b-3026-44f5-a8ad-36f1fcd469b6)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.4f752af3-9262-4105-add3-f45c2c976450)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.a1aae52b-3026-44f5-a8ad-36f1fcd469b6)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.4f752af3-9262-4105-add3-f45c2c976450)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.a1aae52b-3026-44f5-a8ad-36f1fcd469b6)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.4f752af3-9262-4105-add3-f45c2c976450)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.a1aae52b-3026-44f5-a8ad-36f1fcd469b6)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.4f752af3-9262-4105-add3-f45c2c976450)Try Claude  
 
 *   
 Product       
@@ -196,7 +196,7 @@ Download apps
 
 Login
 
-[Login](https://claude.ai/redirect/claudedotcom.v1.a1aae52b-3026-44f5-a8ad-36f1fcd469b6/login)Login
+[Login](https://claude.ai/redirect/claudedotcom.v1.4f752af3-9262-4105-add3-f45c2c976450/login)Login
 
 *   
 Developers       
@@ -287,12 +287,12 @@ Pricing
     *   [Overview](https://claude.com/pricing)
     *   [API](https://claude.com/pricing#api)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.a1aae52b-3026-44f5-a8ad-36f1fcd469b6/login)
+*   [Login](https://claude.ai/redirect/claudedotcom.v1.4f752af3-9262-4105-add3-f45c2c976450/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.a1aae52b-3026-44f5-a8ad-36f1fcd469b6)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.4f752af3-9262-4105-add3-f45c2c976450)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.a1aae52b-3026-44f5-a8ad-36f1fcd469b6)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.4f752af3-9262-4105-add3-f45c2c976450)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -388,11 +388,11 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/redirect/claudedotcom.v1.a1aae52b-3026-44f5-a8ad-36f1fcd469b6)Try Claude
+[Try Claude](https://claude.ai/redirect/claudedotcom.v1.4f752af3-9262-4105-add3-f45c2c976450)Try Claude
 
 All
 
-244
+75
 
 ## [Agents](https://claude.com/blog-category/agents)
 
@@ -606,7 +606,59 @@ Grid
 
 List
 
-![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2287f90c57df4c9dd97_c1ef4c0b6882dfe985555b52999d370ea88a3c50-1000x1000.svg)
+![Image 19](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22deea97e4a5b5e5739_8d339ae8ecedecc1409db8f5bbb99c958db56946-1000x1000.svg)
+
+Sep 24, 2026
+
+Claude Tag now supports personal connectors in channels
+
+Product announcements
+
+Claude Tag now supports personal connectors in channels
+
+[](https://claude.com/blog)
+
+Claude Tag
+
+September 24, 2026
+
+[Claude Tag now supports personal connectors in channels](https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels)Claude Tag now supports personal connectors in channels
+
+[Claude Tag now supports personal connectors in channels](https://claude.com/blog#)Claude Tag now supports personal connectors in channels
+
+[](https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels)
+
+![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225e31f7aa22c1f28cb_46e4aa7ea208ed440d5bd9e9e3a0ee66bc336ff1-1000x1000.svg)
+
+Sep 24, 2026
+
+Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.
+
+Claude Code
+
+Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+[](https://claude.com/blog)
+
+Coding
+
+September 24, 2026
+
+[Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.](https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context)Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.
+
+[Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.](https://claude.com/blog#)Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.
+
+[](https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context)
+
+![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2287f90c57df4c9dd97_c1ef4c0b6882dfe985555b52999d370ea88a3c50-1000x1000.svg)
 
 Sep 23, 2026
 
@@ -636,7 +688,7 @@ September 23, 2026
 
 [](https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace)
 
-![Image 20](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229a7aa26ac1b6e96c2_a62b6eb169818f14c35b7a192af269e283f8fa93-1000x1000.svg)
+![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229a7aa26ac1b6e96c2_a62b6eb169818f14c35b7a192af269e283f8fa93-1000x1000.svg)
 
 Sep 23, 2026
 
@@ -662,7 +714,7 @@ September 23, 2026
 
 [](https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects)
 
-![Image 21](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22930b7622d6096c33d_4d663bd87c391c144b9bca513b3849ccfa00a3b9-1000x1000.svg)
+![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22930b7622d6096c33d_4d663bd87c391c144b9bca513b3849ccfa00a3b9-1000x1000.svg)
 
 Sep 23, 2026
 
@@ -716,7 +768,7 @@ September 23, 2026
 
 [](https://claude.com/blog/claude-marketplace)
 
-![Image 22](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
+![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
 
 Sep 22, 2026
 
@@ -742,7 +794,7 @@ September 22, 2026
 
 [](https://claude.com/blog/what-a-task-costs-on-opus-5-5)
 
-![Image 23](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2287f90c57df4c9dd97_c1ef4c0b6882dfe985555b52999d370ea88a3c50-1000x1000.svg)
+![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2287f90c57df4c9dd97_c1ef4c0b6882dfe985555b52999d370ea88a3c50-1000x1000.svg)
 
 Sep 17, 2026
 
@@ -772,7 +824,7 @@ September 17, 2026
 
 [](https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5)
 
-![Image 24](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a42c9bc20d2072552ef256a_Node-EnterpriseAgents.svg)
+![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a42c9bc20d2072552ef256a_Node-EnterpriseAgents.svg)
 
 Sep 17, 2026
 
@@ -798,7 +850,7 @@ September 17, 2026
 
 [](https://claude.com/blog/projects-redesigned)
 
-![Image 25](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aaaa060d1aec4a549c537ef_Object-Easel.svg)
+![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aaaa060d1aec4a549c537ef_Object-Easel.svg)
 
 Sep 16, 2026
 
@@ -836,7 +888,7 @@ September 16, 2026
 
 [](https://claude.com/blog/cowork-is-now-claude)
 
-![Image 26](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
+![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
 
 Sep 15, 2026
 
@@ -862,7 +914,7 @@ September 15, 2026
 
 [](https://claude.com/blog/salesforce-in-claude)
 
-![Image 27](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
+![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
 
 Sep 15, 2026
 
@@ -888,7 +940,7 @@ September 15, 2026
 
 [](https://claude.com/blog/building-an-ai-native-revenue-organization)
 
-![Image 28](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aa82dfc4ca89952d04c3873_Object-Store.svg)
+![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aa82dfc4ca89952d04c3873_Object-Store.svg)
 
 Sep 15, 2026
 
@@ -914,7 +966,7 @@ September 15, 2026
 
 [](https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs)
 
-![Image 29](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d228e9c51800dde13958_6507d83d1197bb8630131d363fb8bea838d79ca7-1000x1000.svg)
+![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d228e9c51800dde13958_6507d83d1197bb8630131d363fb8bea838d79ca7-1000x1000.svg)
 
 Sep 14, 2026
 
@@ -948,7 +1000,7 @@ September 14, 2026
 
 [](https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic)
 
-![Image 30](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2319ef2161fcf9ba649_ddad92700787ec1bf1d80359c0c5e6ca305682b0-1000x1000.svg)
+![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2319ef2161fcf9ba649_ddad92700787ec1bf1d80359c0c5e6ca305682b0-1000x1000.svg)
 
 Sep 14, 2026
 
@@ -970,7 +1022,7 @@ September 14, 2026
 
 [](https://claude.com/blog/claude-for-financial-advisors)
 
-![Image 31](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22deea97e4a5b5e5739_8d339ae8ecedecc1409db8f5bbb99c958db56946-1000x1000.svg)
+![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22deea97e4a5b5e5739_8d339ae8ecedecc1409db8f5bbb99c958db56946-1000x1000.svg)
 
 Sep 14, 2026
 
@@ -996,60 +1048,6 @@ September 14, 2026
 
 [](https://claude.com/blog/how-healthcare-organizations-use-claude-tag)
 
-![Image 32](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d224d39f9b8e905d1823_b68cbb43d7c8f56f0b14cc867e8d4d74445f78b0-1000x1000.svg)
-
-Sep 14, 2026
-
-Deploying AI from pilot to production
-
-Enterprise AI
-
-Deploying AI from pilot to production
-
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-September 14, 2026
-
-[Deploying AI from pilot to production](https://claude.com/blog/deploying-ai-from-pilot-to-production)Deploying AI from pilot to production
-
-[Deploying AI from pilot to production](https://claude.com/blog#)Deploying AI from pilot to production
-
-[](https://claude.com/blog/deploying-ai-from-pilot-to-production)
-
-![Image 33](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22252eca371ddd7020f_60d57c0d0bf031e140de678692f7c3ef2d885ce3-1000x1000.svg)
-
-Sep 10, 2026
-
-T. Rowe Price brings more of Claude to its investment process
-
-T. Rowe Price brings more of Claude to its investment process
-
-[](https://claude.com/blog)
-
-Claude apps
-
-[](https://claude.com/blog)
-
-Claude Code
-
-[](https://claude.com/blog)
-
-Claude Cowork
-
-[](https://claude.com/blog)
-
-Business
-
-September 10, 2026
-
-[T. Rowe Price brings more of Claude to its investment process](https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process)T. Rowe Price brings more of Claude to its investment process
-
-[T. Rowe Price brings more of Claude to its investment process](https://claude.com/blog#)T. Rowe Price brings more of Claude to its investment process
-
-[](https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process)
-
 [Previous](https://claude.com/blog?b7eea976_page=17)[View more](https://claude.com/blog?b7eea976_page=2)
 
 1 / 17
@@ -1059,6 +1057,58 @@ Category
 Product
 
 Usecase
+
+### Claude Tag now supports personal connectors in channels
+
+Category
+
+Product announcements
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Tag
+
+Usecase
+
+September 24, 2026
+
+[Claude Tag now supports personal connectors in channels](https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels)Claude Tag now supports personal connectors in channels
+
+[Claude Tag now supports personal connectors in channels](https://claude.com/blog#)Claude Tag now supports personal connectors in channels
+
+[](https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels)
+
+### Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.
+
+Category
+
+Claude Code
+
+Product
+
+[](https://claude.com/blog)
+
+Claude Code
+
+[](https://claude.com/blog)
+
+Claude Enterprise
+
+Usecase
+
+[](https://claude.com/blog)
+
+Coding
+
+September 24, 2026
+
+[Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.](https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context)Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.
+
+[Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.](https://claude.com/blog#)Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.
+
+[](https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context)
 
 ### How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace
 
@@ -1450,63 +1500,9 @@ September 14, 2026
 
 [](https://claude.com/blog/how-healthcare-organizations-use-claude-tag)
 
-### Deploying AI from pilot to production
-
-Category
-
-Enterprise AI
-
-Product
-
-[](https://claude.com/blog)
-
-Claude Enterprise
-
-Usecase
-
-September 14, 2026
-
-[Deploying AI from pilot to production](https://claude.com/blog/deploying-ai-from-pilot-to-production)Deploying AI from pilot to production
-
-[Deploying AI from pilot to production](https://claude.com/blog#)Deploying AI from pilot to production
-
-[](https://claude.com/blog/deploying-ai-from-pilot-to-production)
-
-### T. Rowe Price brings more of Claude to its investment process
-
-Category
-
-Product
-
-[](https://claude.com/blog)
-
-Claude apps
-
-[](https://claude.com/blog)
-
-Claude Code
-
-[](https://claude.com/blog)
-
-Claude Cowork
-
-Usecase
-
-[](https://claude.com/blog)
-
-Business
-
-September 10, 2026
-
-[T. Rowe Price brings more of Claude to its investment process](https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process)T. Rowe Price brings more of Claude to its investment process
-
-[T. Rowe Price brings more of Claude to its investment process](https://claude.com/blog#)T. Rowe Price brings more of Claude to its investment process
-
-[](https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process)
-
 [Previous](https://claude.com/blog?d7430fcd_page=17)[View more](https://claude.com/blog?d7430fcd_page=2)
 
-1 / 17
+1 / 4
 
 No posts for those filters
 
@@ -1586,7 +1582,7 @@ Products
 *   Claude Security [Claude Security](https://claude.com/product/claude-security)Claude Security 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.a1aae52b-3026-44f5-a8ad-36f1fcd469b6/login)Log in 
+*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.4f752af3-9262-4105-add3-f45c2c976450/login)Log in 
 
 Capabilities
 
