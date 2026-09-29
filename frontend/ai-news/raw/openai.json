@@ -1,5 +1,35 @@
 [
   {
+    "title": "How we will do better for Australia",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "source": "OpenAI",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Towards safety cases for frontier AI training",
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "source": "OpenAI",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "source": "OpenAI",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Are you a Codex Original?",
+    "url": "https://openai.com/form/codex-originals",
+    "source": "OpenAI",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "source": "OpenAI",
+    "date": "2026-09-28"
+  },
+  {
     "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
     "url": "https://openai.com/index/proaction",
     "source": "OpenAI",
@@ -18,18 +48,6 @@
     "date": "2026-09-23"
   },
   {
-    "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "source": "OpenAI",
-    "date": "2026-09-23"
-  },
-  {
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "source": "OpenAI",
-    "date": "2026-09-23"
-  },
-  {
     "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
     "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "source": "OpenAI",
@@ -38,6 +56,18 @@
   {
     "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
     "url": "https://openai.com/index/ringg",
+    "source": "OpenAI",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "source": "OpenAI",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
@@ -90,14 +120,14 @@
     "date": "2026-09-22"
   },
   {
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "source": "OpenAI",
     "date": "2026-09-21"
   },
   {
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "source": "OpenAI",
     "date": "2026-09-21"
   },
@@ -270,6 +300,12 @@
     "date": "2026-09-08"
   },
   {
+    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "source": "OpenAI",
+    "date": "2026-09-08"
+  },
+  {
     "title": "On the Navier\u2013Stokes Millennium Prize Problem",
     "url": "https://openai.com/index/navier-stokes-solution",
     "source": "OpenAI",
@@ -278,12 +314,6 @@
   {
     "title": "Funding grants for new research into AI and teen development",
     "url": "https://openai.com/index/teen-development-research-grants",
-    "source": "OpenAI",
-    "date": "2026-09-08"
-  },
-  {
-    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
     "source": "OpenAI",
     "date": "2026-09-08"
   },
@@ -318,14 +348,14 @@
     "date": "2026-09-03"
   },
   {
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "source": "OpenAI",
     "date": "2026-09-03"
   },
   {
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
     "source": "OpenAI",
     "date": "2026-09-03"
   },
