@@ -1,13 +1,31 @@
 [
   {
-    "title": "How we will do better for Australia",
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "title": "Introducing GPT-6.1 Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
     "source": "OpenAI",
-    "date": "2026-09-28"
+    "date": "2026-09-29"
+  },
+  {
+    "title": "DevDay 2026 Recap",
+    "url": "https://openai.com/index/devday-2026-recap",
+    "source": "OpenAI",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Introducing dots",
+    "url": "https://openai.com/index/introducing-dots",
+    "source": "OpenAI",
+    "date": "2026-09-29"
   },
   {
     "title": "Towards safety cases for frontier AI training",
     "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "source": "OpenAI",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "How we will do better for Australia",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
@@ -48,8 +66,14 @@
     "date": "2026-09-23"
   },
   {
-    "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "source": "OpenAI",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
@@ -60,14 +84,8 @@
     "date": "2026-09-23"
   },
   {
-    "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "source": "OpenAI",
-    "date": "2026-09-23"
-  },
-  {
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
@@ -348,14 +366,14 @@
     "date": "2026-09-03"
   },
   {
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
     "source": "OpenAI",
     "date": "2026-09-03"
   },
   {
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "source": "OpenAI",
     "date": "2026-09-03"
   },
@@ -400,23 +418,5 @@
     "url": "https://openai.com/index/gilbert-tobin",
     "source": "OpenAI",
     "date": "2026-09-01"
-  },
-  {
-    "title": "OpenAI supports California\u2019s bill to advance youth AI safety",
-    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "source": "OpenAI",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Polimill builds Japan's next-generation public AI infrastructure",
-    "url": "https://openai.com/index/polimill",
-    "source": "OpenAI",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "A milestone in expanding access to AI",
-    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-    "source": "OpenAI",
-    "date": "2026-08-31"
   }
 ]
