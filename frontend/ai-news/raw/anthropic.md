@@ -2,7 +2,7 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
-Published Time: Wed, 30 Sep 2026 04:23:35 GMT
+Published Time: Thu, 01 Oct 2026 01:39:20 GMT
 
 Markdown Content:
 Filter and sort
@@ -107,7 +107,31 @@ Thank you! Your submission has been received!
 
 Oops! Something went wrong while submitting the form.
 
-![Image 1](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a42c9bc20d2072552ef256a_Node-EnterpriseAgents.svg)
+![Image 1](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22e6fa9211768bbce0b_6e00dbffcddc82df5e471c43453abfc74ca94e8d-1000x1000.svg)
+
+Sep 30, 2026
+
+Claude for Government is now generally available
+
+Product announcements
+
+Claude for Government is now generally available
+
+September 30, 2026
+
+![Image 2](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
+
+Sep 30, 2026
+
+How Anthropic's sales team rebuilt inbound with Claude Managed Agents
+
+Enterprise AI
+
+How Anthropic's sales team rebuilt inbound with Claude Managed Agents
+
+September 30, 2026
+
+![Image 3](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a42c9bc20d2072552ef256a_Node-EnterpriseAgents.svg)
 
 Sep 29, 2026
 
@@ -119,7 +143,7 @@ Agents you can coach: how Asana builds human-agent teams with Claude
 
 September 29, 2026
 
-![Image 2](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a42c9bc20d2072552ef256a_Node-EnterpriseAgents.svg)
+![Image 4](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a42c9bc20d2072552ef256a_Node-EnterpriseAgents.svg)
 
 Sep 28, 2026
 
@@ -131,7 +155,7 @@ Giving companies more control over their AI agents, with NVIDIA
 
 September 28, 2026
 
-![Image 3](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229061abf091318fc81_6905c83d0735e1bc430025fdd1748d1406079036-1000x1000.svg)
+![Image 5](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229061abf091318fc81_6905c83d0735e1bc430025fdd1748d1406079036-1000x1000.svg)
 
 Sep 25, 2026
 
@@ -143,7 +167,7 @@ Build plugins for Claude
 
 September 25, 2026
 
-![Image 4](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22deea97e4a5b5e5739_8d339ae8ecedecc1409db8f5bbb99c958db56946-1000x1000.svg)
+![Image 6](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22deea97e4a5b5e5739_8d339ae8ecedecc1409db8f5bbb99c958db56946-1000x1000.svg)
 
 Sep 24, 2026
 
@@ -155,7 +179,7 @@ Claude Tag now supports personal connectors in channels
 
 September 24, 2026
 
-![Image 5](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225e31f7aa22c1f28cb_46e4aa7ea208ed440d5bd9e9e3a0ee66bc336ff1-1000x1000.svg)
+![Image 7](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d225e31f7aa22c1f28cb_46e4aa7ea208ed440d5bd9e9e3a0ee66bc336ff1-1000x1000.svg)
 
 Sep 24, 2026
 
@@ -167,7 +191,7 @@ Coding sessions are longer and use more context. Claude Opus 5.5 is built with t
 
 September 24, 2026
 
-![Image 6](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2287f90c57df4c9dd97_c1ef4c0b6882dfe985555b52999d370ea88a3c50-1000x1000.svg)
+![Image 8](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2287f90c57df4c9dd97_c1ef4c0b6882dfe985555b52999d370ea88a3c50-1000x1000.svg)
 
 Sep 23, 2026
 
@@ -179,7 +203,7 @@ How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel o
 
 September 23, 2026
 
-![Image 7](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229a7aa26ac1b6e96c2_a62b6eb169818f14c35b7a192af269e283f8fa93-1000x1000.svg)
+![Image 9](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d229a7aa26ac1b6e96c2_a62b6eb169818f14c35b7a192af269e283f8fa93-1000x1000.svg)
 
 Sep 23, 2026
 
@@ -191,7 +215,7 @@ How to prepare for AI-driven code modernization projects
 
 September 23, 2026
 
-![Image 8](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22930b7622d6096c33d_4d663bd87c391c144b9bca513b3849ccfa00a3b9-1000x1000.svg)
+![Image 10](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d22930b7622d6096c33d_4d663bd87c391c144b9bca513b3849ccfa00a3b9-1000x1000.svg)
 
 Sep 23, 2026
 
@@ -203,7 +227,7 @@ Claude Marketplace: one place to discover plugins, agents, and services from our
 
 September 23, 2026
 
-![Image 9](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2287f90c57df4c9dd97_c1ef4c0b6882dfe985555b52999d370ea88a3c50-1000x1000.svg)
+![Image 11](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2287f90c57df4c9dd97_c1ef4c0b6882dfe985555b52999d370ea88a3c50-1000x1000.svg)
 
 Sep 17, 2026
 
@@ -215,7 +239,7 @@ Working at the frontier: How Balyasny Asset Management evaluates and governs Cla
 
 September 17, 2026
 
-![Image 10](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a42c9bc20d2072552ef256a_Node-EnterpriseAgents.svg)
+![Image 12](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a42c9bc20d2072552ef256a_Node-EnterpriseAgents.svg)
 
 Sep 17, 2026
 
@@ -227,7 +251,7 @@ Projects redesigned: from folder to conversation
 
 September 17, 2026
 
-![Image 11](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aaaa060d1aec4a549c537ef_Object-Easel.svg)
+![Image 13](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aaaa060d1aec4a549c537ef_Object-Easel.svg)
 
 Sep 16, 2026
 
@@ -239,7 +263,7 @@ Claude Cowork and chat are now one Claude
 
 September 16, 2026
 
-![Image 12](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
+![Image 14](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
 
 Sep 15, 2026
 
@@ -251,7 +275,7 @@ Bringing Salesforce into Claude
 
 September 15, 2026
 
-![Image 13](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
+![Image 15](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d2279047e82efc257633_6c7219042e95bfef1a126ad5ee8b2c7def8b8b0a-1000x1000.svg)
 
 Sep 15, 2026
 
@@ -263,29 +287,29 @@ Building an AI-native revenue organization
 
 September 15, 2026
 
-![Image 14](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6aa82dfc4ca89952d04c3873_Object-Store.svg)
+### Claude for Government is now generally available
 
-Sep 15, 2026
-
-Claude for Small Business launches new workflows, integrations, and training programs
+Category
 
 Product announcements
 
-Claude for Small Business launches new workflows, integrations, and training programs
+Product
 
-September 15, 2026
+Usecase
 
-![Image 15](https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6903d228e9c51800dde13958_6507d83d1197bb8630131d363fb8bea838d79ca7-1000x1000.svg)
+September 30, 2026
 
-Sep 14, 2026
+### How Anthropic's sales team rebuilt inbound with Claude Managed Agents
 
-Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic
+Category
 
-Claude Code
+Enterprise AI
 
-Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic
+Product
 
-September 14, 2026
+Usecase
+
+September 30, 2026
 
 ### Agents you can coach: how Asana builds human-agent teams with Claude
 
@@ -442,30 +466,6 @@ Product
 Usecase
 
 September 15, 2026
-
-### Claude for Small Business launches new workflows, integrations, and training programs
-
-Category
-
-Product announcements
-
-Product
-
-Usecase
-
-September 15, 2026
-
-### Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic
-
-Category
-
-Claude Code
-
-Product
-
-Usecase
-
-September 14, 2026
 
 Try another search or clear some of your filters.
 
