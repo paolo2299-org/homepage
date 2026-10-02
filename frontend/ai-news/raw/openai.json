@@ -1,5 +1,23 @@
 [
   {
+    "title": "The eternal complement",
+    "url": "https://openai.com/index/the-eternal-complement",
+    "source": "OpenAI",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "source": "OpenAI",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "url": "https://openai.com/index/the-den-family-social",
+    "source": "OpenAI",
+    "date": "2026-10-01"
+  },
+  {
     "title": "Disrupting a coordinated model-distillation campaign",
     "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
     "source": "OpenAI",
@@ -78,14 +96,8 @@
     "date": "2026-09-23"
   },
   {
-    "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "source": "OpenAI",
-    "date": "2026-09-23"
-  },
-  {
-    "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
-    "url": "https://openai.com/index/ringg",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
@@ -96,8 +108,14 @@
     "date": "2026-09-23"
   },
   {
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "source": "OpenAI",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+    "url": "https://openai.com/index/ringg",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
@@ -150,14 +168,14 @@
     "date": "2026-09-22"
   },
   {
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "source": "OpenAI",
     "date": "2026-09-21"
   },
   {
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "source": "OpenAI",
     "date": "2026-09-21"
   },
@@ -282,14 +300,14 @@
     "date": "2026-09-10"
   },
   {
-    "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "title": "Introducing the Agents API",
+    "url": "https://openai.com/index/introducing-the-agents-api",
     "source": "OpenAI",
     "date": "2026-09-10"
   },
   {
-    "title": "Introducing the Agents API",
-    "url": "https://openai.com/index/introducing-the-agents-api",
+    "title": "Build more natural voice experiences with GPT\u2011Live\u20111 in the API",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "source": "OpenAI",
     "date": "2026-09-10"
   },
@@ -406,23 +424,5 @@
     "url": "https://openai.com/index/atv-big-air-tour",
     "source": "OpenAI",
     "date": "2026-09-02"
-  },
-  {
-    "title": "How AI-native companies turn workflows into operating capability",
-    "url": "https://openai.com/index/ai-native-company-workflows",
-    "source": "OpenAI",
-    "date": "2026-09-01"
-  },
-  {
-    "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "url": "https://openai.com/index/path-to-astra",
-    "source": "OpenAI",
-    "date": "2026-09-01"
-  },
-  {
-    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-    "source": "OpenAI",
-    "date": "2026-09-01"
   }
 ]
