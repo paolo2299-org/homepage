@@ -2,7 +2,7 @@ Title: Blog | Claude by Anthropic
 
 URL Source: https://claude.com/blog
 
-Published Time: Thu, 01 Oct 2026 18:04:44 GMT
+Published Time: Fri, 02 Oct 2026 18:01:19 GMT
 
 Markdown Content:
 [](https://claude.com/)
@@ -49,7 +49,7 @@ Download apps
 
 Login
 
-[Login](https://claude.ai/redirect/claudedotcom.v1.3d6ba948-57d3-49d5-bb9f-6920cab0df62/login)Login
+[Login](https://claude.ai/redirect/claudedotcom.v1.b4f02095-edb4-4c7c-94e4-f2a2862fc816/login)Login
 
 *   
 Developers       
@@ -140,19 +140,19 @@ Pricing
     *   [Overview](https://claude.com/pricing)
     *   [API](https://claude.com/pricing#api)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.3d6ba948-57d3-49d5-bb9f-6920cab0df62/login)
+*   [Login](https://claude.ai/redirect/claudedotcom.v1.b4f02095-edb4-4c7c-94e4-f2a2862fc816/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.3d6ba948-57d3-49d5-bb9f-6920cab0df62)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.b4f02095-edb4-4c7c-94e4-f2a2862fc816)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.3d6ba948-57d3-49d5-bb9f-6920cab0df62)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.b4f02095-edb4-4c7c-94e4-f2a2862fc816)Try Claude  
 
 [](https://claude.com/blog#)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.3d6ba948-57d3-49d5-bb9f-6920cab0df62)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.b4f02095-edb4-4c7c-94e4-f2a2862fc816)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.3d6ba948-57d3-49d5-bb9f-6920cab0df62)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.b4f02095-edb4-4c7c-94e4-f2a2862fc816)Try Claude  
 
 *   
 Product       
@@ -196,7 +196,7 @@ Download apps
 
 Login
 
-[Login](https://claude.ai/redirect/claudedotcom.v1.3d6ba948-57d3-49d5-bb9f-6920cab0df62/login)Login
+[Login](https://claude.ai/redirect/claudedotcom.v1.b4f02095-edb4-4c7c-94e4-f2a2862fc816/login)Login
 
 *   
 Developers       
@@ -287,12 +287,12 @@ Pricing
     *   [Overview](https://claude.com/pricing)
     *   [API](https://claude.com/pricing#api)
 
-*   [Login](https://claude.ai/redirect/claudedotcom.v1.3d6ba948-57d3-49d5-bb9f-6920cab0df62/login)
+*   [Login](https://claude.ai/redirect/claudedotcom.v1.b4f02095-edb4-4c7c-94e4-f2a2862fc816/login)
 
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.3d6ba948-57d3-49d5-bb9f-6920cab0df62)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.b4f02095-edb4-4c7c-94e4-f2a2862fc816)Try Claude  
 *    Contact sales [Contact sales](https://claude.com/contact-sales)Contact sales  
-*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.3d6ba948-57d3-49d5-bb9f-6920cab0df62)Try Claude  
+*    Try Claude [Try Claude](https://claude.ai/redirect/claudedotcom.v1.b4f02095-edb4-4c7c-94e4-f2a2862fc816)Try Claude  
 
 1.   Blog [Blog](https://claude.com/blog#) 
 
@@ -388,7 +388,7 @@ Product news and best practices for teams building with Claude.
 
 Try Claude
 
-[Try Claude](https://claude.ai/redirect/claudedotcom.v1.3d6ba948-57d3-49d5-bb9f-6920cab0df62)Try Claude
+[Try Claude](https://claude.ai/redirect/claudedotcom.v1.b4f02095-edb4-4c7c-94e4-f2a2862fc816)Try Claude
 
 All
 
@@ -1550,7 +1550,7 @@ Products
 *   Claude Security [Claude Security](https://claude.com/product/claude-security)Claude Security 
 *   Download app [Download app](https://claude.com/download)Download app 
 *   Pricing [Pricing](https://claude.com/pricing)Pricing 
-*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.3d6ba948-57d3-49d5-bb9f-6920cab0df62/login)Log in 
+*   Log in [Log in](https://claude.ai/redirect/claudedotcom.v1.b4f02095-edb4-4c7c-94e4-f2a2862fc816/login)Log in 
 
 Capabilities
 
