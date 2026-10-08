@@ -45,7 +45,7 @@ Models
 
 [Download apps](https://claude.com/download)
 
-[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.962a7619-d7ea-4641-a808-5a0e23604ab3/login)
+[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.bab353d9-2103-4e57-8409-deaf6161d931/login)
 
 Developers
 
@@ -129,9 +129,9 @@ Pricing
 *   [Overview](https://claude.com/pricing)
 *   [API](https://claude.com/pricing#api)
 
-[Login](https://claude.ai/redirect/claudedotcom.v1.962a7619-d7ea-4641-a808-5a0e23604ab3/login)
+[Login](https://claude.ai/redirect/claudedotcom.v1.bab353d9-2103-4e57-8409-deaf6161d931/login)
 
-[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.962a7619-d7ea-4641-a808-5a0e23604ab3)
+[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.bab353d9-2103-4e57-8409-deaf6161d931)
 
 Claude Resources
 
@@ -161,25 +161,25 @@ Unsubscribe at any time.
 
 News, announcements, and stories from Anthropic about Claude and the people building with it.
 
-[Article Oct 6, 2026 ### Claude now works with Google Docs, Sheets, and Slides Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta). Claude Enterprise](https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides)
-
-[Article Oct 6, 2026 ### We’re expanding the Claude Startups program to help founders build](https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build)
-
-[Article Oct 5, 2026 ### How Cresta turned CX expertise into an agent builder on the Claude Agent SDK Claude Platform](https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk)
-
-[Article Oct 1, 2026 ### Customize Claude Code with mods Change how Claude Code behaves and looks with a few lines of TypeScript. Claude Code](https://claude.com/resources/articles/claude-code-mods)
+[Article Oct 7, 2026 ### Automating eval design and hillclimbing with Claude Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work. Claude Platform (opens in new tab)](https://claude.dev/blog/automating-eval-design-and-hillclimbing/)
 
 [Article Oct 6, 2026 ### How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.](https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases)
 
 [Article Oct 6, 2026 ### Claude now works with Google Docs, Sheets, and Slides Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta). Claude Enterprise](https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides)
 
-Featured resource 1 of 5: Claude now works with Google Docs, Sheets, and Slides
+[Article Oct 6, 2026 ### We’re expanding the Claude Startups program to help founders build](https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build)
+
+[Article Oct 7, 2026 ### Claude Haiku 5.5 Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released. (opens in new tab)](https://www.anthropic.com/claude-haiku-5-5)
+
+[Article Oct 7, 2026 ### Automating eval design and hillclimbing with Claude Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work. Claude Platform (opens in new tab)](https://claude.dev/blog/automating-eval-design-and-hillclimbing/)
+
+Featured resource 1 of 5: Automating eval design and hillclimbing with Claude
 
 Advanced filters
 
-Showing 11 of 272 resources
+Showing 11 of 277 resources
 
-[Article Oct 6, 2026 ### How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.](https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases)[Article Oct 6, 2026 ### Claude now works with Google Docs, Sheets, and Slides Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta). Claude Enterprise](https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides)[Article Oct 6, 2026 ### We’re expanding the Claude Startups program to help founders build](https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build)[Article Oct 5, 2026 ### How Cresta turned CX expertise into an agent builder on the Claude Agent SDK Claude Platform](https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk)[Article Oct 1, 2026 ### Customize Claude Code with mods Change how Claude Code behaves and looks with a few lines of TypeScript. Claude Code](https://claude.com/resources/articles/claude-code-mods)[Article Sep 30, 2026 ### How Anthropic's sales team rebuilt inbound with Claude Managed Agents Carl Johnson, a sales development leader at Anthropic, shares how a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works. Claude Platform](https://claude.com/resources/articles/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents)[Article Sep 30, 2026 ### Claude for Government is now generally available Claude Code CLI and Claude for Microsoft 365 also now available in early access.](https://claude.com/resources/articles/claude-for-government-is-now-generally-available)[Article Sep 29, 2026 ### Agents you can coach: how Asana builds human-agent teams with Claude Arnab Bose, Chief Product Officer at Asana, on how Asana runs AI agents as teammates with scoped roles, shared memory, and work that everyone can see. ‍ Claude Platform](https://claude.com/resources/articles/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude)[Article Sep 28, 2026 ### Claude Sonnet 5.5 Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family. It’s a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work. Claude apps Claude Code (opens in new tab)](https://www.anthropic.com/claude-sonnet-5-5)[Article Sep 28, 2026 ### Automating eval design and hillclimbing with Claude Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work. Claude Platform (opens in new tab)](https://claude.dev/blog/automating-eval-design-and-hillclimbing/)[Article Sep 28, 2026 ### Building with Claude Sonnet 5.5 When to choose Sonnet over Opus, what it costs, and how to tune it. Claude Platform (opens in new tab)](https://claude.dev/blog/building-with-claude-sonnet-5-5/)
+[Article Oct 7, 2026 ### Claude Haiku 5.5 Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released. (opens in new tab)](https://www.anthropic.com/claude-haiku-5-5)[Article Oct 7, 2026 ### Automating eval design and hillclimbing with Claude Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work. Claude Platform (opens in new tab)](https://claude.dev/blog/automating-eval-design-and-hillclimbing/)[Article Oct 6, 2026 ### How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.](https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases)[Article Oct 6, 2026 ### Claude now works with Google Docs, Sheets, and Slides Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta). Claude Enterprise](https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides)[Article Oct 6, 2026 ### We’re expanding the Claude Startups program to help founders build](https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build)[Article Oct 6, 2026 ### Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals. (opens in new tab)](https://www.anthropic.com/news/cyber-verification-program)[Article Oct 6, 2026 ### Claude Code in the cloud: a field guide to cloud sessions What changes when Claude Code runs on its own machine, the workflows where that pays off, and how to connect GitHub on the first try. Claude Code (opens in new tab)](https://claude.dev/blog/claude-code-in-the-cloud/)[Article Oct 5, 2026 ### How Cresta turned CX expertise into an agent builder on the Claude Agent SDK See how Cresta built Conductor, an agent that builds other agents, on the Claude Agent SDK, and how the team evaluates it with every new Claude model. Claude Platform](https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk)[Article Oct 1, 2026 ### Getting started with Claude Code mods Claude Code (opens in new tab)](https://claude.dev/blog/getting-started-with-claude-code-mods/)[Article Oct 1, 2026 ### Customize Claude Code with mods Change how Claude Code behaves and looks with a few lines of TypeScript. Claude Code](https://claude.com/resources/articles/claude-code-mods)[Article Sep 30, 2026 ### How Anthropic's sales team rebuilt inbound with Claude Managed Agents Carl Johnson, a sales development leader at Anthropic, shares how a Claude-powered buying agent now answers most inbound customers, and how that changed the way our sales team works. Claude Platform](https://claude.com/resources/articles/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents)
 
 View more
 
@@ -197,7 +197,7 @@ View more
 *   [Claude Security](https://claude.com/product/claude-security)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.962a7619-d7ea-4641-a808-5a0e23604ab3/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.bab353d9-2103-4e57-8409-deaf6161d931/login)
 
 ## Capabilities
 
@@ -320,7 +320,7 @@ View more
 *   [Claude Security](https://claude.com/product/claude-security)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.962a7619-d7ea-4641-a808-5a0e23604ab3/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.bab353d9-2103-4e57-8409-deaf6161d931/login)
 
 ## Capabilities
 

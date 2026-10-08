@@ -1,5 +1,23 @@
 [
   {
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "url": "https://openai.com/index/teens-learn-and-plan",
+    "source": "OpenAI",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "url": "https://openai.com/index/radisson",
+    "source": "OpenAI",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "source": "OpenAI",
+    "date": "2026-10-07"
+  },
+  {
     "title": "How Jump Trading is scaling quant research with ChatGPT",
     "url": "https://openai.com/index/jump-trading",
     "source": "OpenAI",
@@ -90,6 +108,12 @@
     "date": "2026-09-29"
   },
   {
+    "title": "Introducing GPT-6.1 Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "source": "OpenAI",
+    "date": "2026-09-29"
+  },
+  {
     "title": "Introducing dots",
     "url": "https://openai.com/index/introducing-dots",
     "source": "OpenAI",
@@ -150,6 +174,12 @@
     "date": "2026-09-23"
   },
   {
+    "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+    "url": "https://openai.com/index/ringg",
+    "source": "OpenAI",
+    "date": "2026-09-23"
+  },
+  {
     "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "source": "OpenAI",
@@ -158,12 +188,6 @@
   {
     "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
     "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "source": "OpenAI",
-    "date": "2026-09-23"
-  },
-  {
-    "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
-    "url": "https://openai.com/index/ringg",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
@@ -222,14 +246,14 @@
     "date": "2026-09-22"
   },
   {
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "source": "OpenAI",
     "date": "2026-09-21"
   },
   {
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "source": "OpenAI",
     "date": "2026-09-21"
   },
@@ -410,18 +434,6 @@
   {
     "title": "On the Navier\u2013Stokes Millennium Prize Problem",
     "url": "https://openai.com/index/navier-stokes-solution",
-    "source": "OpenAI",
-    "date": "2026-09-08"
-  },
-  {
-    "title": "Funding grants for new research into AI and teen development",
-    "url": "https://openai.com/index/teen-development-research-grants",
-    "source": "OpenAI",
-    "date": "2026-09-08"
-  },
-  {
-    "title": "1Password increases engineering productivity 21% with Codex",
-    "url": "https://openai.com/index/1password",
     "source": "OpenAI",
     "date": "2026-09-08"
   }
