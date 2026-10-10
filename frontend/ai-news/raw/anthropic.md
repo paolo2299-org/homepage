@@ -45,7 +45,7 @@ Models
 
 [Download apps](https://claude.com/download)
 
-[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.e033bb80-4798-45ad-a998-93436c454ec3/login)
+[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.17e175bf-2ae0-4cbc-adb9-9032ef3f88e7/login)
 
 Developers
 
@@ -87,6 +87,7 @@ Departments
 
 Industries
 
+*   [Financial advisors](https://claude.com/solutions/financial-advisors)
 *   [Financial services](https://claude.com/solutions/financial-services)
 *   [Government](https://claude.com/solutions/government)
 *   [Healthcare](https://claude.com/solutions/healthcare)
@@ -129,9 +130,9 @@ Pricing
 *   [Overview](https://claude.com/pricing)
 *   [API](https://claude.com/pricing#api)
 
-[Login](https://claude.ai/redirect/claudedotcom.v1.e033bb80-4798-45ad-a998-93436c454ec3/login)
+[Login](https://claude.ai/redirect/claudedotcom.v1.17e175bf-2ae0-4cbc-adb9-9032ef3f88e7/login)
 
-[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.e033bb80-4798-45ad-a998-93436c454ec3)
+[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.17e175bf-2ae0-4cbc-adb9-9032ef3f88e7)
 
 Claude Resources
 
@@ -163,13 +164,13 @@ News, announcements, and stories from Anthropic about Claude and the people buil
 
 [Article Oct 8, 2026 ### Build live dashboards and animate explainers with Claude Claude Dashboards and Claude Motion are now in beta. Docs, Slides, and Design are out of beta and on every Claude plan, including Free. Claude apps Claude Design 2 more: Claude Cowork and Claude Code Claude Cowork Claude Code](https://claude.com/resources/articles/dashboards-and-motion)
 
+[Article Oct 8, 2026 ### Building effective agent automations A reference implementation walkthrough for a scheduled Claude Managed Agents automation, with the config files and six rules for avoiding common failure modes. Claude Platform (opens in new tab)](https://claude.dev/blog/building-effective-agent-automations/)
+
 [Article Oct 8, 2026 ### How Block orchestrates Claude Fable across thousands of pull requests Bradley Axen, Head of AI Capabilities at Block, on how his team evaluates new large language models, how Claude Fable 5 orchestrates company-wide code migrations, and why safeguards are a critical part of deploying frontier intelligence responsibly, at scale. Claude Enterprise](https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests)
 
 [Article Oct 7, 2026 ### Claude Haiku 5.5 Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released. (opens in new tab)](https://www.anthropic.com/claude-haiku-5-5)
 
 [Article Oct 7, 2026 ### Automating eval design and hillclimbing with Claude Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work. Claude Platform (opens in new tab)](https://claude.dev/blog/automating-eval-design-and-hillclimbing/)
-
-[Article Oct 6, 2026 ### How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.](https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases)
 
 [Article Oct 8, 2026 ### Build live dashboards and animate explainers with Claude Claude Dashboards and Claude Motion are now in beta. Docs, Slides, and Design are out of beta and on every Claude plan, including Free. Claude apps Claude Design 2 more: Claude Cowork and Claude Code Claude Cowork Claude Code](https://claude.com/resources/articles/dashboards-and-motion)
 
@@ -177,9 +178,9 @@ Featured resource 1 of 5: Build live dashboards and animate explainers with Clau
 
 Advanced filters
 
-Showing 11 of 279 resources
+Showing 11 of 280 resources
 
-[Article Oct 8, 2026 ### How Block orchestrates Claude Fable across thousands of pull requests Bradley Axen, Head of AI Capabilities at Block, on how his team evaluates new large language models, how Claude Fable 5 orchestrates company-wide code migrations, and why safeguards are a critical part of deploying frontier intelligence responsibly, at scale. Claude Enterprise](https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests)[Article Oct 8, 2026 ### Build live dashboards and animate explainers with Claude Claude Dashboards and Claude Motion are now in beta. Docs, Slides, and Design are out of beta and on every Claude plan, including Free. Claude apps Claude Design 2 more: Claude Cowork and Claude Code Claude Cowork Claude Code](https://claude.com/resources/articles/dashboards-and-motion)[Article Oct 7, 2026 ### Claude Haiku 5.5 Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released. (opens in new tab)](https://www.anthropic.com/claude-haiku-5-5)[Article Oct 7, 2026 ### Automating eval design and hillclimbing with Claude Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work. Claude Platform (opens in new tab)](https://claude.dev/blog/automating-eval-design-and-hillclimbing/)[Article Oct 6, 2026 ### How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.](https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases)[Article Oct 6, 2026 ### Claude now works with Google Docs, Sheets, and Slides Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta). Claude Enterprise](https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides)[Article Oct 6, 2026 ### We’re expanding the Claude Startups program to help founders build](https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build)[Article Oct 6, 2026 ### Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals. (opens in new tab)](https://www.anthropic.com/news/cyber-verification-program)[Article Oct 6, 2026 ### Claude Code in the cloud: a field guide to cloud sessions What changes when Claude Code runs on its own machine, the workflows where that pays off, and how to connect GitHub on the first try. Claude Code (opens in new tab)](https://claude.dev/blog/claude-code-in-the-cloud/)[Article Oct 5, 2026 ### How Cresta turned CX expertise into an agent builder on the Claude Agent SDK See how Cresta built Conductor, an agent that builds other agents, on the Claude Agent SDK, and how the team evaluates it with every new Claude model. Claude Platform](https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk)[Article Oct 1, 2026 ### Getting started with Claude Code mods Claude Code (opens in new tab)](https://claude.dev/blog/getting-started-with-claude-code-mods/)
+[Article Oct 8, 2026 ### Building effective agent automations A reference implementation walkthrough for a scheduled Claude Managed Agents automation, with the config files and six rules for avoiding common failure modes. Claude Platform (opens in new tab)](https://claude.dev/blog/building-effective-agent-automations/)[Article Oct 8, 2026 ### How Block orchestrates Claude Fable across thousands of pull requests Bradley Axen, Head of AI Capabilities at Block, on how his team evaluates new large language models, how Claude Fable 5 orchestrates company-wide code migrations, and why safeguards are a critical part of deploying frontier intelligence responsibly, at scale. Claude Enterprise](https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests)[Article Oct 8, 2026 ### Build live dashboards and animate explainers with Claude Claude Dashboards and Claude Motion are now in beta. Docs, Slides, and Design are out of beta and on every Claude plan, including Free. Claude apps Claude Design 2 more: Claude Cowork and Claude Code Claude Cowork Claude Code](https://claude.com/resources/articles/dashboards-and-motion)[Article Oct 7, 2026 ### Claude Haiku 5.5 Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released. (opens in new tab)](https://www.anthropic.com/claude-haiku-5-5)[Article Oct 7, 2026 ### Automating eval design and hillclimbing with Claude Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill's build-eval and hillclimb commands put them to work. Claude Platform (opens in new tab)](https://claude.dev/blog/automating-eval-design-and-hillclimbing/)[Article Oct 6, 2026 ### How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases Security teams at Comcast and Booz Allen used Claude Mythos-class models through Project Glasswing to find, validate, and fix vulnerabilities their existing scanners missed.](https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases)[Article Oct 6, 2026 ### Claude now works with Google Docs, Sheets, and Slides Teams that run on Google Workspace can now bring Claude into their files or work on their files directly from Claude, with our new add-on and Google Docs, Sheets, and Slides connectors (in beta). Claude Enterprise](https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides)[Article Oct 6, 2026 ### We’re expanding the Claude Startups program to help founders build](https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build)[Article Oct 6, 2026 ### Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals. (opens in new tab)](https://www.anthropic.com/news/cyber-verification-program)[Article Oct 6, 2026 ### Claude Code in the cloud: a field guide to cloud sessions What changes when Claude Code runs on its own machine, the workflows where that pays off, and how to connect GitHub on the first try. Claude Code (opens in new tab)](https://claude.dev/blog/claude-code-in-the-cloud/)[Article Oct 5, 2026 ### How Cresta turned CX expertise into an agent builder on the Claude Agent SDK See how Cresta built Conductor, an agent that builds other agents, on the Claude Agent SDK, and how the team evaluates it with every new Claude model. Claude Platform](https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk)
 
 View more
 
@@ -197,7 +198,7 @@ View more
 *   [Claude Security](https://claude.com/product/claude-security)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.e033bb80-4798-45ad-a998-93436c454ec3/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.17e175bf-2ae0-4cbc-adb9-9032ef3f88e7/login)
 
 ## Capabilities
 
@@ -234,6 +235,7 @@ View more
 
 ## Industries
 
+*   [Financial advisors](https://claude.com/solutions/financial-advisors)
 *   [Financial services](https://claude.com/solutions/financial-services)
 *   [Government](https://claude.com/solutions/government)
 *   [Healthcare](https://claude.com/solutions/healthcare)
@@ -320,7 +322,7 @@ View more
 *   [Claude Security](https://claude.com/product/claude-security)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.e033bb80-4798-45ad-a998-93436c454ec3/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.17e175bf-2ae0-4cbc-adb9-9032ef3f88e7/login)
 
 ## Capabilities
 
@@ -357,6 +359,7 @@ View more
 
 ## Industries
 
+*   [Financial advisors](https://claude.com/solutions/financial-advisors)
 *   [Financial services](https://claude.com/solutions/financial-services)
 *   [Government](https://claude.com/solutions/government)
 *   [Healthcare](https://claude.com/solutions/healthcare)
