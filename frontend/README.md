@@ -15,4 +15,5 @@ Or use the root-level `make dev` / `make run` targets, which handle this via Doc
 
 ## Deploying
 
-Deploys are automated via GitHub Actions on push to `main` — see `.github/workflows/deploy.yml` at the repo root.
+GitHub Actions publishes an image on pushes to `main`; the production VPS pulls
+and deploys it independently. See `.github/workflows/deploy.yml` at the repo root.

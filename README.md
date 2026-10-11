@@ -1,6 +1,6 @@
 # homepage
 
-Personal site for `pdlawson.com` — a single static frontend served by Nginx and deployed to a VPS.
+Personal site for `pdlawson.com` — a single static frontend served by Nginx on a VPS.
  
 ## Running locally with Docker Compose
 
@@ -22,28 +22,23 @@ To stop:
 make down
 ```
 
-## Automated deploys from `main`
+## Publishing images from `main`
 
 Pushing to `main` triggers a GitHub Actions workflow (`.github/workflows/deploy.yml`) that:
 
 1. Builds the frontend Docker image
 2. Pushes it to GitHub Container Registry (`ghcr.io`) tagged with the commit SHA and `main`
-3. SSHs into the production VPS and runs `docker compose pull && docker compose up -d`
 
-The workflow needs these secrets/variables configured in GitHub:
-
-| Name | Type | Description |
-|---|---|---|
-| `DEPLOY_SSH_KEY` | secret | Private SSH key for the VPS |
-| `DEPLOY_PORT` | secret | SSH port (defaults to 22) |
-| `GHCR_USERNAME` | secret | GitHub username for GHCR login |
-| `GHCR_TOKEN` | secret | Personal access token with `read:packages` |
-| `DEPLOY_HOST` | var | Hostname or IP of the VPS |
-| `DEPLOY_USER` | var | SSH user on the VPS |
+The workflow stops after publishing the image. It has no SSH access to the VPS.
+The host independently checks the public GHCR package and deploys a changed
+`main` digest from its root-owned operations configuration.
 
 ## Production VPS setup
 
-The production compose stack uses `compose.yml` + `compose.prod.yml`. The `homepage` service joins an external Docker network called `web`, which a reverse proxy (e.g. Traefik) uses to route traffic.
+The production service joins an external Docker network called `web`, which the
+host's Caddy reverse proxy uses to route traffic. Its authoritative production
+Compose definition and deployment timer live in the host operations repository;
+the Compose files here remain useful for local or manual operation.
 
 The expected working directory on the VPS is `/srv/homepage/app/homepage`.
 
