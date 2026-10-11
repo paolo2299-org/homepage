@@ -3,4 +3,4 @@ services:
     build:
       context: frontend
     ports:
-      - "8080:8080"
+      - "127.0.0.1:${DEV_PORT:-18082}:8080"

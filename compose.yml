@@ -1,3 +1,5 @@
+name: homepage-dev
+
 services:
   homepage:
     image: ${IMAGE_NAME:-homepage}:${IMAGE_TAG:-main}
