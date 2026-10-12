@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "url": "https://openai.com/index/sophos",
+    "source": "OpenAI",
+    "date": "2026-10-09",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "url": "https://openai.com/index/asana-browser-agent",
+    "source": "OpenAI",
+    "date": "2026-10-09",
+    "tags": [
+      "Case Study",
+      "Agents"
+    ]
+  }
+]
