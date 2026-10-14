@@ -1,6 +1,0 @@
-services:
-  homepage:
-    build:
-      context: frontend
-    ports:
-      - "127.0.0.1:${DEV_PORT:-18082}:8080"

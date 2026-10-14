@@ -27,6 +27,8 @@ Personal website for `pdlawson.com`. A single static frontend served by Nginx. G
 ## Development workflow
 - Primary branch: `main`
 - No frontend build step — edit static files directly
+- Follow `AGENTS.md` and `docs/local-development.md` for native development,
+  managed worktrees, persistent servers and guarded cleanup.
 
 ## CSS setup
 

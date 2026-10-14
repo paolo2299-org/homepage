@@ -24,9 +24,71 @@ Personal website for `pdlawson.com`. A single static frontend served by Nginx. G
 - `Makefile` — root entrypoints for local dev and prod management
 - `.github/workflows/deploy.yml` — image build and publication pipeline
 
-## Development workflow
-- Primary branch: `main`
-- No frontend build step — edit static files directly
+## Development environments
+
+Development and CI use a worktree-local Python 3.12 environment with uv. Docker
+is reserved for production images and deployment. No production credentials are
+needed for setup or the tests.
+
+From a clean retained checkout, create one environment for a task:
+
+```bash
+make worktree-create NAME=example-task
+# cd to the printed worktree path
+make setup
+make dev-start
+make test
+```
+
+The helper creates branch `codex/example-task` in
+`<main-checkout-name>-worktrees/example-task`. Reuse a task's suitable worktree
+across turns. Each server has its own allocated port, log, control socket and
+Playwright name recorded in `.dev/session.json`. Report the name, branch, path,
+URL and Playwright session when handing it to the user.
+
+The server runs independently of the launching command and remains available
+after a turn ends or the phone disconnects. Use `make dev` only for an interactive
+foreground terminal. Bind addresses are restricted to loopback or Tailscale;
+`DEV_HOST=127.0.0.1 make dev-start` forces local-only access. Python changes need
+a stop/start; static/template edits appear on refresh.
+
+Use `make dev-status` for the URL and `make dev-stop` to stop only this worktree.
+`make dev-prune` removes stale session metadata after a crash. After stopping,
+`make dev-clean` also removes the development log. Use only the recorded named
+Playwright session; close it when finished and never use `close-all`.
+
+When the user says they are finished with a named environment, close its named
+browser session and, from a retained checkout, run:
+
+```bash
+make worktree-check NAME=example-task
+make worktree-finish NAME=example-task
+```
+
+Finish repeats the checks, stops only that server, removes the worktree and its
+disposable logs/virtualenv/caches, and retains the branch. Ending an agent turn
+does not authorize cleanup. Never force removal, discard work, delete branches,
+or commit/push simply to bypass a guard without the user's authorization.
+Report what was removed and the retained branch.
+
+Only helper-created environments are eligible. Cleanup refuses tracked or
+untracked changes, unpublished commits, locked/detached/switched worktrees and
+unexpected ignored files such as `.env` or model checkpoints. It fetches
+`origin` to verify that HEAD is preserved on a remote branch; fetch failure
+also refuses cleanup. Do not run competing commands in the same environment.
+Other environments remain independent. See `docs/local-development.md`.
+
+Never run development commands against production Compose stacks, containers,
+credentials or writable production data.
+
+## Project development notes
+
+The native server serves only `frontend/` with directory indexes and 404s for
+missing files. It blocks directory listings, deployment files and symlinks
+outside the public directory. It applies no-cache headers so edits appear on
+refresh. Production remains Nginx; edit static assets directly without a build
+step. Scraper output is tracked source content and blocks cleanup until
+preserved. Do not run scheduled scrapers merely to start development.
 
 ## CSS setup
 

@@ -5,13 +5,13 @@ Static frontend for `pdlawson.com`, served by Nginx from a Docker container and 
 ## Running locally
 
 ```bash
-make build
-make run
+make setup
+make dev-start
 ```
 
-The site will be available at `http://localhost:8080`.
-
-Or use the root-level `make dev` / `make run` targets, which handle this via Docker Compose.
+These commands delegate to the repository root. The native server prints its
+allocated loopback or Tailscale URL. Stop it with `make dev-stop`.
+See [local development](../docs/local-development.md) for parallel worktrees and cleanup.
 
 ## Deploying
 

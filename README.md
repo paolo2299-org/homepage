@@ -2,38 +2,26 @@
 
 Personal site for `pdlawson.com` — a single static frontend served by Nginx on a VPS.
  
-## Running locally with Docker Compose
+## Local development
 
-From the repo root:
-
-```bash
-make dev
-```
-
-This starts the frontend on `http://localhost:18082`. HTML, CSS, and JS are bind-mounted into the container, so a page refresh picks up changes immediately. If you change the Dockerfile or Nginx config, rebuild first:
+Development uses Python 3.12 with uv and serves the static frontend directly.
+There is no frontend build step. Docker is used for production images only.
 
 ```bash
-make run
+make worktree-create NAME=example-task
+# cd to the printed path
+make setup
+make dev-start
+make test
 ```
 
-To stop:
+The server reports its allocated loopback or Tailscale URL. Static edits appear
+on refresh, and the server stays running across chat endings and disconnects.
+Use `make dev-status` to find its URL and `make dev-stop` to stop it.
 
-```bash
-make down
-```
-
-The source checkout always uses the `homepage-dev` Compose project and binds
-only to the host loopback interface, so it cannot replace the production
-container or expose a development server publicly. Set `DEV_PORT` in an
-ignored `.env` file to override the default.
-
-When developing on the VPS, forward the port from your Mac:
-
-```bash
-ssh -N -L 18082:127.0.0.1:18082 deploy@hetzner
-```
-
-Then open `http://localhost:18082` locally.
+When finished testing, run `make worktree-finish NAME=example-task` from a
+retained checkout. It refuses to remove unfinished or unpublished work and
+retains the branch. See [local development](docs/local-development.md).
 
 ## Publishing images from `main`
 

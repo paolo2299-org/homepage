@@ -3,3 +3,8 @@ Makefile
 README.md
 cloudbuild.yaml
 .dockerignore
+.env
+.dev
+.venv
+.pytest_cache
+.mypy_cache

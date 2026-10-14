@@ -1,9 +1,4 @@
-SERVICE := homepage-frontend
-
-.PHONY: build run
-
-build:
-	docker build -t $(SERVICE) .
-
-run: build
-	docker run --rm -p 8080:8080 -e PORT=8080 $(SERVICE)
+# The repository root owns the development and production commands.
+.PHONY: setup dev dev-start dev-status dev-stop test prod-build
+setup dev dev-start dev-status dev-stop test prod-build:
+	$(MAKE) -C .. $@

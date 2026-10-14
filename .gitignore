@@ -2,3 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.dev/
+.venv/
+.pytest_cache/
+.playwright-cli/
