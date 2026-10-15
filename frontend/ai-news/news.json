@@ -1,5 +1,25 @@
 [
   {
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "source": "OpenAI",
+    "date": "2026-10-13",
+    "tags": [
+      "Case Study",
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Uber's CISO on building an insider threat program for AI",
+    "url": "https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai",
+    "source": "Claude",
+    "date": "2026-10-13",
+    "tags": [
+      "Enterprise",
+      "Opinion"
+    ]
+  },
+  {
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
     "url": "https://openai.com/index/sophos",
     "source": "OpenAI",
