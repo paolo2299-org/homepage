@@ -1,19 +1,49 @@
 [
   {
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "source": "OpenAI",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "url": "https://openai.com/index/sentinelone",
+    "source": "OpenAI",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "url": "https://openai.com/index/third-moment-research",
+    "source": "OpenAI",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "url": "https://openai.com/index/block-ai-powered-security",
+    "source": "OpenAI",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "The EU\u2019s next chapter in AI is agentic",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "source": "OpenAI",
+    "date": "2026-10-14"
+  },
+  {
     "title": "Higgsfield takes AI video from 1 minute to over 10",
     "url": "https://openai.com/index/higgsfield-longer-videos-voice",
     "source": "OpenAI",
     "date": "2026-10-13"
   },
   {
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "url": "https://openai.com/index/sophos",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "url": "https://openai.com/index/asana-browser-agent",
     "source": "OpenAI",
     "date": "2026-10-09"
   },
   {
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "url": "https://openai.com/index/asana-browser-agent",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "url": "https://openai.com/index/sophos",
     "source": "OpenAI",
     "date": "2026-10-09"
   },
@@ -174,14 +204,14 @@
     "date": "2026-09-28"
   },
   {
-    "title": "Are you a Codex Original?",
-    "url": "https://openai.com/form/codex-originals",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
   {
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "title": "Are you a Codex Original?",
+    "url": "https://openai.com/form/codex-originals",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
@@ -216,26 +246,26 @@
     "date": "2026-09-23"
   },
   {
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "source": "OpenAI",
-    "date": "2026-09-23"
-  },
-  {
     "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
     "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
   {
-    "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
-    "url": "https://openai.com/index/ringg",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
   {
     "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
     "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "source": "OpenAI",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+    "url": "https://openai.com/index/ringg",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
@@ -370,11 +400,5 @@
     "url": "https://openai.com/index/unlocking-new-ways-of-working",
     "source": "OpenAI",
     "date": "2026-09-16"
-  },
-  {
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "url": "https://openai.com/index/fyxer",
-    "source": "OpenAI",
-    "date": "2026-09-14"
   }
 ]
