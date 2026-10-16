@@ -1,5 +1,23 @@
 [
   {
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "source": "OpenAI",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Teaching students to think and learn through questions",
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "source": "OpenAI",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "url": "https://openai.com/index/sullivan-cromwell",
+    "source": "OpenAI",
+    "date": "2026-10-15"
+  },
+  {
     "title": "Amp puts AI agents to work beyond code with OpenAI models",
     "url": "https://openai.com/index/amp-beyond-coding",
     "source": "OpenAI",
@@ -186,14 +204,14 @@
     "date": "2026-09-29"
   },
   {
-    "title": "How we will do better for Australia",
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "title": "Towards safety cases for frontier AI training",
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
   {
-    "title": "Towards safety cases for frontier AI training",
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "title": "How we will do better for Australia",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
@@ -204,14 +222,14 @@
     "date": "2026-09-28"
   },
   {
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "title": "Are you a Codex Original?",
+    "url": "https://openai.com/form/codex-originals",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
   {
-    "title": "Are you a Codex Original?",
-    "url": "https://openai.com/form/codex-originals",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
@@ -246,6 +264,12 @@
     "date": "2026-09-23"
   },
   {
+    "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "source": "OpenAI",
+    "date": "2026-09-23"
+  },
+  {
     "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
     "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "source": "OpenAI",
@@ -254,12 +278,6 @@
   {
     "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "source": "OpenAI",
-    "date": "2026-09-23"
-  },
-  {
-    "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
