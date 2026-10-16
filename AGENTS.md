@@ -107,3 +107,10 @@ All pages use [Pico CSS v2](https://picocss.com) loaded from CDN:
 ## Routing
 
 Nginx uses `try_files $uri $uri/ =404`, so any new directory with an `index.html` is automatically served. No Nginx config changes are needed when adding pages.
+
+## Private native-development configuration
+
+Use the project-specific host config in `docs/local-development.md` for reusable
+credentials/settings. `make dev-config` reports names only. Never print secrets,
+copy an entire production env, or delete host config when finishing a worktree.
+Production-key provisioning requires the user's specific authorisation.

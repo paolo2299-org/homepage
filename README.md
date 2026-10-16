@@ -15,6 +15,11 @@ make dev-start
 make test
 ```
 
+Private native-development settings can be shared across worktrees without
+committing secrets: see [private development configuration](docs/local-development.md#private-configuration-shared-by-worktrees).
+Use `make dev-config` to validate the project's host config without printing values.
+
+
 The server reports its allocated loopback or Tailscale URL. Static edits appear
 on refresh, and the server stays running across chat endings and disconnects.
 Use `make dev-status` to find its URL and `make dev-stop` to stop it.
