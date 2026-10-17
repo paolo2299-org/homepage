@@ -1,5 +1,55 @@
 [
   {
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "source": "OpenAI",
+    "date": "2026-10-16",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "source": "OpenAI",
+    "date": "2026-10-16",
+    "tags": [
+      "Case Study",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
+    "source": "OpenAI",
+    "date": "2026-10-16",
+    "tags": [
+      "Case Study",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "How an Anthropic Japan BDR runs his day with a fleet of Claude agents",
+    "url": "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day",
+    "source": "Claude",
+    "date": "2026-10-16",
+    "tags": [
+      "Case Study",
+      "Agents"
+    ]
+  },
+  {
+    "title": "How the Claude Code team does code review",
+    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+    "source": "Claude",
+    "date": "2026-10-16",
+    "tags": [
+      "Developer Tools",
+      "Opinion"
+    ]
+  },
+  {
     "title": "Bringing GPT-Rosalind to academic research labs",
     "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
     "source": "OpenAI",
