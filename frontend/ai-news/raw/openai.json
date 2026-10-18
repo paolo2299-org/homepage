@@ -6,14 +6,14 @@
     "date": "2026-10-16"
   },
   {
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
   {
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "url": "https://openai.com/index/benefit-street-partners",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
@@ -72,14 +72,14 @@
     "date": "2026-10-13"
   },
   {
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "url": "https://openai.com/index/sophos",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "url": "https://openai.com/index/asana-browser-agent",
     "source": "OpenAI",
     "date": "2026-10-09"
   },
   {
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "url": "https://openai.com/index/asana-browser-agent",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "url": "https://openai.com/index/sophos",
     "source": "OpenAI",
     "date": "2026-10-09"
   },
@@ -204,14 +204,14 @@
     "date": "2026-09-30"
   },
   {
-    "title": "Introducing GPT-6.1 Sol",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "title": "DevDay 2026 Recap",
+    "url": "https://openai.com/index/devday-2026-recap",
     "source": "OpenAI",
     "date": "2026-09-29"
   },
   {
-    "title": "DevDay 2026 Recap",
-    "url": "https://openai.com/index/devday-2026-recap",
+    "title": "Introducing GPT-6.1 Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
     "source": "OpenAI",
     "date": "2026-09-29"
   },
@@ -222,14 +222,14 @@
     "date": "2026-09-29"
   },
   {
-    "title": "How we will do better for Australia",
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "title": "Towards safety cases for frontier AI training",
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
   {
-    "title": "Towards safety cases for frontier AI training",
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "title": "How we will do better for Australia",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
@@ -288,14 +288,14 @@
     "date": "2026-09-23"
   },
   {
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+    "url": "https://openai.com/index/ringg",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
   {
-    "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
-    "url": "https://openai.com/index/ringg",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
@@ -388,11 +388,5 @@
     "url": "https://openai.com/index/australian-youth-safety-blueprint",
     "source": "OpenAI",
     "date": "2026-09-18"
-  },
-  {
-    "title": "How Cooley is accelerating IPO work with ChatGPT",
-    "url": "https://openai.com/index/cooley-gopublic",
-    "source": "OpenAI",
-    "date": "2026-09-17"
   }
 ]
