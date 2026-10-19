@@ -222,14 +222,14 @@
     "date": "2026-09-29"
   },
   {
-    "title": "Towards safety cases for frontier AI training",
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "title": "How we will do better for Australia",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
   {
-    "title": "How we will do better for Australia",
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "title": "Towards safety cases for frontier AI training",
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
@@ -240,14 +240,14 @@
     "date": "2026-09-28"
   },
   {
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "title": "Are you a Codex Original?",
+    "url": "https://openai.com/form/codex-originals",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
   {
-    "title": "Are you a Codex Original?",
-    "url": "https://openai.com/form/codex-originals",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
@@ -282,14 +282,8 @@
     "date": "2026-09-23"
   },
   {
-    "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "source": "OpenAI",
-    "date": "2026-09-23"
-  },
-  {
-    "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
-    "url": "https://openai.com/index/ringg",
+    "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
@@ -300,8 +294,14 @@
     "date": "2026-09-23"
   },
   {
-    "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+    "url": "https://openai.com/index/ringg",
+    "source": "OpenAI",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
@@ -382,11 +382,5 @@
     "url": "https://openai.com/index/v7",
     "source": "OpenAI",
     "date": "2026-09-21"
-  },
-  {
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "url": "https://openai.com/index/australian-youth-safety-blueprint",
-    "source": "OpenAI",
-    "date": "2026-09-18"
   }
 ]
