@@ -13,7 +13,8 @@ Products
 
 *   [Claude](https://claude.com/product/overview)
 *   [Claude Code](https://claude.com/product/claude-code)
-*   [@Claude](https://claude.com/product/tag)
+*   [Claude Cowork](https://claude.com/product/cowork)
+*   [Claude Tag](https://claude.com/product/tag)
 
 Specialized
 
@@ -30,14 +31,13 @@ Capabilities
 
 Extensions
 
-*   [Claude for Chrome](https://claude.com/claude-in-chrome)
+*   [Claude in Chrome](https://claude.com/claude-in-chrome)
 *   [Claude for Google Workspace](https://claude.com/claude-for-google-workspace)
 *   [Claude for Microsoft 365](https://claude.com/claude-for-microsoft-365)
 
 Models
 
-*   [Mythos](https://www.anthropic.com/claude/mythos)
-*   [Fable](https://www.anthropic.com/claude/fable)
+*   [Mythos (including Fable)](https://www.anthropic.com/claude/mythos)
 *   [Opus](https://www.anthropic.com/claude/opus)
 *   [Sonnet](https://www.anthropic.com/claude/sonnet)
 *   [Haiku](https://www.anthropic.com/claude/haiku)
@@ -46,7 +46,7 @@ Models
 
 [Download apps](https://claude.com/download)
 
-[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.5ab8031d-b13e-4ca3-93df-52ba52885c57/login)
+[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.f357373e-4bd9-4772-82d7-ebff37a85429/login)
 
 Developers
 
@@ -78,6 +78,7 @@ Use Cases
 *   [AI Agents](https://claude.com/solutions/agents)
 *   [Coding](https://claude.com/solutions/coding)
 *   [Commerce](https://claude.com/solutions/commerce)
+*   [Managed Agents](https://claude.com/platform/claude-managed-agents)
 
 Departments
 
@@ -131,9 +132,9 @@ Pricing
 *   [Overview](https://claude.com/pricing)
 *   [API](https://claude.com/pricing#api)
 
-[Login](https://claude.ai/redirect/claudedotcom.v1.5ab8031d-b13e-4ca3-93df-52ba52885c57/login)
+[Login](https://claude.ai/redirect/claudedotcom.v1.f357373e-4bd9-4772-82d7-ebff37a85429/login)
 
-[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.5ab8031d-b13e-4ca3-93df-52ba52885c57)
+[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.f357373e-4bd9-4772-82d7-ebff37a85429)
 
 Claude Resources
 
@@ -194,12 +195,12 @@ View more
 *   [Claude](https://claude.com/product/overview)
 *   [Claude Code](https://claude.com/product/claude-code)
 *   [Claude Cowork](https://claude.com/product/cowork)
-*   [@Claude](https://claude.com/product/tag)
+*   [Claude Tag](https://claude.com/product/tag)
 *   [Claude Science](https://claude.com/product/claude-science)
 *   [Claude Security](https://claude.com/product/claude-security)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.5ab8031d-b13e-4ca3-93df-52ba52885c57/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.f357373e-4bd9-4772-82d7-ebff37a85429/login)
 
 ## Capabilities
 
@@ -217,8 +218,7 @@ View more
 
 ## Models
 
-*   [Mythos](https://www.anthropic.com/claude/mythos)
-*   [Fable](https://www.anthropic.com/claude/fable)
+*   [Mythos (including Fable)](https://www.anthropic.com/claude/mythos)
 *   [Opus](https://www.anthropic.com/claude/opus)
 *   [Sonnet](https://www.anthropic.com/claude/sonnet)
 *   [Haiku](https://www.anthropic.com/claude/haiku)
@@ -269,6 +269,7 @@ View more
 *   [Claude on AWS](https://claude.com/partners/claude-on-aws)
 *   [Google Cloud](https://claude.com/partners/google-cloud)
 *   [Microsoft Foundry](https://claude.com/partners/microsoft-foundry)
+*   [Managed Agents](https://claude.com/platform/claude-managed-agents)
 
 ## Resources
 
@@ -319,12 +320,12 @@ View more
 *   [Claude](https://claude.com/product/overview)
 *   [Claude Code](https://claude.com/product/claude-code)
 *   [Claude Cowork](https://claude.com/product/cowork)
-*   [@Claude](https://claude.com/product/tag)
+*   [Claude Tag](https://claude.com/product/tag)
 *   [Claude Science](https://claude.com/product/claude-science)
 *   [Claude Security](https://claude.com/product/claude-security)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.5ab8031d-b13e-4ca3-93df-52ba52885c57/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.f357373e-4bd9-4772-82d7-ebff37a85429/login)
 
 ## Capabilities
 
@@ -342,8 +343,7 @@ View more
 
 ## Models
 
-*   [Mythos](https://www.anthropic.com/claude/mythos)
-*   [Fable](https://www.anthropic.com/claude/fable)
+*   [Mythos (including Fable)](https://www.anthropic.com/claude/mythos)
 *   [Opus](https://www.anthropic.com/claude/opus)
 *   [Sonnet](https://www.anthropic.com/claude/sonnet)
 *   [Haiku](https://www.anthropic.com/claude/haiku)
@@ -394,6 +394,7 @@ View more
 *   [Claude on AWS](https://claude.com/partners/claude-on-aws)
 *   [Google Cloud](https://claude.com/partners/google-cloud)
 *   [Microsoft Foundry](https://claude.com/partners/microsoft-foundry)
+*   [Managed Agents](https://claude.com/platform/claude-managed-agents)
 
 ## Resources
 

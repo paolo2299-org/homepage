@@ -1,5 +1,23 @@
 [
   {
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "source": "OpenAI",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "url": "https://openai.com/index/terminal-x",
+    "source": "OpenAI",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "OpenAI acquires Orchestra Bio",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "source": "OpenAI",
+    "date": "2026-10-20"
+  },
+  {
     "title": "Advancing coding in low\u2011resource programming languages",
     "url": "https://openai.com/index/low-resource-programming-languages",
     "source": "OpenAI",
@@ -12,14 +30,14 @@
     "date": "2026-10-16"
   },
   {
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "url": "https://openai.com/index/benefit-street-partners",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
   {
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
@@ -78,14 +96,14 @@
     "date": "2026-10-13"
   },
   {
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "url": "https://openai.com/index/sophos",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "url": "https://openai.com/index/asana-browser-agent",
     "source": "OpenAI",
     "date": "2026-10-09"
   },
   {
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "url": "https://openai.com/index/asana-browser-agent",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "url": "https://openai.com/index/sophos",
     "source": "OpenAI",
     "date": "2026-10-09"
   },
@@ -228,14 +246,14 @@
     "date": "2026-09-29"
   },
   {
-    "title": "How we will do better for Australia",
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "title": "Towards safety cases for frontier AI training",
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
   {
-    "title": "Towards safety cases for frontier AI training",
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "title": "How we will do better for Australia",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
@@ -246,14 +264,14 @@
     "date": "2026-09-28"
   },
   {
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "title": "Are you a Codex Original?",
+    "url": "https://openai.com/form/codex-originals",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
   {
-    "title": "Are you a Codex Original?",
-    "url": "https://openai.com/form/codex-originals",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
@@ -288,8 +306,14 @@
     "date": "2026-09-23"
   },
   {
-    "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "source": "OpenAI",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
@@ -300,14 +324,8 @@
     "date": "2026-09-23"
   },
   {
-    "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "source": "OpenAI",
-    "date": "2026-09-23"
-  },
-  {
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
@@ -374,18 +392,6 @@
   {
     "title": "Building standards for the next phase of AI",
     "url": "https://openai.com/index/building-standards-next-phase-ai",
-    "source": "OpenAI",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "Expanding OpenAI Academy with new learning paths",
-    "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-    "source": "OpenAI",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
-    "url": "https://openai.com/index/v7",
     "source": "OpenAI",
     "date": "2026-09-21"
   }
