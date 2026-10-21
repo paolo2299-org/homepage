@@ -1,5 +1,24 @@
 [
   {
+    "title": "Redesigning source control at Anthropic",
+    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+    "source": "Claude",
+    "date": "2026-10-19",
+    "tags": [
+      "Developer Tools",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Advancing coding in low‑resource programming languages",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "source": "OpenAI",
+    "date": "2026-10-19",
+    "tags": [
+      "Developer Tools"
+    ]
+  },
+  {
     "title": "How Itaú is building generative AI for its entire customer base",
     "url": "https://openai.com/index/itau-generative-ai",
     "source": "OpenAI",
