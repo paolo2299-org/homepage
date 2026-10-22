@@ -1,5 +1,59 @@
 [
   {
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "url": "https://openai.com/index/att-legal",
+    "source": "OpenAI",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Broad access through consistent standards",
+    "url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "source": "OpenAI",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "OpenAI models are coming to Google Cloud",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "source": "OpenAI",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "source": "OpenAI",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "source": "OpenAI",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "source": "OpenAI",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "url": "https://openai.com/index/cloudflare-cyber",
+    "source": "OpenAI",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "How we built ChatGPT\u2019s novel ad stack for user trust and relevance",
+    "url": "https://openai.com/index/building-chatgpt-ad-stack",
+    "source": "OpenAI",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "url": "https://openai.com/index/empowering-cyber-defenders",
+    "source": "OpenAI",
+    "date": "2026-10-21"
+  },
+  {
     "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
     "url": "https://openai.com/index/ted-taylor-restaurant",
     "source": "OpenAI",
@@ -228,14 +282,14 @@
     "date": "2026-09-30"
   },
   {
-    "title": "DevDay 2026 Recap",
-    "url": "https://openai.com/index/devday-2026-recap",
+    "title": "Introducing GPT-6.1 Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
     "source": "OpenAI",
     "date": "2026-09-29"
   },
   {
-    "title": "Introducing GPT-6.1 Sol",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "title": "DevDay 2026 Recap",
+    "url": "https://openai.com/index/devday-2026-recap",
     "source": "OpenAI",
     "date": "2026-09-29"
   },
@@ -246,14 +300,14 @@
     "date": "2026-09-29"
   },
   {
-    "title": "Towards safety cases for frontier AI training",
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "title": "How we will do better for Australia",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
   {
-    "title": "How we will do better for Australia",
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "title": "Towards safety cases for frontier AI training",
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
@@ -306,8 +360,8 @@
     "date": "2026-09-23"
   },
   {
-    "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+    "url": "https://openai.com/index/ringg",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
@@ -318,14 +372,14 @@
     "date": "2026-09-23"
   },
   {
-    "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
-    "url": "https://openai.com/index/ringg",
+    "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
   {
-    "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "source": "OpenAI",
     "date": "2026-09-23"
   },
@@ -370,29 +424,5 @@
     "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
     "source": "OpenAI",
     "date": "2026-09-22"
-  },
-  {
-    "title": "Priorities and principles for effective third party assessments",
-    "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-    "source": "OpenAI",
-    "date": "2026-09-22"
-  },
-  {
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "source": "OpenAI",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "source": "OpenAI",
-    "date": "2026-09-21"
-  },
-  {
-    "title": "Building standards for the next phase of AI",
-    "url": "https://openai.com/index/building-standards-next-phase-ai",
-    "source": "OpenAI",
-    "date": "2026-09-21"
   }
 ]
