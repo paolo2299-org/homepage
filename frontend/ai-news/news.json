@@ -1,5 +1,119 @@
 [
   {
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "url": "https://openai.com/index/att-legal",
+    "source": "OpenAI",
+    "date": "2026-10-21",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Broad access through consistent standards",
+    "url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "source": "OpenAI",
+    "date": "2026-10-21",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "OpenAI models are coming to Google Cloud",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "source": "OpenAI",
+    "date": "2026-10-21",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "source": "OpenAI",
+    "date": "2026-10-21",
+    "tags": [
+      "Agents",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "source": "OpenAI",
+    "date": "2026-10-21",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "source": "OpenAI",
+    "date": "2026-10-21",
+    "tags": [
+      "Agents",
+      "Case Study"
+    ]
+  },
+  {
+    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "url": "https://openai.com/index/cloudflare-cyber",
+    "source": "OpenAI",
+    "date": "2026-10-21",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "url": "https://openai.com/index/building-chatgpt-ad-stack",
+    "source": "OpenAI",
+    "date": "2026-10-21",
+    "tags": [
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "url": "https://openai.com/index/empowering-cyber-defenders",
+    "source": "OpenAI",
+    "date": "2026-10-21",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Introducing Claude Duet",
+    "url": "https://claude.com/resources/articles/claude-duet",
+    "source": "Claude",
+    "date": "2026-10-21",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "HCLTech joins the Claude Partner Network as a Global Premier partner",
+    "url": "https://claude.com/resources/articles/hcltech-joins-claude-partner-network",
+    "source": "Claude",
+    "date": "2026-10-21",
+    "tags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Claude Security now scans continuously and tracks fixes",
+    "url": "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes",
+    "source": "Claude",
+    "date": "2026-10-21",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
     "url": "https://openai.com/index/ted-taylor-restaurant",
     "source": "OpenAI",
