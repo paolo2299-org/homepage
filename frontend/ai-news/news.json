@@ -1,5 +1,65 @@
 [
   {
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "source": "OpenAI",
+    "date": "2026-10-23",
+    "tags": [
+      "Opinion",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "The full Claude Platform, available on Google Cloud",
+    "url": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
+    "source": "Claude",
+    "date": "2026-10-22",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Building agents: When to fold subagents into your main agent loop",
+    "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+    "source": "Claude",
+    "date": "2026-10-22",
+    "tags": [
+      "Agents",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Build more responsive apps with the Decisions API",
+    "url": "https://openai.com/index/decisions-api",
+    "source": "OpenAI",
+    "date": "2026-10-22",
+    "tags": [
+      "Developer Tools",
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "What FDE means at OpenAI",
+    "url": "https://openai.com/index/forward-deployed-engineering-means",
+    "source": "OpenAI",
+    "date": "2026-10-22",
+    "tags": [
+      "Enterprise",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "source": "OpenAI",
+    "date": "2026-10-22",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "How AT&T is rethinking in-house legal work with OpenAI",
     "url": "https://openai.com/index/att-legal",
     "source": "OpenAI",
