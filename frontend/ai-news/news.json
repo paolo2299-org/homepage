@@ -10,6 +10,45 @@
     ]
   },
   {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "source": "OpenAI",
+    "date": "2026-10-23",
+    "tags": [
+      "Developer Tools",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Securing our frontier model training environment",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "source": "OpenAI",
+    "date": "2026-10-23",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Claude Cowork and chat come together for Enterprise",
+    "url": "https://claude.com/resources/articles/unified-claude-enterprise",
+    "source": "Claude",
+    "date": "2026-10-23",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Claude Duet Safety, Privacy, and Security",
+    "url": "https://claude.com/resources/articles/claude-duet-safety-privacy-and-security",
+    "source": "Claude",
+    "date": "2026-10-23",
+    "tags": [
+      "Agents",
+      "Opinion"
+    ]
+  },
+  {
     "title": "The full Claude Platform, available on Google Cloud",
     "url": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
     "source": "Claude",
