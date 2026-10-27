@@ -1,5 +1,47 @@
 [
   {
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "source": "OpenAI",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "Working with academic communities to build scientific understanding",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "source": "OpenAI",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "source": "OpenAI",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "ChatGPT\u2019s expanding world of work",
+    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "source": "OpenAI",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "source": "OpenAI",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "url": "https://openai.com/index/openai-cut-incident-investigation",
+    "source": "OpenAI",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "Introducing GPT-6.1 Terra",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "source": "OpenAI",
+    "date": "2026-10-26"
+  },
+  {
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
     "source": "OpenAI",
@@ -120,14 +162,14 @@
     "date": "2026-10-16"
   },
   {
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
   {
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "url": "https://openai.com/index/benefit-street-partners",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
@@ -186,14 +228,14 @@
     "date": "2026-10-13"
   },
   {
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "url": "https://openai.com/index/sophos",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "url": "https://openai.com/index/asana-browser-agent",
     "source": "OpenAI",
     "date": "2026-10-09"
   },
   {
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "url": "https://openai.com/index/asana-browser-agent",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "url": "https://openai.com/index/sophos",
     "source": "OpenAI",
     "date": "2026-10-09"
   },
@@ -354,14 +396,14 @@
     "date": "2026-09-28"
   },
   {
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "title": "Are you a Codex Original?",
+    "url": "https://openai.com/form/codex-originals",
     "source": "OpenAI",
     "date": "2026-09-28"
   },
   {
-    "title": "Are you a Codex Original?",
-    "url": "https://openai.com/form/codex-originals",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
     "source": "OpenAI",
     "date": "2026-09-28"
   }
