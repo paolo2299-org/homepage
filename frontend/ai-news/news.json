@@ -1,5 +1,83 @@
 [
   {
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "source": "OpenAI",
+    "date": "2026-10-26",
+    "tags": [
+      "Case Study",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Working with academic communities to build scientific understanding",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "source": "OpenAI",
+    "date": "2026-10-26",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "source": "OpenAI",
+    "date": "2026-10-26",
+    "tags": [
+      "Case Study",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "ChatGPT’s expanding world of work",
+    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "source": "OpenAI",
+    "date": "2026-10-26",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "source": "OpenAI",
+    "date": "2026-10-26",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "url": "https://openai.com/index/openai-cut-incident-investigation",
+    "source": "OpenAI",
+    "date": "2026-10-26",
+    "tags": [
+      "Case Study",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Introducing GPT-6.1 Terra",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "source": "OpenAI",
+    "date": "2026-10-26",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Expanding Claude for Nonprofits",
+    "url": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
+    "source": "Claude",
+    "date": "2026-10-26",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
     "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
     "source": "OpenAI",
