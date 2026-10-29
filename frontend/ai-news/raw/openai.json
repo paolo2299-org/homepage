@@ -1,5 +1,23 @@
 [
   {
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "source": "OpenAI",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "The future of the firm",
+    "url": "https://openai.com/index/the-future-of-the-firm",
+    "source": "OpenAI",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Legora is building the agentic operating system for legal work",
+    "url": "https://openai.com/index/legora",
+    "source": "OpenAI",
+    "date": "2026-10-28"
+  },
+  {
     "title": "Retell uses OpenAI models to help power 100M monthly calls",
     "url": "https://openai.com/index/retell-ai",
     "source": "OpenAI",
@@ -186,14 +204,14 @@
     "date": "2026-10-16"
   },
   {
-    "title": "How Localiza reorganized work around generative AI",
-    "url": "https://openai.com/index/localiza-generative-ai",
+    "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
+    "url": "https://openai.com/index/grupo-boticario",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
   {
-    "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
-    "url": "https://openai.com/index/grupo-boticario",
+    "title": "How Localiza reorganized work around generative AI",
+    "url": "https://openai.com/index/localiza-generative-ai",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
@@ -264,14 +282,14 @@
     "date": "2026-10-13"
   },
   {
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "url": "https://openai.com/index/sophos",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "url": "https://openai.com/index/asana-browser-agent",
     "source": "OpenAI",
     "date": "2026-10-09"
   },
   {
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "url": "https://openai.com/index/asana-browser-agent",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "url": "https://openai.com/index/sophos",
     "source": "OpenAI",
     "date": "2026-10-09"
   },
@@ -406,23 +424,5 @@
     "url": "https://openai.com/index/devday-2026-recap",
     "source": "OpenAI",
     "date": "2026-09-29"
-  },
-  {
-    "title": "Introducing dots",
-    "url": "https://openai.com/index/introducing-dots",
-    "source": "OpenAI",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "Towards safety cases for frontier AI training",
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "source": "OpenAI",
-    "date": "2026-09-28"
-  },
-  {
-    "title": "How we will do better for Australia",
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "source": "OpenAI",
-    "date": "2026-09-28"
   }
 ]
