@@ -1,5 +1,65 @@
 [
   {
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "source": "OpenAI",
+    "date": "2026-10-28",
+    "tags": [
+      "Enterprise",
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "The future of the firm",
+    "url": "https://openai.com/index/the-future-of-the-firm",
+    "source": "OpenAI",
+    "date": "2026-10-28",
+    "tags": [
+      "Opinion",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Legora is building the agentic operating system for legal work",
+    "url": "https://openai.com/index/legora",
+    "source": "OpenAI",
+    "date": "2026-10-28",
+    "tags": [
+      "Case Study",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Smart reports, surveys, and pooled group budgets for Claude Enterprise",
+    "url": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+    "source": "Claude",
+    "date": "2026-10-28",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "IDC brings Quanta into Claude and adopts Claude across the company",
+    "url": "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
+    "source": "Claude",
+    "date": "2026-10-28",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Introducing artifacts for legal work",
+    "url": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
+    "source": "Claude",
+    "date": "2026-10-28",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Retell uses OpenAI models to help power 100M monthly calls",
     "url": "https://openai.com/index/retell-ai",
     "source": "OpenAI",
@@ -26,6 +86,26 @@
     "date": "2026-10-27",
     "tags": [
       "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Manage costs and demonstrate ROI for Claude Code on Google Cloud",
+    "url": "https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud",
+    "source": "Claude",
+    "date": "2026-10-27",
+    "tags": [
+      "Developer Tools",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Claude for Financial Advisors",
+    "url": "https://claude.com/resources/articles/claude-for-financial-advisors",
+    "source": "Claude",
+    "date": "2026-10-27",
+    "tags": [
+      "Product Launch",
       "Enterprise"
     ]
   },
