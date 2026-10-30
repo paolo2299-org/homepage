@@ -1,5 +1,23 @@
 [
   {
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "url": "https://openai.com/index/updated-model-spec",
+    "source": "OpenAI",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "How we detect frontier model misalignment",
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "source": "OpenAI",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "url": "https://openai.com/index/ropes-gray-ai-diligence",
+    "source": "OpenAI",
+    "date": "2026-10-29"
+  },
+  {
     "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
     "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
     "source": "OpenAI",
@@ -216,14 +234,14 @@
     "date": "2026-10-16"
   },
   {
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
   {
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "url": "https://openai.com/index/benefit-street-partners",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
@@ -282,14 +300,14 @@
     "date": "2026-10-13"
   },
   {
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "url": "https://openai.com/index/asana-browser-agent",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "url": "https://openai.com/index/sophos",
     "source": "OpenAI",
     "date": "2026-10-09"
   },
   {
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "url": "https://openai.com/index/sophos",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "url": "https://openai.com/index/asana-browser-agent",
     "source": "OpenAI",
     "date": "2026-10-09"
   },
@@ -412,17 +430,5 @@
     "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
     "source": "OpenAI",
     "date": "2026-09-30"
-  },
-  {
-    "title": "Introducing GPT-6.1 Sol",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "source": "OpenAI",
-    "date": "2026-09-29"
-  },
-  {
-    "title": "DevDay 2026 Recap",
-    "url": "https://openai.com/index/devday-2026-recap",
-    "source": "OpenAI",
-    "date": "2026-09-29"
   }
 ]

@@ -2,8 +2,10 @@ Title: Articles
 
 URL Source: https://claude.com/blog
 
+Final URL: https://claude.com/resources/articles
+
 Markdown Content:
-[Skip to main content](https://claude.com/blog#main-content)
+[Skip to main content](https://claude.com/resources/articles#main-content)
 
 [](https://claude.com/)
 
@@ -15,6 +17,7 @@ Products
 *   [Claude Code](https://claude.com/product/claude-code)
 *   [Claude Cowork](https://claude.com/product/cowork)
 *   [Claude Duet](https://claude.com/product/claude-duet)
+*   [Claude Platform](https://claude.com/platform/api)
 *   [Claude Tag](https://claude.com/product/tag)
 
 Specialized
@@ -47,7 +50,7 @@ Models
 
 [Download apps](https://claude.com/download)
 
-[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.bb299bc9-3ab4-4e46-814d-a6020ed3845a/login)
+[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.74572342-68e0-4470-9209-e53487a5fd91/login)
 
 Developers
 
@@ -55,6 +58,7 @@ Build with
 
 *   [Claude Code](https://claude.com/product/claude-code)
 *   [Claude Platform](https://claude.com/platform/api)
+*   [Managed Agents](https://claude.com/platform/claude-managed-agents)
 
 For developers
 
@@ -79,7 +83,6 @@ Use Cases
 *   [AI Agents](https://claude.com/solutions/agents)
 *   [Coding](https://claude.com/solutions/coding)
 *   [Commerce](https://claude.com/solutions/commerce)
-*   [Managed Agents](https://claude.com/platform/claude-managed-agents)
 
 Departments
 
@@ -133,9 +136,9 @@ Pricing
 *   [Overview](https://claude.com/pricing)
 *   [API](https://claude.com/pricing#api)
 
-[Login](https://claude.ai/redirect/claudedotcom.v1.bb299bc9-3ab4-4e46-814d-a6020ed3845a/login)
+[Login](https://claude.ai/redirect/claudedotcom.v1.74572342-68e0-4470-9209-e53487a5fd91/login)
 
-[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.bb299bc9-3ab4-4e46-814d-a6020ed3845a)
+[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.74572342-68e0-4470-9209-e53487a5fd91)
 
 Claude Resources
 
@@ -202,7 +205,7 @@ View more
 *   [Claude Security](https://claude.com/product/claude-security)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.bb299bc9-3ab4-4e46-814d-a6020ed3845a/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.74572342-68e0-4470-9209-e53487a5fd91/login)
 
 ## Capabilities
 
@@ -328,7 +331,7 @@ View more
 *   [Claude Security](https://claude.com/product/claude-security)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.bb299bc9-3ab4-4e46-814d-a6020ed3845a/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.74572342-68e0-4470-9209-e53487a5fd91/login)
 
 ## Capabilities
 
