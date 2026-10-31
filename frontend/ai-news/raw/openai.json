@@ -1,5 +1,23 @@
 [
   {
+    "title": "Making it easier for websites to express AI training preferences",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "source": "OpenAI",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Community safety report and new protections for teens",
+    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "source": "OpenAI",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Fair use benefits everyone",
+    "url": "https://openai.com/index/fair-use-benefits-everyone",
+    "source": "OpenAI",
+    "date": "2026-10-30"
+  },
+  {
     "title": "An updated Model Spec for more capable and beneficial AI",
     "url": "https://openai.com/index/updated-model-spec",
     "source": "OpenAI",
@@ -14,6 +32,12 @@
   {
     "title": "How Ropes & Gray is developing AI for transactional diligence",
     "url": "https://openai.com/index/ropes-gray-ai-diligence",
+    "source": "OpenAI",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+    "url": "https://openai.com/index/credit-saison",
     "source": "OpenAI",
     "date": "2026-10-29"
   },
@@ -222,26 +246,26 @@
     "date": "2026-10-16"
   },
   {
-    "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
-    "url": "https://openai.com/index/grupo-boticario",
-    "source": "OpenAI",
-    "date": "2026-10-16"
-  },
-  {
     "title": "How Localiza reorganized work around generative AI",
     "url": "https://openai.com/index/localiza-generative-ai",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
   {
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "url": "https://openai.com/index/benefit-street-partners",
+    "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
+    "url": "https://openai.com/index/grupo-boticario",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
   {
     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "source": "OpenAI",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
@@ -300,14 +324,14 @@
     "date": "2026-10-13"
   },
   {
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "url": "https://openai.com/index/sophos",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "url": "https://openai.com/index/asana-browser-agent",
     "source": "OpenAI",
     "date": "2026-10-09"
   },
   {
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "url": "https://openai.com/index/asana-browser-agent",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "url": "https://openai.com/index/sophos",
     "source": "OpenAI",
     "date": "2026-10-09"
   },
@@ -412,23 +436,5 @@
     "url": "https://openai.com/index/albertsons-reimagining-retail",
     "source": "OpenAI",
     "date": "2026-10-01"
-  },
-  {
-    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-    "url": "https://openai.com/index/the-den-family-social",
-    "source": "OpenAI",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Disrupting a coordinated model-distillation campaign",
-    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-    "source": "OpenAI",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "Helping small businesses put AI to work",
-    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-    "source": "OpenAI",
-    "date": "2026-09-30"
   }
 ]
