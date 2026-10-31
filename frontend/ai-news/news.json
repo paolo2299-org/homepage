@@ -1,5 +1,33 @@
 [
   {
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "url": "https://openai.com/index/updated-model-spec",
+    "source": "OpenAI",
+    "date": "2026-10-29",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "How we detect frontier model misalignment",
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "source": "OpenAI",
+    "date": "2026-10-29",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "url": "https://openai.com/index/ropes-gray-ai-diligence",
+    "source": "OpenAI",
+    "date": "2026-10-29",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
     "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
     "source": "OpenAI",
@@ -57,6 +85,16 @@
     "tags": [
       "Product Launch",
       "Enterprise"
+    ]
+  },
+  {
+    "title": "Build and manage Connected Apps in one place",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/",
+    "source": "Google",
+    "date": "2026-10-28",
+    "tags": [
+      "Developer Tools",
+      "Product Launch"
     ]
   },
   {
