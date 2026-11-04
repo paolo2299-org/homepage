@@ -1,5 +1,29 @@
 [
   {
+    "title": "Accelerating engineering for the physical world",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "source": "OpenAI",
+    "date": "2026-11-03"
+  },
+  {
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "url": "https://openai.com/index/cisco-cyber",
+    "source": "OpenAI",
+    "date": "2026-11-03"
+  },
+  {
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "url": "https://openai.com/index/heimstaden",
+    "source": "OpenAI",
+    "date": "2026-11-03"
+  },
+  {
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "source": "OpenAI",
+    "date": "2026-11-03"
+  },
+  {
     "title": "Scaling Git at OpenAI",
     "url": "https://openai.com/index/scaling-git-at-openai",
     "source": "OpenAI",
@@ -84,6 +108,12 @@
     "date": "2026-10-29"
   },
   {
+    "title": "Evernote turns AI-driven discovery into paid subscriptions",
+    "url": "https://openai.com/ads/customers/evernote",
+    "source": "OpenAI",
+    "date": "2026-10-28"
+  },
+  {
     "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
     "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
     "source": "OpenAI",
@@ -126,6 +156,12 @@
     "date": "2026-10-26"
   },
   {
+    "title": "Introducing GPT-6.1 Terra",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "source": "OpenAI",
+    "date": "2026-10-26"
+  },
+  {
     "title": "Working with academic communities to build scientific understanding",
     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
     "source": "OpenAI",
@@ -152,12 +188,6 @@
   {
     "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
     "url": "https://openai.com/index/openai-cut-incident-investigation",
-    "source": "OpenAI",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "Introducing GPT-6.1 Terra",
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
     "source": "OpenAI",
     "date": "2026-10-26"
   },
@@ -288,26 +318,26 @@
     "date": "2026-10-16"
   },
   {
-    "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
-    "url": "https://openai.com/index/grupo-boticario",
-    "source": "OpenAI",
-    "date": "2026-10-16"
-  },
-  {
     "title": "How Localiza reorganized work around generative AI",
     "url": "https://openai.com/index/localiza-generative-ai",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
   {
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "url": "https://openai.com/index/benefit-street-partners",
+    "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
+    "url": "https://openai.com/index/grupo-boticario",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
   {
     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "source": "OpenAI",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
