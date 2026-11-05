@@ -1,5 +1,44 @@
 [
   {
+    "title": "Accelerating engineering for the physical world",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "source": "OpenAI",
+    "date": "2026-11-03",
+    "tags": [
+      "Enterprise",
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "url": "https://openai.com/index/cisco-cyber",
+    "source": "OpenAI",
+    "date": "2026-11-03",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "url": "https://openai.com/index/heimstaden",
+    "source": "OpenAI",
+    "date": "2026-11-03",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "source": "OpenAI",
+    "date": "2026-11-03",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
     "title": "Make long-running agents faster with message threads",
     "url": "https://claude.com/resources/articles/message-threads",
     "source": "Claude",
