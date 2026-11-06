@@ -1,5 +1,47 @@
 [
   {
+    "title": "Australian universities are creating AI-native graduates",
+    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "source": "OpenAI",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Cult.fit builds operational muscle with Codex",
+    "url": "https://openai.com/index/cultfit-builds-with-codex",
+    "source": "OpenAI",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber",
+    "source": "OpenAI",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "url": "https://openai.com/index/merge-builds-with-openai",
+    "source": "OpenAI",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "source": "OpenAI",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Flipsnack grows product signups with conversion optimization",
+    "url": "https://openai.com/ads/customers/flipsnack",
+    "source": "OpenAI",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Franklin Templeton uses OpenAI to support investment research",
+    "url": "https://openai.com/index/franklin-templeton",
+    "source": "OpenAI",
+    "date": "2026-11-05"
+  },
+  {
     "title": "OpenAI to acquire Pierre Computer Company, Inc.",
     "url": "https://openai.com/index/openai-to-acquire-pierre",
     "source": "OpenAI",
@@ -66,14 +108,14 @@
     "date": "2026-11-02"
   },
   {
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
   {
-    "title": "Rewarding defenders with bigger bug bounties",
-    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
@@ -84,14 +126,14 @@
     "date": "2026-11-02"
   },
   {
-    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "title": "Qodo builds context into AI code review with Codex",
+    "url": "https://openai.com/index/qodo-codex-plugin",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
   {
-    "title": "Qodo builds context into AI code review with Codex",
-    "url": "https://openai.com/index/qodo-codex-plugin",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
@@ -348,14 +390,14 @@
     "date": "2026-10-16"
   },
   {
-    "title": "How Localiza reorganized work around generative AI",
-    "url": "https://openai.com/index/localiza-generative-ai",
+    "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
+    "url": "https://openai.com/index/grupo-boticario",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
   {
-    "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
-    "url": "https://openai.com/index/grupo-boticario",
+    "title": "How Localiza reorganized work around generative AI",
+    "url": "https://openai.com/index/localiza-generative-ai",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
@@ -426,14 +468,14 @@
     "date": "2026-10-13"
   },
   {
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "url": "https://openai.com/index/asana-browser-agent",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "url": "https://openai.com/index/sophos",
     "source": "OpenAI",
     "date": "2026-10-09"
   },
   {
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "url": "https://openai.com/index/sophos",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "url": "https://openai.com/index/asana-browser-agent",
     "source": "OpenAI",
     "date": "2026-10-09"
   },
@@ -466,41 +508,5 @@
     "url": "https://openai.com/index/teens-learn-and-plan",
     "source": "OpenAI",
     "date": "2026-10-07"
-  },
-  {
-    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-    "url": "https://openai.com/index/radisson",
-    "source": "OpenAI",
-    "date": "2026-10-07"
-  },
-  {
-    "title": "GPT-6 and Intelligent UI for everyone",
-    "url": "https://openai.com/index/gpt-6-for-everyone",
-    "source": "OpenAI",
-    "date": "2026-10-07"
-  },
-  {
-    "title": "How Jump Trading is scaling quant research with ChatGPT",
-    "url": "https://openai.com/index/jump-trading",
-    "source": "OpenAI",
-    "date": "2026-10-06"
-  },
-  {
-    "title": "Sharing AI progress in mathematics",
-    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-    "source": "OpenAI",
-    "date": "2026-10-06"
-  },
-  {
-    "title": "Advancing computer use with Ironclad",
-    "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-    "source": "OpenAI",
-    "date": "2026-10-06"
-  },
-  {
-    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-    "url": "https://openai.com/index/atlassian-partnership",
-    "source": "OpenAI",
-    "date": "2026-10-06"
   }
 ]

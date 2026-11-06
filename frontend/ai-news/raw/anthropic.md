@@ -50,7 +50,7 @@ Models
 
 [Download apps](https://claude.com/download)
 
-[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.8ee1751d-0a55-4f00-8c35-2220309bca7e/login)
+[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.90e9aeb0-68ac-4bab-a7b4-792edcd43454/login)
 
 Developers
 
@@ -136,9 +136,9 @@ Pricing
 *   [Overview](https://claude.com/pricing)
 *   [API](https://claude.com/pricing#api)
 
-[Login](https://claude.ai/redirect/claudedotcom.v1.8ee1751d-0a55-4f00-8c35-2220309bca7e/login)
+[Login](https://claude.ai/redirect/claudedotcom.v1.90e9aeb0-68ac-4bab-a7b4-792edcd43454/login)
 
-[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.8ee1751d-0a55-4f00-8c35-2220309bca7e)
+[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.90e9aeb0-68ac-4bab-a7b4-792edcd43454)
 
 Claude Resources
 
@@ -149,10 +149,11 @@ Claude Resources
 Articles
 *   [All resources](https://claude.com/resources)
 
-*   [Announcements](https://claude.com/resources/product-announcements)
+*   [Product updates](https://claude.com/resources/product-updates)
 *   [Best practices](https://claude.com/resources/best-practices)
 *   [Perspectives](https://claude.com/resources/perspectives)
 *   [Insights](https://claude.com/resources/insights)
+*   [Enterprise](https://claude.com/resources/enterprise-announcements)
 
 *   [Guides](https://claude.com/resources/guides)
 *   [Webinars](https://claude.com/resources/webinars)
@@ -172,11 +173,11 @@ News, announcements, and stories from Anthropic about Claude and the people buil
 
 [Article Oct 21, 2026 ### Introducing Claude Duet A research preview is available by waitlist today, starting with US Pro, Max, and Ultra subscribers. ![Image 1](https://assets.claude.com/9273e22b909074c1c2d42ca3514a239623f8af40.svg)](https://claude.com/resources/articles/claude-duet)
 
+[Article Nov 5, 2026 ### Introducing Personal Finance in Claude Ask Claude about your money and get straight answers from the accounts you connect.](https://claude.com/resources/articles/introducing-personal-finance-in-claude)
+
+[Article Nov 5, 2026 ### More visibility and control over Claude Enterprise for security teams Claude Enterprise Claude apps](https://claude.com/resources/articles/claude-enterprise-security-updates)
+
 [Article Nov 4, 2026 ### New agents and products for security, productivity, and creative work on Claude Marketplace](https://claude.com/resources/articles/new-agents-and-products-claude-marketplace)
-
-[Article Nov 2, 2026 ### Make long-running agents faster with message threads New in the Messages API, send your conversation once, and the API receives only what’s new with every turn. Claude Platform](https://claude.com/resources/articles/message-threads)
-
-[Article Oct 28, 2026 ### Smart reports, surveys, and pooled group budgets for Claude Enterprise In many organizations, members have identified the unique work that Claude can unlock. The next step is expanding that work to every team. Claude Enterprise](https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets)
 
 [Article Oct 22, 2026 ### Building agents: When to fold subagents into your main agent loop When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to migrate. Claude Platform](https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop)
 
@@ -184,9 +185,9 @@ Featured resource 1 of 5: Building agents: When to fold subagents into your main
 
 Advanced filters
 
-Showing 11 of 301 resources
+Showing 11 of 303 resources
 
-[Article Nov 4, 2026 ### New agents and products for security, productivity, and creative work on Claude Marketplace](https://claude.com/resources/articles/new-agents-and-products-claude-marketplace)[Article Nov 2, 2026 ### Make long-running agents faster with message threads New in the Messages API, send your conversation once, and the API receives only what’s new with every turn. Claude Platform](https://claude.com/resources/articles/message-threads)[Article Oct 28, 2026 ### Smart reports, surveys, and pooled group budgets for Claude Enterprise In many organizations, members have identified the unique work that Claude can unlock. The next step is expanding that work to every team. Claude Enterprise](https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets)[Article Oct 28, 2026 ### IDC brings Quanta into Claude and adopts Claude across the company IDC integrated Claude as part of its Quanta platform, and it has rolled Claude out across its own business Claude Cowork Claude Code 1 more: Claude Enterprise Claude Enterprise](https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company)[Article Oct 28, 2026 ### Introducing artifacts for legal work Claude for Legal now includes ready-to-use artifacts for legal work that teams can adapt with their own data and connectors, and share across the business. Claude Enterprise](https://claude.com/resources/articles/introducing-artifacts-for-legal-work)[Article Oct 27, 2026 ### Manage costs and demonstrate ROI for Claude Code on Google Cloud Best practices for managing costs and measuring return on investment for Claude Code on Google Cloud. Claude Code](https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud)[Article Oct 27, 2026 ### Claude for Financial Advisors Financial advisors can now connect Claude to the custodians, portfolio platforms, CRMs, and planning tools they depend on, along with new skills tailored to the daily work of a financial advisor.](https://claude.com/resources/articles/claude-for-financial-advisors)[Article Oct 26, 2026 ### Expanding Claude for Nonprofits Our new Claude for Nonprofits plugin brings new skills to every verified nonprofit organization, taking on the operational work that stretches small teams across fundraising, marketing, and hiring.](https://claude.com/resources/articles/expanding-claude-for-nonprofits)[Article Oct 23, 2026 ### Claude Cowork and chat come together for Enterprise Claude Enterprise](https://claude.com/resources/articles/unified-claude-enterprise)[Article Oct 23, 2026 ### Claude Duet Safety, Privacy, and Security Claude Duet is a proactive agent that works for you, even while you’re away. It builds on two layers of protection: safety training in the Claude model itself and the safeguards that exist in products like Claude Code and Claude Managed Agents. On top of those, we added new protections for working across your accounts and acting on your behalf.](https://claude.com/resources/articles/claude-duet-safety-privacy-and-security)[Article Oct 22, 2026 ### Building agents: When to fold subagents into your main agent loop When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to migrate. Claude Platform](https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop)
+[Article Nov 5, 2026 ### Introducing Personal Finance in Claude Ask Claude about your money and get straight answers from the accounts you connect.](https://claude.com/resources/articles/introducing-personal-finance-in-claude)[Article Nov 5, 2026 ### More visibility and control over Claude Enterprise for security teams Claude Enterprise Claude apps](https://claude.com/resources/articles/claude-enterprise-security-updates)[Article Nov 4, 2026 ### New agents and products for security, productivity, and creative work on Claude Marketplace](https://claude.com/resources/articles/new-agents-and-products-claude-marketplace)[Article Nov 2, 2026 ### Make long-running agents faster with message threads New in the Messages API, send your conversation once, and the API receives only what’s new with every turn. Claude Platform](https://claude.com/resources/articles/message-threads)[Article Oct 28, 2026 ### Smart reports, surveys, and pooled group budgets for Claude Enterprise In many organizations, members have identified the unique work that Claude can unlock. The next step is expanding that work to every team. Claude Enterprise](https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets)[Article Oct 28, 2026 ### IDC brings Quanta into Claude and adopts Claude across the company IDC integrated Claude as part of its Quanta platform, and it has rolled Claude out across its own business Claude Cowork Claude Code 1 more: Claude Enterprise Claude Enterprise](https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company)[Article Oct 28, 2026 ### Introducing artifacts for legal work Claude for Legal now includes ready-to-use artifacts for legal work that teams can adapt with their own data and connectors, and share across the business. Claude Enterprise](https://claude.com/resources/articles/introducing-artifacts-for-legal-work)[Article Oct 27, 2026 ### Manage costs and demonstrate ROI for Claude Code on Google Cloud Best practices for managing costs and measuring return on investment for Claude Code on Google Cloud. Claude Code](https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud)[Article Oct 27, 2026 ### Claude for Financial Advisors Financial advisors can now connect Claude to the custodians, portfolio platforms, CRMs, and planning tools they depend on, along with new skills tailored to the daily work of a financial advisor.](https://claude.com/resources/articles/claude-for-financial-advisors)[Article Oct 26, 2026 ### Expanding Claude for Nonprofits Our new Claude for Nonprofits plugin brings new skills to every verified nonprofit organization, taking on the operational work that stretches small teams across fundraising, marketing, and hiring.](https://claude.com/resources/articles/expanding-claude-for-nonprofits)[Article Oct 23, 2026 ### Claude Cowork and chat come together for Enterprise Claude Enterprise](https://claude.com/resources/articles/unified-claude-enterprise)
 
 View more
 
@@ -205,7 +206,7 @@ View more
 *   [Claude Security](https://claude.com/product/claude-security)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.8ee1751d-0a55-4f00-8c35-2220309bca7e/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.90e9aeb0-68ac-4bab-a7b4-792edcd43454/login)
 
 ## Capabilities
 
@@ -331,7 +332,7 @@ View more
 *   [Claude Security](https://claude.com/product/claude-security)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.8ee1751d-0a55-4f00-8c35-2220309bca7e/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.90e9aeb0-68ac-4bab-a7b4-792edcd43454/login)
 
 ## Capabilities
 
