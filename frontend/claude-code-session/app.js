@@ -2,7 +2,7 @@
 'use strict';
 
 const LANE = { harness: 'harness', workspace: 'harness', model: 'model' };
-const LANE_LABELS = { harness: 'Harness', workspace: 'Harness · workspace', model: 'Model' };
+const LANE_LABELS = { harness: 'Harness', workspace: EDITORIAL.workspaceLabel, model: 'Model' };
 
 // What crosses between the columns at this step, drawn in the gutter.
 function crossing(step) {

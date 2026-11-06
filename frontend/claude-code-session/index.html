@@ -14,6 +14,10 @@
 <header class="intro">
   <p class="home-link"><a href="/">← Home</a></p>
   <h1>A recorded Claude Code session</h1>
+  <nav class="session-switch" aria-label="Recorded sessions">
+    <a href="index.html" aria-current="page">Coding: add a feature to an app</a>
+    <a href="browser.html">Browser: shop on Amazon</a>
+  </nav>
   <p class="lede">We'll show how the Opus 5.5 model and Claude harness work together to add a simple feature to an existing codebase. The codebase we use is <a href="https://github.com/paolo2299-org/recipe-manager">Recipe Manager</a>, a small Flask web app for saving recipes. It extracts recipes from web pages and images and stores them in SQLite, alongside lighter &ldquo;recipe ideas&rdquo;. It comes with a suite of 226 pytest tests and an AGENTS.md file of instructions for coding agents. The feature we asked Claude to build is a filter on the recipe collection: All, Full recipes or Recipe ideas. It has to work together with the existing title and tag search, keep the search text when the filter changes, update the displayed count, and show helpful feedback when nothing matches. Claude also had to add tests and run the project's checks.</p>
   <div class="facts" id="facts"></div>
   <section class="prompt-box" aria-labelledby="prompt-title">
@@ -45,7 +49,8 @@
 </dialog>
 
 
-<script src="session-data.js"></script>
+<script src="coding-data.js"></script>
+<script src="coding-notes.js"></script>
 <script src="steps.js"></script>
 <script src="app.js"></script>
 </body>
