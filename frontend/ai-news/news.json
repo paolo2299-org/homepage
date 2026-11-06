@@ -1,5 +1,62 @@
 [
   {
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "source": "OpenAI",
+    "date": "2026-11-04",
+    "tags": [
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "source": "OpenAI",
+    "date": "2026-11-04",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "A thousand fewer paths to root",
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "source": "OpenAI",
+    "date": "2026-11-04",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Introducing Images 2.6",
+    "url": "https://openai.com/index/introducing-images-2-6",
+    "source": "OpenAI",
+    "date": "2026-11-04",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "url": "https://openai.com/index/devrev-enterprise-self-service",
+    "source": "OpenAI",
+    "date": "2026-11-04",
+    "tags": [
+      "Case Study",
+      "Agents"
+    ]
+  },
+  {
+    "title": "New agents and products for security, productivity, and creative work on Claude Marketplace",
+    "url": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace",
+    "source": "Claude",
+    "date": "2026-11-04",
+    "tags": [
+      "Product Launch",
+      "Agents"
+    ]
+  },
+  {
     "title": "Accelerating engineering for the physical world",
     "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
     "source": "OpenAI",
