@@ -50,7 +50,7 @@ Models
 
 [Download apps](https://claude.com/download)
 
-[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.7e9acdee-73da-4e08-8c0b-bbf94c5ab46c/login)
+[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.2276bd35-1166-4b9c-85d0-fe01edc0ff31/login)
 
 Developers
 
@@ -136,9 +136,9 @@ Pricing
 *   [Overview](https://claude.com/pricing)
 *   [API](https://claude.com/pricing#api)
 
-[Login](https://claude.ai/redirect/claudedotcom.v1.7e9acdee-73da-4e08-8c0b-bbf94c5ab46c/login)
+[Login](https://claude.ai/redirect/claudedotcom.v1.2276bd35-1166-4b9c-85d0-fe01edc0ff31/login)
 
-[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.7e9acdee-73da-4e08-8c0b-bbf94c5ab46c)
+[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.2276bd35-1166-4b9c-85d0-fe01edc0ff31)
 
 Claude Resources
 
@@ -173,11 +173,11 @@ News, announcements, and stories from Anthropic about Claude and the people buil
 
 [Article Oct 21, 2026 ### Introducing Claude Duet A research preview is available by waitlist today, starting with US Pro, Max, and Ultra subscribers. ![Image 1](https://assets.claude.com/9273e22b909074c1c2d42ca3514a239623f8af40.svg)](https://claude.com/resources/articles/claude-duet)
 
-[Article Nov 5, 2026 ### Introducing Personal Finance in Claude Ask Claude about your money and get straight answers from the accounts you connect.](https://claude.com/resources/articles/introducing-personal-finance-in-claude)
+[Article Nov 9, 2026 ### JPMorganChase expands Claude Code to more employees across the firm Claude Code](https://claude.com/resources/articles/jpmorganchase-expands-claude-code)
 
-[Article Nov 5, 2026 ### More visibility and control over Claude Enterprise for security teams Claude Enterprise Claude apps](https://claude.com/resources/articles/claude-enterprise-security-updates)
+[Article Nov 9, 2026 ### Claude Fable 5.2 and Mythos 5.2 Introducing Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Claude apps Claude Code 1 more: Claude Platform Claude Platform (opens in new tab)](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 
-[Article Nov 4, 2026 ### New agents and products for security, productivity, and creative work on Claude Marketplace](https://claude.com/resources/articles/new-agents-and-products-claude-marketplace)
+[Article Nov 9, 2026 ### Claude can design electronic prototypes from start to finish We asked Claude to design three electronic devices: a speakerphone, a voice-assistant hub, and a handheld virtual pet. The prototypes worked without any fixes to their circuitry. (opens in new tab)](https://www.anthropic.com/research/claude-electronics-design)
 
 [Article Oct 22, 2026 ### Building agents: When to fold subagents into your main agent loop When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to migrate. Claude Platform](https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop)
 
@@ -185,9 +185,9 @@ Featured resource 1 of 5: Building agents: When to fold subagents into your main
 
 Advanced filters
 
-Showing 11 of 303 resources
+Showing 11 of 309 resources
 
-[Article Nov 5, 2026 ### Introducing Personal Finance in Claude Ask Claude about your money and get straight answers from the accounts you connect.](https://claude.com/resources/articles/introducing-personal-finance-in-claude)[Article Nov 5, 2026 ### More visibility and control over Claude Enterprise for security teams Claude Enterprise Claude apps](https://claude.com/resources/articles/claude-enterprise-security-updates)[Article Nov 4, 2026 ### New agents and products for security, productivity, and creative work on Claude Marketplace](https://claude.com/resources/articles/new-agents-and-products-claude-marketplace)[Article Nov 2, 2026 ### Make long-running agents faster with message threads New in the Messages API, send your conversation once, and the API receives only what’s new with every turn. Claude Platform](https://claude.com/resources/articles/message-threads)[Article Oct 28, 2026 ### Smart reports, surveys, and pooled group budgets for Claude Enterprise In many organizations, members have identified the unique work that Claude can unlock. The next step is expanding that work to every team. Claude Enterprise](https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets)[Article Oct 28, 2026 ### IDC brings Quanta into Claude and adopts Claude across the company IDC integrated Claude as part of its Quanta platform, and it has rolled Claude out across its own business Claude Cowork Claude Code 1 more: Claude Enterprise Claude Enterprise](https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company)[Article Oct 28, 2026 ### Introducing artifacts for legal work Claude for Legal now includes ready-to-use artifacts for legal work that teams can adapt with their own data and connectors, and share across the business. Claude Enterprise](https://claude.com/resources/articles/introducing-artifacts-for-legal-work)[Article Oct 27, 2026 ### Manage costs and demonstrate ROI for Claude Code on Google Cloud Best practices for managing costs and measuring return on investment for Claude Code on Google Cloud. Claude Code](https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud)[Article Oct 27, 2026 ### Claude for Financial Advisors Financial advisors can now connect Claude to the custodians, portfolio platforms, CRMs, and planning tools they depend on, along with new skills tailored to the daily work of a financial advisor.](https://claude.com/resources/articles/claude-for-financial-advisors)[Article Oct 26, 2026 ### Expanding Claude for Nonprofits Our new Claude for Nonprofits plugin brings new skills to every verified nonprofit organization, taking on the operational work that stretches small teams across fundraising, marketing, and hiring.](https://claude.com/resources/articles/expanding-claude-for-nonprofits)[Article Oct 23, 2026 ### Claude Cowork and chat come together for Enterprise Claude Enterprise](https://claude.com/resources/articles/unified-claude-enterprise)
+[Article Nov 9, 2026 ### JPMorganChase expands Claude Code to more employees across the firm Claude Code](https://claude.com/resources/articles/jpmorganchase-expands-claude-code)[Article Nov 9, 2026 ### Claude Fable 5.2 and Mythos 5.2 Introducing Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Claude apps Claude Code 1 more: Claude Platform Claude Platform (opens in new tab)](https://www.anthropic.com/claude-fable-and-mythos-5-2)[Article Nov 9, 2026 ### Claude can design electronic prototypes from start to finish We asked Claude to design three electronic devices: a speakerphone, a voice-assistant hub, and a handheld virtual pet. The prototypes worked without any fixes to their circuitry. (opens in new tab)](https://www.anthropic.com/research/claude-electronics-design)[Article Nov 9, 2026 ### Safely scaling multi-agent teams with Claude Fable 5.2 How a team of 1,000 agents running an early version of Claude Fable 5.2 reproduced a formal proof of Fermat's Last Theorem with general tools, a shared database, and layered safety controls. (opens in new tab)](https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/)[Article Nov 9, 2026 ### Which Claude model should you build with? How to choose between Claude Fable 5.2, Opus 5.5, Sonnet 5.5, and Haiku 5.5 by task, cost, and effort level. Claude Platform Claude Code (opens in new tab)](https://claude.dev/blog/which-claude-model-should-you-build-with/)[Article Nov 6, 2026 ### The components of agent memory For Claude to learn from experience, it has to decide what's worth remembering before it knows what's next. Here's how "dreaming" helps it organize memory and correct mistakes. Claude Platform (opens in new tab)](https://www.anthropic.com/research/components-of-agent-memory)[Article Nov 5, 2026 ### Introducing Personal Finance in Claude Ask Claude about your money and get straight answers from the accounts you connect.](https://claude.com/resources/articles/introducing-personal-finance-in-claude)[Article Nov 5, 2026 ### More visibility and control over Claude Enterprise for security teams Claude Enterprise Claude apps](https://claude.com/resources/articles/claude-enterprise-security-updates)[Article Nov 4, 2026 ### New agents and products for security, productivity, and creative work on Claude Marketplace](https://claude.com/resources/articles/new-agents-and-products-claude-marketplace)[Article Nov 2, 2026 ### Make long-running agents faster with message threads New in the Messages API, send your conversation once, and the API receives only what’s new with every turn. Claude Platform](https://claude.com/resources/articles/message-threads)[Article Oct 28, 2026 ### Smart reports, surveys, and pooled group budgets for Claude Enterprise In many organizations, members have identified the unique work that Claude can unlock. The next step is expanding that work to every team. Claude Enterprise](https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets)
 
 View more
 
@@ -206,7 +206,7 @@ View more
 *   [Claude Security](https://claude.com/product/claude-security)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.7e9acdee-73da-4e08-8c0b-bbf94c5ab46c/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.2276bd35-1166-4b9c-85d0-fe01edc0ff31/login)
 
 ## Capabilities
 
@@ -332,7 +332,7 @@ View more
 *   [Claude Security](https://claude.com/product/claude-security)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.7e9acdee-73da-4e08-8c0b-bbf94c5ab46c/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.2276bd35-1166-4b9c-85d0-fe01edc0ff31/login)
 
 ## Capabilities
 
