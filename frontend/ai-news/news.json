@@ -1,5 +1,100 @@
 [
   {
+    "title": "Closing the AI guidance gap in education",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "source": "OpenAI",
+    "date": "2026-11-10",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "JPMorganChase expands Claude Code to more employees across the firm",
+    "url": "https://claude.com/resources/articles/jpmorganchase-expands-claude-code",
+    "source": "Claude",
+    "date": "2026-11-09",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "source": "Claude",
+    "date": "2026-11-09",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Claude can design electronic prototypes from start to finish",
+    "url": "https://www.anthropic.com/research/claude-electronics-design",
+    "source": "Claude",
+    "date": "2026-11-09",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Safely scaling multi-agent teams with Claude Fable 5.2",
+    "url": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
+    "source": "Claude",
+    "date": "2026-11-09",
+    "tags": [
+      "Agents",
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Which Claude model should you build with?",
+    "url": "https://claude.dev/blog/which-claude-model-should-you-build-with/",
+    "source": "Claude",
+    "date": "2026-11-09",
+    "tags": [
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "source": "OpenAI",
+    "date": "2026-11-09",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "url": "https://openai.com/index/control-room",
+    "source": "OpenAI",
+    "date": "2026-11-09",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "url": "https://openai.com/index/coderabbit-codex-daybreak",
+    "source": "OpenAI",
+    "date": "2026-11-09",
+    "tags": [
+      "Case Study",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "url": "https://openai.com/index/kuken",
+    "source": "OpenAI",
+    "date": "2026-11-09",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
     "url": "https://openai.com/index/partnering-with-hacktron",
     "source": "OpenAI",
