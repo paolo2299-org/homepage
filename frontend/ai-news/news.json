@@ -1,11 +1,115 @@
 [
   {
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "source": "OpenAI",
+    "date": "2026-11-12",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "source": "OpenAI",
+    "date": "2026-11-11",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
     "title": "Closing the AI guidance gap in education",
     "url": "https://openai.com/index/closing-ai-guidance-gap-education",
     "source": "OpenAI",
     "date": "2026-11-10",
     "tags": [
       "Opinion"
+    ]
+  },
+  {
+    "title": "Introducing Claude Whiteboards, Claude Sheets, and Claude Data",
+    "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "source": "Claude",
+    "date": "2026-11-10",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "How Curative is building a national provider network with agents on Claude",
+    "url": "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude",
+    "source": "Claude",
+    "date": "2026-11-10",
+    "tags": [
+      "Case Study",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Your apps can now open in Claude, and Claude can work in them",
+    "url": "https://claude.com/resources/articles/interactive-connectors-full-tool",
+    "source": "Claude",
+    "date": "2026-11-10",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "More ways to work with Claude: Sheets, Whiteboards, and Interactive Connectors",
+    "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+    "source": "Claude",
+    "date": "2026-11-10",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Helping caregivers use AI in everyday life",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "source": "OpenAI",
+    "date": "2026-11-10",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Introducing Businesses in ChatGPT",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "source": "OpenAI",
+    "date": "2026-11-10",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "url": "https://openai.com/index/singapore-airlines-travel-work",
+    "source": "OpenAI",
+    "date": "2026-11-10",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "url": "https://openai.com/index/ai-effect-on-freelance-work",
+    "source": "OpenAI",
+    "date": "2026-11-10",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "url": "https://openai.com/index/cogent-security",
+    "source": "OpenAI",
+    "date": "2026-11-10",
+    "tags": [
+      "Enterprise",
+      "Case Study"
     ]
   },
   {
@@ -92,6 +196,16 @@
     "tags": [
       "Case Study",
       "Enterprise"
+    ]
+  },
+  {
+    "title": "Developers can now build with Google Maps Platform in AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
+    "source": "Google",
+    "date": "2026-11-09",
+    "tags": [
+      "Developer Tools",
+      "Product Launch"
     ]
   },
   {
