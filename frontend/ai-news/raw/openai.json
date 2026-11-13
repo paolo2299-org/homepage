@@ -1,5 +1,29 @@
 [
   {
+    "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
+    "url": "https://openai.com/business/customer-stories/amplitude",
+    "source": "OpenAI",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "url": "https://openai.com/business/customer-stories/gondola",
+    "source": "OpenAI",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "source": "OpenAI",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Supporting research on AI and children\u2019s safety",
+    "url": "https://openai.com/index/children-first-declaration",
+    "source": "OpenAI",
+    "date": "2026-11-12"
+  },
+  {
     "title": "Gilbert + Tobin rethinks the business of law with AI",
     "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
     "source": "OpenAI",
@@ -198,14 +222,14 @@
     "date": "2026-11-02"
   },
   {
-    "title": "Rewarding defenders with bigger bug bounties",
-    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
   {
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
@@ -216,14 +240,14 @@
     "date": "2026-11-02"
   },
   {
-    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "title": "Qodo builds context into AI code review with Codex",
+    "url": "https://openai.com/index/qodo-codex-plugin",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
   {
-    "title": "Qodo builds context into AI code review with Codex",
-    "url": "https://openai.com/index/qodo-codex-plugin",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
@@ -480,14 +504,14 @@
     "date": "2026-10-16"
   },
   {
-    "title": "How Localiza reorganized work around generative AI",
-    "url": "https://openai.com/index/localiza-generative-ai",
+    "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
+    "url": "https://openai.com/index/grupo-boticario",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
   {
-    "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
-    "url": "https://openai.com/index/grupo-boticario",
+    "title": "How Localiza reorganized work around generative AI",
+    "url": "https://openai.com/index/localiza-generative-ai",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
@@ -532,29 +556,5 @@
     "url": "https://openai.com/index/sentinelone",
     "source": "OpenAI",
     "date": "2026-10-14"
-  },
-  {
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "url": "https://openai.com/index/third-moment-research",
-    "source": "OpenAI",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "url": "https://openai.com/index/block-ai-powered-security",
-    "source": "OpenAI",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "The EU\u2019s next chapter in AI is agentic",
-    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "source": "OpenAI",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-    "source": "OpenAI",
-    "date": "2026-10-13"
   }
 ]
