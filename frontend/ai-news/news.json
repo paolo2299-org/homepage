@@ -19,6 +19,16 @@
     ]
   },
   {
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "url": "https://openai.com/index/jiostar-vijay-seshadri",
+    "source": "OpenAI",
+    "date": "2026-11-11",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Closing the AI guidance gap in education",
     "url": "https://openai.com/index/closing-ai-guidance-gap-education",
     "source": "OpenAI",
@@ -110,6 +120,16 @@
     "tags": [
       "Enterprise",
       "Case Study"
+    ]
+  },
+  {
+    "title": "Gemini 4 Carbon is now available for developers.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
+    "source": "Google",
+    "date": "2026-11-10",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
     ]
   },
   {
@@ -1165,36 +1185,6 @@
     "tags": [
       "Developer Tools",
       "Agents"
-    ]
-  },
-  {
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-    "source": "OpenAI",
-    "date": "2026-10-13",
-    "tags": [
-      "Case Study",
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "Uber's CISO on building an insider threat program for AI",
-    "url": "https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai",
-    "source": "Claude",
-    "date": "2026-10-13",
-    "tags": [
-      "Enterprise",
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Gemini 4 Argon is now available for developers.",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
-    "source": "Google",
-    "date": "2026-10-13",
-    "tags": [
-      "Product Launch",
-      "Developer Tools"
     ]
   }
 ]
