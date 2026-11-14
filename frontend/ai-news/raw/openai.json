@@ -1,5 +1,17 @@
 [
   {
+    "title": "Introducing ChatGPT Wallet",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "source": "OpenAI",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "url": "https://openai.com/business/customer-stories/shield",
+    "source": "OpenAI",
+    "date": "2026-11-13"
+  },
+  {
     "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
     "url": "https://openai.com/business/customer-stories/amplitude",
     "source": "OpenAI",
@@ -222,14 +234,14 @@
     "date": "2026-11-02"
   },
   {
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
   {
-    "title": "Rewarding defenders with bigger bug bounties",
-    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
@@ -504,26 +516,26 @@
     "date": "2026-10-16"
   },
   {
-    "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
-    "url": "https://openai.com/index/grupo-boticario",
-    "source": "OpenAI",
-    "date": "2026-10-16"
-  },
-  {
     "title": "How Localiza reorganized work around generative AI",
     "url": "https://openai.com/index/localiza-generative-ai",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
   {
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "url": "https://openai.com/index/benefit-street-partners",
+    "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
+    "url": "https://openai.com/index/grupo-boticario",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
   {
     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "source": "OpenAI",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
     "source": "OpenAI",
     "date": "2026-10-16"
   },
@@ -538,23 +550,5 @@
     "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
     "source": "OpenAI",
     "date": "2026-10-15"
-  },
-  {
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "url": "https://openai.com/index/sullivan-cromwell",
-    "source": "OpenAI",
-    "date": "2026-10-15"
-  },
-  {
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "url": "https://openai.com/index/amp-beyond-coding",
-    "source": "OpenAI",
-    "date": "2026-10-14"
-  },
-  {
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "url": "https://openai.com/index/sentinelone",
-    "source": "OpenAI",
-    "date": "2026-10-14"
   }
 ]
