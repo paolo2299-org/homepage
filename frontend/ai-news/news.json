@@ -1,5 +1,34 @@
 [
   {
+    "title": "Building always-on agents",
+    "url": "https://claude.com/resources/articles/building-always-on-agents",
+    "source": "Claude",
+    "date": "2026-11-13",
+    "tags": [
+      "Agents",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Introducing ChatGPT Wallet",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "source": "OpenAI",
+    "date": "2026-11-13",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "url": "https://openai.com/business/customer-stories/shield",
+    "source": "OpenAI",
+    "date": "2026-11-13",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Gilbert + Tobin rethinks the business of law with AI",
     "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
     "source": "OpenAI",
@@ -103,6 +132,16 @@
     "tags": [
       "Case Study",
       "Enterprise"
+    ]
+  },
+  {
+    "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+    "source": "Google",
+    "date": "2026-11-12",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
     ]
   },
   {
@@ -1192,45 +1231,6 @@
     "tags": [
       "Developer Tools",
       "Opinion"
-    ]
-  },
-  {
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "source": "OpenAI",
-    "date": "2026-10-15",
-    "tags": [
-      "Product Launch",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Teaching students to think and learn through questions",
-    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "source": "OpenAI",
-    "date": "2026-10-15",
-    "tags": [
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "url": "https://openai.com/index/sullivan-cromwell",
-    "source": "OpenAI",
-    "date": "2026-10-15",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Code Review is now generally available",
-    "url": "https://claude.com/resources/articles/code-review-is-now-generally-available",
-    "source": "Claude",
-    "date": "2026-10-15",
-    "tags": [
-      "Product Launch",
-      "Developer Tools"
     ]
   }
 ]
