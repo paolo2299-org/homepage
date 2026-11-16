@@ -50,7 +50,7 @@ Models
 
 [Download apps](https://claude.com/download)
 
-[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.8f9ca2b4-6b54-4a02-ada2-bc07377a0e32/login)
+[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.c7934308-e1de-41ba-b71b-a2a0b7af2ce4/login)
 
 Developers
 
@@ -136,9 +136,9 @@ Pricing
 *   [Overview](https://claude.com/pricing)
 *   [API](https://claude.com/pricing#api)
 
-[Login](https://claude.ai/redirect/claudedotcom.v1.8f9ca2b4-6b54-4a02-ada2-bc07377a0e32/login)
+[Login](https://claude.ai/redirect/claudedotcom.v1.c7934308-e1de-41ba-b71b-a2a0b7af2ce4/login)
 
-[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.8f9ca2b4-6b54-4a02-ada2-bc07377a0e32)
+[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.c7934308-e1de-41ba-b71b-a2a0b7af2ce4)
 
 Claude Resources
 
@@ -206,7 +206,7 @@ View more
 *   [Claude Security](https://claude.com/product/claude-security)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.8f9ca2b4-6b54-4a02-ada2-bc07377a0e32/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.c7934308-e1de-41ba-b71b-a2a0b7af2ce4/login)
 
 ## Capabilities
 
@@ -332,7 +332,7 @@ View more
 *   [Claude Security](https://claude.com/product/claude-security)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.8f9ca2b4-6b54-4a02-ada2-bc07377a0e32/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.c7934308-e1de-41ba-b71b-a2a0b7af2ce4/login)
 
 ## Capabilities
 
