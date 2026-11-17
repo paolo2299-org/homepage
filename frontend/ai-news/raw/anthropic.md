@@ -50,7 +50,7 @@ Models
 
 [Download apps](https://claude.com/download)
 
-[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.c7934308-e1de-41ba-b71b-a2a0b7af2ce4/login)
+[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.c39fa38e-7c24-4f0d-b525-71d445b5954c/login)
 
 Developers
 
@@ -58,6 +58,7 @@ Build with
 
 *   [Claude Code](https://claude.com/product/claude-code)
 *   [Claude Platform](https://claude.com/platform/api)
+*   [Code Review](https://claude.com/product/code-review)
 *   [Managed Agents](https://claude.com/platform/claude-managed-agents)
 
 For developers
@@ -136,9 +137,9 @@ Pricing
 *   [Overview](https://claude.com/pricing)
 *   [API](https://claude.com/pricing#api)
 
-[Login](https://claude.ai/redirect/claudedotcom.v1.c7934308-e1de-41ba-b71b-a2a0b7af2ce4/login)
+[Login](https://claude.ai/redirect/claudedotcom.v1.c39fa38e-7c24-4f0d-b525-71d445b5954c/login)
 
-[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.c7934308-e1de-41ba-b71b-a2a0b7af2ce4)
+[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.c39fa38e-7c24-4f0d-b525-71d445b5954c)
 
 Claude Resources
 
@@ -204,9 +205,10 @@ View more
 *   [Claude Tag](https://claude.com/product/tag)
 *   [Claude Science](https://claude.com/product/claude-science)
 *   [Claude Security](https://claude.com/product/claude-security)
+*   [Code Review](https://claude.com/product/code-review)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.c7934308-e1de-41ba-b71b-a2a0b7af2ce4/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.c39fa38e-7c24-4f0d-b525-71d445b5954c/login)
 
 ## Capabilities
 
@@ -330,9 +332,10 @@ View more
 *   [Claude Tag](https://claude.com/product/tag)
 *   [Claude Science](https://claude.com/product/claude-science)
 *   [Claude Security](https://claude.com/product/claude-security)
+*   [Code Review](https://claude.com/product/code-review)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.c7934308-e1de-41ba-b71b-a2a0b7af2ce4/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.c39fa38e-7c24-4f0d-b525-71d445b5954c/login)
 
 ## Capabilities
 
