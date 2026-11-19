@@ -1,5 +1,14 @@
 [
   {
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "source": "OpenAI",
+    "date": "2026-11-18",
+    "tags": [
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Strengthening NATO and allied cyber defenses with AI",
     "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
     "source": "OpenAI",
@@ -7,6 +16,54 @@
     "tags": [
       "Enterprise",
       "Opinion"
+    ]
+  },
+  {
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "source": "OpenAI",
+    "date": "2026-11-17",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
+    "title": "Introducing ChatGPT for Sales",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "source": "OpenAI",
+    "date": "2026-11-17",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Astra for Law leads in legal intelligence",
+    "url": "https://openai.com/index/astra-law-6-2",
+    "source": "OpenAI",
+    "date": "2026-11-17",
+    "tags": [
+      "Product Launch",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Introducing OpenAI for Chile",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "source": "OpenAI",
+    "date": "2026-11-17",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Linked billing on the Claude Platform",
+    "url": "https://claude.com/resources/articles/linked-billing-on-claude-platform",
+    "source": "Claude",
+    "date": "2026-11-17",
+    "tags": [
+      "Developer Tools",
+      "Product Launch"
     ]
   },
   {
@@ -1293,25 +1350,6 @@
     "date": "2026-10-20",
     "tags": [
       "Enterprise"
-    ]
-  },
-  {
-    "title": "Redesigning source control at Anthropic",
-    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-    "source": "Claude",
-    "date": "2026-10-19",
-    "tags": [
-      "Developer Tools",
-      "Agents"
-    ]
-  },
-  {
-    "title": "Advancing coding in low‑resource programming languages",
-    "url": "https://openai.com/index/low-resource-programming-languages",
-    "source": "OpenAI",
-    "date": "2026-10-19",
-    "tags": [
-      "Developer Tools"
     ]
   }
 ]
