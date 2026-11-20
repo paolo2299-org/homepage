@@ -9,6 +9,63 @@
     ]
   },
   {
+    "title": "The Silent Consensus",
+    "url": "https://openai.com/index/the-silent-consensus",
+    "source": "OpenAI",
+    "date": "2026-11-18",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Research acceleration: The jagged frontier",
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "source": "OpenAI",
+    "date": "2026-11-18",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "url": "https://openai.com/business/customer-stories/sumitomo-life",
+    "source": "OpenAI",
+    "date": "2026-11-18",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Inside the Codex sandbox",
+    "url": "https://openai.com/index/inside-the-codex-sandbox",
+    "source": "OpenAI",
+    "date": "2026-11-18",
+    "tags": [
+      "Developer Tools",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Managing frontier AI risk: From training to deployment",
+    "url": "https://openai.com/index/managing-frontier-ai-risk",
+    "source": "OpenAI",
+    "date": "2026-11-18",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Advancing chip design with OpenAI models",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "source": "OpenAI",
+    "date": "2026-11-18",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
     "title": "Strengthening NATO and allied cyber defenses with AI",
     "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
     "source": "OpenAI",
@@ -64,6 +121,26 @@
     "tags": [
       "Developer Tools",
       "Product Launch"
+    ]
+  },
+  {
+    "title": "Using a \"chaos loop\" to harden the Claude Docs launch: 60 server errors across billions of requests",
+    "url": "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
+    "source": "Claude",
+    "date": "2026-11-17",
+    "tags": [
+      "Agents",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Read the EmbeddingGemma 2 technical report.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/",
+    "source": "Google",
+    "date": "2026-11-17",
+    "tags": [
+      "Product Launch",
+      "Developer Tools"
     ]
   },
   {
@@ -1320,35 +1397,6 @@
     "date": "2026-10-21",
     "tags": [
       "Product Launch",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-    "url": "https://openai.com/index/ted-taylor-restaurant",
-    "source": "OpenAI",
-    "date": "2026-10-20",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-    "url": "https://openai.com/index/terminal-x",
-    "source": "OpenAI",
-    "date": "2026-10-20",
-    "tags": [
-      "Case Study",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "OpenAI acquires Orchestra Bio",
-    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-    "source": "OpenAI",
-    "date": "2026-10-20",
-    "tags": [
       "Enterprise"
     ]
   }
