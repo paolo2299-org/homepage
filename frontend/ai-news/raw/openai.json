@@ -1,5 +1,35 @@
 [
   {
+    "title": "How OpenAI\u2019s Performance Factory keeps ChatGPT fast",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "source": "OpenAI",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Deploying Daybreak Red",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "source": "OpenAI",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "See PR scans in action",
+    "url": "https://openai.com/business/learn/pr-scans-demo",
+    "source": "OpenAI",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Explore the Codex Security Plugin",
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "source": "OpenAI",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Get started with Daybreak Blue",
+    "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "source": "OpenAI",
+    "date": "2026-11-19"
+  },
+  {
     "title": "The Silent Consensus",
     "url": "https://openai.com/index/the-silent-consensus",
     "source": "OpenAI",
@@ -30,14 +60,14 @@
     "date": "2026-11-18"
   },
   {
-    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "title": "Advancing chip design with OpenAI models",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
     "source": "OpenAI",
     "date": "2026-11-18"
   },
   {
-    "title": "Advancing chip design with OpenAI models",
-    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
     "source": "OpenAI",
     "date": "2026-11-18"
   },
@@ -60,14 +90,14 @@
     "date": "2026-11-17"
   },
   {
-    "title": "Astra for Law leads in legal intelligence",
-    "url": "https://openai.com/index/astra-law-6-2",
+    "title": "Introducing OpenAI for Chile",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
     "source": "OpenAI",
     "date": "2026-11-17"
   },
   {
-    "title": "Introducing OpenAI for Chile",
-    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "title": "Astra for Law leads in legal intelligence",
+    "url": "https://openai.com/index/astra-law-6-2",
     "source": "OpenAI",
     "date": "2026-11-17"
   },
@@ -390,14 +420,14 @@
     "date": "2026-11-02"
   },
   {
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
   {
-    "title": "Rewarding defenders with bigger bug bounties",
-    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
@@ -408,14 +438,14 @@
     "date": "2026-11-02"
   },
   {
-    "title": "Qodo builds context into AI code review with Codex",
-    "url": "https://openai.com/index/qodo-codex-plugin",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
   {
-    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "title": "Qodo builds context into AI code review with Codex",
+    "url": "https://openai.com/index/qodo-codex-plugin",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
@@ -606,38 +636,8 @@
     "date": "2026-10-21"
   },
   {
-    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "source": "OpenAI",
-    "date": "2026-10-21"
-  },
-  {
     "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
     "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-    "source": "OpenAI",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Using thousands of AI agents to uncover new leads in biological data",
-    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-    "source": "OpenAI",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-    "url": "https://openai.com/index/cloudflare-cyber",
-    "source": "OpenAI",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "How we built ChatGPT\u2019s novel ad stack for user trust and relevance",
-    "url": "https://openai.com/index/building-chatgpt-ad-stack",
-    "source": "OpenAI",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-    "url": "https://openai.com/index/empowering-cyber-defenders",
     "source": "OpenAI",
     "date": "2026-10-21"
   }
