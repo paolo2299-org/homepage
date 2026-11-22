@@ -1,5 +1,33 @@
 [
   {
+    "title": "Combatting adversarial distillation",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "source": "OpenAI",
+    "date": "2026-11-20",
+    "tags": [
+      "Opinion"
+    ]
+  },
+  {
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "source": "OpenAI",
+    "date": "2026-11-20",
+    "tags": [
+      "Case Study",
+      "Enterprise"
+    ]
+  },
+  {
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "url": "https://openai.com/index/introducing-medchembench",
+    "source": "OpenAI",
+    "date": "2026-11-20",
+    "tags": [
+      "Product Launch"
+    ]
+  },
+  {
     "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
     "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
     "source": "OpenAI",
@@ -43,6 +71,26 @@
     "date": "2026-11-19",
     "tags": [
       "Enterprise",
+      "Developer Tools"
+    ]
+  },
+  {
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "source": "Google",
+    "date": "2026-11-19",
+    "tags": [
+      "Developer Tools",
+      "Agents"
+    ]
+  },
+  {
+    "title": "Genie 4 is now available on the Gemini API.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+    "source": "Google",
+    "date": "2026-11-19",
+    "tags": [
+      "Product Launch",
       "Developer Tools"
     ]
   },
@@ -1281,56 +1329,6 @@
     "tags": [
       "Agents",
       "Opinion"
-    ]
-  },
-  {
-    "title": "The full Claude Platform, available on Google Cloud",
-    "url": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
-    "source": "Claude",
-    "date": "2026-10-22",
-    "tags": [
-      "Product Launch",
-      "Enterprise"
-    ]
-  },
-  {
-    "title": "Building agents: When to fold subagents into your main agent loop",
-    "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
-    "source": "Claude",
-    "date": "2026-10-22",
-    "tags": [
-      "Agents",
-      "Developer Tools"
-    ]
-  },
-  {
-    "title": "Build more responsive apps with the Decisions API",
-    "url": "https://openai.com/index/decisions-api",
-    "source": "OpenAI",
-    "date": "2026-10-22",
-    "tags": [
-      "Developer Tools",
-      "Product Launch"
-    ]
-  },
-  {
-    "title": "What FDE means at OpenAI",
-    "url": "https://openai.com/index/forward-deployed-engineering-means",
-    "source": "OpenAI",
-    "date": "2026-10-22",
-    "tags": [
-      "Enterprise",
-      "Opinion"
-    ]
-  },
-  {
-    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-    "source": "OpenAI",
-    "date": "2026-10-22",
-    "tags": [
-      "Case Study",
-      "Enterprise"
     ]
   }
 ]
