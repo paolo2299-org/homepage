@@ -50,7 +50,7 @@ Models
 
 [Download apps](https://claude.com/download)
 
-[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.729fbb24-13f2-437b-a6e8-010728d33d63/login)
+[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.174cc43b-9d7e-4add-bf2f-624611d6870a/login)
 
 Developers
 
@@ -58,6 +58,7 @@ Build with
 
 *   [Claude Code](https://claude.com/product/claude-code)
 *   [Claude Platform](https://claude.com/platform/api)
+*   [Claude Ship](https://claude.com/product/claude-ship)
 *   [Code Review](https://claude.com/product/code-review)
 *   [Managed Agents](https://claude.com/platform/claude-managed-agents)
 
@@ -78,6 +79,7 @@ Enterprise
 *   [Overview](https://claude.com/solutions/enterprise)
 *   [Claude Code for Enterprise](https://claude.com/product/claude-code/enterprise)
 *   [Claude Platform](https://claude.com/platform/api)
+*   [Claude Ship](https://claude.com/product/claude-ship)
 
 Use Cases
 
@@ -101,6 +103,7 @@ Industries
 *   [Higher education](https://claude.com/solutions/education)
 *   [K-12 teachers](https://claude.com/solutions/teachers)
 *   [Life sciences](https://claude.com/solutions/life-sciences)
+*   [Manufacturing](https://claude.com/solutions/manufacturing)
 *   [Nonprofits](https://claude.com/solutions/nonprofits)
 
 [Browse marketplace](https://claude.com/marketplace)
@@ -137,9 +140,9 @@ Pricing
 *   [Overview](https://claude.com/pricing)
 *   [API](https://claude.com/pricing#api)
 
-[Login](https://claude.ai/redirect/claudedotcom.v1.729fbb24-13f2-437b-a6e8-010728d33d63/login)
+[Login](https://claude.ai/redirect/claudedotcom.v1.174cc43b-9d7e-4add-bf2f-624611d6870a/login)
 
-[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.729fbb24-13f2-437b-a6e8-010728d33d63)
+[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.174cc43b-9d7e-4add-bf2f-624611d6870a)
 
 Claude Resources
 
@@ -178,7 +181,7 @@ News, announcements, and stories from Anthropic about Claude and the people buil
 
 [Article Oct 21, 2026 ### Introducing Claude Duet A research preview is available by waitlist today, starting with US Pro, Max, and Ultra subscribers. ![Image 1](https://assets.claude.com/9273e22b909074c1c2d42ca3514a239623f8af40.svg)](https://claude.com/resources/articles/claude-duet)
 
-[Article Nov 17, 2026 ### Linked billing on the Claude Platform Claude Platform](https://claude.com/resources/articles/linked-billing-on-claude-platform)
+[Article Nov 23, 2026 ### KPMG's Todd Lohr on AI when your data is also your clients' data Todd Lohr, KPMG US Vice Chair and Head of Client Technology & Innovation, on adopting frontier AI and building safeguards at the same time, and what that means for a firm that holds its clients' most sensitive data. Claude Enterprise](https://claude.com/resources/articles/kpmg-todd-lohr-on-ai-when-your-data-is-also-your-clients-data)
 
 [Article Nov 10, 2026 ### Your apps can now open in Claude, and Claude can work in them Our partners can now embed their apps directly in Claude, so you and Claude can work in the same tool, on the same screen, without switching tabs. Claude apps MCP](https://claude.com/resources/articles/interactive-connectors-full-tool)
 
@@ -186,9 +189,9 @@ Featured resource 1 of 5: Your apps can now open in Claude, and Claude can work 
 
 Advanced filters
 
-Showing 11 of 323 resources
+Showing 11 of 328 resources
 
-[Article Nov 17, 2026 ### Linked billing on the Claude Platform Claude Platform](https://claude.com/resources/articles/linked-billing-on-claude-platform)[Article Nov 17, 2026 ### Using a "chaos loop" to harden the Claude Docs launch: 60 server errors across billions of requests How Claude spent two weeks load testing a staging cluster, breaking the Claude Docs service on purpose and fixing what fell over before launch, and what made the service legible enough for Claude to close the loop. Claude Code Claude apps (opens in new tab)](https://claude.dev/blog/chaos-loop-claude-docs-launch/)[Article Nov 16, 2026 ### How the Claude Code team thinks about verification How end-to-end, property and differential tests let coding agents verify their work with evidence, and what the Claude Code team does to keep its verifiers honest. Claude Code (opens in new tab)](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)[Article Nov 13, 2026 ### Building always-on agents Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Claude Platform](https://claude.com/resources/articles/building-always-on-agents)[Article Nov 13, 2026 ### The Claude Tag guide for startups How leading startups use Claude Tag to ship faster and scale operations Claude Tag](https://claude.com/resources/articles/claude-tag-guide-for-startups)[Article Nov 12, 2026 ### Operate Claude Managed Agents inside your security perimeter Introducing self-hosted Claude Managed Agents. Now you can run agents in your own environment, whether that’s in your own cloud or on-premise. You host the agents, credentials, and session history, and choose where requests to Claude are sent. Claude Platform Claude Managed Agents](https://claude.com/resources/articles/self-hosted-claude-managed-agents)[Article Nov 12, 2026 ### J. Crew brings its signature approach to styling to life with Claude J.Crew's new Style Advisor uses Claude to offer a more personalized way to shop online, with complete looks instead of individual products. Claude Code](https://claude.com/resources/articles/j-crew-style-advisor-with-claude)[Article Nov 12, 2026 ### Introducing Claude for Manufacturing A new plugin with 17 skills and four connectors helps manufacturers draft quotes, quality reports, and supplier requests from the systems they already run.](https://claude.com/resources/articles/claude-for-manufacturing)[Article Nov 12, 2026 ### Introducing Claude Meetings Add Claude to your video call and get the work started while you talk](https://claude.com/resources/articles/claude-meetings)[Article Nov 12, 2026 ### Using Claude Opus 5.5 as your daily driver for knowledge work Opus 5.5 is the default model in Claude on Pro, Max, Ultra, and Team plans. Here's how it compares with our other models, and how to get the most from it for knowledge work.](https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work)[Article Nov 10, 2026 ### Your apps can now open in Claude, and Claude can work in them Our partners can now embed their apps directly in Claude, so you and Claude can work in the same tool, on the same screen, without switching tabs. Claude apps MCP](https://claude.com/resources/articles/interactive-connectors-full-tool)
+[Article Nov 23, 2026 ### KPMG's Todd Lohr on AI when your data is also your clients' data Todd Lohr, KPMG US Vice Chair and Head of Client Technology & Innovation, on adopting frontier AI and building safeguards at the same time, and what that means for a firm that holds its clients' most sensitive data. Claude Enterprise](https://claude.com/resources/articles/kpmg-todd-lohr-on-ai-when-your-data-is-also-your-clients-data)[Article Nov 23, 2026 ### Zero data retention with Enterprise Frontier Safeguards is now in beta Claude Platform](https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards)[Article Nov 23, 2026 ### The enterprise guide to securing coding agents How security and technical leaders can understand and bound risk as they scale Claude Code Claude Code](https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents)[Article Nov 23, 2026 ### Introducing Claude Ship Open a pull request and get back to building. Claude can now review pull requests, fix them, and approve the ones that a team's policy allows.](https://claude.com/resources/articles/introducing-claude-ship)[Article Nov 17, 2026 ### Linked billing on the Claude Platform Claude Platform](https://claude.com/resources/articles/linked-billing-on-claude-platform)[Article Nov 17, 2026 ### Using a "chaos loop" to harden the Claude Docs launch: 60 server errors across billions of requests How Claude spent two weeks load testing a staging cluster, breaking the Claude Docs service on purpose and fixing what fell over before launch, and what made the service legible enough for Claude to close the loop. Claude Code Claude apps (opens in new tab)](https://claude.dev/blog/chaos-loop-claude-docs-launch/)[Article Nov 16, 2026 ### How the Claude Code team thinks about verification How end-to-end, property and differential tests let coding agents verify their work with evidence, and what the Claude Code team does to keep its verifiers honest. Claude Code (opens in new tab)](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)[Article Nov 13, 2026 ### Building strong safety evaluations Recommendations for designing, running, and reporting safety evaluations, based on our own experiences. (opens in new tab)](https://www.anthropic.com/research/building-strong-safety-evaluations)[Article Nov 13, 2026 ### Building always-on agents Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Claude Platform](https://claude.com/resources/articles/building-always-on-agents)[Article Nov 13, 2026 ### The Claude Tag guide for startups How leading startups use Claude Tag to ship faster and scale operations Claude Tag](https://claude.com/resources/articles/claude-tag-guide-for-startups)[Article Nov 12, 2026 ### Operate Claude Managed Agents inside your security perimeter Introducing self-hosted Claude Managed Agents. Now you can run agents in your own environment, whether that’s in your own cloud or on-premise. You host the agents, credentials, and session history, and choose where requests to Claude are sent. Claude Platform Claude Managed Agents](https://claude.com/resources/articles/self-hosted-claude-managed-agents)
 
 View more
 
@@ -205,10 +208,11 @@ View more
 *   [Claude Tag](https://claude.com/product/tag)
 *   [Claude Science](https://claude.com/product/claude-science)
 *   [Claude Security](https://claude.com/product/claude-security)
+*   [Claude Ship](https://claude.com/product/claude-ship)
 *   [Code Review](https://claude.com/product/code-review)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.729fbb24-13f2-437b-a6e8-010728d33d63/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.174cc43b-9d7e-4add-bf2f-624611d6870a/login)
 
 ## Capabilities
 
@@ -252,6 +256,7 @@ View more
 *   [Higher education](https://claude.com/solutions/education)
 *   [K-12 teachers](https://claude.com/solutions/teachers)
 *   [Life sciences](https://claude.com/solutions/life-sciences)
+*   [Manufacturing](https://claude.com/solutions/manufacturing)
 *   [Nonprofits](https://claude.com/solutions/nonprofits)
 *   [Small business](https://claude.com/solutions/small-business)
 
@@ -332,10 +337,11 @@ View more
 *   [Claude Tag](https://claude.com/product/tag)
 *   [Claude Science](https://claude.com/product/claude-science)
 *   [Claude Security](https://claude.com/product/claude-security)
+*   [Claude Ship](https://claude.com/product/claude-ship)
 *   [Code Review](https://claude.com/product/code-review)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/redirect/claudedotcom.v1.729fbb24-13f2-437b-a6e8-010728d33d63/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.174cc43b-9d7e-4add-bf2f-624611d6870a/login)
 
 ## Capabilities
 
@@ -379,6 +385,7 @@ View more
 *   [Higher education](https://claude.com/solutions/education)
 *   [K-12 teachers](https://claude.com/solutions/teachers)
 *   [Life sciences](https://claude.com/solutions/life-sciences)
+*   [Manufacturing](https://claude.com/solutions/manufacturing)
 *   [Nonprofits](https://claude.com/solutions/nonprofits)
 *   [Small business](https://claude.com/solutions/small-business)
 
