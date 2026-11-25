@@ -1,5 +1,35 @@
 [
   {
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "source": "OpenAI",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "Searching for distant planets with Astra",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "source": "OpenAI",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "How Intentful uses dots to make more time for growth",
+    "url": "https://openai.com/business/customer-stories/intentful-dots",
+    "source": "OpenAI",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "url": "https://openai.com/business/customer-stories/ifood",
+    "source": "OpenAI",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "source": "OpenAI",
+    "date": "2026-11-24"
+  },
+  {
     "title": "OpenAI and Cisco introduce Shirudo",
     "url": "https://openai.com/index/introducing-shirudo",
     "source": "OpenAI",
@@ -54,8 +84,8 @@
     "date": "2026-11-19"
   },
   {
-    "title": "Get started with Daybreak Blue",
-    "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "title": "Deploying Daybreak Red",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
     "source": "OpenAI",
     "date": "2026-11-19"
   },
@@ -66,8 +96,8 @@
     "date": "2026-11-19"
   },
   {
-    "title": "Deploying Daybreak Red",
-    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "title": "Get started with Daybreak Blue",
+    "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
     "source": "OpenAI",
     "date": "2026-11-19"
   },
@@ -78,14 +108,14 @@
     "date": "2026-11-18"
   },
   {
-    "title": "Research acceleration: The jagged frontier",
-    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
+    "url": "https://openai.com/business/customer-stories/sumitomo-life",
     "source": "OpenAI",
     "date": "2026-11-18"
   },
   {
-    "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
-    "url": "https://openai.com/business/customer-stories/sumitomo-life",
+    "title": "Research acceleration: The jagged frontier",
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
     "source": "OpenAI",
     "date": "2026-11-18"
   },
@@ -132,14 +162,14 @@
     "date": "2026-11-17"
   },
   {
-    "title": "Astra for Law leads in legal intelligence",
-    "url": "https://openai.com/index/astra-law-6-2",
+    "title": "Introducing OpenAI for Chile",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
     "source": "OpenAI",
     "date": "2026-11-17"
   },
   {
-    "title": "Introducing OpenAI for Chile",
-    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "title": "Astra for Law leads in legal intelligence",
+    "url": "https://openai.com/index/astra-law-6-2",
     "source": "OpenAI",
     "date": "2026-11-17"
   },
@@ -180,14 +210,14 @@
     "date": "2026-11-16"
   },
   {
-    "title": "More ways to move care forward with ChatGPT for Healthcare",
-    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
     "source": "OpenAI",
     "date": "2026-11-16"
   },
   {
-    "title": "Advancing computer-use agents for healthcare teams",
-    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
     "source": "OpenAI",
     "date": "2026-11-16"
   },
@@ -462,14 +492,14 @@
     "date": "2026-11-02"
   },
   {
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
   {
-    "title": "Rewarding defenders with bigger bug bounties",
-    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
@@ -480,14 +510,14 @@
     "date": "2026-11-02"
   },
   {
-    "title": "Qodo builds context into AI code review with Codex",
-    "url": "https://openai.com/index/qodo-codex-plugin",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
   {
-    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "title": "Qodo builds context into AI code review with Codex",
+    "url": "https://openai.com/index/qodo-codex-plugin",
     "source": "OpenAI",
     "date": "2026-11-02"
   },
@@ -596,24 +626,6 @@
   {
     "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
     "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-    "source": "OpenAI",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "ChatGPT\u2019s expanding world of work",
-    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-    "source": "OpenAI",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "How Fanatics and OpenAI streamline the fan experience",
-    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-    "source": "OpenAI",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-    "url": "https://openai.com/index/openai-cut-incident-investigation",
     "source": "OpenAI",
     "date": "2026-10-26"
   }
