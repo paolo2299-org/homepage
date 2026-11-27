@@ -50,7 +50,7 @@ Models
 
 [Download apps](https://claude.com/download)
 
-[Login (opens in new tab)](https://claude.ai/login)
+[Login (opens in new tab)](https://claude.ai/redirect/claudedotcom.v1.565d1cfe-a41f-454f-9b30-5631bcd93d7b/login)
 
 Developers
 
@@ -140,9 +140,9 @@ Pricing
 *   [Overview](https://claude.com/pricing)
 *   [API](https://claude.com/pricing#api)
 
-[Login](https://claude.ai/login)
+[Login](https://claude.ai/redirect/claudedotcom.v1.565d1cfe-a41f-454f-9b30-5631bcd93d7b/login)
 
-[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/)
+[Contact sales](https://claude.com/contact-sales)[Try Claude](https://claude.ai/redirect/claudedotcom.v1.565d1cfe-a41f-454f-9b30-5631bcd93d7b)
 
 Claude Resources
 
@@ -175,6 +175,16 @@ News, announcements, and stories from Anthropic about Claude and the people buil
 
 [Article Nov 10, 2026 ### Your apps can now open in Claude, and Claude can work in them Our partners can now embed their apps directly in Claude, so you and Claude can work in the same tool, on the same screen, without switching tabs. Claude apps MCP](https://claude.com/resources/articles/interactive-connectors-full-tool)
 
+[Article Nov 10, 2026 ### Introducing Claude Whiteboards, Claude Sheets, and Claude Data Now you can brainstorm on whiteboards, build sheets, and share data directly in Claude. Claude apps](https://claude.com/resources/articles/sheets-whiteboards-data)
+
+[Article Oct 22, 2026 ### Building agents: When to fold subagents into your main agent loop When building agents in Claude Platform, using fewer subagents in favor of progressively disclosed context and tools can improve quality while reducing cost and latency. Here’s when and how to migrate. Claude Platform](https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop)
+
+[Article Oct 21, 2026 ### Introducing Claude Duet A research preview is available by waitlist today, starting with US Pro, Max, and Ultra subscribers. ![Image 1](https://assets.claude.com/9273e22b909074c1c2d42ca3514a239623f8af40.svg)](https://claude.com/resources/articles/claude-duet)
+
+[Article Nov 24, 2026 ### Turn artifacts into Mac and Windows apps Open the artifacts you use every day like any other app, and let them do more on your computer Claude apps](https://claude.com/resources/articles/install-as-app)
+
+[Article Nov 10, 2026 ### Your apps can now open in Claude, and Claude can work in them Our partners can now embed their apps directly in Claude, so you and Claude can work in the same tool, on the same screen, without switching tabs. Claude apps MCP](https://claude.com/resources/articles/interactive-connectors-full-tool)
+
 Featured resource 1 of 5: Your apps can now open in Claude, and Claude can work in them
 
 Advanced filters
@@ -202,7 +212,7 @@ View more
 *   [Code Review](https://claude.com/product/code-review)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.565d1cfe-a41f-454f-9b30-5631bcd93d7b/login)
 
 ## Capabilities
 
@@ -331,7 +341,7 @@ View more
 *   [Code Review](https://claude.com/product/code-review)
 *   [Download app](https://claude.com/download)
 *   [Pricing](https://claude.com/pricing)
-*   [Log in](https://claude.ai/login)
+*   [Log in](https://claude.ai/redirect/claudedotcom.v1.565d1cfe-a41f-454f-9b30-5631bcd93d7b/login)
 
 ## Capabilities
 
